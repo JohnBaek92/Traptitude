@@ -6,11 +6,6 @@
     session_token: "1498dh2ks82ssfk3"
     }
   }
-  story {
-    id: 1
-    title: "great title",
-    author: "the journalist"
-  }
   album {
     1: {
       id: 1,

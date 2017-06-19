@@ -6,8 +6,6 @@
 **HomeContainer**
   - AlbumIndex
    * AlbumIndexItem
-  - StoryIndex
-   * StoryItem
 
 **AlbumsIndexContainer**
   - AlbumIndex
