@@ -9,3 +9,4 @@ Features:
   //bonus
   -Search
   -Community Message Board
+  -User Stats
