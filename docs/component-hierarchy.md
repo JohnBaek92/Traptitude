@@ -1,44 +1,54 @@
-AuthFormContainer
-  -AuthForm
+## Component Hierarchy
 
-HomeContainer
-  -TrackIndex
-  -TrackItem
+**AuthFormContainer**
+  - AuthForm
 
-AddTrackContainer
-  -TrackForm
+**HomeContainer**
+  - AlbumIndex
+   * AlbumIndexItem
+  - StoryIndex
+   * StoryItem
 
-TracksContainer
-  -TrackIndex
-  -TrackItem
+**AlbumsIndexContainer**
+  - AlbumIndex
+   * AlbumIndexItem
 
-ShowTrackContainer
-  -TrackIndex
-  -TrackDetail
-  -AnnotationItem
-  -AnnotationForm
-  -CommentForm
-  -CommentIndex
-  -CommentItem
+**AlbumDetailContainer**
+  - AlbumDetail
+  - TrackIndex
+   * TrackItem
+  - TrackForm
 
-MessageBoardContainer
-  -CommentIndex
-  -CommentItem
-  -CommentForm
+**TrackContainer**
+  - TrackDetail
+  - Annotation
+  - AnnotationForm
+  - CommentIndex
+   * CommentItem
+  - CommentForm
 
-UserStatsContainer
-  -CommentIndex
-  -CommentItem
-  -TrackIndex
-  -TrackItem
+**ForumContainer**
+  - CommentIndex
+   * CommentItem
+  - CommentForm
 
-Path	               Component
-"/sign-in"	         "AuthFormContainer"
-"/sign-up"	         "AuthFormContainer"
-"/home"	             "HomeContainer"
-"/add-track"	       "AddTrackContainer"
-"/latest-tracks"	   "TracksContainer"
-"/top-tracks"	       "TracksContainer"
-"/track/:trackId"	   "ShowTrackContainer"
-"/message-board"	   "MessageBoardContainer"
-"/user/:userId"	     "UserStatsContainer"
+**UserStatsContainer**
+  - TrackIndex
+   * TrackItem
+  - CommentIndex
+   * CommentItem
+  - AnnotationIndex
+   * AnnotationItem
+
+
+## Routes
+|Path   |   Component   |
+|-------|---------------|
+|"/" | "HomeContainer" |
+|"/sign-up" | "AuthFormContainer" |
+|"/sign-in" | "AuthFormContainer" |
+|"/user/:userId" | "UserStatsContainer" |
+|"/albums" | "AlbumsIndexContainer"
+|"/albums/:albumId" | "AlbumDetailContainer" |
+|"/albums/:albumId/:trackId" | "TrackContainer" |
+|"/forums" | "ForumContainer" |
