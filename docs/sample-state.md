@@ -12,34 +12,38 @@
     createTrack: {errors: ["All fields except for "Album Art" must contain information"]}
   }
 
+  topic: {
+    1: {
+      title: "good stuff"
+    }
+  }
+
   comments: {
     1: {
       body: "whoaa, sick track",
       user_id: 1,
       track_id: 1,
-      board_comment_id: null
+      topic_id: null,
     }
 
     2: {
       body: "thoughts on Justin Bieber?",
       user_id: 2,
       track_id: null,
-      board_comment_id: null
+      topic_id: null,
     }
     3: {
       body: "he's all right",
       user_id: 3,
       track_id: null,
-      board_comment_id: 2
-
-      // board_comment connects comment 3 to // comment 2
+      topic_id: 1,
     }
   }
 
   albums: {
     1: {
       title: "wowzers",
-      musician_id: 1,
+      musician: 1,
       album_art_url: "google.com/123",
       release_year: "2017"
     }
@@ -56,9 +60,13 @@
     }
   }
 
-  musician: {
+  annotations: {
     1: {
-      name: "Supa Hot"
+      user_id: 1,
+      track_id: 1,
+      start_idx: 3,
+      end_idx: 10,
+      body: "he's talking about the lion king",
     }
   }
 }

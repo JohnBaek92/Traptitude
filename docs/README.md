@@ -10,3 +10,24 @@ Features:
   -Search
   -Community Message Board
   -User Stats
+
+
+Implementation Timeline
+1-2 days for BackEnd Auth
+
+2 days for tracks
+  -routes should be working correctly
+
+1 day for both upvotes and comments  
+  -routes should be working correctly
+
+1 day for annotations
+  -should be able to highlight lyrics to annotate correctly
+
+1 day for search
+  -the search function should resemble what i have in the wireframe
+
+1 day for user stats and the message board   
+
+1 day for css styling
+  -all pages should resemble wireframes

@@ -6,7 +6,7 @@ HomeContainer
   -TrackItem
 
 AddTrackContainer
-  -Create Track Form
+  -TrackForm
 
 TracksContainer
   -TrackIndex
@@ -32,13 +32,13 @@ UserStatsContainer
   -TrackIndex
   -TrackItem
 
-  Path	               Component
-  "/sign-in"	         "AuthFormContainer"
-  "/sign-up"	         "AuthFormContainer"
-  "/home"	             "HomeContainer"
-  "/add-track"	       "AddTrackContainer"
-  "/latest-tracks"	   "TracksContainer"
-  "/top-tracks"	       "TracksContainer"
-  "/track/:trackId"	   "ShowTrackContainer"
-  "/message-board"	   "MessageBoardContainer"
-  "/user/:userId"	     "UserStatsContainer"
+Path	               Component
+"/sign-in"	         "AuthFormContainer"
+"/sign-up"	         "AuthFormContainer"
+"/home"	             "HomeContainer"
+"/add-track"	       "AddTrackContainer"
+"/latest-tracks"	   "TracksContainer"
+"/top-tracks"	       "TracksContainer"
+"/track/:trackId"	   "ShowTrackContainer"
+"/message-board"	   "MessageBoardContainer"
+"/user/:userId"	     "UserStatsContainer"
