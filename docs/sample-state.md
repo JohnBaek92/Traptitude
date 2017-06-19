@@ -1,72 +1,75 @@
 {
-  currentUser: {
+  session: {
+    currentUser: {
     id: 1,
-    username: "Testing"
-  }
-
-  forms: {
-    signUp: {errors: []},
-    logIn: {errors: []},
-    createAnnotation: {errors: "Form can't be blank"},
-    createComment: {errors: "Body can't be blank"},
-    createTrack: {errors: ["All fields except for "Album Art" must contain information"]}
-  }
-
-  topic: {
-    1: {
-      title: "good stuff"
+    username: "reallycoolusername",
+    session_token: "1498dh2ks82ssfk3"
     }
   }
-
-  comments: {
+  story {
+    id: 1
+    title: "great title",
+    author: "the journalist"
+  }
+  album {
     1: {
-      body: "whoaa, sick track",
+      id: 1,
+      title: "Gret Album",
+      release_date: 2013, September, 22,
+      musician: "Kirby",
+      image_url: "google.com/123",
+      tracks: {
+        1: {
+          id: 1,
+          title: "the first track",
+          features: "Mario",
+          producer: "Princess Peach"
+        }
+        2: {
+          id: 2,
+          title: "the second one",
+          features: "Luigi",
+          producer: "Wario"
+        }
+      }
+    }
+  }
+  track {
+    1: {
+      id: 1,
+      album_id: 1
+      title: "the first track",
+      musician: "Kirby",
+      features: "Mario",
+      producer: "Princess Peach",
+      lyrics: {
+        `[Toad]
+        Bowser tried to ruin our party,
+        he really did, he really did,
+        Bowser tried to ruin our party`
+      },
+      annotations: {
+        1: {
+          indices: [11, 20],
+          body: "Bowser tried to ruin our party",
+          comments: []
+        }
+      },
+      comments {
+        1: {
+          user_id: 1,
+          body: "really great stuff"
+        }
+      }
+    }
+  }
+  comment {
+    1: {
       user_id: 1,
-      track_id: 1,
-      topic_id: null,
-    }
-
-    2: {
-      body: "thoughts on Justin Bieber?",
-      user_id: 2,
-      track_id: null,
-      topic_id: null,
-    }
-    3: {
-      body: "he's all right",
-      user_id: 3,
-      track_id: null,
-      topic_id: 1,
-    }
-  }
-
-  albums: {
-    1: {
-      title: "wowzers",
-      musician: 1,
-      album_art_url: "google.com/123",
-      release_year: "2017"
-    }
-  }
-
-  tracks: {
-    1: {
-      title: "really good",
-      album_id: 1,
-      lyrics: "Dropping that fiyah",
-      annotations: "It really is hot",
-      producer: "Dat Guy",
-      features: "Dat Gal"
-    }
-  }
-
-  annotations: {
-    1: {
-      user_id: 1,
-      track_id: 1,
-      start_idx: 3,
-      end_idx: 10,
-      body: "he's talking about the lion king",
+      body: "really great stuff",
+      parent_comment_id: null,
+      track_id: 1
+      annotation_id: null
     }
   }
 }

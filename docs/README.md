@@ -8,7 +8,7 @@ Traptitude is a full-stack web application inspired by Rap-Genius. Users can ann
 
   //bonus
   - Search
-  - Community Message Board
+  - Forum
   - User Stats
 
 
@@ -33,3 +33,9 @@ Traptitude is a full-stack web application inspired by Rap-Genius. Users can ann
 
   - 1 day for user stats and forum  
     + styled correctly
+
+Trello
+  - https://trello.com/b/8BF7DgvP/traptitude
+
+Heroku
+  - Will Add Soon
