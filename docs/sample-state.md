@@ -65,11 +65,21 @@
   }
   comment {
     1: {
+      id: 1
       user_id: 1,
       body: "really great stuff",
       parent_comment_id: null,
       track_id: 1
       annotation_id: null
+    }
+  }
+  upvotes {
+    1: {
+      id: 1,
+      user_id: 1,
+      comment_id: 1,
+      track_id: null,
+      annotation_id, null
     }
   }
 }

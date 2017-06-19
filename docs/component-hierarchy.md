@@ -47,7 +47,7 @@
 |"/" | "HomeContainer" |
 |"/sign-up" | "AuthFormContainer" |
 |"/sign-in" | "AuthFormContainer" |
-|"/user/:userId" | "UserStatsContainer" |
+|"/users/:userId" | "UserStatsContainer" |
 |"/albums" | "AlbumsIndexContainer"
 |"/albums/:albumId" | "AlbumDetailContainer" |
 |"/albums/:albumId/:trackId" | "TrackContainer" |
