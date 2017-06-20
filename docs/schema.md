@@ -2,10 +2,10 @@
 column name    | data type  | details
 ---------------|------------|-------------------------
 id             |integer     |not null, primary key
-username       |string      |not null, indexed, unique
+username       |string      |indexed, unique
 email          |string      |not null, unique
-password_digest|string      |not null
-session_token  |string      |not null, unique, indexed
+password_digest|string      |
+session_token  |string      |unique, indexed
 
 ## upvotes
 column name    | data type  | details
