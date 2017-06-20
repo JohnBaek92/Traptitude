@@ -1,53 +1,58 @@
   colName            dataType        details
 
-users
-  id                 integer         not null, primary key
-  username           string          not null, indexed, unique
-  email              string          not null, unique
-  password_digest    string          not null
-  session_token      string          not null, unique, indexed
+## users
+column name    | data type  | details
+---------------|------------|-------------------------
+id             |integer     |not null, primary key
+username       |string      |not null, indexed, unique
+email          |string      |not null, unique
+password_digest|string      |not null
+session_token  |string      |not null, unique, indexed
 
+## upvotes
+column name    | data type  | details
+---------------|------------|-------------------------
+id             |integer     |not null, primary key
+user_id        |integer     |not null, foreign key, indexed
+comment_id     |integer     |foreign key, indexed
+track_id       |integer     |foreign key, indexed
+annotation_id  |integer     |foreign key, indexed
 
+## comments
+column name    | data type  | details
+---------------|------------|-------------------------
+id             |integer     |not null, primary key
+user_id        |integer     |not null, foreign key, indexed
+track_id       |integer     |indexed
+annotation_id  |integer     |indexed
+parent_comment_id|integer   |indexed
+body           |string      |not null
 
-comments
-  id                 integer         not null, primary key
-  user_id            integer         not null, foreign key, indexed
-  track_id           integer         foreign key, indexed
-  topic_id           integer         foreign key, indexed
-  annotation_id      integer         foreign key, indexed
+## albums
+column name    | data type  | details
+---------------|------------|-------------------------
+id             |integer     |not null, primary key
+title          |string      |not null
+release date   |date        |
+musician       |string      |not null
 
+## tracks
+column name    | data type  | details
+---------------|------------|-------------------------
+id             |integer     |not null, primary key
+user_id        |integer     |not null, foreign key, indexed
+album_id       |integer     |not null, foreign key, indexed
+title          |string      |not null
+lyrics         |text        |not null
+features       |string      |
+producer       |string      |
 
-topic
-  id                 integer         not null, primary key
-  title              string          not null
-
-
-albums
-  id                 integer         not null, primary key
-  title              string          not null,
-  release_year       integer         not null
-  album_art_url      string          
-  musician           string          not null, foreign key, indexed
-
-tracks
-  id                 integer         not null, primary key
-  title              string          not null
-  lyrics             string          not null
-  annotations        string
-  producer           string
-  features           string
-  album_id           integer         not null, foreign key, indexed
-
-annotations
-  id                 integer         not null, primary key
-  body               string          not null        
-  start_idx          integer         not null
-  end_idx            integer         not null
-  track_id           integer         not null, foreign key, indexed
-  user_id            integer         not null, foreign key, indexed
-
-upvotes
-  id                 integer         not null, primary key
-  user_id            integer         not null, foreign key, indexed
-  annotation_id      integer         foreign key, indexed
-  track_id           integer         foreign key, indexed
+## annotations
+column name    | data type  |  details
+---------------|------------|-------------------------
+id             |integer     |not null, primary key
+user_id        |integer     |not null, foreign key, indexed
+track_id       |integer     |not null, foreign key
+start_idx      |integer     |not null
+end_idx        |integer     |not null
+body           |text        |not null

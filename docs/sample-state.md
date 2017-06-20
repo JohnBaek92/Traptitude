@@ -35,7 +35,6 @@
       id: 1,
       album_id: 1
       title: "the first track",
-      musician: "Kirby",
       features: "Mario",
       producer: "Princess Peach",
       lyrics: {
