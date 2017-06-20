@@ -38,4 +38,4 @@ Trello
   - https://trello.com/b/8BF7DgvP/traptitude
 
 Heroku
-  - Will Add Soon
+  - https://traptitude.herokuapp.com/#/
