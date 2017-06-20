@@ -1,5 +1,3 @@
-  colName            dataType        details
-
 ## users
 column name    | data type  | details
 ---------------|------------|-------------------------
