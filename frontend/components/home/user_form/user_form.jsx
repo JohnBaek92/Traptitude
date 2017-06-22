@@ -47,7 +47,7 @@ class UserForm extends React.Component {
         <div>
           <input type="text"
             value={this.state.email}
-            placeholder="Email"
+            placeholder="  Email"
             onChange={this.update('email')}
             className="email-input"/>
         </div>
@@ -61,14 +61,20 @@ class UserForm extends React.Component {
   createOrLogin() {
     if(this.props.formType === 'signUp') {
       return(
-        <div>
-          Create An Account
-        </div>
+        <section>
+          <div className="create-or-login">
+            Sign Up For Traptitude
+            <hr className="dividing-line" />
+          </div>
+        </section>
       )} else {
         return(
-          <div>
-            Sign In
-          </div>
+          <section>
+            <div className="create-or-login">
+              Sign In To Traptitude
+              <hr className="dividing-line" />
+            </div>
+          </section>
         )
       }
     }
@@ -89,8 +95,8 @@ class UserForm extends React.Component {
     if (this.props.formType === 'signUp') {
       return(
         <div className="sign-up-footer">
-          <input type="submit" value="Submit" />
-          <div className="switch"
+          <input className="submit-button" type="submit" value="Sign Up" />
+          <div className="switch-sign-in"
             onClick={this.props.switchToSignInForm}>
             already have an account? sign in here
           </div>
@@ -99,11 +105,11 @@ class UserForm extends React.Component {
     } else {
       return (
         <div className="sign-in-footer">
-          <input type="submit" value="Submit" />
-          <button onClick={(e) => this.handleGuestLogin(e)}>Guest</button>
-          <div className="switch"
+          <input className="submit-button" type="submit" value="Sign In" />
+          <button className="guest-login" onClick={(e) => this.handleGuestLogin(e)}>Guest</button>
+          <div className="switch-sign-up"
             onClick={this.props.switchToSignUpForm}>
-            create an account
+             create an account
           </div>
         </div>
       )
@@ -113,25 +119,23 @@ class UserForm extends React.Component {
 
   render() {
     return (
-      <div className="user_form_container">
-        <form onSubmit={this.handleSubmit} className="user_form_box">
+      <div className="user-form-container">
+        <form onSubmit={this.handleSubmit} className="user-form-box">
           {this.createOrLogin()}
           {this.renderErrors()}
           <div className="user-form">
               <input type="text"
                 value={this.state.username}
-                placeholder="Username"
+                placeholder="  Username"
                 onChange={this.update('username')}
                 className="username-input"/>
             {this.handleEmail()}
             <input type="password"
               value={this.state.password}
               onChange={this.update('password')}
-              placeholder="Password"
-              className="password_input"/>
-          <br/>
+              placeholder="  Password"
+              className="password-input"/>
             {this.footer()}
-          <br/>
         </div>
       </form>
     </div>

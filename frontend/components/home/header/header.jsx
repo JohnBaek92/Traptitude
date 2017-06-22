@@ -46,7 +46,7 @@ class Header extends React.Component {
           <div className="user-input">
             <button className="username" onClick={ () => this.clearErrorsAndOpenModal(
               <SignInContainer />)}>
-               Sign In
+               Sign In 
             </button>
             <button className="password" onClick={ () => this.clearErrorsAndOpenModal(
               <SignUpContainer />)}>

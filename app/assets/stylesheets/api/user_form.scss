@@ -1,0 +1,79 @@
+.username-input {
+  border: .15rem solid #ccc;
+  width: 99%;
+  text-align: left;
+  position: relative;
+  bottom: 27px;
+  height: 30px;
+  background: white;
+  text-transform: capitalize;
+}
+
+.password-input {
+  border: .15rem solid #ccc;
+  width: 99%;
+  text-align: left;
+  position: relative;
+  bottom: 12px;
+  height: 30px;
+  background: white;
+  text-transform: capitalize;
+}
+
+.create-or-login {
+  color: #99a7ee;
+  position: relative;
+  top: -26px;
+}
+
+.dividing-line {
+  border: 1px solid #99a7ee;
+  position: relative;
+  bottom: 2px;
+}
+
+.email-input {
+  border: .15rem solid #ccc;
+  position: relative;
+  bottom: 20px;
+  width: 99%;
+  height: 30px;
+  background: white;
+  text-transform: capitalize;
+}
+
+.submit-button {
+  border: .1rem solid #000;
+  padding: .25rem .5rem;
+  line-height: 1.4rem;
+}
+
+.guest-login {
+  border: 0.1rem solid #000;
+  padding: .25rem .5rem;
+  line-height: 1.4rem;
+  position: relative;
+  left: 8px;
+}
+
+.switch-sign-up {
+  border-bottom: 2px solid #ccc;
+  width: 51%;
+  text-align: center;
+  position: relative;
+  font-weight: bold;
+  top: 7px;
+  color: #ccc;
+  cursor: pointer;
+}
+
+.switch-sign-in {
+  border-bottom: 2px solid #ccc;
+  width: 103%;
+  text-align: center;
+  position: relative;
+  top: 9px;
+  color: #ccc;
+  font-weight: bold;
+  cursor: pointer;
+}
