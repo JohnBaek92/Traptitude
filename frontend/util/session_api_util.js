@@ -1,8 +1,3 @@
-import {
-  receiveCurrentUser,
-  receiveErrors
-} from '../actions/session_actions';
-
 export const signup = user => (
   $.ajax({
     method: 'POST',
@@ -11,13 +6,13 @@ export const signup = user => (
   })
 );
 
-export const signin = user => (
-  $.ajax({
+export const signin = user => {
+  return ($.ajax({
     method: 'POST',
     url: '/api/session',
     data: user
-  })
-);
+  }));
+};
 
 export const signout = () => (
   $.ajax({

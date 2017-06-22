@@ -1,0 +1,37 @@
+.modal_window {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10000000;
+  background: rgba(0, 0, 0, 0.74);
+  overflow: auto;
+}
+
+.modal_window_content {
+  position: relative;
+  z-index: 10000000000000;
+  text-align: center;
+  width: 430px;
+  max-width: 100%;
+  padding: 50px;
+  margin: 0 auto;
+  background: #e9e9e9;
+  border-radius: 5px;
+  top: -55px;
+}
+
+.username_input {
+  width: 92%;
+  height: 30px;
+}
+
+.password_input {
+  width: 92%;
+  height: 30px;
+}
+
+.user_form_box {
+
+}

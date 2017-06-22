@@ -1,18 +1,16 @@
 import React from 'react';
-import GreetingContainer from './greeting/greeting_container';
 import {Route, Redirect, Switch,
   Link, HashRouter} from 'react-router-dom';
-import SessionFormContainer from './session_form/session_form_container';
+import HeaderContainer from './home/header/header_container';
+import ModalContainer from './home/modal/modal_container';
 
 const App = () => (
   <div>
-      <header>
+      <section>
         <h1>Trappin</h1>
-        <GreetingContainer />
-      </header>
-      
-    <Route path="/sign-up" component={SessionFormContainer} />
-    <Route path="/sign-in" component={SessionFormContainer} />
+        <HeaderContainer/>
+        <ModalContainer/>
+      </section>
   </div>
 );
 
