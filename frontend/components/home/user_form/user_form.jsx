@@ -6,15 +6,23 @@ class UserForm extends React.Component {
     super(props);
     this.state = {
       username: '',
-      password: ''
+      password: '',
+      email: ''
     };
     this.handleSubmit = this.handleSubmit.bind(this);
+    this.handleGuestLogin = this.handleGuestLogin.bind(this);
   }
 
   update(field) {
     return e => this.setState({
       [field]: e.currentTarget.value
     });
+  }
+
+  componentWillReceiveProps(newProps) {
+    if (newProps.formType !== this.props.formType){
+			this.props.clearErrors();
+		}
   }
 
   handleSubmit(e) {
@@ -28,19 +36,42 @@ class UserForm extends React.Component {
     this.setState({username: '', password: ''});
   }
 
-  changeForm(e) {
-    e.preventDefault();
-    if(this.props.formType === 'signIn') {
-      this.props.formType = 'signUp';
-    } else {
-      this.props.formType = 'signIn';
-    }
-  }
-
   handleGuestLogin(e) {
     e.preventDefault();
-    this.props.loginGuest();
+    this.props.loginGuest().then(this.props.closeModal);
   }
+
+  handleEmail() {
+    if(this.props.formType === 'signUp') {
+      return(
+        <div>
+          <input type="text"
+            value={this.state.email}
+            placeholder="Email"
+            onChange={this.update('email')}
+            className="email-input"/>
+        </div>
+      )} else {
+        return(
+          <div></div>
+        )
+      };
+    }
+
+  createOrLogin() {
+    if(this.props.formType === 'signUp') {
+      return(
+        <div>
+          Create An Account
+        </div>
+      )} else {
+        return(
+          <div>
+            Sign In
+          </div>
+        )
+      }
+    }
 
   renderErrors() {
     return(
@@ -54,35 +85,56 @@ class UserForm extends React.Component {
     );
   }
 
+  footer() {
+    if (this.props.formType === 'signUp') {
+      return(
+        <div className="sign-up-footer">
+          <input type="submit" value="Submit" />
+          <div className="switch"
+            onClick={this.props.switchToSignInForm}>
+            already have an account? sign in here
+          </div>
+        </div>
+      )
+    } else {
+      return (
+        <div className="sign-in-footer">
+          <input type="submit" value="Submit" />
+          <button onClick={(e) => this.handleGuestLogin(e)}>Guest</button>
+          <div className="switch"
+            onClick={this.props.switchToSignUpForm}>
+            create an account
+          </div>
+        </div>
+      )
+    }
+
+  }
+
   render() {
     return (
       <div className="user_form_container">
         <form onSubmit={this.handleSubmit} className="user_form_box">
-          Sign In To Traptitude
+          {this.createOrLogin()}
           {this.renderErrors()}
           <div className="user-form">
-            <label>
               <input type="text"
                 value={this.state.username}
                 placeholder="Username"
                 onChange={this.update('username')}
-                className="username_input"/>
-            </label>
-            <br/>
-            <label>
-              <input type="password"
-                value={this.state.password}
-                onChange={this.update('password')}
-                placeholder="Password"
-                className="password_input"/>
-            </label>
-            <br/>
-            <input type="submit" value="Submit" />
-            <br/>
-            // <button onClick={this.changeForm}></button>
-          </div>
-        </form>
-      </div>
+                className="username-input"/>
+            {this.handleEmail()}
+            <input type="password"
+              value={this.state.password}
+              onChange={this.update('password')}
+              placeholder="Password"
+              className="password_input"/>
+          <br/>
+            {this.footer()}
+          <br/>
+        </div>
+      </form>
+    </div>
     );
   }
 }
