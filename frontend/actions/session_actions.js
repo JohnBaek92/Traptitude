@@ -39,3 +39,7 @@ export const signOut = () => dispatch => (
     dispatch(receiveCurrentUser(null))
   ))
 );
+
+export const loginGuest = () => dispatch => (
+  APIUtil.loginGuest().then(guest => dispatch(receiveCurrentUser(guest)))
+);
