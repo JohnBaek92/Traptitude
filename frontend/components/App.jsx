@@ -7,7 +7,6 @@ import ModalContainer from './home/modal/modal_container';
 const App = () => (
   <div>
       <section>
-        <h1>Trappin</h1>
         <HeaderContainer/>
         <ModalContainer/>
       </section>

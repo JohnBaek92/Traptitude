@@ -7,14 +7,6 @@ import {signin, signup} from './util/session_api_util';
 window.signin = signin;
 window.signup = signup;
 
-// document.addEventListener('DOMContentLoaded', () => {
-//   const store = configureStore();
-//   window.getState = store.getState;
-//   window.dispatch = store.dispatch;
-//   const root = document.getElementById('root');
-//   ReactDOM.render(<Root store = {store} />, root);
-// });
-
 document.addEventListener('DOMContentLoaded', () => {
   let store;
   if (window.currentUser) {
@@ -24,8 +16,6 @@ document.addEventListener('DOMContentLoaded', () => {
   } else {
     store = configureStore();
   }
-  window.getState = store.getState;
-  window.dispatch = store.dispatch;
   const root = document.getElementById('root');
   ReactDOM.render(<Root store={store} />, root);
 });

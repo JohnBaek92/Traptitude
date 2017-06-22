@@ -1,4 +1,4 @@
-.modal_window {
+.modal-window {
   position: fixed;
   top: 0;
   left: 0;
@@ -9,7 +9,7 @@
   overflow: auto;
 }
 
-.modal_window_content {
+.modal-content {
   position: relative;
   z-index: 10000000000000;
   text-align: center;

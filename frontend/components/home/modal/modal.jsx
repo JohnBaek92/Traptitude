@@ -9,8 +9,8 @@ class Modal extends React.Component {
     if (this.props.isOpen) {
       return (
         <div>
-          <div className="modal_window" onClick={() => this.props.closeModal()}></div>
-          <div className="modal_window_content">
+          <div className="modal-window" onClick={() => this.props.closeModal()}></div>
+          <div className="modal-content">
             {this.props.component}
           </div>
         </div>

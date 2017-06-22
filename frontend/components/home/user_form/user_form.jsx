@@ -37,6 +37,11 @@ class UserForm extends React.Component {
     }
   }
 
+  handleGuestLogin(e) {
+    e.preventDefault();
+    this.props.loginGuest();
+  }
+
   renderErrors() {
     return(
       <ul>

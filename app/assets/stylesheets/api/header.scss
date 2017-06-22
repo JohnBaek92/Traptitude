@@ -1,0 +1,110 @@
+.nav-bar {
+  display: flex;
+  text-transform: uppercase;
+  justify-content: center;
+  background: black;
+}
+
+.nav-bar a {
+  text-decoration: none;
+  padding: 4px;
+}
+
+#featured-stories {
+  position: relative;
+  color: white;
+  top: 5px;
+  right: 77px;
+}
+
+#top-tracks {
+  position: relative;
+  color: white;
+  top: 5px;
+  right: 56px;
+}
+
+#github-icon {
+  position: relative;
+  color: white;
+  left: 84px;
+}
+
+#linkedin-icon {
+  position: relative;
+  color: white;
+  left: 72px;
+}
+
+#forums {
+  position: relative;
+  color: white;
+  top: 5px;
+  left: 8px;
+}
+
+#add-track {
+  position: relative;
+  color: white;
+  top: 5px;
+  left: 28px;
+}
+
+#first-bar {
+  color: white;
+  position: relative;
+  top: 5px;
+  font-size: 21.5px;
+  right: 21px;
+}
+
+#second-bar {
+  color: white;
+  position: relative;
+  top: 5px;
+  font-size: 21.5px;
+  left: 54px;
+}
+
+.nav-bar-seperator-line {
+  color: white;
+  position: relative;
+  top: 3px;
+  font-size: 27px;
+  font-weight: lighter;
+  right: 21px;
+}
+
+.top-header {
+  padding: 13px 0px 13px;
+  background-color: yellow;
+  display: flex;
+  justify-content: space-between;
+}
+
+.user-input {
+  padding-right: 20px;
+}
+
+.username {
+  position: relative;
+  left: -12px;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+
+.password {
+  cursor: pointer;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+
+.search-bar {
+  display: inline-block;
+}
+
+.logo {
+  display: inline-block;
+  justify-content: center;
+}

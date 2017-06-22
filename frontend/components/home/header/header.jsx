@@ -1,8 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { Link, Redirect } from 'react-router-dom';
 import Modal from '../modal/modal_container';
 import {SignInContainer} from '../user_form/signin_form_container';
 import {SignUpContainer} from '../user_form/signup_form_container';
+import LinkedIN from 'react-icons/lib/ti/social-linkedin';
+import Github from 'react-icons/lib/ti/social-github';
 
 class Header extends React.Component {
   constructor(props){
@@ -24,8 +27,11 @@ class Header extends React.Component {
   signedInHeader() {
     if(this.props.currentUser) {
       return(
-        <section>
-          <button onClick={this.logOutClick}>Sign Out</button>
+        <section className="top-header">
+          <div className="search-bar">Search Bar Goes Here</div>
+          <div className="logo">TRAPTITUDE</div>
+          <button className="user-input">My Stats</button>
+          <button className="user-input" onClick={this.logOutClick}>Sign Out</button>
         </section>
       )
     }
@@ -34,27 +40,48 @@ class Header extends React.Component {
   signedOutHeader(){
     if(!this.props.currentUser){
       return(
-        <section>
-          <button onClick={ () => this.clearErrorsAndOpenModal(
-            <SignUpContainer formType="signUp"/>)}>
-              Sign Up
-          </button>
-          <button onClick={ () => this.clearErrorsAndOpenModal(
-            <SignInContainer formType="signIn"/>)}>
-              Sign In
-          </button>
-
-        </section>
+        <header className="top-header">
+          <div className="search-bar">Search Bar Goes Here</div>
+          <Link className="logo" to="/">TRAPTITUDE</Link>
+          <div className="user-input">
+            <button className="username" onClick={ () => this.clearErrorsAndOpenModal(
+              <SignInContainer formType="signIn"/>)}>
+               Sign In
+            </button>
+            <button className="password" onClick={ () => this.clearErrorsAndOpenModal(
+              <SignUpContainer formType="signUp"/>)}>
+               Sign Up
+            </button>
+          </div>
+        </header>
       )
     }
   }
 
+  navbar() {
+    return(
+      <navbar className="nav-bar">
+        <a id="featured-stories" href="#featured-stories">Featured Stories</a>
+        <a id="top-tracks" href="#top-tracks">Top Tracks</a>
+        <span id="first-bar">|</span>
+        <Link id="forums" to="/forums">Forums</Link>
+        <Link id="add-track" to="/new-track">Add Track</Link>
+        <span id="second-bar">|</span>
+        <a id="linkedin-icon" href="https://www.linkedin.com/in/john-baek-49b6114a/"
+          target="_blank"><LinkedIN size={25} /></a>
+        <a id="github-icon" href="https://github.com/johnbaek92"
+          target="_blank"><Github size={28}  /></a>
+      </navbar>
+    )
+  }
+
   render(){
     return(
-      <header>
+      <section>
         {this.signedOutHeader()}
         {this.signedInHeader()}
-      </header>
+        {this.navbar()}
+      </section>
     )
   }
 };
