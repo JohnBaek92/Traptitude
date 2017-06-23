@@ -14,20 +14,7 @@
       release_date: 2013, September, 22,
       musician: "Kirby",
       image_url: "google.com/123",
-      tracks: {
-        1: {
-          id: 1,
-          title: "the first track",
-          features: "Mario",
-          producer: "Princess Peach"
-        }
-        2: {
-          id: 2,
-          title: "the second one",
-          features: "Luigi",
-          producer: "Wario"
-        }
-      }
+      tracks: [1, 2, 4, 7]
     }
   }
   track {
@@ -43,19 +30,15 @@
         he really did, he really did,
         Bowser tried to ruin our party`
       },
-      annotations: {
-        1: {
-          indices: [11, 20],
-          body: "Bowser tried to ruin our party",
-          comments: []
-        }
-      },
-      comments {
-        1: {
-          user_id: 1,
-          body: "really great stuff"
-        }
-      }
+      annotations: [4, 9],
+      comments: [1, 5, 7]
+    }
+  }
+  annotations {
+    1: {
+      indices: [11, 20],
+      body: "Bowser tried to ruin our party",
+      comments: [2, 3]
     }
   }
   comment {
