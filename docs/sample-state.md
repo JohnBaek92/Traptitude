@@ -10,7 +10,7 @@
   album {
     1: {
       id: 1,
-      title: "Gret Album",
+      title: "Great Album",
       release_date: 2013, September, 22,
       musician: "Kirby",
       image_url: "google.com/123",

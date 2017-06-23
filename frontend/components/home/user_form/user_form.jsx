@@ -45,11 +45,13 @@ class UserForm extends React.Component {
     if(this.props.formType === 'signUp') {
       return(
         <div>
-          <input type="text"
-            value={this.state.email}
-            placeholder="  Email"
-            onChange={this.update('email')}
-            className="email-input"/>
+          <div className="email-input-container">
+            <input type="text"
+              value={this.state.email}
+              placeholder="Email"
+              onChange={this.update('email')}
+              className="email-input"/>
+          </div>
         </div>
       )} else {
         return(
@@ -109,12 +111,11 @@ class UserForm extends React.Component {
           <button className="guest-login" onClick={(e) => this.handleGuestLogin(e)}>Guest</button>
           <div className="switch-sign-up"
             onClick={this.props.switchToSignUpForm}>
-             create an account
+            create an account
           </div>
         </div>
       )
     }
-
   }
 
   render() {
@@ -124,17 +125,21 @@ class UserForm extends React.Component {
           {this.createOrLogin()}
           {this.renderErrors()}
           <div className="user-form">
+            <div className="username-input-container">
               <input type="text"
                 value={this.state.username}
-                placeholder="  Username"
+                placeholder="Username"
                 onChange={this.update('username')}
                 className="username-input"/>
+            </div>
             {this.handleEmail()}
-            <input type="password"
-              value={this.state.password}
-              onChange={this.update('password')}
-              placeholder="  Password"
-              className="password-input"/>
+            <div className="password-input-container">
+              <input type="password"
+                value={this.state.password}
+                onChange={this.update('password')}
+                placeholder="Password"
+                className="password-input"/>
+            </div>
             {this.footer()}
         </div>
       </form>

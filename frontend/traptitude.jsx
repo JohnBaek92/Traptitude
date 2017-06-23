@@ -2,10 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import configureStore from './store/store';
 import Root from './components/root';
-import {signin, signup} from './util/session_api_util';
+import { receiveAlbums } from './util/album_api_util';
 
-window.signin = signin;
-window.signup = signup;
+window.receiveAlbums = receiveAlbums;
 
 document.addEventListener('DOMContentLoaded', () => {
   let store;
