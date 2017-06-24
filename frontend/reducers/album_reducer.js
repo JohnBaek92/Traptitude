@@ -3,7 +3,7 @@ import { RECEIVE_ALBUMS } from '../actions/album_actions';
 
 const _nullAlbum = Object.freeze({});
 
-export default (state = _nullAlbum, action) => {
+const AlbumReducer = (state = _nullAlbum, action) => {
   switch(action.type) {
     case RECEIVE_ALBUMS:
       return merge({}, action.albums);
@@ -11,3 +11,5 @@ export default (state = _nullAlbum, action) => {
       return state;
   }
 };
+
+export default AlbumReducer;

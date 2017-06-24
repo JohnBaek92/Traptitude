@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Link, Redirect } from 'react-router-dom';
-import Modal from '../modal/modal_container';
-import SignInContainer from '../user_form/signin_form_container';
-import SignUpContainer from '../user_form/signup_form_container';
+import Modal from './modal/modal_container';
+import SignInContainer from './user_form/signin_form_container';
+import SignUpContainer from './user_form/signup_form_container';
 import LinkedIN from 'react-icons/lib/ti/social-linkedin';
 import Github from 'react-icons/lib/ti/social-github';
 
@@ -46,7 +46,7 @@ class Header extends React.Component {
           <div className="user-input">
             <button className="username" onClick={ () => this.clearErrorsAndOpenModal(
               <SignInContainer />)}>
-               Sign In 
+               Sign In
             </button>
             <button className="password" onClick={ () => this.clearErrorsAndOpenModal(
               <SignUpContainer />)}>

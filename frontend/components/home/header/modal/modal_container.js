@@ -1,6 +1,6 @@
 import { connect } from 'react-redux';
 import Modal from './modal';
-import { closeModal, receiveComponent } from '../../../actions/modal_actions';
+import { closeModal, receiveComponent } from '../../../../actions/modal_actions';
 
 const mapStateToProps = (state) => {
   return {

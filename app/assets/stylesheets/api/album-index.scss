@@ -1,0 +1,87 @@
+.top-ten-container {
+  position: relative;
+  width: 46%;
+  left: 19%;
+  padding-left: 1rem;
+  padding-top: 2rem;
+  padding-right: 1rem;
+}
+
+.top-ten-musician {
+  list-style: none;
+}
+
+.top-three-content {
+  height: 77px;
+  width: 100%;
+  border-bottom: 1px solid #CCC;
+}
+
+.top-three-count {
+  float: left;
+  font-size: 23px;
+  font-weight: bold;
+  position: relative;
+  text-align: center;
+  width: 4%;
+  border: .13em solid #000;
+  border-radius: 70%;
+  top: 25%;
+  right: -1%;
+}
+
+.top-three-title {
+  list-style: none;
+  position: relative;
+  left: 19%;
+  font-size: 33px;
+  top: 13%;
+}
+
+.top-three-musician {
+  position: relative;
+  left: 25%;
+  top: 5%;
+}
+
+.top-ten-content {
+  height: 50px;
+  width: 100%;
+  border-bottom: 1px solid #CCC;
+}
+
+.top-ten-count {
+  float: left;
+  font-size: 23px;
+  font-weight: bold;
+  position: relative;
+  text-align: center;
+  width: 3%;
+  top: 25%;
+  right: -1.5%;
+}
+
+.top-ten-track-info {
+  position: relative;
+  left: 21%;
+  top: 31%;
+}
+
+.top-one-content {
+  height: 77px;
+  width: 100%;
+  border-top: 3px solid black;
+  border-bottom: 1px solid #CCC;
+}
+
+.top-tracks-header {
+  width: 100%;
+  padding-bottom: 12px;
+}
+
+.eye-top-ten {
+  float: right;
+  position: relative;
+  right: 6%;
+  bottom: 10%;
+}

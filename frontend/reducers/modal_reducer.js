@@ -2,8 +2,8 @@ import {OPEN, CLOSE,
   SWITCH_TO_SIGN_UP_FORM, SWITCH_TO_SIGN_IN_FORM} from '../actions/modal_actions';
 import merge from 'lodash/merge';
 import React from 'react';
-import SignInContainer from '../components/home/user_form/signin_form_container';
-import SignUpContainer from '../components/home/user_form/signup_form_container';
+import SignInContainer from '../components/home/header/user_form/signin_form_container';
+import SignUpContainer from '../components/home/header/user_form/signup_form_container';
 
 const defaultState = {
   isOpen: false,

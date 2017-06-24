@@ -1,7 +1,7 @@
 import { connect } from 'react-redux';
 import UserForm from './user_form';
-import { closeModal, switchToSignInForm } from '../../../actions/modal_actions';
-import { signUp, clearErrors } from '../../../actions/session_actions';
+import { closeModal, switchToSignInForm } from '../../../../actions/modal_actions';
+import { signUp, clearErrors } from '../../../../actions/session_actions';
 
 const mapStateToProps = ({ session }) => {
   return {

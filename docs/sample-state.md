@@ -9,7 +9,6 @@
   }
   album {
     1: {
-      id: 1,
       title: "Great Album",
       release_date: 2013, September, 22,
       musician: "Kirby",
@@ -19,7 +18,6 @@
   }
   track {
     1: {
-      id: 1,
       album_id: 1
       title: "the first track",
       features: "Mario",
@@ -43,7 +41,6 @@
   }
   comment {
     1: {
-      id: 1
       user_id: 1,
       body: "really great stuff",
       parent_comment_id: null,
@@ -53,7 +50,6 @@
   }
   upvotes {
     1: {
-      id: 1,
       user_id: 1,
       comment_id: 1,
       track_id: null,
