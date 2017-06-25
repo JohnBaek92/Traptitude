@@ -1,7 +1,6 @@
 import { connect } from 'react-redux';
 import { displayTopTen } from '../../../actions/album_actions';
-import { allAlbums } from '../../../reducers/selectors';
-import AlbumIndex from './album_index';
+import Index from './index';
 
 const mapStateToProps = (state) => {
   return(
@@ -18,4 +17,4 @@ const mapDispatchToProps = (dispatch) => {
 export default connect(
   mapStateToProps,
   mapDispatchToProps
-)(AlbumIndex);
+)(Index);

@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import configureStore from './store/store';
 import Root from './components/root';
-import { fetchAlbums } from './util/album_api_util';
+import { fetchAlbum } from './util/album_api_util';
 
-window.fetchAlbums = fetchAlbums;
+window.fetchAlbum = fetchAlbum;
 
 document.addEventListener('DOMContentLoaded', () => {
   let store;
