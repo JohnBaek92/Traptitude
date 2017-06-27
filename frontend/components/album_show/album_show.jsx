@@ -50,20 +50,20 @@ class AlbumShow extends React.Component {
     const albumId = Number(this.props.match.params.id);
     if(this.props.albums[albumId]){
       const album = this.props.albums[albumId];
-      debugger
         return (
         <section className="album-show-page">
           <section className="album-background">
             <img className="album-background-photo" src={album.image_url}/>
-            <div className="black-layer">  </div>
-            <div className="album-total-info">
-              <img className="album-profile-photo" src={album.image_url}/>
-              <div className="album-info-minus-photo">
-                <div className="album-word">album</div>
-                <div className="album-title">{album.title}</div>
-                <div className="album-musician">{album.musician}</div>
-                <div className="album-release-date">Released {album.release_date}</div>
+            <div className="black-layer">
+              <div className="album-total-info">
+                <img className="album-profile-photo" src={album.image_url}/>
+                <div className="album-info-minus-photo">
+                  <div className="album-word">album</div>
+                  <div className="album-title">{album.title}</div>
+                  <div className="album-musician">{album.musician}</div>
+                  <div className="album-release-date">Released {album.release_date}</div>
               </div>
+            </div>
             </div>
           </section>
           <section className="album-tracklist">

@@ -7,7 +7,6 @@ const _nullAlbum = Object.freeze({
     release_date: "",
     musician: "",
     image: "",
-    tracks: [],
   }
 });
 

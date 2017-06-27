@@ -13,12 +13,10 @@ class AlbumIndex extends React.Component {
   }
 
   render() {
-    debugger
       if(this.props.albums) {
         const albums = values(this.props.albums);
         const formattedAlbums = albums.map((album, idx) => {
           if (idx < 1) {
-            debugger
             return(
               <Link to={'/albums/'+album.id} key={idx}>
               <div className="top-one-content">

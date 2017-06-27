@@ -1,5 +1,5 @@
 import { connect } from 'react-redux';
-import Show from './show';
+import Show from './album_show';
 import {displaySingleAlbum} from '../../actions/album_actions';
 
 const mapStateToProps = ({albums}) => {

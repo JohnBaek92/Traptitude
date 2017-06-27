@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import configureStore from './store/store';
 import Root from './components/root';
-import { displaySingleAlbum } from './actions/album_actions';
+import { displayTrack } from './actions/track_actions';
 
-window.displaySingleAlbum = displaySingleAlbum;
+window.displayTrack = displayTrack;
 
 document.addEventListener('DOMContentLoaded', () => {
   let store;

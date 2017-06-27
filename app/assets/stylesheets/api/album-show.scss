@@ -13,7 +13,7 @@
   margin: auto;
   z-index: 4;
   position: absolute;
-  margin-top: -21em;
+  margin-top: -19em;
   color: white;
 }
 
@@ -21,28 +21,33 @@
   width: 82%;
   position: absolute;
   background: black;
-  height: 332px;
+  height: 330px;
   z-index: 3;
   margin: 0 auto;
   color: black;
-  margin-top: -21rem;
+  margin-top: 0rem;
   margin-left: 10%;
   opacity: 0.8;
 }
 
+.album-background {
+  display: flex;
+}
+
 .album-info-minus-photo {
   text-align: left;
-  margin-left: 67%;
-  margin-top: 16%;
+  margin-left: 20em;
+  padding-top: 25em;
   width: 50%;
+  position: absolute;
 }
 
 .album-profile-photo {
   position: absolute;
   float: left;
-  width: 41%;
-  margin-top: 5.5%;
-  margin-left: 23%;
+  width: 15em;
+  padding-top: 21.5em;
+  margin-left: 10%;
 }
 
 .album-title {
