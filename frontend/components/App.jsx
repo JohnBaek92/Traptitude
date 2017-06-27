@@ -13,7 +13,7 @@ const App = () => (
     <ModalContainer/>
     <Route exact path="/" component={AlbumIndexContainer} />
     <Route exact path="/albums/:id" component={AlbumShowContainer} />
-    <Route exact path="/albums/:id/:id" component={TrackShowContainer} />
+    <Route exact path="/albums/:id/:trackId" component={TrackShowContainer} />
   </div>
 );
 

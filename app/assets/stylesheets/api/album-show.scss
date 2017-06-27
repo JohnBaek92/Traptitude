@@ -10,10 +10,7 @@
 
 .album-total-info {
   width: 60%;
-  margin: auto;
   z-index: 4;
-  position: absolute;
-  margin-top: -19em;
   color: white;
 }
 
@@ -36,23 +33,25 @@
 
 .album-info-minus-photo {
   text-align: left;
-  margin-left: 20em;
-  padding-top: 25em;
-  width: 50%;
-  position: absolute;
+  margin-left: 15.5em;
+  width: 81%;
+  padding-top: 5em;
+  word-wrap: break-word;
+  word-break: break-word;
 }
 
 .album-profile-photo {
-  position: absolute;
   float: left;
   width: 15em;
-  padding-top: 21.5em;
-  margin-left: 10%;
+  margin-left: -1.5em;
+  border: 2px solid #9a9a9a;
+  margin-top: 2.5em;
 }
 
 .album-title {
   font-size: 40px;
-  text-overflow: ellipsis;
+  word-wrap: break-word;
+  word-break: break-word;
 }
 
 .album-musician {
@@ -65,6 +64,7 @@
 .album-word {
   font-size: 13px;
   color: yellow;
+  margin-bottom: .2rem;
 }
 
 .album-release-date {
@@ -102,7 +102,6 @@
   color: #9a9a9a;
   font-weight: bold;
   padding-top: 2%;
-  padding-bottom: 1%;
 }
 
 .album-tracklist a {

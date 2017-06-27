@@ -10,7 +10,7 @@
 }
 
 .top-three-info {
-  margin-top: 1%;
+  margin-top: 2%;
 }
 
 .top-three-photo {
@@ -23,34 +23,39 @@
   list-style: none;
 }
 
+.top-three-musician {
+  font-size: .9em;
+}
+
 .top-three-content {
-  height: 77px;
+  height: 5em;
   width: 100%;
   border-bottom: 1px solid #CCC;
   display: flex;
 }
 
 .top-three-count {
-  font-size: 26px;
+  font-size: 1.5em;
   font-weight: bold;
   text-align: center;
   width: 1.3em;
   border: .13em solid #000;
   border-radius: 70%;
   margin-top: auto;
-  margin-right: 3%;
+  margin-right: 3.5%;
   margin-left: 3%;
   margin-bottom: auto;
 }
 
 .top-three-title {
   list-style: none;
-  font-size: 33px;
+  font-size: 1.5em;
   padding-top: 1.5%;
+  font-weight: bold;
 }
 
 .top-ten-content {
-  height: 50px;
+  height: 3.2em;
   width: 100%;
   border-bottom: 1px solid #CCC;
   display: flex;
@@ -67,7 +72,7 @@
 
 .top-ten-count {
   float: left;
-  font-size: 23px;
+  font-size: 1.3em;
   font-weight: bold;
   text-align: center;
   width: 3%;
@@ -81,7 +86,7 @@
 }
 
 .top-one-content {
-  height: 77px;
+  height: 5em;
   width: 100%;
   border-top: 3px solid black;
   border-bottom: 1px solid #CCC;

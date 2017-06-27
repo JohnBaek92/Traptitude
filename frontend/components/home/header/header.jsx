@@ -29,7 +29,7 @@ class Header extends React.Component {
       return(
         <section className="top-header">
           <div className="search-bar">Search Bar Goes Here</div>
-          <div className="logo">TRAPTITUDE</div>
+          <Link className="logo" to="/">TRAPTITUDE</Link>
           <button className="user-input">My Stats</button>
           <button className="user-input" onClick={this.logOutClick}>Sign Out</button>
         </section>

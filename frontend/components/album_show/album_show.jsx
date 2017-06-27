@@ -14,10 +14,10 @@ class AlbumShow extends React.Component {
 
   renderTracks() {
     const albumId = Number(this.props.match.params.id);
-    let something;
     const tracks = values(this.props.albums[albumId].tracks);
     const formattedTracks = tracks.map((track, idx) => {
       if(track.features) {
+        debugger
         return(
           <Link to={'/albums/'+track.album_id+'/'+track.id} key={idx}>
             <div className="track-count">{idx+1}</div>
@@ -50,6 +50,7 @@ class AlbumShow extends React.Component {
     const albumId = Number(this.props.match.params.id);
     if(this.props.albums[albumId]){
       const album = this.props.albums[albumId];
+      debugger
         return (
         <section className="album-show-page">
           <section className="album-background">

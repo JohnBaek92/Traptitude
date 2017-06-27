@@ -3,6 +3,7 @@
   text-transform: uppercase;
   justify-content: center;
   background: black;
+  z-index: 4;
 }
 
 .nav-bar a {
@@ -77,6 +78,7 @@
   background-color: yellow;
   display: flex;
   justify-content: space-between;
+  z-index: 5;
 }
 
 .user-input {

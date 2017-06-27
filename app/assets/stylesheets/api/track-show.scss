@@ -1,0 +1,80 @@
+.track-show-page {
+  overflow: hidden;
+}
+
+.track-background {
+  display: flex;
+}
+
+.track-show-title {
+  color: yellow;
+  word-wrap: break-word;
+  word-break: break-word;
+  font-size: 2.25em;
+  line-height: 1.125;
+  font-weight: 700;
+}
+
+.track-show-artist {
+  color: white;
+  font-size: 1.5em;
+  line-height: 1.45;
+  text-transform: capitalize;
+  font-weight: 700;
+  margin-bottom: .2em;
+}
+
+.track-profile-photo {
+  float: left;
+  width: 15em;
+  border: 2px solid #9a9a9a;
+  margin-top: 2.5em;
+  margin-left: -1.5em;
+}
+
+.track-info-minus-photo {
+  text-align: left;
+  margin-left: 15.5em;
+  width: 28%;
+  padding-top: 5em;
+  word-wrap: break-word;
+  word-break: break-word;
+}
+
+.words-produced-by {
+  color: #9a9a9a;
+  margin-bottom: .5em;
+  font-size: 16px;
+  text-transform: lowercase;
+}
+
+.words-produced-by::first-letter {
+  text-transform: capitalize;
+}
+
+.producer {
+  padding-left: .5em;
+  color: #cc99ff;
+}
+
+.the-word-album {
+  color: #9a9a9a;
+  font-size: 16px;
+  text-transform: capitalize;
+}
+
+.track-show-album-title {
+  padding-left: .5em;
+  color: #cc99ff;
+}
+
+.track-lyrics {
+  width: 31em;
+  margin-left: 2em;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
+
+.lyrics {
+  white-space: pre-wrap;
+}
