@@ -1,3 +1,19 @@
+# == Schema Information
+#
+# Table name: albums
+#
+#  id                 :integer          not null, primary key
+#  title              :string           not null
+#  release_date       :date             not null
+#  musician           :string           not null
+#  created_at         :datetime         not null
+#  updated_at         :datetime         not null
+#  image_file_name    :string
+#  image_content_type :string
+#  image_file_size    :integer
+#  image_updated_at   :datetime
+#
+
 class Album < ActiveRecord::Base
   validates :title, :release_date, :musician, presence: true
 

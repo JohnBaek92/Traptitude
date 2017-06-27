@@ -41,6 +41,7 @@
     "react-dom": "^15.0.0",
     "react-icons": "^2.2.5",
     "react-modal": "^2.0.6",
+    "react-quill": "^1.0.0-rc.3",
     "react-redux": "^4.4.5",
     "react-router": "^4.1.1",
     "react-router-dom": "^4.1.1",

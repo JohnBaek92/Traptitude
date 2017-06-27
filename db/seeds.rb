@@ -2960,3 +2960,17 @@ Queens get that nappy up
 Yo get that nappy up
 *talkin to fade*"
 }])
+
+annotations = Annotation.create([{
+  user_id: User.find_by_username("guest").id,
+  track_id: Track.find_by_title("BLOOD.").id,
+  start_idx: 11,
+  end_idx: 20,
+  body: "testing"
+},{
+  user_id: User.find_by_username("guest").id,
+  track_id: Track.find_by_title("BLOOD.").id,
+  start_idx: 30,
+  end_idx: 40,
+  body: "still testing"
+  }])

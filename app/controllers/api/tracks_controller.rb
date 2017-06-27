@@ -9,7 +9,7 @@ class Api::TracksController < ApplicationController
     if @track
       render "api/tracks/show"
     else
-      render json: {}
+      render json: @track.errors.full_essages, status: 422
     end
   end
 

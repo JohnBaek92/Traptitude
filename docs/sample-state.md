@@ -31,8 +31,11 @@
   }
   annotations {
     1: {
-      indices: [11, 20],
-      body: "Bowser tried to ruin our party",
+      user_id: 100,
+      track_id: 10,
+      start_idx: 11,
+      end_idx: 20,
+      body: "Bowser tried to ruin our party"
     }
   }
   comment {
@@ -40,7 +43,7 @@
       user_id: 1,
       body: "really great stuff",
       parent_comment_id: null,
-      track_id: 1
+      track_id: 1,
       annotation_id: null
     }
   }
