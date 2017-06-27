@@ -11,59 +11,56 @@
 }
 
 #featured-stories {
-  position: relative;
   color: white;
-  top: 5px;
-  right: 77px;
+  padding-top: .55rem;
+  padding-left: 0rem;
+  padding-right: .55rem;
 }
 
 #top-tracks {
   position: relative;
   color: white;
-  top: 5px;
-  right: 56px;
+  padding-top: .55rem;
+  padding-right: 1rem;
 }
 
 #github-icon {
-  position: relative;
   color: white;
-  left: 84px;
+  position: relative;
+  top: 1px;
 }
 
 #linkedin-icon {
-  position: relative;
   color: white;
-  left: 72px;
+  position: relative;
+  top: 1px;
 }
 
 #forums {
-  position: relative;
+  padding-top: .55rem;
   color: white;
-  top: 5px;
-  left: 8px;
+
 }
 
 #add-track {
-  position: relative;
   color: white;
-  top: 5px;
-  left: 28px;
+  padding-top: .55rem;
+  padding-left: .55rem;
 }
 
 #first-bar {
   color: white;
-  position: relative;
-  top: 5px;
+  padding-top: .3rem;
   font-size: 21.5px;
-  right: 21px;
+  padding-right: .55rem;
 }
 
 #second-bar {
   color: white;
-  position: relative;
-  top: 5px;
   font-size: 21.5px;
-  left: 54px;
+  padding-top: .3rem;
+  padding-left: .55rem;
+  padding-right: .55rem;
 }
 
 .nav-bar-seperator-line {

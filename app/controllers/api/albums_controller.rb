@@ -1,6 +1,6 @@
 class Api::AlbumsController < ApplicationController
   def index
-    @albums = Album.all
+    @albums = Album.all.limit(10)
     render "/api/albums/index"
   end
 
@@ -17,7 +17,7 @@ class Api::AlbumsController < ApplicationController
 
   def album_params
     params.require(:album).permit(
-      :title, :release_date, :musician, :tracks
+      :title, :release_date, :musician, :tracks, :image
     )
   end
 end

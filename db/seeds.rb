@@ -5,6 +5,10 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+User.destroy_all
+Album.destroy_all
+Track.destroy_all
+
 users = User.create([{
   username: 'guest',
   password: 'password'
@@ -14,70 +18,60 @@ albums = Album.create([{
   title: "DAMN.",
   release_date: 20170414,
   musician: "Kendrick Lamar",
-  image_url:
-  tracks: [1,2,3,4,5,6,7,8,9,10,11,12,13,14]
+  image: File.open('app/assets/images/DAMN.jpg')
 },{
-  title: "The Infamous"
+  title: "The Infamous",
   release_date: 19950425,
   musician: "Mobb Deep",
-  image_url:
-  tracks: []
+  image: File.open('app/assets/images/the_infamous.jpg')
 },{
   title: "2014 Forest Hills Drive",
   release_date: 20141209,
   musician: "J. Cole",
-  image_url:
-  tracks: []
+  image: File.open('app/assets/images/2014_forest_hills_drive.jpg')
 },{
   title: "The Black Album",
   release_date: 20031114,
   musician: "JAY-Z",
-  image_url:
-  tracks: []
+  image: File.open('app/assets/images/the_black_album.jpg')
 },{
   title: "My Beautiful Dark Twisted Fantasy",
   release_date: 20101122,
   musician: "Kanye West",
-  image_url:
-  tracks: []
+  image: File.open('app/assets/images/mbdtf.jpg')
 },{
   title: "Beautiful Thugger Girls",
   release_date: 20170616,
   musician: "Young Thug",
-  image_url:
-  tracks: []
+  image: File.open('app/assets/images/beautiful_thugger_girls.jpg')
 },{
   title: "My Name Is My Name",
-  release_date: 20131007
+  release_date: 20131007,
   musician: "Pusha T",
-  image_url:
-  tracks: []
+  image: File.open('app/assets/images/my_name_is_my_name.jpg')
 },{
   title: "Tha Carter III",
   release_date: 20080610,
   musician: "Lil Wayne",
-  image_url:
-  tracks: []
+  image: File.open('app/assets/images/tha_carter_III.jpg')
 },{
   title: "Illmatic",
   release_date: 19940419,
   musician: "Nas",
-  image_url:
-  tracks: []
+  image: File.open('app/assets/images/illmatic.jpg')
 },{
   title: "Trey Day",
   release_date: 20071001,
-  musician: "Trey Songz"
-  image_url:
-  tracks: []
-}])
+  musician: "Trey Songz",
+  image: File.open('app/assets/images/trey_day.jpg')}
+])
 
 tracks = Track.create([{
   album_id: 1,
   title: "BLOOD.",
   features: "",
-  producer: "Bēkon & Anthony \"Top Dawg\" Tiffith"
-  lyrics: {
+  producer: "Bēkon & Anthony \"Top Dawg\" Tiffith",
+  lyrics:
     "[Intro: Bēkon]
     Is it wickedness?
     Is it weakness?
@@ -106,15 +100,12 @@ tracks = Track.create([{
     Lamar stated his views on police brutality with that line in the song,
     quote: \"And we hate the popo, wanna kill us in the street fo' sho'…\"
     Oh please, ugh, I don't like it."
-  },
-  annotations:[],
-  comments:[]
 }, {
   album_id: 1,
   title: "DNA.",
   features: "",
   producer: "Mike WiLL Made-It",
-  lyrics: {
+  lyrics:
     "[Verse 1]
     I got, I got, I got, I got
     Loyalty, got royalty inside my DNA
@@ -221,15 +212,12 @@ tracks = Track.create([{
     Gimme some ganja, gimme some ganja
     Real nigga in my DNA
     Ain't no ho inside my DNA"
-  },
-  annotations:[],
-  comments:[]
 }, {
   album_id: 1,
   title: "YAH.",
   features: "",
   producer: "Anthony \"Top Dawg\" Tiffith, Sounwave, & DJ DAHI",
-  lyrics: {
+  lyrics:
     "[Intro: Kid Capri]
     New shit, new Kung Fu Kenny
 
@@ -277,15 +265,12 @@ tracks = Track.create([{
     Buzzin', radars is buzzin'
     Yah, yah, yah, yah
     Yah, yah, yah, yah, yah, yah"
-  },
-  annotations:[],
-  comments:[]
 }, {
   album_id: 1,
   title: "ELEMENT.",
   features: "",
   producer: "James Blake, Sounwave, & Ricci Riera",
-  lyrics: {
+  lyrics:
     "[Intro: Kid Capri & Kendrick Lamar]
     New Kung Fu Kenny
     Ain't nobody prayin' for me
@@ -374,15 +359,12 @@ tracks = Track.create([{
     I pull up, hop out, air out, made it look sexy
     They won't take me out my element
     Nah, take me out my element"
-  },
-  annotations:[],
-  comments:[]
 }, {
   album_id: 1,
-  title: "FEEL."
+  title: "FEEL.",
   features: "",
   producer: "Soundwave",
-  lyrics: {
+  lyrics:
     "[Intro: Kendrick Lamar & Chelsea Blythe]
     Ain't nobody prayin' for me
     Ain't nobody prayin' for me
@@ -470,15 +452,12 @@ tracks = Track.create([{
     Ain't nobody prayin' for me
     Who prayin' for me?
     Ain't nobody prayin'"
-  },
-  annotations:[],
-  comments:[]
 }, {
   album_id: 1,
   title: "LOYALTY.",
   features: "Rihanna",
   producer: "Anthony \"Top Dawg\" Tiffith, Terrace Martin, Sounwave & DJ Dahi",
-  lyrics: {
+  lyrics:
     "[Intro: Mr. Talkbox]
 
     [Pre-Chorus: DJ Dahi]
@@ -584,15 +563,12 @@ tracks = Track.create([{
     It's so hard to be
     Lord knows I'm tryin'
     Lord knows I'm dyin', baby"
-  },
-  annotations:[],
-  comments:[]
 }, {
   album_id: 1,
   title: "PRIDE.",
   features: "",
   producer: "Anthony \"Top Dawg\" Tiffith & Steve Lacy",
-  lyrics: {
+  lyrics:
     "[Intro: Bēkon]
     Love's gonna get you killed
     But pride’s gonna be the death of you and you and me
@@ -668,15 +644,12 @@ tracks = Track.create([{
     Maybe I wasn't there
     Maybe I wasn't there
     Maybe I wasn't there"
-  },
-  annotations:[],
-  comments:[]
 }, {
   album_id: 1,
-  title: "HUMBLE."
+  title: "HUMBLE.",
   features: "",
   producer: "Mike WiLL Made-It",
-  lyrics: {
+  lyrics:
     "[Video Intro]
     Wicked or weakness?
     You gotta see this
@@ -758,15 +731,12 @@ tracks = Track.create([{
     Bitch, sit down (hol' up, hol' up, lil' bitch)
     Be humble (lil' bitch, hol' up, bitch)
     Sit down (hol' up, hol' up, hol' up, hol' up)"
-  },
-  annotations:[],
-  comments:[]
 }, {
   album_id: 1,
   title: "LUST.",
   features: "",
   producer: "BADBADNOTGOOD, Sounwave, & DJ DAHI",
-  lyrics: {
+  lyrics:
     "[Chorus: Kendrick Lamar]
     I need some water
     Somethin' came over me
@@ -886,15 +856,12 @@ tracks = Track.create([{
     I promise just a touch
     Let me put the head in, if it's okay
     She said, \"It's okay.\""
-  },
-  annotations:[],
-  comments:[]
 }, {
   album_id: 1,
   title: "LOVE.",
   features: "Zacari",
   producer: "Anthony \"Top Dawg\" Tiffith, Greg Kurstin, Sounwave, & Teddy Walton",
-  lyrics: {
+  lyrics:
     "[Streaming Intro: Kendrick Lamar]
     Damn, love or lust
     Damn, all of us
@@ -998,15 +965,12 @@ tracks = Track.create([{
     Love me
     I wanna be with you
     Love me, just love me"
-  },
-  annotations:[],
-  comments:[]
 }, {
   album_id: 1,
   title: "XXX.",
   features: "U2",
   producer: "Anthony \"Top Dawg\" Tiffith, DJ Dahi, Sounwave & Mike WiLL Made-It",
-  lyrics: {
+  lyrics:
     "[Intro: Bēkon & Kid Capri]
     America, God bless you if it's good to you
     America, please take my hand
@@ -1096,22 +1060,29 @@ tracks = Track.create([{
     It's not a place
     This country is to me a sound of drum and bass
     You close your eyes to look ar—"
-  },
-  annotations:[],
-  comments:[]
 }, {
   album_id: 1,
-  title: "FEAR."
+  title: "FEAR.",
   features: "",
   producer: "The Alchemist",
-  lyrics: {
+  lyrics:
     "[Intro]
     Poverty's paradise
     I don’t think I could find a way to make it on this earth
     I've been hungry all my life
 
     [Voicemail: Carl Duckworth]
-    What's up, family? Yeah, it’s yo cousin Carl, man, just givin' you a call, man. I know you been havin' a lot on yo mind lately, and I know you feel like, you know, people ain't been prayin' for you. But you have to understand this, man, that we are a cursed people. Deuteronomy 28:28 says, "The Lord shall smite thee with madness, and blindness, and astonishment of heart." See, family, that's why you feel like you feel like you got a chip on your shoulder. Until you finally get the memo, you will always feel that way…
+    What's up, family? Yeah, it’s yo cousin Carl, man,
+    just givin' you a call, man.
+    I know you been havin' a lot on yo mind lately,
+    and I know you feel like, you know,
+    people ain't been prayin' for you.
+    But you have to understand this, man, that we are a cursed people.
+    Deuteronomy 28:28 says,
+    \"The Lord shall smite thee with madness, and blindness,
+    and astonishment of heart.\"
+    See, family, that's why you feel like you feel like you got a chip on your shoulder.
+    Until you finally get the memo, you will always feel that way…
 
     [Bridge: Charles Edward Sydney Isom Jr.]
     Why God, why God do I gotta suffer?
@@ -1258,16 +1229,13 @@ tracks = Track.create([{
     We're gonna be at a lower state in this life that we live here in today,
     in the United States of America.
     I love you, son, and I pray for you. God bless you, shalom."
-  },
-  annotations:[],
-  comments:[]
 }, {
   album_id: 1,
-  title: "GOD."
+  title: "GOD.",
   features: "",
   producer: "Bekon, Yung Exclusive, Anthony \"Top Dawg\" Tiffith, Cardo, Sounwave,
   Ricci Riera, & DJ Dahi",
-  lyrics: {
+  lyrics:
     "[Chorus]
     This what God feel like, huh, yeah
     Laughin' to the bank like, \"A-ha!\", huh, yeah
@@ -1344,15 +1312,12 @@ tracks = Track.create([{
     (This what God feel like)
     Huh, yeah (this what God feel like)
     This what God feel like"
-  },
-  annotations:[],
-  comments:[]
 }, {
   album_id: 1,
   title: "DUCKWORTH.",
   features: "",
   producer: "9th Wonder",
-  lyrics: {
+  lyrics:
     "[Intro: Bēkon & Kid Capri]
     It was always me vs the world
     Until I found it's me vs me
@@ -1444,15 +1409,12 @@ tracks = Track.create([{
     [Outro: Kendrick Lamar]
     {Reversed Audio}
     So, I was takin' a walk the other day…"
-  },
-  annotations:[],
-  comments:[]
 }, {
   album_id: 2,
   title: "The Start of Your Ending (41st Side)",
   features: "",
   producer: "Mobb Deep",
-  lyrics: {
+  lyrics:
     "[Intro: Havoc]
     You knowhatI'msayin'?
     I wanna say what's up to my man
@@ -1559,15 +1521,12 @@ tracks = Track.create([{
     41st side get bent, run wild
     41st side get bent, run wild
     Word up youknowhatI'msayin'?"
-  },
-  annotations: [],
-  comments: []
 }, {
   album_id: 2,
   title: "The Infamous Prelude",
   features: "Prodigy of Mobb Deep",
   producer: "Mobb Deep",
-  lyrics: {
+  lyrics:
     "Yeah yeah yeah
     Yeah yeah yeah
     Hold the fuck up
@@ -1661,15 +1620,12 @@ tracks = Track.create([{
 
     Yo, I'm finished what I had to say
     Ya'll can continue on"
-  },
-  annotations: [],
-  comments: []
 }, {
   album_id: 2,
   title: "Surival of the Fittest",
   features: "",
   producer: "Havoc",
-  lyrics: {
+  lyrics:
     "[Intro: Prodigy]
     Yeah, sendin' this one out
     To my man Killa B
@@ -1774,15 +1730,12 @@ tracks = Track.create([{
     Look alive, in '95, word up
     Hypnotic thug life, get that ass paralyzed
     Nomsayin? Mobb Deep and all that"
-  },
-  annotations: [],
-  comments: []
 }, {
   album_id: 2,
   title: "Eye for a Eye (Your Beef Is Mines)",
   features: "Raekwon & Nas",
   producer: "Havoc",
-  lyrics: {
+  lyrics:
     "[Chorus]
     As time goes by, an eye for an eye
     We in this together son your beef is mines
@@ -1896,15 +1849,12 @@ tracks = Track.create([{
     Jus' bless 'em, with the bulletproof
     Mobb Deep, Nas, Chef creation
     For yo' nation, YEAH!"
-  },
-  annotations: [],
-  comments: []
 }, {
   album_id: 2,
   title: "Just Step Prelude",
   features: "Big Noyd",
   producer: "Mobb Deep",
-  lyrics: {
+  lyrics:
     "[Big Noyd]
     Sometimes I wish I had three different faces
     I'm going to court for three cases in three places
@@ -1932,15 +1882,12 @@ tracks = Track.create([{
     It only took one sword to put seven holes in his squealer
     A 3 to 9 spending most of his time inside the bing
     Reclined, and still came home with his shine"
-  },
-  annotations: [],
-  comments: []
 }, {
   album_id: 2,
   title: "Give Up The Goods (Just Step)",
   features: "Big Noyd",
   producer: "Q-Tip",
-  lyrics: {
+  lyrics:
     "[Verse 1: Prodigy]
     Ayo, Queens get the Money long time no cash
     I'm caught up in the hustle when the guns go blast
@@ -2034,15 +1981,12 @@ tracks = Track.create([{
     No jokes no games kid for years I been doing the same shit
     Just drinking liquor, doing bids, extorting crack heads
     And sticking up the stick-up kids"
-  },
-  annotations: [],
-  comments: []
 }, {
   album_id: 2,
   title: "Temperature's Rising",
   features: "Crystal Johnson",
   producer: "Havoc & Q-Tip",
-  lyrics: {
+  lyrics:
     "[Havoc]
     Word up, son, I heard they got you on the run
     For a body - now it's time to stash the guns
@@ -2114,15 +2058,12 @@ tracks = Track.create([{
 
     (Surprisin)
     *repeat to fade*"
-  },
-  annotations: [],
-  comments: []
 }, {
   album_id: 2,
   title: "Up North Trip",
   features: "",
   producer: "Havoc",
-  lyrics: {
+  lyrics:
     "[Verse One: Prodigy]
     It all began on the street, to the back of a blue police vehicle
     Next come the bookings, the way things is lookin
@@ -2219,15 +2160,12 @@ tracks = Track.create([{
 
     [Hook] - 2X
     *Livin the high life"
-  },
-  annotations: [],
-  comments: []
 }, {
   album_id: 2,
   title: "Trife Life",
   features: "",
   producer: "Havoc",
-  lyrics: {
+  lyrics:
     "[Verse 1: Prodigy]
     It's just another day, drowning my troubles with a forty
     That's when I got the call from this brown skin shorty
@@ -2328,15 +2266,12 @@ tracks = Track.create([{
     Trife life got me thinking like an animal
     No doubt, no doubt, no doubt, no doubt yo
     What can kill you is what you don't know"
-  },
-  annotations: [],
-  comments: []
 }, {
   album_id: 2,
   title: "Q.U.-Hectic",
   features: "",
   producer: "Havoc",
-  lyrics: {
+  lyrics:
     "[Intro]
     Fuck it kid, whattup Queens in this motherfucker
     (Tell you I'm bangin tonight kid)
@@ -2466,15 +2401,12 @@ tracks = Track.create([{
     Word up, knowhatI'msayin? The whole world kid
     Shit is over dead, Mobb Deep say party UHH
     KnowhatI'msayin? Party UHH"
-  },
-  annotations: [],
-  comments: []
 }, {
   album_id: 2,
   title: "Right Back At You",
   features: "Big Noyd, Raekwon, & Ghostface Killah",
   producer: "Havoc",
-  lyrics: {
+  lyrics:
     "[Intro: Havoc]
     Now, '94 to '95, innocent without crime
     Drop that shit
@@ -2567,15 +2499,12 @@ tracks = Track.create([{
     You must be crazy, pulled out the heat and almost blazed me
     Then he was Swayze, the shot must of dazed me
     Thug selling drugs, busting slugs, but he ain't crazy"
-  },
-  annotations: [],
-  comments: []
 }, {
   album_id: 2,
   title: "The Grave Prelude",
   features: "",
   producer: "Mobb Deep",
-  lyrics: {
+  lyrics:
     "[Raindrops]
     [6 shots]
     [Lightning]
@@ -2600,15 +2529,12 @@ tracks = Track.create([{
     Fuck it, man!
     (Havoc: Just wake up, man! Son, word up!) [ambulance sirens]
     Cradle to the grave... (Word up, you aight?) [ambulance sirens]"
-  },
-  annotations: [],
-  comments: []
 }, {
   album_id: 2,
   title: "Cradle to the Grave",
   features: "",
   producer: "Havoc",
-  lyrics: {
+  lyrics:
     "[Verse 1: Prodigy]
     Forever wild from the cradle to the grave, kid watch your back
     One time's comin' always (Yeah), they lock me up for 12 days
@@ -2712,15 +2638,12 @@ tracks = Track.create([{
     Word up man!
     Y'knowhatumsayin,we gonna die!
     It's for real,kid,no games bein played"
-  },
-  annotations: [],
-  comments: []
 }, {
   album_id: 2,
   title: "Drink Away the Pain (Situations)",
   features: "Q-Tip",
   producer: "Q-Tip",
-  lyrics: {
+  lyrics:
     "[Intro-Prodigy]
     Yeah, about to get my thug on
     The 41st side of things
@@ -2825,15 +2748,12 @@ tracks = Track.create([{
     I fill my brain with the Henny, and drink away the pain
     I think the whole world's lost its brain
     I sip away on the liquor, and drink away the pain"
-  },
-  annotations: [],
-  comments: []
 }, {
   album_id: 2,
   title: "Shook Ones Part II",
   features: "",
   producer: "Havoc",
-  lyrics: {
+  lyrics:
     "[Intro]
     Word up, son, word, yeah
     To all the killers and a hundred dollar billers
@@ -2935,15 +2855,12 @@ tracks = Track.create([{
     Queens get the money
     41st side, keepin' it real, you know
     Queens get the money"
-  },
-  annotations: [],
-  comments: []
 }, {
   album_id: 2,
   title: "Party Over",
   features: "Ty Nitty & Big Noyd",
   producer: "Havoc",
-  lyrics: {
+  lyrics:
     "[Intro] x3
     Whatever? Party's over tell the rest of the crew
     Yo P, it's on you, what you wanna do?
@@ -3071,7 +2988,4 @@ tracks = Track.create([{
     Queens get that nappy up
     Yo get that nappy up
     *talkin to fade*"
-  },
-  annotations: [],
-  comments: []
-},
+}])

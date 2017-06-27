@@ -12,7 +12,7 @@
       title: "Great Album",
       release_date: 2013, September, 22,
       musician: "Kirby",
-      image_url: "google.com/123",
+      image: "google.com/123",
       tracks: [1, 2, 4, 7]
     }
   }

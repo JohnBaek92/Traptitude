@@ -1,0 +1,118 @@
+.album-show-page {
+  overflow: hidden;
+}
+
+.album-background-photo {
+  width: 125%;
+  height: 330px;
+  z-index: -10;
+}
+
+.album-total-info {
+  width: 60%;
+  margin: auto;
+  z-index: 4;
+  position: absolute;
+  margin-top: -21em;
+  color: white;
+}
+
+.black-layer {
+  width: 82%;
+  position: absolute;
+  background: black;
+  height: 332px;
+  z-index: 3;
+  margin: 0 auto;
+  color: black;
+  margin-top: -21rem;
+  margin-left: 10%;
+  opacity: 0.8;
+}
+
+.album-info-minus-photo {
+  text-align: left;
+  margin-left: 67%;
+  margin-top: 16%;
+  width: 50%;
+}
+
+.album-profile-photo {
+  position: absolute;
+  float: left;
+  width: 41%;
+  margin-top: 5.5%;
+  margin-left: 23%;
+}
+
+.album-title {
+  font-size: 40px;
+  text-overflow: ellipsis;
+}
+
+.album-musician {
+  text-transform: capitalize;
+  font-size: 21px;
+  padding-top: 0.3rem;
+  padding-bottom: .5rem;
+}
+
+.album-word {
+  font-size: 13px;
+  color: yellow;
+}
+
+.album-release-date {
+  text-transform: capitalize;
+  color: #9a9a9a;
+}
+
+.the-word-lyrics {
+  text-transform: capitalize;
+  color: #9a9a9a;
+  padding-left: .3rem;
+
+}
+
+.track-count {
+  color: #9a9a9a;
+  font-weight: bold;
+  width: 3%;
+  font-size: 22px;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.track-title {
+  float: left;
+}
+
+.album-tracklist {
+  padding-left: 11%;
+}
+
+.the-word-tracklist {
+  color: #9a9a9a;
+  font-weight: bold;
+  padding-top: 2%;
+  padding-bottom: 1%;
+}
+
+.album-tracklist a {
+  display: flex;
+  width: 65%;
+  border-bottom: 1px solid #9a9a9a;
+  padding: 1.5% 0;
+}
+
+.features {
+  float: left;
+  text-transform: capitalize;
+  padding-left: .3rem;
+}
+
+.tracks-content {
+  display: flex;
+  font-weight: bold;
+  font-size: 22px;
+}

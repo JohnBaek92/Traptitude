@@ -1,10 +1,10 @@
 import { connect } from 'react-redux';
 import Show from './show';
-import displaySingleAlbum from '../../actions/album_actions';
+import {displaySingleAlbum} from '../../actions/album_actions';
 
-const mapStateToProps = (state) => {
+const mapStateToProps = ({albums}) => {
   return(
-    {album: state.album}
+    {albums}
   );
 };
 

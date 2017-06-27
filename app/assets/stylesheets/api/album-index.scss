@@ -1,10 +1,21 @@
 .top-ten-container {
-  position: relative;
+  display: flex;
   width: 46%;
   left: 19%;
   padding-left: 1rem;
   padding-top: 2rem;
   padding-right: 1rem;
+  padding-left: 10rem;
+  flex-direction: column;
+}
+
+.top-ten-photo {
+  width: 9.5%;
+}
+
+.top-three-photo {
+  width: 15%;
+  float: left;
 }
 
 .top-ten-musician {
@@ -21,27 +32,19 @@
   float: left;
   font-size: 23px;
   font-weight: bold;
-  position: relative;
   text-align: center;
-  width: 4%;
+  width: 5%;
   border: .13em solid #000;
   border-radius: 70%;
-  top: 25%;
-  right: -1%;
+  margin-top: 4%;
+  margin-right: 3%;
+  margin-left: 3%;
 }
 
 .top-three-title {
   list-style: none;
-  position: relative;
-  left: 19%;
   font-size: 33px;
-  top: 13%;
-}
-
-.top-three-musician {
-  position: relative;
-  left: 25%;
-  top: 5%;
+  padding-top: 1.5%;
 }
 
 .top-ten-content {
@@ -50,21 +53,28 @@
   border-bottom: 1px solid #CCC;
 }
 
+.top-ten-photo {
+  float: left;
+  width: 9.7%;
+}
+
+.top-ten-info {
+  padding-top: 3%;
+}
+
 .top-ten-count {
   float: left;
   font-size: 23px;
   font-weight: bold;
-  position: relative;
   text-align: center;
   width: 3%;
-  top: 25%;
-  right: -1.5%;
+  margin-top: 2.5%;
+  margin-left: 4.5%;
+  margin-right: 4.7%
 }
 
 .top-ten-track-info {
-  position: relative;
-  left: 21%;
-  top: 31%;
+  display: inline-block;
 }
 
 .top-one-content {
@@ -81,7 +91,4 @@
 
 .eye-top-ten {
   float: right;
-  position: relative;
-  right: 6%;
-  bottom: 10%;
 }

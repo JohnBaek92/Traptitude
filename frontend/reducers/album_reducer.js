@@ -6,8 +6,8 @@ const _nullAlbum = Object.freeze({
     title: "",
     release_date: "",
     musician: "",
-    image_url: "",
-    tracks: []
+    image: "",
+    tracks: [],
   }
 });
 
@@ -16,8 +16,7 @@ const AlbumReducer = (state = _nullAlbum, action) => {
     case RECEIVE_ALBUMS:
       return merge({}, action.albums);
     case RECEIVE_ALBUM:
-    debugger
-      return merge({}, state, {album: action.album});
+      return Object.assign({}, state, {[action.album.id]: action.album});
     default:
       return state;
   }
