@@ -1,6 +1,6 @@
 .top-ten-container {
   display: flex;
-  width: 46%;
+  width: 55%;
   left: 19%;
   padding-left: 1rem;
   padding-top: 2rem;
@@ -9,13 +9,14 @@
   flex-direction: column;
 }
 
-.top-ten-photo {
-  width: 9.5%;
+.top-three-info {
+  margin-top: 1%;
 }
 
 .top-three-photo {
-  width: 15%;
+  width: 14.5%;
   float: left;
+  padding-right: 2%;
 }
 
 .top-ten-musician {
@@ -26,19 +27,20 @@
   height: 77px;
   width: 100%;
   border-bottom: 1px solid #CCC;
+  display: flex;
 }
 
 .top-three-count {
-  float: left;
-  font-size: 23px;
+  font-size: 26px;
   font-weight: bold;
   text-align: center;
-  width: 5%;
+  width: 1.3em;
   border: .13em solid #000;
   border-radius: 70%;
-  margin-top: 4%;
+  margin-top: auto;
   margin-right: 3%;
   margin-left: 3%;
+  margin-bottom: auto;
 }
 
 .top-three-title {
@@ -51,15 +53,16 @@
   height: 50px;
   width: 100%;
   border-bottom: 1px solid #CCC;
+  display: flex;
 }
 
 .top-ten-photo {
-  float: left;
   width: 9.7%;
+  padding-right: 2%;
 }
 
 .top-ten-info {
-  padding-top: 3%;
+  padding-top: 2.5%;
 }
 
 .top-ten-count {
@@ -68,9 +71,9 @@
   font-weight: bold;
   text-align: center;
   width: 3%;
-  margin-top: 2.5%;
+  margin-top: 2%;
   margin-left: 4.5%;
-  margin-right: 4.7%
+  margin-right: 5.1%;
 }
 
 .top-ten-track-info {
@@ -82,6 +85,7 @@
   width: 100%;
   border-top: 3px solid black;
   border-bottom: 1px solid #CCC;
+  display: flex;
 }
 
 .top-tracks-header {

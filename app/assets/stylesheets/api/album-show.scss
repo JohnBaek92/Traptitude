@@ -81,6 +81,8 @@
   font-size: 22px;
   padding-right: 1.5rem;
   padding-left: 1.5rem;
+  padding-top: inherit;
+  padding-bottom: inherit;
 }
 
 .track-title {
@@ -115,4 +117,6 @@
   display: flex;
   font-weight: bold;
   font-size: 22px;
+  padding-top: inherit;
+  padding-bottom: inherit;
 }
