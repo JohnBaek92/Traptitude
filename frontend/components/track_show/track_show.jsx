@@ -13,6 +13,12 @@ class TrackShow extends React.Component {
     this.props.displaySingleAlbum(albumId);
   }
 
+  // selectLyricsToAnnotate() {
+  //   document.getElementById('lyrics-container').onmousedown(({
+  //
+  //   }));
+  // }
+
   render() {
     const trackId = Number(this.props.match.params.trackId);
     const albumId = Number(this.props.match.params.id);
@@ -39,7 +45,7 @@ class TrackShow extends React.Component {
             </div>
           </section>
           <section className="track-lyrics">
-            <div className="lyrics">
+            <div className="lyrics-container">
               {track.lyrics}
             </div>
           </section>
