@@ -1,11 +1,20 @@
 import React from 'react';
 import { values } from 'lodash';
 import { Link } from 'react-router-dom';
+import AnnotationForm from './annotation/annotation_form_container';
 
 class TrackShow extends React.Component {
   constructor(props) {
     super(props);
+    this.state = {
+      start_idx: null,
+      end_idx: null,
+      annotations:[]
+    };
+    this.selectLyrics = this.selectLyrics.bind(this);
+    this.sumFunctions = this.sumFunctions.bind(this);
   }
+
   componentDidMount() {
     const trackId = Number(this.props.match.params.trackId);
     const albumId = Number(this.props.match.params.id);
@@ -13,11 +22,26 @@ class TrackShow extends React.Component {
     this.props.displaySingleAlbum(albumId);
   }
 
-  // selectLyricsToAnnotate() {
-  //   document.getElementById('lyrics-container').onmousedown(({
-  //
-  //   }));
-  // }
+  selectLyrics() {
+    const trackId = Number(this.props.match.params.trackId);
+
+    let selection = window.getSelection();
+    let trimmedLyrics = selection.toString().trim();
+
+    if(trimmedLyrics.length > 0 && this.props.tracks[trackId]) {
+      let track = this.props.tracks[trackId];
+      let start_idx = track.lyrics.indexOf(trimmedLyrics);
+      let end_idx = trimmedLyrics.length + start_idx;
+      this.setState(Object.assign(this.state,{start_idx: start_idx, end_idx: end_idx}));
+    }
+  }
+
+  sumFunctions() {
+    const trackId = Number(this.props.match.params.trackId);
+    this.selectLyrics();
+    this.props.openAnnotation(<AnnotationForm startIdx={this.state.start_idx}
+      endIdx={this.state.end_idx} trackId={trackId}/>)
+  }
 
   render() {
     const trackId = Number(this.props.match.params.trackId);
@@ -45,8 +69,10 @@ class TrackShow extends React.Component {
             </div>
           </section>
           <section className="track-lyrics">
-            <div className="lyrics-container">
-              {track.lyrics}
+            <div id="lyrics-container">
+              <p id="the-lyrics-are-here" onMouseUp={this.sumFunctions}>
+                {track.lyrics}
+              </p>
             </div>
           </section>
         </section>

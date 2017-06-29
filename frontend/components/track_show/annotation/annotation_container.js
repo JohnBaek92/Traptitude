@@ -4,8 +4,8 @@ import { closeAnnotation } from '../../../actions/annotation_actions';
 
 const mapStateToProps = (state) => {
   return {
-    isOpenAnno: state.annotation.isOpenAnno,
-    annotationComp: state.annotationComp
+    isOpenAnno: state.annotations.isOpenAnno,
+    annotationComp: state.annotations.annotationComp
   };
 };
 

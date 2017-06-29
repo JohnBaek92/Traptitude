@@ -29,9 +29,11 @@ class Header extends React.Component {
       return(
         <section className="top-header">
           <div className="search-bar">Search Bar Goes Here</div>
-          <Link className="logo" to="/">TRAPTITUDE</Link>
-          <button className="user-input">My Stats</button>
-          <button className="user-input" onClick={this.logOutClick}>Sign Out</button>
+          <Link className="logo" to="/"><img className="logo-picture" src={window.images.logo}/></Link>
+          <div className="user-input">
+            <button className="username">   Stats</button>
+            <button className="password" onClick={this.logOutClick}>Sign Out</button>
+          </div>
         </section>
       )
     }
@@ -42,7 +44,7 @@ class Header extends React.Component {
       return(
         <header className="top-header">
           <div className="search-bar">Search Bar Goes Here</div>
-          <Link className="logo" to="/">TRAPTITUDE</Link>
+          <Link className="logo" to="/"><img className="logo-picture" src={window.images.logo}/></Link>
           <div className="user-input">
             <button className="username" onClick={ () => this.clearErrorsAndOpenModal(
               <SignInContainer />)}>

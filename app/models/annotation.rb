@@ -13,7 +13,7 @@
 #
 
 class Annotation < ActiveRecord::Base
-  validates :user, :track, :body, :start_idx, :end_idx, presence: true
+  validates :user_id, :track_id, :body, :start_idx, :end_idx, presence: true
 
   belongs_to :user,
     primary_key: :id,

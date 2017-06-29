@@ -10,10 +10,9 @@ class Annotation extends React.Component {
       return(
         <div>
           <div className="annotation-window"
-            onClick={() => this.props.closeAnnotation()}>
-          </div>
-          <div className="annotation-form-box">
-            {this.props.annotationComp}
+            onClick={() => this.props.closeAnnotation()}></div>
+            <div className="annotation-form-box">
+              {this.props.annotationComp}
           </div>
         </div>
       )

@@ -2,17 +2,15 @@ import { connect } from 'react-redux';
 import AnnotationForm from './annotation_form';
 import { makeAnnotation } from '../../../actions/annotation_actions';
 
-const mapStateToProps = (state) => {
+const mapStateToProps = ({session}) => {
   return {
-    body: '',
-    start_idx: '',
-    end_idx: ''
+    session
   };
 };
 
 const mapDispatchToProps = (dispatch) => {
   return ({
-    makeAnnotation: (annotation) => dispatch(makeAnnotation)
+    makeAnnotation: (annotation) => dispatch(makeAnnotation(annotation))
   });
 };
 

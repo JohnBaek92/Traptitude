@@ -69,12 +69,16 @@
 }
 
 .track-lyrics {
-  width: 31em;
   margin-left: 2em;
   padding-top: 1.5em;
   padding-bottom: 1.5em;
 }
 
-.lyrics-container {
+#lyrics-container {
   white-space: pre-wrap;
+}
+
+#the-lyrics-are-here {
+  z-index: 9000;
+  text-transform: none;
 }
