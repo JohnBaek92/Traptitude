@@ -1,6 +1,7 @@
 import merge from 'lodash/merge';
 import { RECEIVE_ANNOTATION, OPEN_ANNOTATION,
   CLOSE_ANNOTATION } from '../actions/annotation_actions';
+import { RECEIVE_TRACK } from '../actions/track_actions';
 
 const _nullAnnotation = {
   isOpenAnno: false,
@@ -18,6 +19,9 @@ const AnnotationReducer = (state = _nullAnnotation, action) => {
       return merge({}, state, {annotationComp, isOpenAnno: true});
     case CLOSE_ANNOTATION:
       return merge({}, state, {annotationComp: null, isOpenAnno: false});
+      case RECEIVE_TRACK:
+      debugger
+        return action.track.annotations;
     default:
       return state;
   }

@@ -6,7 +6,8 @@ const _nullTrack = Object.freeze({});
 const TrackReducer = (state = _nullTrack, action) => {
   switch(action.type) {
     case RECEIVE_TRACK:
-      return merge({}, state, {[action.track.id]: action.track});
+    debugger
+      return action.track.track;
     default:
       return state;
   }

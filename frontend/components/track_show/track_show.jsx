@@ -9,7 +9,7 @@ class TrackShow extends React.Component {
     this.state = {
       start_idx: null,
       end_idx: null,
-      annotations:[]
+      annotations: this.props.annotations
     };
     this.selectLyrics = this.selectLyrics.bind(this);
     this.sumFunctions = this.sumFunctions.bind(this);
@@ -28,8 +28,8 @@ class TrackShow extends React.Component {
     let selection = window.getSelection();
     let trimmedLyrics = selection.toString().trim();
 
-    if(trimmedLyrics.length > 0 && this.props.tracks[trackId]) {
-      let track = this.props.tracks[trackId];
+    if(trimmedLyrics.length > 0 && this.props.track) {
+      let track = this.props.track;
       let start_idx = track.lyrics.indexOf(trimmedLyrics);
       let end_idx = trimmedLyrics.length + start_idx;
       this.setState(Object.assign(this.state,{start_idx: start_idx, end_idx: end_idx}));
@@ -44,11 +44,10 @@ class TrackShow extends React.Component {
   }
 
   render() {
-    const trackId = Number(this.props.match.params.trackId);
-    const albumId = Number(this.props.match.params.id);
-    if(this.props.tracks[trackId] && this.props.albums[albumId]) {
-      const track = this.props.tracks[trackId];
-      const album = this.props.albums[albumId];
+    debugger
+    if(this.props.track && this.props.album) {
+      const track = this.props.track;
+      const album = this.props.album;
       const photo_shown = track.image_url || album.image_url;
       return(
         <section className="track-show-page">
@@ -63,7 +62,7 @@ class TrackShow extends React.Component {
                   <div className="words-produced-by">Produced by
                     <span className="producer">{track.producer}</span></div>
                   <div className="the-word-album">Album
-                    <Link to={'/albums/'+albumId} className="track-show-album-title">{album.title}</Link></div>
+                    <Link to={'/albums/'+album.Id} className="track-show-album-title">{album.title}</Link></div>
                 </div>
               </div>
             </div>

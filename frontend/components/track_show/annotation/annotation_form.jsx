@@ -22,7 +22,6 @@ class AnnotationForm extends React.Component {
   handleSubmit() {
     const annotation = this.state;
     this.props.makeAnnotation({annotation: annotation});
-    console.log("hello");
     this.setState(Object.assign({body: "", start_idx: null, end_idx: null}));
   }
 
