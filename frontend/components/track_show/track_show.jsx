@@ -9,10 +9,16 @@ class TrackShow extends React.Component {
     this.state = {
       start_idx: null,
       end_idx: null,
-      annotations: this.props.annotations
+      annotations: ""
     };
     this.selectLyrics = this.selectLyrics.bind(this);
     this.sumFunctions = this.sumFunctions.bind(this);
+    this.highlightAnnotations = this.highlightAnnotations.bind(this);
+    this.lyricsAreHere = this.theLyricsAreHere.bind(this);
+  }
+
+  theLyricsAreHere(e) {
+    this.theLyricsAreHere = e;
   }
 
   componentDidMount() {
@@ -36,6 +42,17 @@ class TrackShow extends React.Component {
     }
   }
 
+  highlightAnnotations() {
+    let lyrics = document.getElementById("theLyricsAreHere");
+    values(this.props.annotations).map(anno => {
+      let start_idx = anno.start_idx;
+      let end_idx = anno.end_idx;
+      lyrics.innerHTML = lyrics.innerHTML.slice(0, start_idx) +
+      "<span className='highlighted'>" + lyrics.innerHTML.slice(start_idx, end_idx + 1) +
+      "</span>" + lyrics.innerHTML.slice(end_idx + 1);
+    });
+  }
+
   sumFunctions() {
     const trackId = Number(this.props.match.params.trackId);
     this.selectLyrics();
@@ -44,7 +61,6 @@ class TrackShow extends React.Component {
   }
 
   render() {
-    debugger
     if(this.props.track && this.props.album) {
       const track = this.props.track;
       const album = this.props.album;
@@ -69,8 +85,9 @@ class TrackShow extends React.Component {
           </section>
           <section className="track-lyrics">
             <div id="lyrics-container">
-              <p id="the-lyrics-are-here" onMouseUp={this.sumFunctions}>
+              <p ref="theLyricsAreHere" onMouseUp={this.sumFunctions}>
                 {track.lyrics}
+                {this.highlightAnnotations()}
               </p>
             </div>
           </section>

@@ -5,7 +5,6 @@ import { displaySingleAlbum } from '../../actions/album_actions';
 import { closeAnnotation, openAnnotation } from '../../actions/annotation_actions';
 
 const mapStateToProps = ({tracks, albums, annotations}, ownProps) => {
-  debugger
   return({
     track: tracks,
     album: albums[ownProps.match.params.id],

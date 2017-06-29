@@ -20,7 +20,6 @@ const AnnotationReducer = (state = _nullAnnotation, action) => {
     case CLOSE_ANNOTATION:
       return merge({}, state, {annotationComp: null, isOpenAnno: false});
       case RECEIVE_TRACK:
-      debugger
         return action.track.annotations;
     default:
       return state;
