@@ -3,13 +3,15 @@ import React from 'react';
 class Annotation extends React.Component {
   constructor(props) {
     super(props);
+    debugger
   }
 
   render() {
+    debugger
     if (this.props.isOpenAnno) {
       return(
         <div>
-          <div className="annotation-window"
+          <div className="annotation-modal-window"
             onClick={() => this.props.closeAnnotation()}></div>
             <div className="annotation-form-box">
               {this.props.annotationComp}
@@ -18,7 +20,7 @@ class Annotation extends React.Component {
       )
     } else {
         return (
-          <div className="annotation-not-active"></div>
+          <div className="annotation-modal-not-active"></div>
         )
     }
   }

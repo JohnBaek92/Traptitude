@@ -79,11 +79,14 @@
 }
 
 #the-lyrics-are-here {
-  z-index: 9000;
   text-transform: none;
 }
 
-.highlighted {
-  color: red;
-  background: red;
+.regular-lyrics {
+  text-transform: none;
+}
+
+.anno-lyrics {
+  background:	#DCDCDC;
+  text-transform: none;
 }

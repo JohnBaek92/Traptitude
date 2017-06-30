@@ -13,7 +13,7 @@ const _nullAlbum = Object.freeze({
 const AlbumReducer = (state = _nullAlbum, action) => {
   switch(action.type) {
     case RECEIVE_ALBUMS:
-      return merge({}, action.albums);
+      return action.albums;
     case RECEIVE_ALBUM:
       return Object.assign({}, state, {[action.album.id]: action.album});
     default:

@@ -9,10 +9,15 @@ class TrackShow extends React.Component {
     this.state = {
       start_idx: null,
       end_idx: null,
-      annotations: ""
+      location: null,
+      currentAnnotation: null,
+      annotating: false,
+      annoLocation: null
     };
     this.selectLyrics = this.selectLyrics.bind(this);
     this.sumFunctions = this.sumFunctions.bind(this);
+    this.displayAnnotationsAndLyrics = this.displayAnnotationsAndLyrics.bind(this);
+    this.handleAnnoClick = this.handleAnnoClick.bind(this);
   }
 
   componentDidMount() {
@@ -22,28 +27,77 @@ class TrackShow extends React.Component {
     this.props.displaySingleAlbum(albumId);
   }
 
-  selectLyrics() {
-    const trackId = Number(this.props.match.params.trackId);
-
-    let selection = window.getSelection();
-    let trimmedLyrics = selection.toString().trim();
-
-    if(trimmedLyrics.length > 0 && this.props.track) {
-      let track = this.props.track;
-      let start_idx = track.lyrics.indexOf(trimmedLyrics);
-      let end_idx = trimmedLyrics.length + start_idx;
-      this.setState(Object.assign(this.state,{start_idx: start_idx, end_idx: end_idx}));
+  selectLyrics(e) {
+    debugger
+    let selectedLyrics = document.getSelection().toString();
+    let lyrics = document.getSelection()
+    if(selectedLyrics.length > 0 && this.props.track && this.props.session.currentUser) {
+      if(lyrics.anchorNode !== lyrics.focusNode ||
+        (lyrics.anchorNode.parentElement.className === 'anno-lyrics')
+      ) {return;}
+      if(this.state.annotating === true) {
+        this.setState({start_idx: null, end_idx: null,
+          location: null, currentAnnotation: null, annotating: null});
+      }
+      let start_idx = lyrics.anchorOffset;
+      let end_idx = lyrics.focusOffset;
+      let annotatedCheck = lyrics.anchorNode.parentElement;
+      if(start_idx > end_idx) {
+        const temp = start_idx;
+        start_idx = end_idx;
+        end_idx = temp;
+      }
+      debugger
+      // while(annotatedCheck) {
+      //   start_idx += annotatedCheck.previousSibling.innerText.length;
+      //   end_idx += annotatedCheck.previousSibling.innerText.length;
+      //   annotatedCheck = annotatedCheck.previousSibling;
+      // }
+      this.setState({start_idx: start_idx, end_idx: end_idx})
+    } else {
+      this.setState({start_idx: null, end_idx: null, location: null,
+        currentAnnotation: null, annotating: false})
     }
   }
+
+  handleAnnoClick(anno, e){
+   this.setState({currentAnnotation:anno, location: e.pageY});
+ }
+
+  displayAnnotationsAndLyrics () {
+    let lyrics = [];
+    let startIdx = 0;
+    if(Object.keys(this.props.annotations).length !== 0) {
+      values(this.props.annotations).map((anno, idx) => {
+        lyrics.push(<span key={idx} className="regular-lyrics">
+        { this.props.track.lyrics.slice(startIdx, anno.start_idx) }
+      </span>);
+      lyrics.push(
+        <span key={idx + 9000} className="anno-lyrics">
+          {this.props.track.lyrics.slice(anno.start_idx, anno.end_idx+1) }
+        </span>);
+        startIdx = anno.end_idx+1;
+      });
+      lyrics.push(<span key={Math.random() + 4321} className="regular-lyrics">
+      { this.props.track.lyrics.slice(startIdx, this.props.track.lyrics.length) }
+    </span>);
+    } else {
+      lyrics = this.props.track.lyrics;
+    }
+    return lyrics;
+  }
+
 
   sumFunctions() {
     const trackId = Number(this.props.match.params.trackId);
     this.selectLyrics();
+    debugger
     this.props.openAnnotation(<AnnotationForm startIdx={this.state.start_idx}
       endIdx={this.state.end_idx} trackId={trackId}/>)
   }
 
   render() {
+    debugger
     if(this.props.track && this.props.album) {
       const track = this.props.track;
       const album = this.props.album;
@@ -68,8 +122,8 @@ class TrackShow extends React.Component {
           </section>
           <section className="track-lyrics">
             <div id="lyrics-container">
-              <p ref={this.theLyricsAreHere} onMouseUp={this.sumFunctions}>
-                {track.lyrics}
+              <p id="the-lyrics-are-here" onMouseUp={this.sumFunctions}>
+                { this.displayAnnotationsAndLyrics() }
               </p>
             </div>
           </section>
@@ -77,7 +131,7 @@ class TrackShow extends React.Component {
       )
     } else {
       return(
-        <h1 ref={this.theLyricsAreHere}>Loading</h1>
+        <h1>Loading</h1>
       )
     }
   }

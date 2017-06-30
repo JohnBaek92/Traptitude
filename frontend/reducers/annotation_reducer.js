@@ -1,12 +1,8 @@
 import merge from 'lodash/merge';
-import { RECEIVE_ANNOTATION, OPEN_ANNOTATION,
-  CLOSE_ANNOTATION } from '../actions/annotation_actions';
+import { RECEIVE_ANNOTATION } from '../actions/annotation_actions';
 import { RECEIVE_TRACK } from '../actions/track_actions';
 
-const _nullAnnotation = {
-  isOpenAnno: false,
-  annotationComp: null
-};
+const _nullAnnotation = {};
 
 const AnnotationReducer = (state = _nullAnnotation, action) => {
   Object.freeze(state);
@@ -14,13 +10,12 @@ const AnnotationReducer = (state = _nullAnnotation, action) => {
   switch(action.type) {
     case RECEIVE_ANNOTATION:
       return Object.assign({}, state, {[action.annotation.id]: action.annotation});
-    case OPEN_ANNOTATION:
-      annotationComp = action.annotationComp;
-      return merge({}, state, {annotationComp, isOpenAnno: true});
-    case CLOSE_ANNOTATION:
-      return merge({}, state, {annotationComp: null, isOpenAnno: false});
-      case RECEIVE_TRACK:
+    case RECEIVE_TRACK:
+      if(action.track.annotations) {
         return action.track.annotations;
+      } else {
+        return Object.assign({}, state);
+      }
     default:
       return state;
   }
