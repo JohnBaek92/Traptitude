@@ -30,23 +30,24 @@ class TrackShow extends React.Component {
   selectLyrics(e) {
     let selectedLyrics = document.getSelection().toString();
     let lyrics = document.getSelection()
-    if(selectedLyrics.length > 0 && this.props.track && this.props.session.currentUser) {
+    if(selectedLyrics.length > 0 && this.props.session.currentUser) {
       if(lyrics.anchorNode !== lyrics.focusNode ||
         (lyrics.anchorNode.parentElement.className === 'anno-lyrics')
       ) {return;}
       if(this.state.annotating === true) {
         this.setState({start_idx: null, end_idx: null,
           location: null, currentAnnotation: null, annotating: null});
+      } else {
+        let start_idx = lyrics.anchorOffset;
+        let end_idx = lyrics.focusOffset;
+        let annotatedCheck = lyrics.anchorNode.parentElement;
+        if(start_idx > end_idx) {
+          const temp = start_idx;
+          start_idx = end_idx;
+          end_idx = temp;
+          this.setState({start_idx: start_idx, end_idx: end_idx})
+        }
       }
-      let start_idx = lyrics.anchorOffset;
-      let end_idx = lyrics.focusOffset;
-      let annotatedCheck = lyrics.anchorNode.parentElement;
-      if(start_idx > end_idx) {
-        const temp = start_idx;
-        start_idx = end_idx;
-        end_idx = temp;
-      }
-      this.setState({start_idx: start_idx, end_idx: end_idx})
     } else {
       this.setState({start_idx: null, end_idx: null, location: null,
         currentAnnotation: null, annotating: null})
@@ -114,7 +115,7 @@ class TrackShow extends React.Component {
           <section className="track-lyrics">
             <div id="lyrics-container">
               <p id="the-lyrics-are-here" onMouseUp={this.sumFunctions}>
-                { this.displayAnnotationsAndLyrics() }
+                { track.lyrics }
               </p>
             </div>
           </section>
