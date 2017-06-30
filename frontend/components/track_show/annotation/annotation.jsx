@@ -3,11 +3,9 @@ import React from 'react';
 class Annotation extends React.Component {
   constructor(props) {
     super(props);
-    debugger
   }
 
   render() {
-    debugger
     if (this.props.isOpenAnno) {
       return(
         <div>

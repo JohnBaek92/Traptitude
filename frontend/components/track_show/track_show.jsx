@@ -28,7 +28,6 @@ class TrackShow extends React.Component {
   }
 
   selectLyrics(e) {
-    debugger
     let selectedLyrics = document.getSelection().toString();
     let lyrics = document.getSelection()
     if(selectedLyrics.length > 0 && this.props.track && this.props.session.currentUser) {
@@ -47,16 +46,10 @@ class TrackShow extends React.Component {
         start_idx = end_idx;
         end_idx = temp;
       }
-      debugger
-      // while(annotatedCheck) {
-      //   start_idx += annotatedCheck.previousSibling.innerText.length;
-      //   end_idx += annotatedCheck.previousSibling.innerText.length;
-      //   annotatedCheck = annotatedCheck.previousSibling;
-      // }
       this.setState({start_idx: start_idx, end_idx: end_idx})
     } else {
       this.setState({start_idx: null, end_idx: null, location: null,
-        currentAnnotation: null, annotating: false})
+        currentAnnotation: null, annotating: null})
     }
   }
 
@@ -91,13 +84,11 @@ class TrackShow extends React.Component {
   sumFunctions() {
     const trackId = Number(this.props.match.params.trackId);
     this.selectLyrics();
-    debugger
     this.props.openAnnotation(<AnnotationForm startIdx={this.state.start_idx}
       endIdx={this.state.end_idx} trackId={trackId}/>)
   }
 
   render() {
-    debugger
     if(this.props.track && this.props.album) {
       const track = this.props.track;
       const album = this.props.album;
