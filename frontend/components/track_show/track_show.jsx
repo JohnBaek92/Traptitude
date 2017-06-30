@@ -94,6 +94,7 @@ class TrackShow extends React.Component {
       const track = this.props.track;
       const album = this.props.album;
       const photo_shown = track.image_url || album.image_url;
+      debugger
       return(
         <section className="track-show-page">
           <section className="track-background">
@@ -107,7 +108,7 @@ class TrackShow extends React.Component {
                   <div className="words-produced-by">Produced by
                     <span className="producer">{track.producer}</span></div>
                   <div className="the-word-album">Album
-                    <Link to={'/albums/'+album.Id} className="track-show-album-title">{album.title}</Link></div>
+                    <Link to={'/albums/'+album.id} className="track-show-album-title">{album.title}</Link></div>
                 </div>
               </div>
             </div>
