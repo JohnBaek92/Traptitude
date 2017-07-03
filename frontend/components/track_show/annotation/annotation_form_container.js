@@ -1,6 +1,6 @@
 import { connect } from 'react-redux';
 import AnnotationForm from './annotation_form';
-import { makeAnnotation } from '../../../actions/annotation_actions';
+import { makeAnnotation, closeAnnotation } from '../../../actions/annotation_actions';
 
 const mapStateToProps = ({session}) => {
   return {
@@ -10,7 +10,8 @@ const mapStateToProps = ({session}) => {
 
 const mapDispatchToProps = (dispatch) => {
   return ({
-    makeAnnotation: (annotation) => dispatch(makeAnnotation(annotation))
+    makeAnnotation: (annotation) => dispatch(makeAnnotation(annotation)),
+    closeAnnotation: () => dispatch(closeAnnotation())
   });
 };
 

@@ -12,3 +12,9 @@ export const displayTrack = (id) => dispatch => (
     dispatch(receiveTrack(track))
   ))
 );
+
+export const createTrack = (track) => dispatch => (
+  APIUtil.createTrack(track).then(track => (
+    dispatch(receiveTrack(track))
+  ))
+);

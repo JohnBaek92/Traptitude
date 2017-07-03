@@ -67,7 +67,7 @@ class Header extends React.Component {
         <a id="top-tracks" href="#top-tracks">Top Tracks</a>
         <span id="first-bar">|</span>
         <Link id="forums" to="/forums">Forums</Link>
-        <Link id="add-track" to="/new-track">Add Track</Link>
+        <Link id="add-album" to="/add-album">Add Album</Link>
         <span id="second-bar">|</span>
         <a id="linkedin-icon" href="https://www.linkedin.com/in/john-baek-49b6114a/"
           target="_blank"><LinkedIN size={25} /></a>

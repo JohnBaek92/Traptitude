@@ -18,7 +18,7 @@
   track {
     1: {
       album_id: 1
-      title: "the first track",
+      track_title: "the first track",
       features: "Mario",
       producer: "Princess Peach",
       lyrics: {

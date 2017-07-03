@@ -4,9 +4,19 @@ class Api::AlbumsController < ApplicationController
     render "/api/albums/index"
   end
 
+  def create
+    @album = Album.new(album_params)
+
+    if @album.save
+      render "api/albums/show"
+    else
+      render json: @album.errors.full_messages, status: 422
+    end
+  end
+
   def show
     @album = Album.find(params[:id])
-    
+
     if @album
       render "api/albums/show"
     else
