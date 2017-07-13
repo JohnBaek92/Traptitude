@@ -11,6 +11,8 @@ class UserForm extends React.Component {
     };
     this.handleSubmit = this.handleSubmit.bind(this);
     this.handleGuestLogin = this.handleGuestLogin.bind(this);
+    this.clearErrorsAndSwitchToSignInForm = this.clearErrorsAndSwitchToSignInForm.bind(this);
+    this.clearErrorsAndSwitchToSignUpForm = this.clearErrorsAndSwitchToSignUpForm.bind(this);
   }
 
   update(field) {
@@ -93,13 +95,23 @@ class UserForm extends React.Component {
       );
   }
 
+  clearErrorsAndSwitchToSignInForm() {
+    this.props.switchToSignInForm();
+    this.props.clearErrors();
+  }
+
+  clearErrorsAndSwitchToSignUpForm() {
+    this.props.switchToSignUpForm();
+    this.props.clearErrors();
+  }
+
   footer() {
     if (this.props.formType === 'signUp') {
       return(
         <div className="sign-up-footer">
           <input className="submit-button" type="submit" value="Sign Up" />
           <div className="switch-sign-in"
-            onClick={this.props.switchToSignInForm}>
+            onClick={this.clearErrorsAndSwitchToSignInForm}>
             already have an account? sign in here
           </div>
         </div>
@@ -110,7 +122,7 @@ class UserForm extends React.Component {
           <input className="submit-button" type="submit" value="Sign In" />
           <button className="guest-login" onClick={(e) => this.handleGuestLogin(e)}>Guest</button>
           <div className="switch-sign-up"
-            onClick={this.props.switchToSignUpForm}>
+            onClick={this.clearErrorsAndSwitchToSignUpForm}>
             create an account
           </div>
         </div>

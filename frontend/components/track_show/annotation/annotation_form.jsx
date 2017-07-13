@@ -32,7 +32,6 @@ class AnnotationForm extends React.Component {
   // }
 
   handleSubmit() {
-    debugger
     const annotation = this.state;
     this.props.makeAnnotation({annotation: annotation});
     this.setState(Object.assign({body: "", start_idx: null, end_idx: null}));
@@ -40,7 +39,6 @@ class AnnotationForm extends React.Component {
   }
 
   render() {
-    console.log('render annotation modal')
     return(
       <form onSubmit={this.handleSubmit}>
         <h1>annotation</h1>
