@@ -12,6 +12,7 @@ export const openAnnotation = (annotationComp) => {
 };
 
 export const closeAnnotation = (annotationComp) => {
+  debugger
   return {
     type: CLOSE_ANNOTATION,
     annotationComp: null

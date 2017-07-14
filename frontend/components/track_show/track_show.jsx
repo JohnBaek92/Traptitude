@@ -25,6 +25,7 @@ class TrackShow extends React.Component {
   }
 
   selectLyrics(e) {
+    
     this.props.closeAnnotation();
     let selectedLyrics = document.getSelection().toString();
     let lyrics = document.getSelection();
@@ -33,11 +34,12 @@ class TrackShow extends React.Component {
       if(lyrics.anchorNode !== lyrics.focusNode ||
         (lyrics.anchorNode.parentElement.className === 'anno-lyrics')
       ) {return;}
-      if(this.state.annotating === true) {
-        this.setState({start_idx: null, end_idx: null,
-          location: null, currentAnnotation: null, annotating: null});
-        this.props.closeAnnotation();
-      } else {
+      // if(this.state.annotating === true) {
+      //   this.setState({start_idx: null, end_idx: null,
+      //     location: null, currentAnnotation: null, annotating: null});
+      //   this.props.closeAnnotation();
+      // }
+       else {
         let start_idx = lyrics.anchorOffset;
         let end_idx = lyrics.focusOffset;
         if(start_idx > end_idx) {
@@ -52,6 +54,7 @@ class TrackShow extends React.Component {
           offset = offset.previousSibling;
         }
         const trackId = Number(this.props.match.params.trackId);
+
         this.props.openAnnotation(<AnnotationForm startIdx={start_idx}
           endIdx={end_idx} trackId={trackId} location={((this.state.startLocation+endLocation)/2)-99}/>);
       }
@@ -62,7 +65,6 @@ class TrackShow extends React.Component {
   }
 
   getStartLocation(e) {
-    debugger
     let startLocation = e.pageY
     this.setState({startLocation: startLocation})
   }
