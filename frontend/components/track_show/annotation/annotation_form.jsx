@@ -4,9 +4,9 @@ import ReactQuill from 'react-quill';
 class AnnotationForm extends React.Component {
   constructor(props) {
     super(props);
-    console.log('annotation constructor');
     this.state = {
       body: '',
+      location: this.props.location,
       start_idx: this.props.startIdx,
       end_idx: this.props.endIdx,
       user_id: this.props.session.currentUser.id,
@@ -14,22 +14,12 @@ class AnnotationForm extends React.Component {
     };
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
+    this.closeAnnotationAndClearSelection = this.closeAnnotationAndClearSelection.bind(this);
   }
 
   handleChange(value) {
     this.setState({ body: value});
   }
-
-  componentDidMount() {
-    debugger
-  }
-
-  // componentWillReceiveProps(nextProps) {
-  //   debugger
-  //   if((this.props.start_idx !== nextProps.start_idx && (this.props.end_idx !== nextProps.end_idx))) {
-  //     this.setState({start_idx: nextProps.start_idx, end_idx: nextProps.end_idx});
-  //   }
-  // }
 
   handleSubmit() {
     const annotation = this.state;
@@ -38,18 +28,43 @@ class AnnotationForm extends React.Component {
     this.props.closeAnnotation();
   }
 
+  closeAnnotationAndClearSelection() {
+    this.props.closeAnnotation();
+    window.getSelection().removeAllRanges();
+  }
+
   render() {
+    let style = {
+      zIndex: 3,
+      position: 'absolute',
+      right: "7em",
+      top: this.state.location+"px",
+      width: "21em"
+    };
     return(
-      <form onSubmit={this.handleSubmit}>
-        <h1>annotation</h1>
-        <ReactQuill theme='bubble'
-          onChange={this.handleChange}
-          value={this.state.body}
-          placeHolder='Create Annotation'>
-          <div className="create-annotation-text-area"></div>
-        </ReactQuill>
-        <input type="submit" value="Submit" />
-      </form>
+      <section style={style}>
+        <div className="purple-anno-arrow">
+          <div className="line-one-anno">|</div>
+          <div className="line-two-anno">|</div>
+          <div className="less-than-for-annotation">{"<"}</div>
+          <div className="line-three-anno">|</div>
+          <div className="line-four-anno">|</div>
+          <div className="line-five-anno">|</div>
+        </div>
+        <form onSubmit={this.handleSubmit}>
+          <div className="quill-container">
+            <ReactQuill theme='bubble'
+              onChange={this.handleChange}
+              value={this.state.body}
+              placeholder="Don't just put the lyric in your own words-drop some knowledge!">
+              <div className="create-annotation-text-area"></div>
+            </ReactQuill>
+          </div>
+          <hr />
+          <input className="annotation-submit-button" type="submit" value="Save" />
+        </form>
+        <button onClick={this.closeAnnotationAndClearSelection}>Cancel</button>
+      </section>
     )
   }
 }

@@ -54,7 +54,7 @@
 
 .producer {
   padding-left: .5em;
-  color: #cc99ff;
+  color: #99a7ee;
 }
 
 .the-word-album {
@@ -65,13 +65,15 @@
 
 .track-show-album-title {
   padding-left: .5em;
-  color: #cc99ff;
+  color: #99a7ee;
 }
 
 .track-lyrics {
-  margin-left: 2em;
+  margin-left: 10%;
   padding-top: 1.5em;
   padding-bottom: 1.5em;
+  background: white;
+  width: 81.9%;
 }
 
 #lyrics-container {
@@ -80,6 +82,8 @@
 
 #the-lyrics-are-here {
   text-transform: none;
+  width: 69%;
+  padding-left: 1%;
 }
 
 .regular-lyrics {

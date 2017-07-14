@@ -7,16 +7,14 @@ class TrackShow extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      start_idx: null,
-      end_idx: null,
-      location: null,
+      startLocation: "",
+      endLocation: "",
       currentAnnotation: null,
       annotating: false,
-      annoLocation: null
     };
     this.selectLyrics = this.selectLyrics.bind(this);
     this.displayAnnotationsAndLyrics = this.displayAnnotationsAndLyrics.bind(this);
-    this.handleAnnoClick = this.handleAnnoClick.bind(this);
+    this.getStartLocation = this.getStartLocation.bind(this);
   }
 
   componentDidMount() {
@@ -27,9 +25,10 @@ class TrackShow extends React.Component {
   }
 
   selectLyrics(e) {
-    debugger
+    this.props.closeAnnotation();
     let selectedLyrics = document.getSelection().toString();
-    let lyrics = document.getSelection()
+    let lyrics = document.getSelection();
+    let endLocation = e.pageY;
     if(selectedLyrics.length > 0 && this.props.session.currentUser) {
       if(lyrics.anchorNode !== lyrics.focusNode ||
         (lyrics.anchorNode.parentElement.className === 'anno-lyrics')
@@ -54,21 +53,21 @@ class TrackShow extends React.Component {
         }
         const trackId = Number(this.props.match.params.trackId);
         this.props.openAnnotation(<AnnotationForm startIdx={start_idx}
-          endIdx={end_idx} trackId={trackId}/>)
+          endIdx={end_idx} trackId={trackId} location={((this.state.startLocation+endLocation)/2)-99}/>);
       }
     } else {
       this.setState({start_idx: null, end_idx: null, location: null,
         currentAnnotation: null, annotating: null})
     }
-
   }
 
-  handleAnnoClick(anno, e){
-   this.setState({currentAnnotation:anno, location: e.pageY});
- }
+  getStartLocation(e) {
+    debugger
+    let startLocation = e.pageY
+    this.setState({startLocation: startLocation})
+  }
 
   displayAnnotationsAndLyrics () {
-    debugger
     let lyrics = [];
     let startIdx = 0;
     if(Object.keys(this.props.annotations).length !== 0) {
@@ -79,7 +78,7 @@ class TrackShow extends React.Component {
           </span>
         );
         lyrics.push(
-          <span key={idx + 9000} className="anno-lyrics">
+          <span key={idx + 9000} className={"anno-lyrics"}>
             {this.props.track.lyrics.slice(anno.start_idx, anno.end_idx) }
           </span>
         );
@@ -101,7 +100,6 @@ class TrackShow extends React.Component {
       const track = this.props.track;
       const album = this.props.album;
       const photo_shown = track.image_url || album.image_url;
-      debugger
       return(
         <section className="track-show-page">
           <section className="track-background">
@@ -123,7 +121,7 @@ class TrackShow extends React.Component {
           <section className="track-lyrics">
             <div id="lyrics-container">
               <div id="the-lyrics-are-here">
-                <p id="the-lyrics-are-here" onMouseUp={this.selectLyrics}>
+                <p id="the-lyrics-are-here" onMouseDown={this.getStartLocation} onMouseUp={this.selectLyrics}>
                   { this.displayAnnotationsAndLyrics() }
                 </p>
               </div>
