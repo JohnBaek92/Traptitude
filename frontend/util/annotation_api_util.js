@@ -1,7 +1,21 @@
 export const fetchAnnotation = (id) => {
   return $.ajax({
     method: 'GET',
-    url: `api/annotations/${id}`,
+    url: `api/annotations/${id}?`,
+  });
+};
+
+export const fetchAllAnnotation = () => {
+  return $.ajax({
+    method: 'GET',
+    url: `api/annotations/`
+  });
+};
+
+export const fetchAnnotationByCharNum = (charnum, albumname) => {
+  return $.ajax({
+    method: 'GET',
+    url: `api/annotations?charnum=${charnum}&name=${albumname}`
   });
 };
 

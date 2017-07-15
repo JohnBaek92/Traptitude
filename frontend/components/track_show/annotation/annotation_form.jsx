@@ -61,6 +61,7 @@ class AnnotationForm extends React.Component {
           <div className="line-three-anno">|</div>
           <div className="line-four-anno">|</div>
           <div className="line-five-anno">|</div>
+          <div className="line-six-anno">|</div>
         </div>
         <form onSubmit={this.handleSubmit}>
           <div className="quill-container">
@@ -72,9 +73,11 @@ class AnnotationForm extends React.Component {
             </ReactQuill>
           </div>
           <hr />
-          <input className="annotation-submit-button" type="submit" value="Save" />
+          <div>
+            <input className="annotation-submit-button" type="submit" value="Save" />
+            <button className="cancel-anno-button" onClick={this.closeAnnotationAndClearSelection}>Cancel</button>
+          </div>
         </form>
-        <button onClick={this.closeAnnotationAndClearSelection}>Cancel</button>
       </section>
     )
   }

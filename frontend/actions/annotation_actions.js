@@ -2,7 +2,7 @@ import * as APIUtil from '../util/annotation_api_util';
 
 export const OPEN_ANNOTATION = "OPEN_ANNOTATION";
 export const CLOSE_ANNOTATION = "CLOSE_ANNOTATION";
-export const RECEIVE_ANNOTATION = "RECEIVE_ANNOTATION"
+export const RECEIVE_ANNOTATION = "RECEIVE_ANNOTATION";
 
 export const openAnnotation = (annotationComp) => {
   return {
@@ -12,7 +12,6 @@ export const openAnnotation = (annotationComp) => {
 };
 
 export const closeAnnotation = (annotationComp) => {
-  debugger
   return {
     type: CLOSE_ANNOTATION,
     annotationComp: null

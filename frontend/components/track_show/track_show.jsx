@@ -25,7 +25,6 @@ class TrackShow extends React.Component {
   }
 
   selectLyrics(e) {
-    
     this.props.closeAnnotation();
     let selectedLyrics = document.getSelection().toString();
     let lyrics = document.getSelection();
@@ -34,12 +33,8 @@ class TrackShow extends React.Component {
       if(lyrics.anchorNode !== lyrics.focusNode ||
         (lyrics.anchorNode.parentElement.className === 'anno-lyrics')
       ) {return;}
-      // if(this.state.annotating === true) {
-      //   this.setState({start_idx: null, end_idx: null,
-      //     location: null, currentAnnotation: null, annotating: null});
-      //   this.props.closeAnnotation();
-      // }
-       else {
+      else {
+        debugger
         let start_idx = lyrics.anchorOffset;
         let end_idx = lyrics.focusOffset;
         if(start_idx > end_idx) {
@@ -54,7 +49,6 @@ class TrackShow extends React.Component {
           offset = offset.previousSibling;
         }
         const trackId = Number(this.props.match.params.trackId);
-
         this.props.openAnnotation(<AnnotationForm startIdx={start_idx}
           endIdx={end_idx} trackId={trackId} location={((this.state.startLocation+endLocation)/2)-99}/>);
       }
@@ -69,11 +63,20 @@ class TrackShow extends React.Component {
     this.setState({startLocation: startLocation})
   }
 
+  sortAnno(a, b) {
+    if(a.start_idx < b.start_idx) {
+      return -1;
+    } else {
+      return 1;
+    }
+  }
+
   displayAnnotationsAndLyrics () {
     let lyrics = [];
     let startIdx = 0;
     if(Object.keys(this.props.annotations).length !== 0) {
-      values(this.props.annotations).map((anno, idx) => {
+      let annoArray = values(this.props.annotations)
+      annoArray.sort(this.sortAnno).map((anno, idx) => {
         lyrics.push(
           <span key={idx} className="regular-lyrics">
             { this.props.track.lyrics.slice(startIdx, anno.start_idx) }

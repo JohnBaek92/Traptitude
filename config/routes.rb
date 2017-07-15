@@ -6,6 +6,6 @@ Rails.application.routes.draw do
     resources :users, only: [:create]
     resources :albums, only: [:index, :show, :create]
     resources :tracks, only: [:show, :create]
-    resources :annotations, only: [:show, :create, :destroy, :update]
+    resources :annotations, only: [:show, :create, :destroy, :update, :index]
   end
 end

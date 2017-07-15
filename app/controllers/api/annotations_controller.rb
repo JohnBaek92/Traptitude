@@ -1,4 +1,9 @@
 class Api::AnnotationsController < ApplicationController
+  def index
+    @annotations = Annotation.all
+    render "api/annotations/index"
+  end
+
   def create
     @annotation = Annotation.new(annotation_params)
 
