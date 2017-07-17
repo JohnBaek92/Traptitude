@@ -1,11 +1,12 @@
 import React from 'react';
 
-class Annotation extends React.Component {
+class AnnotationModal extends React.Component {
   constructor(props) {
     super(props);
   }
 
   render() {
+    debugger
     if (this.props.isOpenAnno) {
       return(
         <div>
@@ -23,4 +24,4 @@ class Annotation extends React.Component {
   }
 }
 
-export default Annotation;
+export default AnnotationModal;

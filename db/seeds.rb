@@ -70,7 +70,7 @@ tracks = Track.create([{
   album_id: Album.find_by_title("DAMN.").id,
   title: "BLOOD.",
   features: "",
-  producer: ["Bēkon", "Anthony \"Top Dawg\" Tiffith"],
+  producer: "Bēkon & Anthony \"Top Dawg\" Tiffith",
   lyrics: "[Intro: Bēkon]
 Is it wickedness?
 Is it weakness?
@@ -103,7 +103,7 @@ Oh please, ugh, I don't like it."
   album_id: Album.find_by_title("DAMN.").id,
   title: "DNA.",
   features: "",
-  producer: ["Mike WiLL Made-It"],
+  producer: "Mike WiLL Made-It",
   lyrics: "[Verse 1]
 I got, I got, I got, I got
 Loyalty, got royalty inside my DNA

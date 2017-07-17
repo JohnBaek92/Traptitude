@@ -2,6 +2,7 @@ import React from 'react';
 import { values } from 'lodash';
 import { Link } from 'react-router-dom';
 import AnnotationForm from './annotation/annotation_form_container';
+import AnnotationShow from './annotation/annotation_show_container';
 
 class TrackShow extends React.Component {
   constructor(props) {
@@ -15,6 +16,7 @@ class TrackShow extends React.Component {
     this.selectLyrics = this.selectLyrics.bind(this);
     this.displayAnnotationsAndLyrics = this.displayAnnotationsAndLyrics.bind(this);
     this.getStartLocation = this.getStartLocation.bind(this);
+    this.selectLyric = this.selectLyric.bind(this);
   }
 
   componentDidMount() {
@@ -34,7 +36,6 @@ class TrackShow extends React.Component {
         (lyrics.anchorNode.parentElement.className === 'anno-lyrics')
       ) {return;}
       else {
-        debugger
         let start_idx = lyrics.anchorOffset;
         let end_idx = lyrics.focusOffset;
         if(start_idx > end_idx) {
@@ -71,6 +72,14 @@ class TrackShow extends React.Component {
     }
   }
 
+  selectLyric(e, anno){
+    e.preventDefault();
+    e.stopPropagation();
+    debugger
+    let location = e.pageY - 100;
+    this.props.openAnnotation(<AnnotationShow anno={anno} location={location}/>)
+  }
+
   displayAnnotationsAndLyrics () {
     let lyrics = [];
     let startIdx = 0;
@@ -83,7 +92,7 @@ class TrackShow extends React.Component {
           </span>
         );
         lyrics.push(
-          <span key={idx + 9000} className={"anno-lyrics"}>
+          <span key={idx + 9000} className={"anno-lyrics"} onClick={(e) => this.selectLyric(e, anno)}>
             {this.props.track.lyrics.slice(anno.start_idx, anno.end_idx) }
           </span>
         );
