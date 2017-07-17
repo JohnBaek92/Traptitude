@@ -6,6 +6,7 @@ class AnnotationShow extends React.Component {
     super(props);
     debugger
     this.state = {
+      user_id: this.props.session.currentUser.id,
       body: this.props.anno.body,
       location: this.props.location
     };
@@ -37,6 +38,7 @@ class AnnotationShow extends React.Component {
             value={this.state.body}>
           </ReactQuill>
         </div>
+        <button></button>
     </section>
     )
   }

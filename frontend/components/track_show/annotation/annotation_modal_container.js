@@ -2,10 +2,10 @@ import { connect } from 'react-redux';
 import Annotation from './annotation_modal';
 import { closeAnnotation } from '../../../actions/annotation_actions';
 
-const mapStateToProps = (state) => {
+const mapStateToProps = ({annotationModal}) => {
   return {
-    isOpenAnno: state.annotationModal.isOpenAnno,
-    annotationComp: state.annotationModal.annotationComp
+    isOpenAnno: annotationModal.isOpenAnno,
+    annotationComp: annotationModal.annotationComp
   };
 };
 

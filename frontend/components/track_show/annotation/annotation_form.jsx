@@ -34,8 +34,8 @@ class AnnotationForm extends React.Component {
   }
 
   componentWillReceiveProps(nextProps) {
-      if (this.state.location !== nextProps.location) {
-        this.setState({
+    if (this.state.location !== nextProps.location) {
+      this.setState({
         location: nextProps.location,
         start_idx: nextProps.startIdx,
         end_idx: nextProps.endIdx,

@@ -12,6 +12,7 @@ class TrackShow extends React.Component {
       endLocation: "",
       currentAnnotation: null,
       annotating: false,
+      annotations: props.annotations
     };
     this.selectLyrics = this.selectLyrics.bind(this);
     this.displayAnnotationsAndLyrics = this.displayAnnotationsAndLyrics.bind(this);
