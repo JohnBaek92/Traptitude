@@ -6,17 +6,16 @@ import { closeAnnotation, openAnnotation } from '../../actions/annotation_action
 import { values } from 'lodash';
 
 const mapStateToProps = ({tracks, albums, annotations, session}, ownProps) => {
-  // let trackAnno = [];
-  // values(annotations).forEach(anno => {
-  //   debugger
-  //   if(tracks.id === anno.track_id) {
-  //     trackAnno.push(anno);
-  //   }
-  // });
+  let trackAnno = [];
+  values(annotations).forEach(anno => {
+    if(tracks.id === anno.track_id) {
+      trackAnno.push(anno);
+    }
+  });
   return({
     track: tracks,
     album: albums[ownProps.match.params.id],
-    annotations: annotations,
+    annotations: trackAnno,
     session
   });
 };

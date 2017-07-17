@@ -214,7 +214,7 @@ Ain't no ho inside my DNA"
   album_id: Album.find_by_title("DAMN.").id,
   title: "YAH.",
   features: "",
-  producer: ["Anthony \"Top Dawg\" Tiffith", "Sounwave", "DJ DAHI"],
+  producer: "Anthony \"Top Dawg\" Tiffith, Sounwave & DJ DAHI",
   lyrics: "[Intro: Kid Capri]
 New shit, new Kung Fu Kenny
 
@@ -266,7 +266,7 @@ Yah, yah, yah, yah, yah, yah"
   album_id: Album.find_by_title("DAMN.").id,
   title: "ELEMENT.",
   features: "",
-  producer: ["James Blake", "Sounwave" , "Ricci Riera"],
+  producer: "James Blake, Sounwave & Ricci Riera",
   lyrics: "[Intro: Kid Capri & Kendrick Lamar]
 New Kung Fu Kenny
 Ain't nobody prayin' for me
@@ -359,7 +359,7 @@ Nah, take me out my element"
   album_id: Album.find_by_title("DAMN.").id,
   title: "FEEL.",
   features: "",
-  producer: ["Soundwave"],
+  producer: "Soundwave",
   lyrics: "[Intro: Kendrick Lamar & Chelsea Blythe]
 Ain't nobody prayin' for me
 Ain't nobody prayin' for me
@@ -451,7 +451,7 @@ Ain't nobody prayin'"
   album_id: Album.find_by_title("DAMN.").id,
   title: "LOYALTY.",
   features: "Rihanna",
-  producer: ["Anthony \"Top Dawg\" Tiffith", "Terrace Martin", "Sounwave", "DJ Dahi"],
+  producer: "Anthony \"Top Dawg\" Tiffith, Terrace Martin, Sounwave & DJ Dahi",
   lyrics: "[Intro: Mr. Talkbox]
 
 [Pre-Chorus: DJ Dahi]
@@ -561,7 +561,7 @@ Lord knows I'm dyin', baby"
   album_id: Album.find_by_title("DAMN.").id,
   title: "PRIDE.",
   features: "",
-  producer: ["Anthony \"Top Dawg\" Tiffith", "Steve Lacy"],
+  producer: "Anthony \"Top Dawg\" Tiffith & Steve Lacy",
   lyrics: "[Intro: Bēkon]
 Love's gonna get you killed
 But pride’s gonna be the death of you and you and me
@@ -641,7 +641,7 @@ Maybe I wasn't there"
   album_id: Album.find_by_title("DAMN.").id,
   title: "HUMBLE.",
   features: "",
-  producer: ["Mike WiLL Made-It"],
+  producer: "Mike WiLL Made-It",
   lyrics: "[Video Intro]
 
 Wicked or weakness?
@@ -728,7 +728,7 @@ Sit down (hol' up, hol' up, hol' up, hol' up)"
   album_id: Album.find_by_title("DAMN.").id,
   title: "LUST.",
   features: "",
-  producer: ["BADBADNOTGOOD", "Sounwave", "DJ DAHI"],
+  producer: "BADBADNOTGOOD, Sounwave & DJ DAHI",
   lyrics: "[Chorus: Kendrick Lamar]
 I need some water
 Somethin' came over me
@@ -852,7 +852,7 @@ She said, \"It's okay.\""
   album_id: Album.find_by_title("DAMN.").id,
   title: "LOVE.",
   features: "Zacari",
-  producer: ["Anthony \"Top Dawg\" Tiffith", "Greg Kurstin", "Sounwave", "Teddy Walton"],
+  producer: "Anthony \"Top Dawg\" Tiffith, Greg Kurstin, Sounwave & Teddy Walton",
   lyrics: "[Streaming Intro: Kendrick Lamar]
 Damn, love or lust
 Damn, all of us
@@ -960,7 +960,7 @@ Love me, just love me"
   album_id: Album.find_by_title("DAMN.").id,
   title: "XXX.",
   features: "U2",
-  producer: ["Anthony \"Top Dawg\" Tiffith", "DJ Dahi", "Sounwave", "Mike WiLL Made-It"],
+  producer: "Anthony \"Top Dawg\" Tiffith, DJ Dahi, Sounwave & Mike WiLL Made-It",
   lyrics: "[Intro: Bēkon & Kid Capri]
 America, God bless you if it's good to you
 America, please take my hand
@@ -1054,7 +1054,7 @@ You close your eyes to look ar—"
   album_id: Album.find_by_title("DAMN.").id,
   title: "FEAR.",
   features: "",
-  producer: ["The Alchemist"],
+  producer: "The Alchemist",
   lyrics: "[Intro]
 Poverty's paradise
 I don’t think I could find a way to make it on this earth
@@ -1222,8 +1222,8 @@ I love you, son, and I pray for you. God bless you, shalom."
   album_id: Album.find_by_title("DAMN.").id,
   title: "GOD.",
   features: "",
-  producer: ["Bekon", "Yung Exclusive", "Anthony \"Top Dawg\" Tiffith", "Cardo", "Sounwave",
-  "Ricci Riera", "DJ Dahi"],
+  producer: "Bekon, Yung Exclusive, Anthony \"Top Dawg\" Tiffith, Cardo, Sounwave,
+  Ricci Riera & DJ Dahi",
   lyrics: "[Chorus]
 This what God feel like, huh, yeah
 Laughin' to the bank like, \"A-ha!\", huh, yeah
@@ -1304,7 +1304,7 @@ This what God feel like"
   album_id: Album.find_by_title("DAMN.").id,
   title: "DUCKWORTH.",
   features: "",
-  producer: ["9th Wonder"],
+  producer: "9th Wonder",
   lyrics: "[Intro: Bēkon & Kid Capri]
 It was always me vs the world
 Until I found it's me vs me
@@ -1400,7 +1400,7 @@ So, I was takin' a walk the other day…"
   album_id: Album.find_by_title("The Infamous").id,
   title: "The Start of Your Ending (41st Side)",
   features: "",
-  producer: ["Mobb Deep"],
+  producer: "Mobb Deep",
   lyrics: "[Intro: Havoc]
 You knowhatI'msayin'?
 I wanna say what's up to my man
@@ -1511,7 +1511,7 @@ Word up youknowhatI'msayin'?"
   album_id: Album.find_by_title("The Infamous").id,
   title: "The Infamous Prelude",
   features: "Prodigy of Mobb Deep",
-  producer: ["Mobb Deep"],
+  producer: "Mobb Deep",
   lyrics: "Yeah yeah yeah
 Yeah yeah yeah
 Hold the fuck up
@@ -1609,7 +1609,7 @@ Ya'll can continue on"
   album_id: Album.find_by_title("The Infamous").id,
   title: "Surival of the Fittest",
   features: "",
-  producer: ["Havoc"],
+  producer: "Havoc",
   lyrics: "[Intro: Prodigy]
 Yeah, sendin' this one out
 To my man Killa B
@@ -1718,7 +1718,7 @@ Nomsayin? Mobb Deep and all that"
   album_id: Album.find_by_title("The Infamous").id,
   title: "Eye for a Eye (Your Beef Is Mines)",
   features: "Raekwon & Nas",
-  producer: ["Havoc"],
+  producer: "Havoc",
   lyrics: "[Chorus]
 As time goes by, an eye for an eye
 We in this together son your beef is mines
@@ -1836,7 +1836,7 @@ For yo' nation, YEAH!"
   album_id: Album.find_by_title("The Infamous").id,
   title: "Just Step Prelude",
   features: "Big Noyd",
-  producer: ["Mobb Deep"],
+  producer: "Mobb Deep",
   lyrics: "[Big Noyd]
 Sometimes I wish I had three different faces
 I'm going to court for three cases in three places
@@ -1868,7 +1868,7 @@ Reclined, and still came home with his shine"
   album_id: Album.find_by_title("The Infamous").id,
   title: "Give Up The Goods (Just Step)",
   features: "Big Noyd",
-  producer: ["Q-Tip"],
+  producer: "Q-Tip",
   lyrics: "[Verse 1: Prodigy]
 Ayo, Queens get the Money long time no cash
 I'm caught up in the hustle when the guns go blast
@@ -1966,7 +1966,7 @@ And sticking up the stick-up kids"
   album_id: Album.find_by_title("The Infamous").id,
   title: "Temperature's Rising",
   features: "Crystal Johnson",
-  producer: ["Havoc & Q-Tip"],
+  producer: "Havoc & Q-Tip",
   lyrics: "[Havoc]
 Word up, son, I heard they got you on the run
 For a body - now it's time to stash the guns
@@ -2042,7 +2042,7 @@ But still, but still, but still...
   album_id: Album.find_by_title("The Infamous").id,
   title: "Up North Trip",
   features: "",
-  producer: ["Havoc"],
+  producer: "Havoc",
   lyrics: "[Verse One: Prodigy]
 It all began on the street, to the back of a blue police vehicle
 Next come the bookings, the way things is lookin
@@ -2143,7 +2143,7 @@ A lesson that you can't live without
   album_id: Album.find_by_title("The Infamous").id,
   title: "Trife Life",
   features: "",
-  producer: ["Havoc"],
+  producer: "Havoc",
   lyrics: "[Verse 1: Prodigy]
 It's just another day, drowning my troubles with a forty
 That's when I got the call from this brown skin shorty
@@ -2248,7 +2248,7 @@ What can kill you is what you don't know"
   album_id: Album.find_by_title("The Infamous").id,
   title: "Q.U.-Hectic",
   features: "",
-  producer: ["Havoc"],
+  producer: "Havoc",
   lyrics: "[Intro]
 Fuck it kid, whattup Queens in this motherfucker
 (Tell you I'm bangin tonight kid)
@@ -2382,7 +2382,7 @@ KnowhatI'msayin? Party UHH"
   album_id: Album.find_by_title("The Infamous").id,
   title: "Right Back At You",
   features: "Big Noyd, Raekwon, & Ghostface Killah",
-  producer: ["Havoc"],
+  producer: "Havoc",
   lyrics: "[Intro: Havoc]
 Now, '94 to '95, innocent without crime
 Drop that shit
@@ -2479,7 +2479,7 @@ Thug selling drugs, busting slugs, but he ain't crazy"
   album_id: Album.find_by_title("The Infamous").id,
   title: "The Grave Prelude",
   features: "",
-  producer: ["Mobb Deep"],
+  producer: "Mobb Deep",
   lyrics: "[Raindrops]
 [6 shots]
 [Lightning]
@@ -2508,7 +2508,7 @@ Cradle to the grave... (Word up, you aight?) [ambulance sirens]"
   album_id: Album.find_by_title("The Infamous").id,
   title: "Cradle to the Grave",
   features: "",
-  producer: ["Havoc"],
+  producer: "Havoc",
   lyrics: "[Verse 1: Prodigy]
 Forever wild from the cradle to the grave, kid watch your back
 One time's comin' always (Yeah), they lock me up for 12 days
@@ -2616,7 +2616,7 @@ It's for real,kid,no games bein played"
   album_id: Album.find_by_title("The Infamous").id,
   title: "Drink Away the Pain (Situations)",
   features: "Q-Tip",
-  producer: ["Q-Tip"],
+  producer: "Q-Tip",
   lyrics: "[Intro-Prodigy]
 Yeah, about to get my thug on
 The 41st side of things
@@ -2725,7 +2725,7 @@ I sip away on the liquor, and drink away the pain"
   album_id: Album.find_by_title("The Infamous").id,
   title: "Shook Ones Part II",
   features: "",
-  producer: ["Havoc"],
+  producer: "Havoc",
   lyrics: "[Intro]
 Word up, son, word, yeah
 To all the killers and a hundred dollar billers
@@ -2831,7 +2831,7 @@ Queens get the money"
   album_id: Album.find_by_title("The Infamous").id,
   title: "Party Over",
   features: "Ty Nitty & Big Noyd",
-  producer: ["Havoc"],
+  producer: "Havoc",
   lyrics: "[Intro] x3
 Whatever? Party's over tell the rest of the crew
 Yo P, it's on you, what you wanna do?
