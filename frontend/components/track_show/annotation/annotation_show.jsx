@@ -6,7 +6,7 @@ class AnnotationShow extends React.Component {
     super(props);
     debugger
     this.state = {
-      user_id: this.props.session.currentUser.id,
+      user_id: this.props.session.currentUser ? this.props.session.currentUser.id : null,
       body: this.props.anno.body,
       location: this.props.location
     };
