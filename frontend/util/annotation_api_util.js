@@ -28,7 +28,6 @@ export const deleteAnnotation = (id) => {
 };
 
 export const updateAnnotation = (annotation) => {
-  debugger
   return $.ajax({
     method: 'PATCH',
     url: `api/annotations/${annotation.id}`,

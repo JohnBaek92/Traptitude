@@ -77,7 +77,6 @@ class TrackShow extends React.Component {
     e.preventDefault();
     e.stopPropagation();
     let location = e.pageY - 100;
-    debugger
     this.props.openAnnotation(<AnnotationShow anno={anno} location={location}/>)
   }
 

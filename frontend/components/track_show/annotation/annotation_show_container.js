@@ -4,7 +4,6 @@ import { closeAnnotation, updateAnnotation } from '../../../actions/annotation_a
 import { openModal } from '../../../actions/modal_actions';
 
 const mapStateToProps = ({annotations, annotationModal, session}) => {
-  debugger
   return {
     annotations: annotations,
     session: session,

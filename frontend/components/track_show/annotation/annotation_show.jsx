@@ -22,7 +22,6 @@ class AnnotationShow extends React.Component {
         this.setState(Object.assign({}, this.state, {readOnly: false}));
       } else {
         this.setState(Object.assign({}, this.state, {readOnly: true}));
-        debugger
         this.props.updateAnnotation(this.state);
       }
     } else {
@@ -31,7 +30,6 @@ class AnnotationShow extends React.Component {
   }
 
   handleChange(value) {
-    debugger
     this.setState({ body: value});
   }
 
