@@ -29,6 +29,12 @@ class AnnotationShow extends React.Component {
     }
   }
 
+  componentWillReceiveProps(nextProps){
+    if(this.props !== nextProps) {
+      this.setState(Object.assign({}, this.state, {user_id: nextProps.session.currentUser.id}));
+    }
+  }
+
   handleChange(value) {
     this.setState({ body: value});
   }
