@@ -7,6 +7,7 @@ const _nullAnnotation = {};
 const AnnotationReducer = (state = _nullAnnotation, action) => {
   Object.freeze(state);
   let annotationComp;
+  debugger
   switch(action.type) {
     case RECEIVE_ANNOTATION:
       return Object.assign({}, state, {[action.annotation.id]: action.annotation});

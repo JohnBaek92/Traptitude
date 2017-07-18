@@ -1,7 +1,7 @@
 export const fetchAnnotation = (id) => {
   return $.ajax({
     method: 'GET',
-    url: `api/annotations/${id}?`,
+    url: `api/annotations/${id}`,
   });
 };
 
@@ -9,13 +9,6 @@ export const fetchAllAnnotation = () => {
   return $.ajax({
     method: 'GET',
     url: `api/annotations/`
-  });
-};
-
-export const fetchAnnotationByCharNum = (charnum, albumname) => {
-  return $.ajax({
-    method: 'GET',
-    url: `api/annotations?charnum=${charnum}&name=${albumname}`
   });
 };
 
@@ -35,6 +28,7 @@ export const deleteAnnotation = (id) => {
 };
 
 export const updateAnnotation = (annotation) => {
+  debugger
   return $.ajax({
     method: 'PATCH',
     url: `api/annotations/${annotation.id}`,

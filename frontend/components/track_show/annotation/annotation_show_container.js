@@ -1,6 +1,7 @@
 import { connect } from 'react-redux';
 import AnnotationShow from './annotation_show';
-import { closeAnnotation } from '../../../actions/annotation_actions';
+import { closeAnnotation, updateAnnotation } from '../../../actions/annotation_actions';
+import { openModal } from '../../../actions/modal_actions';
 
 const mapStateToProps = ({annotations, annotationModal, session}) => {
   debugger
@@ -13,7 +14,9 @@ const mapStateToProps = ({annotations, annotationModal, session}) => {
 
 const mapDispatchToProps = (dispatch) => {
   return {
-    closeAnnotation: () => dispatch(closeAnnotation())
+    closeAnnotation: () => dispatch(closeAnnotation()),
+    updateAnnotation: (annotation) => dispatch(updateAnnotation(annotation)),
+    openModal: (component) => dispatch(openModal(component))
   };
 };
 

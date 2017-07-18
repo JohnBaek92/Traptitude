@@ -14,7 +14,7 @@ end
 json.set! :annotations do
   annotations.map do |anno|
     json.set! anno.id do
-    json.extract! anno, :user_id, :track_id, :start_idx, :end_idx, :body
+    json.extract! anno, :user_id, :track_id, :start_idx, :end_idx, :body, :id
   end
   end
 end

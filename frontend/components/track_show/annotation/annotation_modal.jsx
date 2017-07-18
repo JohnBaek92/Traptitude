@@ -6,7 +6,6 @@ class AnnotationModal extends React.Component {
   }
 
   render() {
-    debugger
     if (this.props.isOpenAnno) {
       return(
         <div>

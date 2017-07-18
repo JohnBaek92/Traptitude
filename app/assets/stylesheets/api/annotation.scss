@@ -2,6 +2,13 @@
 
 }
 
+.ql-editor p {
+  margin: 0;
+  text-transform: none;
+  padding: 0;
+  counter-reset: list-1 list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+}
+
 .ql-bubble * {
   height: 11em;
   background: #f7f7f7;
@@ -113,4 +120,18 @@
   top: 3.3em;
   font-weight: bold;
   color: #99a7ee;
+}
+
+.edit-or-save-button {
+  text-transform: none;
+  border: 2.3px solid black;
+  height: 2em;
+  padding-left: .5em;
+  padding-right: .5em;
+  margin-top: .5em;
+  cursor: pointer;
+}
+
+.edit-or-save-button:hover {
+  background-color: #f2f2f2
 }

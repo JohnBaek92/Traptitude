@@ -76,8 +76,8 @@ class TrackShow extends React.Component {
   selectLyric(e, anno){
     e.preventDefault();
     e.stopPropagation();
-    debugger
     let location = e.pageY - 100;
+    debugger
     this.props.openAnnotation(<AnnotationShow anno={anno} location={location}/>)
   }
 

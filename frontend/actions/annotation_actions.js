@@ -35,3 +35,9 @@ export const makeAnnotation = (annotation) => dispatch => (
     dispatch(receiveAnnotation(annotation))
   ))
 );
+
+export const updateAnnotation = (annotation) => dispatch => (
+  APIUtil.updateAnnotation(annotation).then(annotation => (
+    dispatch(receiveAnnotation(annotation))
+  ))
+);
