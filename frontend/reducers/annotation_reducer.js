@@ -19,9 +19,7 @@ const AnnotationReducer = (state = _nullAnnotation, action) => {
       break;
     case DELETE_ANNOTATION:
       let newState = Object.assign({},state);
-      debugger
       delete newState[action.annotation.id];
-      debugger
       return newState;
     default:
       return state;
