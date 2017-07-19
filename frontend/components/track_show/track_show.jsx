@@ -38,7 +38,6 @@ class TrackShow extends React.Component {
   }
 
   selectLyrics(e) {
-    debugger
     if(this.state.user_id !== null) {
       this.props.closeAnnotation();
       let selectedLyrics = document.getSelection().toString();
