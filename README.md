@@ -1,3 +1,4 @@
 # traptitude
 
-check
+[Traptitude Live][live]
+[live]: traptitude.com 
