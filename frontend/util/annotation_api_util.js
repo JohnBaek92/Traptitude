@@ -20,10 +20,10 @@ export const createAnnotation = (annotation) => {
   });
 };
 
-export const deleteAnnotation = (id) => {
+export const deleteAnnotation = (annotation) => {
   return $.ajax({
     method: 'DELETE',
-    url: `api/annotations/${id}`
+    url: `api/annotations/${annotation.id}`
   });
 };
 

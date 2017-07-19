@@ -14,6 +14,8 @@ class AnnotationShow extends React.Component {
     };
     this.handleEditOrSave = this.handleEditOrSave.bind(this);
     this.handleChange = this.handleChange.bind(this);
+    this.deleteButtonRender = this.deleteButtonRender.bind(this);
+    this.handleDelete = this.handleDelete.bind(this);
   }
 
   handleEditOrSave() {
@@ -26,6 +28,19 @@ class AnnotationShow extends React.Component {
       }
     } else {
       this.props.openModal(<SignInContainer />);
+    }
+  }
+
+  handleDelete() {
+    this.props.deleteAnnotation(this.props.anno);
+    this.props.closeAnnotation();
+  }
+
+  deleteButtonRender() {
+    if(this.state.readOnly !== true) {
+      return(
+        <button className="delete-anno" onClick={this.handleDelete}>Delete</button>
+      );
     }
   }
 
@@ -74,6 +89,7 @@ class AnnotationShow extends React.Component {
         </div>
         <button className="edit-or-save-button"
           onClick={this.handleEditOrSave}>{buttonTitle}</button>
+        {this.deleteButtonRender()}
     </section>
     )
   }

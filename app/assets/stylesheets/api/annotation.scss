@@ -135,3 +135,18 @@
 .edit-or-save-button:hover {
   background-color: #f2f2f2
 }
+
+.delete-anno {
+  text-transform: none;
+  border: 2.3px solid black;
+  height: 2em;
+  padding-left: .5em;
+  padding-right: .5em;
+  margin-top: .5em;
+  cursor: pointer;
+  margin-left: .5em;
+}
+
+.delete-anno:hover {
+  background-color: #f2f2f2
+}

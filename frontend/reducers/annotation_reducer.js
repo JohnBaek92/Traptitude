@@ -1,5 +1,5 @@
 import merge from 'lodash/merge';
-import { RECEIVE_ANNOTATION } from '../actions/annotation_actions';
+import { RECEIVE_ANNOTATION, DELETE_ANNOTATION } from '../actions/annotation_actions';
 import { RECEIVE_TRACK } from '../actions/track_actions';
 
 const _nullAnnotation = {};
@@ -16,6 +16,13 @@ const AnnotationReducer = (state = _nullAnnotation, action) => {
       } else {
         return Object.assign({}, state);
       }
+      break;
+    case DELETE_ANNOTATION:
+      let newState = Object.assign({},state);
+      debugger
+      delete newState[action.annotation.id];
+      debugger
+      return newState;
     default:
       return state;
   }

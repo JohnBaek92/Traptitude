@@ -3,6 +3,7 @@ import * as APIUtil from '../util/annotation_api_util';
 export const OPEN_ANNOTATION = "OPEN_ANNOTATION";
 export const CLOSE_ANNOTATION = "CLOSE_ANNOTATION";
 export const RECEIVE_ANNOTATION = "RECEIVE_ANNOTATION";
+export const DELETE_ANNOTATION = "DELETE_ANNOTATION";
 
 export const openAnnotation = (annotationComp) => {
   return {
@@ -15,6 +16,13 @@ export const closeAnnotation = (annotationComp) => {
   return {
     type: CLOSE_ANNOTATION,
     annotationComp: null
+  };
+};
+
+export const deleteAnnotation = (annotation) => {
+  return {
+    type: DELETE_ANNOTATION,
+    annotation
   };
 };
 
