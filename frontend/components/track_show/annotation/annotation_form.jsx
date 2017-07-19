@@ -64,7 +64,7 @@ class AnnotationForm extends React.Component {
           <div className="line-six-anno">|</div>
         </div>
         <form onSubmit={this.handleSubmit}>
-          <div className="quill-container">
+          <div id="quill-container">
             <ReactQuill theme='bubble'
               onChange={this.handleChange}
               value={this.state.body}

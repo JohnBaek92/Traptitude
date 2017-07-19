@@ -12,6 +12,8 @@ class AnnotationShow extends React.Component {
       location: this.props.location,
       readOnly: true
     };
+    this.quillRef = null;
+    this.reactQuillRef = null;
     this.handleEditOrSave = this.handleEditOrSave.bind(this);
     this.handleChange = this.handleChange.bind(this);
     this.deleteButtonRender = this.deleteButtonRender.bind(this);
@@ -22,6 +24,7 @@ class AnnotationShow extends React.Component {
     if(this.state.user_id !== null) {
       if(this.state.readOnly) {
         this.setState(Object.assign({}, this.state, {readOnly: false}));
+        // this.focusQuill();
       } else {
         this.setState(Object.assign({}, this.state, {readOnly: true}));
         this.props.updateAnnotation(this.state);
@@ -44,9 +47,21 @@ class AnnotationShow extends React.Component {
     }
   }
 
+  focusQuill() {
+    this.reactQuillRef.focus();
+  }
+
   componentWillReceiveProps(nextProps){
-    if(this.props !== nextProps) {
+    if(nextProps.session.currentUser !== null) {
       this.setState(Object.assign({}, this.state, {user_id: nextProps.session.currentUser.id}));
+    } else {
+      this.setState(Object.assign({}, this.state, {user_id: null}));
+    }
+  }
+
+  componentDidUpdate(prevProps, prevState){
+    if(prevState.readOnly === true) {
+      this.focusQuill();
     }
   }
 
@@ -80,8 +95,9 @@ class AnnotationShow extends React.Component {
           <div className="line-five-anno">|</div>
           <div className="line-six-anno">|</div>
         </div>
-        <div className="quill-container">
-          <ReactQuill theme='bubble'
+        <div id="quill-container">
+          <ReactQuill ref={(el) => { this.reactQuillRef = el }}
+            theme='bubble'
             onChange={this.handleChange}
             readOnly={this.state.readOnly}
             value={this.state.body}>
