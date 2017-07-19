@@ -32,7 +32,7 @@ class AnnotationShow extends React.Component {
   }
 
   handleDelete() {
-    this.props.deleteAnnotation(this.props.anno);
+    this.props.removeAnnotation(this.props.anno);
     this.props.closeAnnotation();
   }
 

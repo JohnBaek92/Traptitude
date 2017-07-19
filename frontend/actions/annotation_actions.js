@@ -49,3 +49,9 @@ export const updateAnnotation = (annotation) => dispatch => (
     dispatch(receiveAnnotation(annotation))
   ))
 );
+
+export const removeAnnotation = (annotation) => dispatch => (
+  APIUtil.deleteAnnotation(annotation).then(annotation => (
+    dispatch(deleteAnnotation(annotation))
+  ))
+);

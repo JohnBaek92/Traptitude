@@ -30,10 +30,10 @@ class Api::AnnotationsController < ApplicationController
 
   def destroy
     @annotation = Annotation.find(params[:id])
-    @song = Song.find(@annotation.track_id)
+    @track = Track.find(@annotation.track_id)
     if @annotation
       @annotation.destroy
-      render "api/songs/show"
+      render "api/annotations/show"
     else
       render json: ["No annotation found"], status: 404
     end
