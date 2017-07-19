@@ -4,6 +4,7 @@ import { displayTrack } from '../../actions/track_actions';
 import { displaySingleAlbum } from '../../actions/album_actions';
 import { closeAnnotation, openAnnotation } from '../../actions/annotation_actions';
 import { values } from 'lodash';
+import { openModal } from '../../actions/modal_actions';
 
 const mapStateToProps = ({tracks, albums, annotations, session}, ownProps) => {
   let trackAnno = [];
@@ -25,7 +26,8 @@ const mapDispatchToProps = (dispatch) => {
     displayTrack: (trackId) => dispatch(displayTrack(trackId)),
     displaySingleAlbum: (id) =>dispatch(displaySingleAlbum(id)),
     closeAnnotation: () => dispatch(closeAnnotation()),
-    openAnnotation: (annoForm) => dispatch(openAnnotation(annoForm))
+    openAnnotation: (annoForm) => dispatch(openAnnotation(annoForm)),
+    openModal: (component) => dispatch(openModal(component))
   });
 };
 

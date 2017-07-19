@@ -3,11 +3,13 @@ import { values } from 'lodash';
 import { Link } from 'react-router-dom';
 import AnnotationForm from './annotation/annotation_form_container';
 import AnnotationShow from './annotation/annotation_show_container';
+import SignInContainer from '../home/header/user_form/signin_form_container';
 
 class TrackShow extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
+      user_id: this.props.session.currentUser ? this.props.session.currentUser.id : null,
       startLocation: "",
       endLocation: "",
       currentAnnotation: null,
@@ -27,36 +29,50 @@ class TrackShow extends React.Component {
     this.props.displaySingleAlbum(albumId);
   }
 
-  selectLyrics(e) {
-    this.props.closeAnnotation();
-    let selectedLyrics = document.getSelection().toString();
-    let lyrics = document.getSelection();
-    let endLocation = e.pageY;
-    if(selectedLyrics.length > 0 && this.props.session.currentUser) {
-      if(lyrics.anchorNode !== lyrics.focusNode ||
-        (lyrics.anchorNode.parentElement.className === 'anno-lyrics')
-      ) {return;}
-      else {
-        let start_idx = lyrics.anchorOffset;
-        let end_idx = lyrics.focusOffset;
-        if(start_idx > end_idx) {
-          const temp = start_idx;
-          start_idx = end_idx;
-          end_idx = temp;
-        }
-        let offset = lyrics.anchorNode.parentElement;
-        while (offset.previousSibling) {
-          start_idx += offset.previousSibling.innerText.length;
-          end_idx += offset.previousSibling.innerText.length;
-          offset = offset.previousSibling;
-        }
-        const trackId = Number(this.props.match.params.trackId);
-        this.props.openAnnotation(<AnnotationForm startIdx={start_idx}
-          endIdx={end_idx} trackId={trackId} location={((this.state.startLocation+endLocation)/2)-99}/>);
-      }
+  componentWillReceiveProps(nextProps){
+    if(nextProps.session.currentUser !== null) {
+      this.setState(Object.assign({}, this.state, {user_id: nextProps.session.currentUser.id}));
     } else {
-      this.setState({start_idx: null, end_idx: null, location: null,
-        currentAnnotation: null, annotating: null})
+      this.setState(Object.assign({}, this.state, {user_id: null}));
+    }
+  }
+
+  selectLyrics(e) {
+    debugger
+    if(this.state.user_id !== null) {
+      this.props.closeAnnotation();
+      let selectedLyrics = document.getSelection().toString();
+      let lyrics = document.getSelection();
+      let endLocation = e.pageY;
+      if(selectedLyrics.length > 0 && this.props.session.currentUser) {
+        if(lyrics.anchorNode !== lyrics.focusNode ||
+          (lyrics.anchorNode.parentElement.className === 'anno-lyrics')
+        ) {return;}
+        else {
+          let start_idx = lyrics.anchorOffset;
+          let end_idx = lyrics.focusOffset;
+          if(start_idx > end_idx) {
+            const temp = start_idx;
+            start_idx = end_idx;
+            end_idx = temp;
+          }
+          let offset = lyrics.anchorNode.parentElement;
+          while (offset.previousSibling) {
+            start_idx += offset.previousSibling.innerText.length;
+            end_idx += offset.previousSibling.innerText.length;
+            offset = offset.previousSibling;
+          }
+          const trackId = Number(this.props.match.params.trackId);
+          this.props.openAnnotation(<AnnotationForm startIdx={start_idx}
+            endIdx={end_idx} trackId={trackId} location={((this.state.startLocation+endLocation)/2)-99}/>);
+          }
+        } else {
+          this.setState({start_idx: null, end_idx: null, location: null,
+            currentAnnotation: null, annotating: null})
+          }
+    } else {
+      this.props.openModal(<SignInContainer />)
+      window.getSelection().removeAllRanges();
     }
   }
 
