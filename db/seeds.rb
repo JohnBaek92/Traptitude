@@ -4254,7 +4254,2594 @@ This is the life I chose, or rather, the life that chose me
 If you can't respect that, your whole perspective is wack
 Maybe you'll love me when I fade to black"
 },{
+  album_id: Album.find_by_title("The Black Album").id,
+  title: "What More Can I Say",
+  features: "",
+  producer: "The Buchanans",
+  lyrics: "[Intro - Russell Crowe]
+\"Are you not entertained? Are you not entertained?\"
+\"Is this not why you are here?\"
 
+[Jay-Z]
+Turn the music up, turn me down
+Guru, let's go get 'em again
+This time it's for the money my nigga
+Brooklyn, stand up
+
+[Verse 1]
+There's never been a nigga this good for this long
+This hood or this pop, this hot or this strong
+With so many different flows, this one's for this song
+The next one I switch up, this one will get bit up
+These fucks too lazy to make up shit: they crazy
+They don't paint pictures, they just trace me
+You know what? Soon they forget where they plucked
+Their whole style from - then try to reverse the outcome
+I'm like: \"TAA!\"
+I'm not a biter, I'm a writer for myself and others
+I say a B.I.G. verse, I'm only Bigging up my brother
+Bigging up my borough--I'm big enough to do it
+I'm that thorough, plus I know my own flow is foolish
+So them rings and things you sing about, bring em out
+It's hard to yell when the barrel's in your mouth
+I'm in new sneakers, dual-seaters
+Few divas, what more can I tell you?
+Let me spell it for you:
+W I, double-L, I-E nobody truer than H-O-V
+And I'm back for more, New York's ambassador
+Prime Minister, back to finish my business up
+
+[Hook]
+What more can I say?
+What more can I do?
+I gave this up to you
+I know this much is true
+
+[Verse 2]
+You already know what I'm about: flying birds down South
+Moving wet off the step, purple rain in a drought
+Stunting on hoes; brushing off my shirt
+But ain't nothing on my clothes except my chain, my name
+Young H-O pitch the yay faithful
+Even if they patrol, I make payroll
+Benz paid for, friends they roll
+Private jets down to Turks and Caicos
+Cris' caseloads, I don't give a shit
+Nigga, one life to live, I can't let a day go
+By without me being fly, fresh to death
+Head to toe 'til the day I rest
+And I don't wear jerseys, I'm 30-plus
+Give me a crisp pair of jeans, nigga, button-ups
+S. Dots on my feet make my cipher complete
+What more can I say? Guru, play the beat!
+
+[Hook]
+
+[Verse 3]
+Now you know your ass is Willie when they got you in the mag
+For like half a billy and your ass ain't lily-White
+That mean that shit you write must be illy
+Either that or your flow is silly. It's both!
+I don't mean to boast, but damn, if I don't brag
+Them crackers gon' act like I ain't on they ass
+The Martha Stewart that's far from Jewish
+Far from a Harvard student, just had the balls to do it
+And no I'm not through with it
+In fact, I'm just previewing it
+This ain't the show, I'm just EQ'ng it
+One-two and I won't stop abusing it
+To groupie girls: stop false accusing it
+Back to the music - the Maybach roof is translucent
+Niggas got a problem Houston!
+What up B, they can't shut up me
+Shut down I, not even P.E., I'mma ride
+God forgive me for my brash delivery
+But I remember vividly what these streets did to me
+So picture me letting these clowns nitpick at me
+Paint me like a pickany
+I will literally kiss Ti-Ti in the forehead
+Tell her, \"Please forgive me,\" then squeeze into your forehead
+I'm not the one to score points off, in fact
+I got a joint that'll knock your points off
+Young Hova the God, nigga. Blast for me
+I'm at the Trump International: ask for me I ain't never scared
+I'm everywhere, you ain't never there
+And nigga, why would I ever care?
+Pound-for-pound, I'm the best to ever come around here
+Excluding nobody, look what I embody:
+The soul of a hustler, I really ran the street
+A CEO's mind, that marketing plan was me
+And no I ain't get shot up a whole bunch of times
+Or make up shit in a whole bunch of lines
+And I ain't animated like, say, Busta Rhymes
+But the real shit you get when you bust down my lines
+Add that to the fact I went plat' a bunch of times
+Times that by my influence on pop culture
+I'm supposed to be number one on everybody list
+We'll see what happens when I no longer exist
+Fuck this"
+},{
+  album_id: Album.find_by_title("The Black Album").id,
+  title: "Encore",
+  features: "",
+  producer: "Kanye West",
+  lyrics: "[Intro]
+Thank you, thank you, thank you!
+You're far too kind
+
+[Hook]
+Now, can I get an encore? Do you want more?
+Cookin' raw with the Brooklyn boy
+So for one last time I need y'all to roar
+Now what the hell are you waitin' for?
+After me, there shall be no more
+So for one last time, nigga, make some noise!
+
+[Verse 1]
+Who you know fresher than Hov? Riddle me that
+The rest of y'all know where I'm lyrically at
+Can't none of y'all mirror me back
+Yeah, hearin' me rap is like hearin' G Rap in his prime
+I'm Young H.O., rap's Grateful Dead
+Back to take over the globe, now break bread
+I'm in Boeing jets, Global Express
+Out the country, but the blueberry still connect
+On the low, but the yacht got a triple deck
+But when you Young, what the fuck you expect? Yep, yep
+Grand opening, grand closing
+Goddamn, your man Hov cracked the can open again
+Who you gonna find doper than him?
+With no pen, just draw off inspiration
+Soon you gonna see you can't replace him
+With cheap imitations for this generation
+
+[Hook]
+Now, can I get an encore? Do you want more?
+Cookin' raw with the Brooklyn boy
+So for one last time I need y'all to roar
+Now what the hell are you waitin' for?
+After me, there shall be no more
+So for one last time, nigga, make some noise!
+
+[Verse 2]
+Look what you made me do! Look what I made for you!
+Knew if I paid my dues, how will they pay you
+When you first come in the game, they try to play you
+Then you drop a couple of hits, look how they wave to you
+From Marcy to Madison Square
+To the only thing that matters in just a matter of years
+As fate would have it, Jay's status appears
+To be at an all-time high, perfect time to say goodbye
+When I come back like Jordan
+Wearin' the 4-5, it ain't to play games with you
+It's to aim at you, probably maim you
+If I owe you I'm blowin' you to smithereens
+Cocksucker, take one for your team!
+And I need you to remember one thing
+I came, I saw, I conquered
+From record sales to sold-out concerts
+So, motherfucker, if you want this encore
+I need you to scream 'til your lungs get sore
+
+[Interlude]
+Ow, it's star time
+This man is mean, he's killin' all y'all jive turkeys
+Do y'all want more of the Jigga man?
+Well, if y'all want more of the Jigga man
+Then I need y'all to help me bring him back to stage
+Say \"Hova!\" – c'mon, say it!
+Are y'all out there? C'mon, louder!
+Yeah, now see that's what I'm talking about
+They love you, Jigga! They love you, Jigga!
+
+[Jay-Z]
+I like the way this one feel
+It's so mothafuckin' soulful, man
+
+[Verse 3]
+So this here is the victory lap
+Then I'm leavin', that's how you get me back
+After a year of them 16's, it's 1.2
+And that's 2.4, and I'm only doin' two
+You wanted to gain attention, new dudes
+I can get you BET – and TRL, too
+You want to be in the public, send your budget
+Well, fuck it, I ain't budgin'
+Young did it to death, you gotta love it
+Record companies told me I couldn't cut it
+Now look at me: all star-studded
+Golfer above par like I putted
+All ‘cause the shit I uttered was utterly ridiculous
+How sick is this?
+You want to bang, send Kanye change
+Send Just some dust, send Hip a grip
+Then you gotta spit a little somethin' like this"
+},{
+  album_id: Album.find_by_title("The Black Album").id,
+  title: "Change Clothes",
+  features: "Pharrell",
+  producer: "The Neptunes",
+  lyrics: "[Intro: Jay-Z]
+The bounce is back, ya boy is back (sexy sexy)
+I know y'all miss the bounce
+You need the bounce for the sexy, you know
+Let's get it in, yeah ma
+
+[Verse 1: Jay-Z]
+Your dude is back, the Maybach Coupe is back
+Tell the whole world the truth is back
+You ain't gotta argue about who can rap
+Cause the proof is back, just go through my raps
+New York, New York! Yeah, where my troopers at?
+Where my hustlers, where my boosters at?
+I don't care what you do for stacks
+I know the world glued your back to the wall
+You gotta brawl, do that
+I been through that, been shot at, shoot back
+Gotta keep a peace like a Buddhist
+I ain't a New Jack; nobody gon' Wesley Snipe me
+It's less than likely. Move back
+Let I breathe, Jedi Knight
+The more space I get the better I write
+Oh, never I write, but if ever I write
+I need the space to say whatever I like, now just
+
+[Hook: Jay-Z & (Pharrell)]
+(Change clothes, and go)
+You know I stay fresh to death, a boy from the projects
+And I'mma take you to the top of the globe, so let's go
+(So let's exchange numbers and go)
+(And girl I promise you, no substitutes) It's just me
+
+[Verse 2: Jay-Z]
+And I ain't gon' tell you again, let's get ghost in the Phantom
+You can bring your friend, we can make this a tandem
+Or you can come by yourself if you can stand him
+Best believe, I sweat out weaves
+Give Afro Puffs like R.A.G.E
+Aww you get if could move it
+Back it on up like a U-Haul truck
+Then run and tell them ducks you heard Hovi new shit
+He and the boy Phar-real make beautiful music
+He is to the East coast what Snoop is
+To the West Coast, what 'Face is to Houston
+Young Hov' in the house is so necessary
+No bra with that blouse, that's so necessary
+No panties and jeans, that's so necessary
+Now why you fronting on me, is that necessary?
+Do I, to you, look like a lame
+Who don't understand a broad with a mean shoe game
+Who's up on dot dot dot and Vera Wang
+Ma are you insane? Let's just
+(What you want me to do?)
+
+[Hook: Jay-Z & (Pharrell)]
+(Change clothes, and go)
+You know I stay fresh to death, a boy from the projects
+And I'mma take you to the top of the globe, so let's go
+(So let's exchange numbers and go)
+(And girl I promise you, no substitutes) It's just me
+
+[Interlude: Pharrell & (Jay Z)]
+Ha ha! Sexy sexy (Woo!)
+Ha ha! Sexy sexy (It's so necessary man)
+Ha ha! Sexy sexy (That's right, it's a groove)
+Ha ha! Sexy sexy (Bring it back)
+Ha ha!
+
+[Verse 3: Jay-Z]
+Young Hov' in the house is so necessary
+No bra with that blouse, that's so necessary
+No panties and jeans, that's so necessary
+Why you frontin' on me?
+Let's go to my hotel, cause this don't go well
+With those S. Dots, gotta stay fresh ma
+Ma, I don't shop where the rest buy
+Ho no ma, please respect my
+Jiggy this is probably Purple Label
+Or that BBC shit or it's probably tailored
+And y'all niggas actin' way too tough
+Throw on a suit, get it tapered up, and let's just:
+
+[Hook: Jay-Z & (Pharrell)]
+(Change clothes, and go)
+You know I stay fresh to death, a boy from the projects
+And I'mma take you to the top of the globe, so let's go
+(So let's exchange numbers and go)
+Uh huh yeah, uh (And girl I promise you, no substitutes) It's just me
+
+Uh uh (Sexy sexy) sing along
+Yeah, uh (Sexy sexy) turn your radio up
+Woo! (Sexy sexy) Put your hands in the air if your in the car
+Uh! Snap your fingers now (Sexy sexy) woo, uh
+Uh, uh, your boy is back
+Uh huh, uh, uh, uh, the bounce is back
+Uh, uh, woo, uh HOV is back, peace!"
+},{
+  album_id: Album.find_by_title("The Black Album").id,
+  title: "Dirt Off Your Shoulder",
+  features: "",
+  producer: "Timbaland",
+  lyrics: "[Intro]
+You're now tuned into the muh'fuckin greatest
+Turn the music up in the headphones
+Tim, you can go and brush your shoulder off, nigga
+I got you, yeah
+
+[Hook]
+If you feeling like a pimp
+Nigga, go and brush your shoulders off
+Ladies is pimps too, go and brush your shoulders off
+Niggas is crazy, baby, don't forget that boy told you
+Get that dirt off your shoulder
+
+[Verse 1]
+I probably owe it to y'all, probably be locked by the force
+Tryin' to hustle some things that go with the Porsche
+Feelin' no remorse, feelin' like my hand was forced
+Middle finger to the law, nigga, grippin' my balls
+Said the ladies, they love me
+From the bleachers they screamin'
+All the ballers is bouncin', they like the way I be leanin'
+All the rappers be hatin' off the track that I'm makin'
+But all the hustlers, they love it, just to see one of us make it
+Came from the bottom of the bottom, to the top of the pops
+Nigga, London, Japan and I'm straight off the block
+Like a running back, get it? Man, I'm straight off the block
+I can run it back, nigga, ‘cause I'm straight with the Roc
+
+[Hook]
+If you feeling like a pimp
+Nigga, go and brush your shoulders off
+Ladies is pimps too, go and brush your shoulders off
+Niggas is crazy, baby, don't forget that boy told you
+Get that dirt off your shoulder
+You gotta get that dirt off your shoulder
+You gotta get that dirt off your shoulder
+You gotta get that dirt off your shoulder
+You gotta get that dirt off your shoulder
+
+[Verse 2]
+Your homie Hov' in position, in the kitchen with soda
+I just whipped up a watch, tryin' to get me a Rover
+Tryin' to stretch out the coca, like a wrestler, yessir
+Keep the Heckler close, you know them smokers'll test ya
+But, like, 52 cards went out, I'm through dealin'
+Now 52 bars come out, now you feel 'em
+Now 52 cars roll out, remove ceilin'
+In case 52 broads come out, now you chillin'
+With a boss, bitch, of course, S.C. on the sleeve
+At the 40/40 club, ESPN on the screen
+I paid a grip for the jeans, plus the slippers is clean
+No chrome on the wheels, I'm a grown-up for real
+
+[Hook]
+If you feeling like a pimp
+Nigga, go and brush your shoulders off
+Ladies is pimps too, go and brush your shoulders off
+Niggas is crazy, baby, don't forget that boy told you
+Get, that, dirt off your shoulder
+You gotta get that dirt off your shoulder
+You gotta get that dirt off your shoulder
+You gotta get that dirt off your shoulder
+You gotta get that dirt off your shoulder
+
+[Verse 3]
+Your boy back in the building; Brooklyn, we back on the map
+Me and my beautiful bee-itch in the back of that 'Bach
+I'm the realest to run it, I just happen to rap
+I ain't gotta clap at 'em, niggas scared of that black
+I drop that Black Album, then I back out it
+As the best rapper alive, nigga, ask 'bout me
+From bricks to Billboards, from grams to Grammy's
+From O's to opposite of Orphan Annie
+You gotta pardon Jay, for sellin' out the Garden in a day
+I'm like a young Marvin in his hey'
+I'm a hustler, homie, you a customer crony
+Got some dirt on my shoulder; could you brush it off for me?
+
+[Hook]
+If you feeling like a pimp
+Nigga, go and brush your shoulders off
+Ladies is pimps too, go and brush your shoulders off
+Niggas is crazy, baby, don't forget that boy told you
+Get, that, dirt off your shoulder
+You gotta get that dirt off your shoulder
+You gotta get that dirt off your shoulder
+You gotta get that dirt off your shoulder
+You gotta get that dirt off your shoulder
+
+[Outro]
+You're now tuned into the mu'fuckin' greatest
+Best rapper alive, best rapper alive"
+},{
+  album_id: Album.find_by_title("The Black Album").id,
+  title: "Threat",
+  features: "",
+  producer: "9th Wonder",
+  lyrics: "[Intro: Cedric the Entertainer]
+Yo , what's up, pimp, this Threats
+That's right, that's the - the that's, this Threats, pimp
+And I'm serious about mine, I'm so sincere
+And I, nigga I'll kill ya, I'll chop ya up
+Put ya inside the mattress like drug money, nigga
+
+[Jay Z]
+Yeah, I done told you niggas
+9 or 10 times stop fuckin with me
+I done told you niggas
+9 albums, stop fuckin with me
+I done told you niggas with
+The 9 on me, stop fuckin with me
+You niggas must got 9 lives
+9th wonder
+
+[Verse 1: Jay Z]
+Put that knife in ya, take a little bit of life from ya
+Am I frightenin ya? Shall I continue?
+I put the gun to ya, I let it sing you a song
+I let it hum to ya, the other one sing along
+Now it's a duet, and you wet, when you check out
+The technique from the 2 Tecs and I don't need two lips
+To blow this like a trumpet you dumb shit
+This is a unusual musical I conducting
+You lookin at the black Warren Buffett so all critics can duck sic
+I don't care if you C. Delores Tuck-it
+Or you Bill O'Reilly, you only rilin' me up
+For three years, they had me peein' out of a cup
+Now they bout to free me up, whatchu think I'm gon' be, what?
+Rehabilitated, man I still feel hatred
+I'm young, black and rich so they wanna strip me naked, but
+You never had me like Christina Aguiler-y
+But catch me down the Westside, drivin like Halle Berry
+Or the FDR, in the seat of my car
+Screamin out the sunroof \"death to y'all\"
+You can't kill me, I live forever through these bars
+I put the wolves on ya, I put a price on your head
+The whole hood'll want ya, you startin to look like bread
+I send them boys at ya, I ain't talkin bout Feds
+Nigga, them body-snatchers, nigga you heard what I said
+
+[Hook]
+I make 'em wait for you 'til five in the mornin'
+Put your smarts on the side of your garment
+Nigga stop fuckin' with me
+R ... I ... P
+
+[Interlude: Cedric the Entertainer]
+That's right there nigga, nigga I'm wild
+Nigga I keep trash bags with me
+Never know when you gotta dump a nigga out
+This sincere, this some sincere shit right here!
+
+[Verse 2: Jay Z]
+Grown man I put hands on you
+I dig a hole in the desert, they build the Sands on you
+Lay out blueprint plans on you
+We Rat Pack niggas, let Sam tap dance on you
+Then, I Sinatra shot ya God damn you
+... I put the boy in the box like David Blaine
+Let the audience watch, it ain't a thang
+Y'all wish I was frontin, I George Bush the button
+For the oil in your car lift up your hood nigga run it
+Then lift up your whole hood like you got oil under it
+Your boy got the goods y'all don't want nothing of it
+Like, castor oil, I'a Castor Troy you
+Change your face or the bullets change all that for you
+... y'all niggas is targets
+Y'all garages for bullets, please don't make me park it
+In your upper level, valet a couple strays
+From the .38 Special, nigga, God bless you
+
+[Hook]
+I make 'em wait for you 'til five in the mornin'
+Put your smarts on the side of your garment
+Nigga stop fuckin' with me
+R ... I ... P
+
+[Interlude: Cedric the Entertainer]
+Yeah I'm threatening ya, YEAH I'm threatening ya!
+Who you thank you dealin' with?
+They call me Threats, nigga I been makin' threats
+Since I been in kindergarten nigga!
+Huh, ask about me, see if you ain't heard
+
+[Verse 3: Jay Z]
+When the gun is tucked, untucked, nigga you dies
+Like nunchuks held by the Jet L-I
+I'm the one, thus meaning no one must try
+No two, no three, no four, know why?
+Because one's four-five might blow yo' high
+You ain't gotta go to church to get to know yo' God
+It's a match made in heaven when I {*silencer shot*} 'splay the 7
+Put you on the nigga news, UPN and 11
+Where you been, you ain't heard, got the word that I'm
+[Two silencer shots] that I'm so sincere?
+I'm especially Joe Pesci wit it, friend
+I will kill you, commit suicide, and kill you again
+That's right
+
+[Hook]
+I make 'em wait for you 'til five in the mornin'
+Put your smarts on the side of your garment
+Nigga stop fuckin' with me
+R ... I ... P
+
+[Outro: Cedric the Entertainer]
+Whatup? Motherfucker I keep three motherfuckers what?
+Nigga I'll throw a Molotov cocktail through your momma's momma's house
+Nigga what the - where everybody live!
+Undercover nigga take your teeth out your mouth nigga
+Chew your food up and put the shit back in your mouth nigga
+And help you swallow
+Nigga I take a mop handle off nigga
+And sweep nigga - hold on, I'll be - nigga what?"
+},{
+  album_id: Album.find_by_title("The Black Album").id,
+  title: "Moment Of Clarity",
+  features: "",
+  producer: "Luis Resto & Eminem",
+  lyrics: "[Hook]
+Thank God for granting me this moment of clarity
+This moment of honesty
+The world'll feel my truths
+All through my Hard Knock Lifetime, A Gift and a Curse
+I gave you Volume after Volume of my work
+So you can feel my truths
+I built the Dynasty by being one of the realest niggas out
+Way beyond a Reasonable Doubt
+Y'all can't fill my shoes
+From my Blueprint beginning to that Black Album ending
+Listen close, you'll hear what I'm about
+Nigga, feel my truths
+
+[Verse 1]
+Pop died, didn't cry, didn't know him that well
+Between him doing heroin and me doing crack sales
+Put that in the eggshell, standing at the tabernacle
+Rather the church, pretending to be hurt wouldn't work
+So a smirk was all on my face
+Like, \"Damn, that man's face is just like my face\"
+So pop, I forgive you for all the shit that I lived through
+It wasn't all your fault, homie, you got caught
+Into the same game I fought, that Uncle Ray lost
+My big brothers and so many others I saw
+I'm just glad we got to see each other
+Talk and re-meet each other
+Save a place in Heaven 'til the next time we meet forever!
+
+[Hook]
+Thank God for granting me this moment of clarity
+This moment of honesty
+The world'll feel my truths
+All through my Hard Knock Lifetime, A Gift and a Curse
+I gave you Volume after Volume of my work
+So you can feel my truths
+I built the Dynasty by being one of the realest niggas out
+Way beyond a Reasonable Doubt
+Y'all can't fill my shoes
+From my Blueprint beginning to that Black Album ending
+Listen close, you'll hear what I'm about
+Nigga, feel my truths
+
+[Verse 2]
+Music business hate me ‘cause the industry ain't make me
+Hustlers and boosters embrace me and the music I be making
+I dumbed down for my audience to double my dollars
+They criticized me for it, yet they all yell \"holla\"
+If skills sold, truth be told, I'd probably be lyrically Talib Kweli
+Truthfully I wanna rhyme like Common Sense
+But I did 5 mill' – I ain't been rhyming like Common since
+When your cents got that much in common
+And you been hustling since your inception
+Fuck perception! Go with what makes sense
+Since I know what I'm up against
+We as rappers must decide what's most important
+And I can't help the poor if I'm one of them
+So I got rich and gave back, to me that's the win/win
+So next time you see the homie and his rims spin
+Just know my mind is working just like them (rims, that is)
+
+[Hook]
+Thank God for granting me this moment of clarity
+This moment of honesty
+The world'll feel my truths
+All through my Hard Knock Lifetime, A Gift and a Curse
+I gave you Volume after Volume of my work
+So you can feel my truths
+I built the Dynasty by being one of the realest niggas out
+Way beyond a Reasonable Doubt
+Y'all can't fill my shoes
+From my Blueprint beginning to that Black Album ending
+Listen close, you'll hear what I'm about
+Nigga, feel my truths
+
+[Verse 3]
+My homie Sig' was on a tier where no tears should fall
+‘Cause he was on the block where no squares get off
+See, in my inner circle, all we do is ball
+'Til we all got triangles on our wall
+Ain't just rapping for the platinum, y'all record
+I recall, ‘cause I really been there before
+Four scores and seven years ago, prepared the flow
+Prepared for war, I should fear no man
+You don't hear me though, these words ain't just 'pared to go
+In one ear, out the other ear, no!
+Yo, my balls and my word is alls I have
+What you gonna do to me, nigga? Scars will scab
+What, you gonna box me, homie? I can dodge a jab
+Three shots couldn't touch me, thank God for that
+I'm strong enough to carry Biggie Smalls on my back
+And the whole BK, nigga, holla back!
+
+[Hook]
+Thank God for granting me this moment of clarity
+This moment of honesty
+The world'll feel my truths
+All through my Hard Knock Lifetime, A Gift and a Curse
+I gave you Volume after Volume of my work
+So you can feel my truths
+I built the Dynasty by being one of the realest niggas out
+Way beyond a Reasonable Doubt
+Y'all can't fill my shoes
+From my Blueprint beginning to that Black Album ending
+Listen close, you'll hear what I'm about
+Nigga, feel my truths"
+},{
+  album_id: Album.find_by_title("The Black Album").id,
+  title: "99 Problems",
+  features: "",
+  producer: "Rick Rubin",
+  lyrics: "[Hook]
+If you're havin' girl problems, I feel bad for you, son
+I got 99 problems, but a bitch ain't one
+
+[Verse 1]
+I've got the Rap Patrol on the gat patrol
+Foes that wanna make sure my casket's closed
+Rap critics that say he's Money, Cash, Hoes
+I'm from the hood, stupid! What type of facts are those?
+If you grew up with holes in your zapatos
+You'd celebrate the minute you was havin' dough
+I'm like, \"Fuck critics, you can kiss my whole asshole!
+If you don't like my lyrics, you can press fast forward.\"
+Got beef with radio if I don't play they show
+They don't play my hits, well, I don't give a shit, so
+Rap mags try and use my black ass
+So advertisers can give 'em more cash for ads
+Fuckers, I don't know what you take me as
+Or understand the intelligence that Jay Z has
+I'm from rags to riches, niggas, I ain't dumb
+I got 99 problems, but a bitch ain't one – hit me!
+
+[Hook]
+99 problems, but a bitch ain't one
+If you're havin' girl problems, I feel bad for you, son
+I got 99 problems, but a bitch ain't one – hit me!
+
+[Verse 2]
+The year is '94, in my trunk is raw
+In my rearview mirror is the motherfuckin' law
+Got two choices, y'all: pull over the car or
+Bounce on the devil, put the pedal to the floor
+And I ain't tryin' to see no highway chase with Jake
+Plus I got a few dollars, I can fight the case
+So I pull over to the side of the road
+I heard, \"Son, do you know why I'm stopping you for?\"
+‘Cause I'm young and I'm black and my hat's real low?
+Do I look like a mind reader, sir? I don't know
+Am I under arrest or should I guess some more?
+\"Well, you was doing 55 in a 54
+License and registration and step out of the car
+Are you carrying a weapon on you? I know a lot of you are.\"
+I ain't steppin' out of shit, all my paper's legit
+\"Well, do you mind if I look around the car a little bit?\"
+Well, my glove compartment is locked, so is the trunk in the back
+And I know my rights, so you gon' need a warrant for that
+\"Aren't you sharp as a tack?
+You some type of lawyer or something?
+Somebody important or something?\"
+Well, I ain't passed the bar, but I know a little bit
+Enough that you won't illegally search my shit
+\"Well, we'll see how smart you are when the K9 come!\"
+I got 99 problems, but a bitch ain't one – hit me!
+
+[Hook]
+99 problems, but a bitch ain't one
+If you're havin' girl problems, I feel bad for you, son
+I got 99 problems, but a bitch ain't one – hit me!
+99 problems, but a bitch ain't one
+If you're havin' girl problems, I feel bad for you, son
+I got 99 problems, but a bitch ain't one
+
+[Verse 3]
+Now once upon a time not too long ago
+A nigga like myself had to strong-arm a ho
+This is not a ho in the sense of havin' a pussy
+But a pussy havin' no goddamn sense, try and push me
+I try to ignore him, talk to the Lord
+Pray for him, but some fools just love to perform
+You know the type, loud as a motorbike
+But wouldn't bust a grape in a fruit fight
+And only thing that's gon' happen is I'ma get to clappin'
+And he and his boys gonna be yappin' to the Captain
+And there I go, trapped in the Kit-Kat again
+Back through the system with the riff-raff again
+Fiends on the floor, scratchin' again
+Paparazzis with they cameras, snappin' em
+D.A. try to give a nigga shaft again
+Half a mil' for bail ‘cause I'm African
+All because this fool was harassin' them
+Tryin' to play the boy like he's saccharine
+But ain't nothin' sweet 'bout how I hold my gun
+I got 99 problems, bein' a bitch ain't one – hit me!
+
+[Hook]
+99 problems, but a bitch ain't one
+If you're havin' girl problems, I feel bad for you, son
+I got 99 problems, but a bitch ain't one – hit me!
+
+[Outro]
+You crazy for this one, Rick
+It's your boy"
+},{
+  album_id: Album.find_by_title("The Black Album").id,
+  title: "Public Service Announcement",
+  features: "",
+  producer: "Just Blaze",
+  lyrics: "[Jay-Z]
+This is a public service announcement
+Sponsored by Just Blaze and the good folks at Roc-A-Fella Records
+
+[Just Blaze]
+Fellow Americans, it is with the utmost pride and sincerity that I present this recording as a living testament and recollection of history in the making during our generation
+
+[Verse 1: Jay-Z]
+Allow me to re-introduce myself
+My name is Hov, OH, H-to-the-O-V
+I used to move snowflakes by the O-Z
+I guess even back then you can call me
+CEO of the R-O-C, Hov!
+Fresh out the fryin' pan into the fire
+I be the music biz number one supplier
+Flyer than a piece of paper bearin' my name
+Got the hottest chick in the game wearin' my chain, that's right
+Hov, OH—not D.O.C
+But similar to them letters, \"No One Can Do it Better\"
+I check cheddar like a food inspector
+My homey Strict told me, \"Dude finish your breakfast\"
+So that's what I'ma do, take you back to the dude
+With the Lexus, fast-forward the jewels and the necklace
+Let me tell you dudes what I do to protect this
+I shoot at you actors like movie directors {​*laughing*}​
+This ain't a movie, dog (oh shit)
+
+[Interlude: Just Blaze]
+Now before I finish, let me just say I did not come here to show out, did not come here to impress you. Because to tell you the truth when I leave here I'm GONE!
+And I don't care WHAT you think about me—but just remember, when it hits the fan, brother, whether it's next year, ten years, twenty years from now, you'll never be able to say that these brothers lied to you JACK!
+
+[Verse 2: Jay-Z]
+Thing ain't lie
+I done came through the block in everything that's fly
+I'm like Che Guevara with bling on, I'm complex
+I never claimed to have wings on
+Nigga, I get my \"by any means\" on whenever there's a drought
+Get your umbrellas out because that's when I brainstorm
+You can blame Shawn, but I ain't invent the game
+I just rolled the dice, trying to get some change
+And I'd do it twice, ain't no sense in me
+Lying as if I am a different man
+And I could blame my environment but
+There ain't no reason why I be buying expensive chains
+Hope you don't think users are the only abusers
+Niggas getting high within the game
+If you do then, how would you explain?
+I'm ten years removed, still the vibe is in my veins
+I got a hustler spirit, nigga, period
+Check out my hat yo, peep the way I wear it
+Check out my swag' yo, I walk like a ballplayer
+No matter where you go, you are what you are player
+And you can try to change but that's just the top layer
+Man, you was who you was 'fore you got here
+Only God can judge me, so I'm gone
+Either love me, or leave me alone
+
+Now, back to our regularly scheduled program, L'Album Noir: The Black Album"
+},{
+  album_id: Album.find_by_title("The Black Album").id,
+  title: "Justify My Thug",
+  features: "",
+  producer: "DJ Quik",
+  lyrics: "Uhh, this feel right right here, Quik
+It's like it's supposed to happen this one right here
+Young! God damn
+Let me justify my thug on this one right here
+
+[Verse 1: Jay-Z]
+It goes one o'clock, two o'clock, three o'clock, Roc
+Five six seven o'clock, eight o'clock, Roc
+Eleven o'clock, twelve o'clock, the party bout to pop
+Then, Roc-A-Fella y'all, It's your boy S. Dot
+And I ain't never been to jail; I ain't never pay a nigga
+To do no dirt for me I was scared to do myself
+I will never tell, even if it means sittin in a cell
+I ain't never ran, never will
+I ain't never been smacked; a nigga better keep his hands
+To himself or get clapped for what's under that man's belt
+I never asked for nothin I don't demand of myself
+Honesty, loyalty, friends and then wealth
+Death before dishonor and I tell you what else
+I tighten my belt 'fore I beg for help
+Foolish pride is what held me together through the years
+I wasn't felt which is why I ain't never played myself
+I just play the hand I'm dealt, I can't say I've never knelt
+Before God and asked for better cards at times to no avail
+But I never sat back feelin sorry for myself
+If you don't give me heaven I'll raise hell
+'Til it's heaven
+
+[Hook: (Madonna imitation)]
+Justify my thug! {*\"For you!\" - Run-D.M.C.*}
+My thug.. (hoping..)
+My thug.. (praying..) for you
+To justify my thug!
+My thug.. (hoping..)
+My thug.. (praying..) for you
+{*\"For you! Fresh\" - Run-D.M.C.*}
+
+[Verse 2: Jay-Z]
+Now if you shoot my dog, I'mma kill yo' cat
+Just the unwritten laws in rap, know dat
+For every action there's a reaction, don't have me relapsin
+Relaxin's what I'm about, but about mine
+Don't be actin like you can't see street action
+Take me back to Reasonable Doubt time
+You see my mind's on the finish line, facin the wreck
+I put my muh'fuckin faith in the tec, tell Satan not yet
+You understand I am chasin my breath
+I am narrowly escapin my death, oh yes
+I am the Michael Schumacher of the Roc roster
+Travellin Mach 5, barrel in my apparel can stop God
+God forgive me but I can't let them deliver me to you
+Until, I won this race, then eventually
+My engine gon' burn out, I get whatever is meant for me
+However it turns out fine, red line!
+
+[Hook]
+
+[Verse 3: Jay-Z]
+They say an eye for an eye, we both lose our sight
+And two wrongs don't make a right
+But when you been wronged and you know all along that it's just one life
+At what point does one fight? (Good question, right?)
+'Fore you knock the war, try to put your dogs in his
+Ten-and-a-halfs, for a minute-and-a-half
+Bet that stops all the grinnin and the laughs
+When you play the game of life and the win ain't in the bag
+When your options is none and the pen is all you have
+Or the block, niggas standin tight as lemons on the ave
+Tryin to cop a shop - call theyself cleansin in the cash
+But can't put they name on paper cause, then you on blast
+Mr. President, there's drugs in our residence
+Tell me what you want me to do, come break bread with us
+Mr. Governor, I swear there's a cover up
+Every other corner there's a liquor store, fuck is up?
+
+[Hook]"
+},{
+  album_id: Album.find_by_title("The Black Album").id,
+  title: "Lucifer",
+  features: "",
+  producer: "Kanye West",
+  lyrics: "[Intro]
+Kanyeezy you did it again, you a genius nigga!
+
+[Hook]
+Lucifer, son of the morning! I'm gonna chase you out of Earth
+(I'm from the murder capital, where we murder for capital)
+Lucifer, son of the morning! I'm gonna chase you out of Earth
+(So you need to change your attitude 'fore they asking what happened to you)
+
+[Verse 1]
+Lord forgive him, he got them dark forces in him
+But he also got a righteous cause for sinning
+Them-a-murder me, so I gotta murder them first
+Emergency, doctors performing procedures
+Jesus, I ain't trying to be facetious, but
+\"Vengeance is mine\" sayeth the Lord, you said it better than all
+Leave niggas on death's door, breathing on
+Respirators for killing my best boy, haters
+On permanent hiatus as I skate
+In the Maybach Benz, flyer than Sanaa Lathan
+Pumping \"Brown Sugar\" by D'Angelo
+In Los Angeles, like an evangelist
+I can introduce you to your maker
+Bring you closer to nature, ashes after they cremate you bastards
+Hope you been reading your psalms and chapters
+Paying your tithe, being good Catholics, I'm coming
+
+[Hook]
+Lucifer, son of the morning! I'm gonna chase you out of Earth
+(I'm from the murder capital, where we murder for capital)
+Lucifer, son of the morning! I'm gonna chase you out of Earth
+(So you need to change your attitude 'fore they asking what happened to you)
+
+[Verse 2]
+Yes, this is holy war, I wet y'all all with the holy water
+Spray from the Heckler-Koch automatic
+All the static, shall cease to exist
+Like a sabbatical, I throw couple at you, take six!
+Spread love, to all of my dead thugs
+I pour out a little Louis, to a head above
+Yessir, and when I perish, the meek shall inherit the Earth
+'til that time, it's on and popping, church
+Like Don Bishop, the fifth or palm cock either
+Lift up your soul or give you the holy ghost
+Please I leave you in somebody's cathedral for stunting like Evel Knievel
+I let you see where that bright light lead you
+The more you talk, the more you irking us
+The more you gon' need memorial services
+The Black Album, second verse, is like
+Devil's pie, save some dessert for us
+
+[Interlude]
+Man, I gotta get my soul right
+I gotta get these devils out my life
+These cowards gonna make a nigga ride
+They won't be happy 'til somebody die
+Oh man, I gotta get my soul right
+'Fore I'm locked up for my whole life
+Every time it seems it's alright
+Somebody want they soul to rise
+I chase you off of this Earth
+(Let me get serious for y'all, one second)
+
+[Verse 3]
+I got dreams of holding a nine milla to Bob's killer
+Asking him \"why?\" as my eyes fill up
+These days I can't wake up with a dry pillow
+Gone but not forgotten, homes I still feel ya
+So, curse the day that birthed the bastard
+Who caused your church mass, reverse the crash
+Reverse the blast then reverse the car
+Reverse the day and there you are, Bobalob
+Lord forgive him, we all have sinned
+But Bob's a good dude, please let him in
+And if you feel in my heart that I long for revenge
+Please blame it on the son of the morning, thanks again"
+},{
+  album_id: Album.find_by_title("The Black Album").id,
+  title: "Allure",
+  features: "",
+  producer: "The Neptunes",
+  lyrics: "[Intro: Pharrell & Jay Z]
+(Young! It's the life)
+(Once again it's the life, yes)
+I don't know why, I.. get so high oh
+(It's intoxicatin man, y'all don't know why you do what you do)
+Get so high oh, get so high, high off the life
+
+[Verse 1]
+The allure of breaking the law
+Was always too much for me to ever ignore
+I've got a thing for the big-body Benzes, it dulls my senses
+In love with a V-Dub engine
+Man, I'm high off life, fuck it, I'm wasted
+Bathing Ape kicks, Audemars Piguet wrist
+My women-friends get tennis bracelets
+Trips to Venice, get their Winters replaced with
+The sun...it ain't even fun no more, I'm jaded
+Man, it's just a game, I just play it to play it
+I put my feet in the footprints left to me
+Without saying a word, the ghetto's got a mental telepathy
+My brother hustled so, naturally
+Up next was me, but what perplexes me
+Shit, I know how this movie ends, still I play
+The starring role in \"Hovito's Way\"
+
+[Hook]
+It's just life, I solemnly swear
+To change my approach, stop shaving coke
+Stay away from hoes, put down the toast
+Cause I be doing the most, Oh No!
+But every time I felt \"That was that\", it called me right back
+It called me right back
+Man, it called me right back, Oh No!
+
+[Verse 2]
+I'm like a Russian mobster, drinking distilled vodka
+Until I'm under the field with Hoffa, it's real
+Peel the top up like a toupée,mix the water with the soda
+Turn the pot up, make a soufflé
+All of y'all can get it like group-page on your 2-way
+I'm living proof that crime do pay
+Say \"hooray\" to the bad guy, and all the broads
+Putting cars in their name, for the stars of the game
+Putting 'caine in their bras and their tomorrows on the train:
+All in the Name of Love
+Just to see that love locked in chains and the family came
+Over the house to take back everything that they claimed
+Or even the worse pain is the distress
+Learning you're the mistress only after that love gets slain
+And the anger and the sorrow mixed up leads to mistrust
+Now it gets tough to ever love again
+But the allure of the game, keeps calling your name
+To all the Lauras of the world, I feel your pain
+To all the Christies in different cities and Tiffany Lanes:
+We all hustlers in love with the same thing
+
+[Hook]
+It's just life, I solemnly swear
+To change my approach, stop shaving coke
+Stay away from hoes,put down the toast
+Cause I be doing the most, Oh No!
+But every time I felt \"That was that\", it called me right back
+It called me right back
+Man, it called me right back, Oh No!
+
+[Verse 3]
+I never felt more alive than riding shotgun
+In Klein's green 5, until the cops pulled guns
+And I tried to smoke weed to give me the fix I need -
+What the game did to my pulse - with no results
+And you can treat your nose and still won't come close
+The game is a lightbulb with eleventy-million volts
+And I'm just a moth addicted to the floss
+The doors lift from the floor and the tops come off
+By any means necessary, whatever the cost
+Even if it means lives is lost
+And I can't explain why I just love to get high
+Drink, \"life!\" smoke the blueberry sky, blink twice
+I'm in the blueberry 5, you blink three times
+I may not even be alive
+I mean even James Dean couldn't escape the allure
+Dying young, leaving a good-lookin corpse, of course
+
+[Hook]
+It's just life, I solemnly swear
+To change my approach, stop shaving coke
+Stay away from hoes,put down the toast
+Cause I be doing the most, Oh No!
+But every time I felt \"That was that\", it called me right back
+It called me right back
+Man, it called me right back, Oh No!
+
+
+[Outro: Jay Z & Pharrell]
+(Once again its the life
+Yeah I said its the life
+Once I again its the life
+Oh No)
+
+I don't know why, I...
+Get so high oh
+Get so high oh
+Get so high, high off the life"
+},{
+  album_id: Album.find_by_title("The Black Album").id,
+  title: "My 1st Song",
+  features: "",
+  producer: "Joe \"3H\" Weinberger & Aqua",
+  lyrics: "[Intro: Notorious B.I.G. in a 1996 MTV interview]
+Gotta try to stay above water, y'know?
+Just stay busy, stay working
+Puff told me, like, the key to this joint
+The key to staying on top of things
+Is treat everything like it's your first project, nomsayin'?
+Like it's your first day, like, back when you was an intern
+Like, that's how you try to treat things like, just stay hungry
+
+[Verse 1: Jay-Z]
+Y'all wanna know why he don't stop?
+Y'all wanna know why he don't flop?
+Let me tell you pe-people why
+Came from the bottom of the block I
+When I was born, it was sworn, I was never gon' be shit
+Had to pull the opposite out this bitch
+Had to get my ri-ide on
+Eyes on the prize, Shawn knew I had to
+Had to had to get these chips
+Had to make moves like Olajuwon
+Started out selling dimes and nicks
+Graduated to a brick
+No exaggeration, my infatuation with the strip
+Legendary like a schoolboy
+Crushin' merely nearly every every chick
+Heavy shit – that's how schoolboy got whipped
+And got left on some Just Me, Myself and I
+On some Trugoy shit
+Had to voyage to a place of, to a place of no return
+Had to play with fire and get burned
+Only way the boy ever gon' learn
+Had to lay way in the cut, 'til I finally got my turn
+Now I'm on top in the spot that I earned
+
+[Hook]
+It's my life, it's my pain and my struggle
+The songs that I sing to you is my everything
+Treat my first like my last, and my last like my first
+And my thirst is the same as when I came
+It's my joy and my tears
+And the laughter it brings to me, it's my everything
+
+[Verse 2: Jay-Z]
+Like I never rode in a limo
+Like I just dropped flows to a demo
+Like it's '92 again and I got O's in the rental
+Back in the Stu' again
+No prob' living was a whole lot simple
+When you think back, you thought that
+You would never make it this far
+Then you take advantage of the luck you handed
+Or the talent you been given
+Ain't no half steppin', ain't no, no slippin'
+Ain't no different from a block that's hittin'
+Gotta get it while the getting's good
+Gotta strike while the iron's hot, before you stop
+Then you gotta bid it, good riddance
+Goodbye! This is my second major breakup
+My first was with a pager
+With a hooptie, a cookpot and the GAME
+This one's with the stu', with the stage, with the fortune
+Maybe not the fortune, but certainly the FAME
+
+[Hook]
+It's my life, it's my pain and my struggle
+The songs that I sing to you is my everything
+Treat my first like my last, and my last like my first
+And my thirst is the same as when I came
+It's my joy and my tears
+And the laughter it brings to me, it's my everything
+Treat my first like my last, and my last like my first
+And my thirst like the first song I sang
+
+[Outro: Jay-Z]
+Woo, it's like the blues, we gon' ride out on this one
+Ty-Ty, B-High
+Yo High, remember you was making them baskets
+For them niggas at radio and shit?
+Clark Kent, that was good looking out, nigga
+Carline, who ever thought we'd make it this far, homie?
+Sha, they can't stop us, knahmsayin'?
+Lenny S
+Dame, whattup! Robbing the bank
+Niggas thought we was crazy, man, remember uhh
+You had that fucked up ass handwriting
+You was writing all the numbers that we was spending down
+For the videos we was doing ourselves
+(Ski, whattup? Original Flavor now)
+Your accounting was crazy wrong and shit
+But we still put it together
+Biggs, whassup?
+Member we went to St. Thomas and uh (John Meneilly)
+Your dog peed on homie leg and shit
+At his crib, I think that was Rudy
+And they was having a lil trouble with the pool
+You and Ty-Ty was laughing
+Emory was there; whattup, Emory?
+What up, Ty? Hip-Hop, whattup, man?
+Aye, aye Hop, you ain't, you ain't have no uhh
+You ain't have no muh'fuckin seat on your, on your bicycle
+Now you're uhh, the head of black music
+That's what I'm talking 'bout right there, homie
+Gee, whattup, Gee?
+Yessir, e'rybody in the Roc
+Hey, Guru, I know you spoiled, man
+I be taking them shits in one take
+You gonna have to punch niggas' shit (?Snigity?)
+You gon' be tight?
+OG Juan, whattup? I'm a little upset that you wasn't involved in this whole process, but it's all good
+Wassup, Dez?
+My whole family, my nephew, cousin Angie, whassup? Ti-Ti
+(Bey, Bey, Bey, Bey)
+Mom, you made the album, how crazy is that?
+Bobalob, rest in peace
+My pops, rest in peace (Sup A.J.?)
+Biggie Smalls, rest in peace
+Uh-uh, uh-uh, uh-uh, uh-uh
+Nigga, I'm bout to go golfing, man
+Aye, I might even have me a cappuccino, fuck it!
+I'm going somewhere nice where no mosquitoes at, nigga
+Holla at me! It's your boy"
+}, {
+  album_id: Album.find_by_title("My Beautiful Dark Twisted Fantasy").id,
+  title: "Dark Fantasy",
+  features: "Nicki Minaj & Teyana Taylor",
+  producer: "RZA & Kanye West",
+  lyrics: "[Intro: Nicki Minaj]
+You might think you've peeped the scene
+You haven’t, the real one's far too mean
+The watered down one, the one you know
+Was made up centuries ago
+They made it sound all wack and corny
+Yes, it's awful, blasted boring
+Twisted fictions, sick addictions
+Well, gather 'round children, zip it, listen
+
+[Hook: Teyana Taylor]
+Can we get much higher? So high
+Oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh
+Can we get much higher? So high
+Oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh
+Can we get much higher? So high
+Oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh
+Can we get much higher? So high
+Oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh
+
+[Verse 1]
+Yeah yeah yeah yeah
+I fantasized 'bout this back in Chicago
+Mercy, mercy me, that Murcielago
+That's me, the first year that I blow
+How you say broke in Spanish? Me no hablo
+Me drown sorrow in that Diablo
+Me found bravery in my bravado
+DJs need to listen to the models
+\"You ain't got no fuckin' Yeezy in your Serato?\"
+(You ain't got no Yeezy, nigga?)
+Stupid, but what the hell do I know?
+I'm just a Chi-town nigga with a Nas flow
+And my chick in that new Phoebe Philo
+So much head, I woke up to Sleepy Hollow
+
+[Hook: Teyana Taylor]
+Can we get much higher?
+Oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh
+
+[Verse 2]
+Look like a fat booty Celine Dion
+Sex is on fire, I'm the King of Leon-a Lewis
+Beyond the truest, hey, teacher, teacher
+Tell me how do you respond to students?
+And refresh the page and restart the memory?
+Respark the soul and rebuild the energy?
+We stopped the ignorance, we killed the enemies
+Sorry for the night demons still visit me
+The plan was to drink until the pain over
+But what's worse, the pain or the hangover?
+Fresh air, rollin' down the window
+Too many Urkels on your team, that's why your wins low
+Don't make me pull the toys out, huh
+Don't make me pull the toys
+And fire up the engines, huh
+And then they make noise
+
+[Hook: Teyana Taylor]
+Can we get much higher? So high
+Oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh
+
+[Bridge: Bon Iver & Kanye West]
+At the mall, there was a seance
+Just kids, no parents
+Then the sky filled with herons
+(I saw the devil) in a Chrysler LeBaron
+And the hell, it wouldn't spare us
+And the fires did declare us
+But after that, took pills, kissed an heiress
+And woke up back in Paris
+
+[Hook: Teyana Taylor]
+Can we get much higher? So high
+Oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh
+Can we get much higher? So high
+Oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh
+Can we get much higher? So high
+Oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh
+Can we get much higher? So high
+Oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh
+Can we get much higher? So high
+Oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh"
+}, {
+  album_id: Album.find_by_title("My Beautiful Dark Twisted Fantasy").id,
+  title: "Gorgeous",
+  features: "Kid Cudi & Raekwon",
+  producer: "Mike Dean, No I.D. & Kanye West",
+  lyrics: "[Hook: Kid Cudi]
+Ain’t no question if I want it, I need it
+I can feel it slowly drifting away from me
+I’m on the edge, so why you playing? I’m saying
+I will never ever let you live this down, down, down
+Not for nothing I’ve foreseen it, I dream it
+I can feel it slowly drifting away from me
+No more chances if you blow this, you bogus
+I will never ever let you live this down, down, down
+
+[Verse 1: Kanye West]
+Penitentiary chances, the devil dances
+And eventually answers to the call of Autumn
+All of them fallin’ for the love of ballin’
+Got caught with 30 rocks, the cop look like Alec Baldwin
+Inter century anthems based off inner city tantrums
+Based off the way we was branded
+Face it, Jerome get more time than Brandon
+And at the airport they check all through my bag
+And tell me that it’s random
+But we stay winning, this week has been a bad massage
+I need a happy ending and a new beginning
+And a new fitted, and some job opportunities that's lucrative
+This the real world, homie, school finished
+They done stole your dreams, you dunno who did it
+I treat the cash the way the government treats AIDS
+I won’t be satisfied til all my niggas get it, get it?
+
+[Hook: Kid Cudi]
+Ain’t no question if I want it, I need it
+I can feel it slowly drifting away from me
+I’m on the edge, so why you playing? I’m saying
+I will never ever let you live this down, down, down
+
+[Verse 2: Kanye West]
+Is hip hop just a euphemism for a new religion?
+The soul music of the slaves that the youth is missing
+This is more than just my road to redemption
+Malcolm West had the whole nation standing at attention
+As long as I’m in Polo smiling, they think they got me
+But they would try to crack me if they ever see a black me
+I thought I chose a field where they couldn’t sack me
+If a nigga ain't shootin' a jump shot, running a track meet
+But this pimp is, at the top of Mount Olympus
+Ready for the World’s game, this is my Olympics
+We make ‘em say ho cause the game is so pimpish
+Choke a South Park writer with a fishstick
+I insisted to get up offa this dick
+And these drugs, niggas can't resist it
+Remind me of when they tried to have Ali enlisted
+If I ever wasn't the greatest nigga, I must have missed it!
+
+[Hook: Kid Cudi]
+Ain’t no question if I want it, I need it
+I can feel it slowly drifting away from me
+I’m on the edge, so why you playing? I’m saying
+I will never ever let you live this down, down, down
+
+[Verse 3: Kanye West]
+I need more drinks and less lights
+And that American Apparel girl in just tights
+She told the director she tryna get in a school
+He said “take them glasses off and get in the pool”
+It’s been a while since I watched the tube
+Cause like a Crip set, I got way too many blues for any more bad news
+I was looking at my resume feeling real fresh today
+They rewrite history, I don’t believe in yesterday
+And what’s a black Beatle anyway, a fucking roach?
+I guess that's why they got me sitting in fucking coach
+My guy said I need a different approach
+Cause people is looking at me like I’m sniffing coke
+It's not funny anymore, try different jokes
+Tell ‘em hug and kiss my ass, x and o
+And kiss the ring while they at it, do my thing while I got it
+Play strings for the dramatic ending of that wack shit
+Act like I ain't had a belt in two classes
+I ain't got it I’m coming after whoever who has it
+I’m coming after whoever. Who has it?
+You blowin' up, that’s good, fantastic
+That y’all, it's like that y'all
+I don’t really give a fuck about it at all
+Cause the same people that tried to black ball me
+Forgot about two things, my black balls
+
+[Hook: Kid Cudi]
+Ain’t no question if I want it, I need it
+I can feel it slowly drifting away from me
+I’m on the edge, so why you playing? I’m saying
+I will never ever let you live this down, down, down
+
+[Verse 4: Raekwon]
+I done copped Timb's, lived in lenses, kid
+Armani suits, fresh fruits, Bally boots and Benzes
+Counting up, smoking, one cuff
+Live as a red Jag, a Louis bag, grabbing a blunt, fuck it
+Steam about a hundred and one L's
+Kites off to jails, buying sweats, running up in Stetson
+Nigga hat game was special
+It matched every black pair of Nikes, throwing dice for decimals
+The older head, bolder head, would train a soldier head
+Make sure he right in the field, not a soldier dead
+That meant code red, bent off the black skunk
+The black dutch, back of the old shed
+If you can’t live, you dying, you give or buy in
+Keep it real or keep it moving, keep grinding
+Keep shining, to every young man, this is a plan
+Learn from others like your brothers Rae and Kanye
+
+[Outro: Kid Cudi]
+Not for nothing I've forseen it, I dream it
+I can feel it slowly dripping away from me
+No more chances if you blow this, you bogus
+I will never ever let you live this down, down, down"
+},{
+  album_id: Album.find_by_title("My Beautiful Dark Twisted Fantasy").id,
+  title: "Power",
+  features: "",
+  producer: "S1, Mike Dean, Andrew Dawson, Jeff Bhasker & Kanye West",
+  lyrics: "[Verse 1]
+I’m living in that 21st Century, doing something mean to it
+Do it better than anybody you ever seen do it
+Screams from the haters, got a nice ring to it
+I guess every superhero need his theme music
+No one man should have all that power
+The clock’s ticking, I just count the hours
+Stop tripping, I’m tripping off the power
+(21st-Century schizoid man)
+The system broken, the school is closed, the prison's open
+We ain’t got nothing to lose, motherfucker we rolling
+Huh? Motherfucker we rolling
+With some light-skinned girls and some Kelly Rowlands
+In this white man world, we the ones chosen
+So goodnight, cruel world, I’ll see you in the morning
+Huh? I’ll see you in the morning
+This is way too much, I need a moment
+
+[Hook]
+No one man should have all that power
+The clock’s ticking, I just count the hours
+Stop tripping, I’m tripping off the power
+Till then, fuck that, the world’s ours
+And they say, and they say
+And they say, and they say
+And they say, and they say
+(21st-Century schizoid man)
+
+[Verse 2]
+Fuck SNL and the whole cast
+Tell them Yeezy said they can kiss my whole ass
+More specifically they can kiss my asshole
+I’m an asshole? You niggas got jokes
+You short-minded niggas thoughts is Napoleon
+My furs is Mongolian, my ice brought the goalies in
+And I embody every characteristic of the egotistic
+He knows, he’s so fucking gifted
+I just needed time alone with my own thoughts
+Got treasures in my mind but couldn’t open up my own vault
+My childlike creativity, purity and honesty
+Is honestly being crowded by these grown thoughts
+Reality is catching up with me
+Taking my inner child, I’m fighting for custody
+With these responsibilities that they entrusted me
+As I look down at my diamond encrusted piece
+Thinking
+
+[Hook]
+No one man should have all that power
+The clock’s ticking, I just count the hours
+Stop tripping, I’m tripping off the powder
+Till then, fuck that, the world’s ours
+And they say, and they say
+And they say, and they say
+And they say, and they say
+(21st-Century schizoid man)
+
+[Verse 3]
+Colin Powells, Austin Powers
+Lost in translation with a whole fucking nation
+They say I was the abomination of Obama’s nation
+Well that’s a pretty bad way to start the conversation
+At the end of the day, god damn it I’m killing this shit
+I know damn well y’all feeling this shit
+I don’t need your pussy, bitch, I’m on my own dick
+I ain’t gotta power trip, who you going home with?
+How 'Ye doing? I’m surviving
+I was drinking earlier, now I’m driving
+Where the bad bitches, huh? Where you hiding?
+I got the power to make your life so exciting
+
+[Outro: Kanye West & Dwele]
+Now this will be a beautiful death
+I’m jumping out the window, I’m letting everything go
+I’m letting everything go
+Now this will be a beautiful death
+I’m jumping out the window, I’m letting everything go
+I’m letting everything go
+Now this will be a beautiful death
+I’m jumping out the window, I’m letting everything go
+Letting everything go
+You got the power to let power go?
+(21st-Century schizoid man)"
+},{
+  album_id: Album.find_by_title("My Beautiful Dark Twisted Fantasy").id,
+  title: "All Of The Lights (Interlude)",
+  features: "",
+  producer: "Jeff Bhasker, Kanye West, Mike Dean & Rosie Danvers",
+  lyrics: "[Instrumental]"
+  },{
+  album_id: Album.find_by_title("My Beautiful Dark Twisted Fantasy").id,
+  title: "All Of The Lights",
+  features: "Rihanna, Kid Cudi, Fergie, Drake, Alicia Keys & Elton John",
+  producer: "Jeff Bhasker & Kanye West",
+  lyrics: "[Intro: Choir]
+All of the lights, lights, all of the lights
+
+[Hook: Rihanna]
+Turn up the lights in here, baby
+Extra bright, I want y'all to see this
+Turn up the lights in here, baby
+You know what I need, want you to see everything
+Want you to see all of the lights
+
+[Post-Hook: Elly Jackson & Rihanna]
+Fast cars, shooting stars
+All of the lights, all of the lights
+Until it's Vegas everywhere we are (all of the lights)
+If you want it, you can get it for the rest of your life
+If you want it, you can get it for the rest of your life
+
+[Verse 1: Kanye West]
+Something wrong, I hold my head
+MJ gone, our nigga dead
+I slapped my girl, she called the feds
+I did that time and spent that bread
+I’m heading home, I’m almost there
+I’m on my way, heading up the stairs
+To my surprise, a nigga replacing me
+I had to take him to that ghetto university
+
+[Pre-Hook: Kanye West]
+(All of the lights) Cop lights, flashlights, spotlights
+Strobe lights, street lights (All of the lights, all of the lights)
+Fast life, drug life, thug life
+Rock life, every night (All of the lights)
+
+[Hook: Rihanna]
+Turn up the lights in here, baby
+Extra bright, I want y'all to see this
+Turn up the lights in here, baby
+You know what I need, want you to see everything
+Want you to see all of the lights
+
+[Verse 2: Kanye West]
+Restraining order, can’t see my daughter
+Her mother, brother, grandmother hate me in that order
+Public visitation, we met at Borders
+Told her she take me back, I’ll be more supportive
+I made mistakes, I bumped my head
+Courts sucked me dry, I spent that bread
+She need her daddy, baby please
+Can’t let her grow up in that ghetto university
+
+[Pre-Hook: Kanye West]
+(All of the lights) Cop lights, flashlights, spotlights
+Strobe lights, street lights (All of the lights, all of the lights)
+Fast life, drug life, thug life
+Rock life, every night (All of the lights)
+
+[Hook: Rihanna]
+Turn up the lights in here, baby
+Extra bright, I want y'all to see this
+Turn up the lights in here, baby
+You know what I need, want you to see everything
+Want you to see all of the lights
+
+[Bridge A: Kid Cudi]
+Getting mine, baby
+Got to let these niggas know, yeah
+Getting right, babe
+You should go and get your own
+Getting mine, baby
+Got to let these niggas know, yeah
+Getting right, babe
+You should go and get your own
+
+[Bridge B: Fergie, (Rihanna), & Drake]
+Unemployment line, credit card declined
+Did I not mention I was about to lose my mind?
+And also was about to do that line
+K, okay, you know we going all the way this time
+We going all the way this time
+We going all the way this time
+(We going all the way this time)
+We going all the way this time
+
+[Hook: Choir]
+Turn up the lights in here, baby
+Extra bright, I want y'all to see this
+Turn up the lights in here, baby
+You know what I need, want you to see everything
+Want you to see all of the lights
+
+[Outro: Alicia Keys & (Elton John)]
+Whoa, whoa
+(I tried to tell you but all I could say was ohh)
+Whoa, whoa
+(I tried to tell you but all I could say was ohh)
+Whoa, whoa
+(I tried to tell you but all I could say was ohh)
+Whoa, whoa
+(I tried to tell you but all I could say)"
+}, {
+  album_id: Album.find_by_title("My Beautiful Dark Twisted Fantasy").id,
+  title: "Monster",
+  features: "Bon Iver, Rick Ross, Nicki Minaj, JAY-Z",
+  producer: "Plain Pat, Mike Dean & Kanye West",
+  lyrics: "[Intro: Bon Iver]
+I shoot the lights out
+Hide 'til it's bright out
+Oh just another lonely night
+Are you willing to sacrifice your life?
+
+[Intro Verse: Rick Ross]
+Bitch, I'm a monster, no-good blood-sucker
+Fat motherfucker, now look who's in trouble
+As you run through my jungles all you hear is rumbles
+Kanye West samples, here's one for example
+
+[Hook: Kanye West]
+Gossip, gossip, nigga just stop it
+Everybody know I'm a motherfucking monster
+I'ma need to see your fucking hands at the concert
+I'ma need to see your fucking hands at the concert
+Profit, profit, nigga I got it
+Everybody know I'm a motherfucking monster
+I'ma need to see your fucking hands at the concert
+I'ma need to see your fucking hands
+
+[Verse 1: Kanye West]
+The best living or dead hands down, huh
+Less talk, more head right now, huh
+And my eyes more red than the devil is
+And I'm about to take it to another level, bitch
+No matter who you go and get
+Ain't nobody cold as this
+Do the rap and the track, triple double no assists
+And my only focus is staying on some bogus shit
+Arguing with my older bitch, acting like I owe her shit
+I heard that people sing raps to give the track pain
+Bought the chain that always give me back pain
+Fucking up my money so yeah I had to act sane
+Chi nigga but these hoes love my accent
+Chick came up to me and said
+\"This the number to dial
+If you wanna make your #1 your #2 now\"
+Mix that Goose and Malibu I call it \"Malibooyah\"
+Goddamn, Yeezy, how he hit 'em with a new style?
+Know that motherfucker well: \"What you gonna do now?\"
+Whatever I want to do. Gosh! It's cool now
+Know I'm gonna do, ah, it's the new now
+Think you motherfuckers really really need to cool out
+Cause you'll never get on top of this
+So mommy, best advice is just to get on top of this
+Have you ever had sex with a pharaoh?
+Put the pussy in a sarcophagus
+Now she claiming that I bruised her esophagus
+Head of the class and she just won a swallowship
+I'm living in the future so the present is my past
+My presence is a present, kiss my ass
+
+[Hook: Kanye West]
+Gossip, gossip, nigga just stop it
+Everybody know I'm a motherfucking monster
+I'ma need to see your fucking hands at the concert
+I'ma need to see your fucking hands at the concert
+Profit, profit, nigga I got it
+Everybody know I'm a motherfucking monster
+I'ma need to see your fucking hands at the concert
+I'ma need to see your fucking hands
+
+[Verse 2: Jay Z]
+Sasquatch, Godzilla, King Kong, Loch Ness
+Goblin, ghoul, a zombie with no conscience
+Question: What do these things all have in common?
+Everybody knows I'm a motherfucking monster
+Conquer, stomp ya, stop your silly nonsense
+Nonsense, none of you niggas know where the swamp is
+None of you niggas have seen the carnage that I've seen
+I still hear fiends scream in my dreams
+Murder, murder in black convertibles, I
+Kill the block, I murder the avenues, I
+Rape and pillage your village, women and children
+Everybody want to know what my Achilles heel is
+Love, I don't get enough of it
+All I get is these vampires and blood-suckers
+All I see is these niggas I made millionaires
+Milling about, spilling they feelings in the air
+All I see is these fake fucks with no fangs
+Trying to draw blood from my ice-cold veins
+I smell a massacre
+Seems to be the only way to back you bastards up
+
+[Hook: Kanye West]
+Gossip, gossip, nigga just stop it
+Everybody know I'm a motherfucking monster
+I'ma need to see your fucking hands at the concert
+I'ma need to see your fucking hands at the concert
+Profit, profit, nigga I got it
+Everybody know I'm a motherfucking monster
+I'ma need to see your fucking hands at the concert
+I'ma need to see your fucking hands
+
+[Verse 3: Nicki Minaj]
+Pull up in the monster automobile, gangsta
+With a bad bitch that came from Sri Lanka
+Yeah I'm in that Tonka color of Willy Wonka
+You could be the king but watch the queen conquer
+OK, first things first I'll eat your brains
+Then I'm a start rocking gold teeth and fangs
+Cause that's what a motherfucking monster do
+Hair dresser from Milan that's the monster 'do
+Monster Giuseppe heel, that's the monster shoe
+Young Money is the roster and a monster crew
+And I'm all up, all up, all up in the bank with the funny face
+And if I'm fake, I ain't notice cause my money ain't
+So let me get this straight, wait, I'm the rookie?
+But my features and my shows ten times your pay?
+50K for a verse, no album out
+Yeah, my money's so tall that my Barbiez got to climb it
+Hotter than a Middle Eastern climate, violent
+Tony Matterhorn, dutty wine it, wylin'
+Nicki on them titties when I sign it
+That's how these niggas so one-track-minded
+But really really I don't give a F-U-C-K
+Forget Barbie, fuck Nicki cause she's fake
+She on a diet but her pockets eating cheesecake
+And I'll say bride of Chucky is child's play
+Just killed another career, it's a mild day
+Besides 'Ye, they can't stand besides me
+I think me, you and Am should ménage Friday
+Pink wig, thick ass, give 'em whiplash
+I think big, get cash, make 'em blink fast
+Now look at what you just saw, this is what you live for
+Aaaah, I'm a motherfucking monster
+
+[Outro: Bon Iver]
+I crossed the limelight
+And I'll let God decide
+And I wouldn't last these shows
+So I am headed home
+I crossed the limelight
+And I'll let God decide
+And I wouldn't last these shows
+So I am headed home
+I crossed the limelight
+And I'll let God decide
+And I wouldn't last these shows
+So I am headed home"
+},{
+  album_id: Album.find_by_title("My Beautiful Dark Twisted Fantasy").id,
+  title: "So Appalled",
+  features: "JAY-Z, Pusha T, Swizz Beatz, RZA & CyHi The Prynce",
+  producer: "No I.D. & Kanye West",
+  lyrics: "[Bridge: Swizz Beatz]
+One hand in the air if you don't really care
+Two hands in the air if you don't really care
+It's like that sometimes, I mean ridiculous
+It's like that sometimes, this shit ridiculous
+One hand in the air if you don't really care
+Middle finger in the air if you don't really care
+It's like that sometimes, man, ridiculous
+Life can be sometimes ridiculous
+
+[Verse 1: Kanye West]
+I'm so appalled, Spalding ball
+Balding Donald Trump taking dollars from y'all
+Baby, you're fired, your girlfriend hired
+But if you don't mind, I'ma keep you on call
+We above the law, we don't give a fuck about y'all
+I got dogs that'll chew a fucking hole through the wall
+But since they all lovers, I need more rubbers
+And if I don't use rubbers, need more covers
+Housekeeping, I mean goddamn
+One time let it be a bad bitch sweeping
+That know we get O's like Cheerios
+That know because they seen us in the videos
+That know the day that you play me
+Would be the same day MTV play videos
+That was a little joke, voila
+Praises due to the most high, Allah
+Praises due to the most fly, Prada
+Baby, I'm magic, tada
+Address me as your highness, high as United
+30,000 feet up and you are not invited
+Niggas be writing bullshit like they gotta work
+Niggas is going through real shit, man, they out of work
+That's why another goddamn dance track gotta hurt
+That's why I'd rather spit something that got a purp'
+
+[Hook]
+Champagne wishes, thirty white bitches
+I mean this shit is fucking ridiculous
+Five star dishes, different exotic fishes
+Man, this shit is fucking ridiculous
+
+[Verse 2: Jay-Z]
+How should I begin this? I'm just so offended
+How am I even mentioned by all these fucking beginners?
+I'm so appalled, I might buy the mall
+Just to show niggas how much more I have in store
+I'm fresher than you all, so I don't have to pause
+All of y'all can suck my balls through my drawers
+Dark Knight feeling, die and be a hero
+Or live long enough to see yourself become a villain
+I went from the favorite to the most hated
+But would you rather be underpaid or overrated?
+Moral victories is for minor league coaches
+And 'Ye already told you we major, you cockroaches
+Show me where the boats is, Ferrari Testarossas
+And Hammer went broke so you know I'm more focused
+I lost thirty mil, so I spent another thirty
+'Cause unlike Hammer, thirty million can't hurt me
+Fucking insane, the fuck am I saying?
+Not only am I fly, I'm fucking not playing
+All these little bitches too big for they britches
+Burning they little bridges, fucking ridiculous
+
+[Hook]
+Champagne wishes, thirty white bitches
+I mean this shit is fucking ridiculous
+Five star dishes, different exotic fishes
+Man, this shit is fucking ridiculous
+
+[Verse 3: Pusha T]
+Success is what you make it, take it how it come
+A half a mil in twenties like a billion where I'm from
+An arrogant drug dealer, the legend I become
+CNN said I'd be dead by twenty-one
+Blackjack, I just pulled an ace
+As you looking at the king in his face
+Everything I dream, motherfuckers, I'm watching it take shape
+While to you I'm just a young rich nigga that lacks faith
+Range Rove, leather roof, love war, fuck a truce
+Still move a bird like I'm in bed with Mother Goose
+Them hoes coming in a baker's dozen
+Claiming they was with me when they know they really wasn't
+I keep the city's best, never said she was the brightest
+So if you had her too, it don't affect me in the slightest
+I never met a bitch that didn't need a little guidance
+So I dismiss her past until she disappoints your highness
+I speak the gospel, hostile
+Tony doing time for what he did to nostrils
+Paranoid mind, I'm still under the watchful
+Eye of the law, aspire for more
+Them kilos came, we gave you Bobby Brown jaw
+Flaws ain't flaws when it's you that makes the call
+Flow similar to the legends of the falls
+Spill it, I own you all, yeah
+
+[Bridge: Swizz Beatz]
+One hand in the air if you don't really care
+Two hands in the air if you don't really care
+It's like that sometimes, I mean ridiculous
+It's like that sometimes, this shit ridiculous
+One hand in the air if you don't really care
+Middle finger in the air if you don't really care
+It's like that sometimes, man, ridiculous
+Life can be sometimes ridiculous
+
+[Verse 4: Cyhi The Prynce]
+Hah, I am so outrageous
+I wear my pride on my sleeve like a bracelet
+If God had an iPod, I'd be on his playlist
+My phrases amazes the faces in places
+The favorite, hah, my cup overrunneth with hundreds
+Dummy, damn, it's hard not for me to waste it
+The new Commandment: \"Thou shalt not hate, kid\"
+My movement is like the civil rights, I'm Ralph David
+Abernathy, so call my lady Rosa Parks
+I am nothing like them niggas, baby, those are marks
+I met this girl on Valentine's Day, fucked her in May
+She found out about April, so she chose to march
+Hah, damn another broken heart
+I keep bitches by the twos, nigga, Noah's ark
+I got a seven on me, I call my 'dro Lamar
+Plus a Trojan in my pocket, Matt Leinart
+G-A-T in the Pathfinder
+Cause you haters got PhDs
+Y'all just some major haters and some math minors
+Tiger Woods, don't make me grab iron
+
+[Hook: RZA]
+Ayo, champagne wishes and thirty white bitches
+You know the shit is fucking ridiculous
+Cars for the missus and furs for the mistress
+You know that shit is fucking ridiculous
+
+[Bridge: Swizz Beatz]
+One hand in the air if you don't really care
+Two hands in the air if you don't really care
+It's like that sometimes, I mean ridiculous
+It's like that sometimes, this shit ridiculous
+One hand in the air if you don't really care
+Middle finger in the air if you don't really care
+It's like that sometimes, man, ridiculous
+Life can be sometimes ridiculous"
+},{
+  album_id: Album.find_by_title("My Beautiful Dark Twisted Fantasy").id,
+  title: "Devil In A New Dress",
+  features: "Rick Ross",
+  producer: "Bink! & Mike Dean",
+  lyrics: "[Intro: Kanye West]
+I love it though
+I love it though, y'know?
+
+[Hook: Kanye West]
+Put your hands to the constellations
+The way you look should be a sin, you my sinsation
+I know I’m preaching to the congregation
+We love Jesus but you done learned a lot from Satan
+I mean a nigga did a lot of waiting
+We ain't married but tonight I need some consummation
+
+[Verse 1: Kanye West]
+May the Lord forgive us, may the gods be with us
+In that magic hour I seen good Christians
+Make rash decisions, oh she do it
+What happened to religion? Oh, she lose it
+She putting on her make up, she casually allure
+Text message break ups, the casualty of tour
+How she gon' wake up and not love me no more?
+I thought I was the asshole, I guess it’s rubbing off
+Hood phenomenon, the LeBron of rhyme
+Hard to be humble when you stunting on a jumbotron
+I’m looking at her like this what you really wanted, huh?
+Why we argue anyway? Oh, I forgot, it's summertime
+
+[Hook 2: Kanye West]
+Put your hands to the constellations
+The way you look should be a sin, you my sinsation
+I know I’m preaching to the congregation
+We love Jesus but she done learned a lot from Satan
+(Satan, Satan, Satan)
+I mean a nigga did a lot of waiting
+We ain't married but tonight I need some consummation
+
+[Verse 2: Kanye West]
+When the sun go down it's the magic hour
+And outta all the colors that'll fill up the skies
+You got green on your mind, I can see it in your eyes
+Why you standing there with your face screwed up?
+Don’t leave while you're hot that’s how Mase screwed up
+Throwing shit around, the whole place screwed up
+Maybe I should call Mase so he could pray for us
+I hit the Jamaican spot, at the bar, take a seat
+I ordered the jerk, she said you are what you eat
+You see I always loved that sense of humor
+But tonight you should have seen how quiet the room was
+The Lyor Cohen of Dior Homme
+That's \"Dior Homme\", not \"Dior, homie\"
+The crib Scarface, could it be more Tony?
+You love me for me? Could you be more phony?
+
+[Hook: Kanye West]
+Put your hands to the constellations
+The way you look should be a sin, you my sinsation
+Haven’t said a word to me this evening
+Cat got your tongue?
+
+[Instrumental Interlude: Mike Dean Guitar Solo]
+
+[Verse 3: Rick Ross]
+Lookin' at my bitch I bet she give your ass a bone
+Lookin' at my wrist it'll turn your ass to stone
+Stretch limousine, sipping Rosé all alone
+Double-headed monster with a mind of his own
+Cherry red chariot, excess is just my character
+All black tux, nigga shoes lavender
+I never needed acceptance from all you outsiders
+Had cyphers with Yeezy before his mouth wired
+Before his jaw shattered climbing up the Lord's ladder
+We still speeding, running signs like they don't matter
+Uh, hater talking never made me mad
+Never that when I'm in my favorite papertag
+Therefore G4's at the Clearport
+When it come to tools fool I'm a Pep Boy
+When it came to dope I was quick to export
+Never tired of ballin' so it's on to the next sport
+New Mercedes sedan, the Lex sport
+So many cars DMV thought it was mail fraud
+Different traps, I was getting mail from
+Polk County, Jacksonville, rep Melbourne
+Whole clique's appetite had tapeworms
+Spinning Teddy Pendergrass vinyl as my J burns
+I shed a tear before the night's over
+God bless the man I put this ice over
+Getting 2Pac money twice over
+Still a real nigga, red Coogi sweater, dice roller
+I'm making love to the angel of death
+Catching feelings never stumble, retracing my steps"
+}, {
+  album_id: Album.find_by_title("My Beautiful Dark Twisted Fantasy").id,
+  title: "Runaway",
+  features: "Pusha T",
+  producer: "Kanye West",
+  lyrics: "[Intro]
+
+[Hook: Kanye West]
+And I always find, yeah, I always find something wrong
+You been putting up with my shit just way too long
+I'm so gifted at finding what I don't like the most
+So I think it's time for us to have a toast
+Let's have a toast for the douchebags
+Let's have a toast for the assholes
+Let's have a toast for the scumbags
+Every one of them that I know
+Let's have a toast for the jerk-offs
+That'll never take work off
+Baby, I got a plan
+Run away fast as you can
+
+[Verse 1: Kanye West]
+She find pictures in my e-mail
+I sent this bitch a picture of my dick
+I don't know what it is with females
+But I'm not too good with that shit
+See, I could have me a good girl
+And still be addicted to them hoodrats
+And I just blame everything on you
+At least you know that's what I'm good at
+
+[Hook: Kanye West]
+And I always find, yeah, I always find something wrong
+You been putting up with my shit just way too long
+I'm so gifted at finding what I don't like the most
+So I think it's time for us to have a toast
+Let's have a toast for the douchebags
+Let's have a toast for the assholes
+Let's have a toast for the scumbags
+Every one of them that I know
+Let's have a toast for the jerk-offs
+That'll never take work off
+Baby, I got a plan
+Run away fast as you can
+
+[Bridge: Kanye West]
+Run away from me, baby, run away
+Run away from me, baby, run away
+When it starts to get crazy, why can't she just, run away?
+Baby, I got a plan, run away fast as you can
+
+[Verse 2: Pusha T]
+24/7, 365, pussy stays on my mind
+I-I-I-I did it, all right, all right, I admit it
+Now pick your next move, you could leave or live wit' it
+Ichabod Crane with that motherfucking top off
+Split and go where? Back to wearing knockoffs, haha
+Knock it off, Neiman's, shop it off
+Let's talk over mai tais, waitress, top it off
+Hoes like vultures, wanna fly in your Freddy loafers
+You can't blame 'em, they ain't never seen Versace sofas
+Every bag, every blouse, every bracelet
+Comes with a price tag, baby, face it
+You should leave if you can't accept the basics
+Plenty hoes in the balla-nigga matrix
+Invisibly set, the Rolex is faceless
+I'm just young, rich, and tasteless
+P!
+
+[Verse 3: Kanye West]
+Never was much of a romantic
+I could never take the intimacy
+And I know I did damage
+Cause the look in your eyes is killing me
+I guess you are at an advantage
+Cause you can blame me for everything
+And I don't know how I'mma manage
+If one day you just up and leave
+
+[Hook: Kanye West]
+And I always find, yeah, I always find something wrong
+You been putting up with my shit just way too long
+I'm so gifted at finding what I don't like the most
+So I think it's time for us to have a toast
+Let's have a toast for the douchebags
+Let's have a toast for the assholes
+Let's have a toast for the scumbags
+Every one of them that I know
+Let's have a toast for the jerk-offs
+That'll never take work off
+Baby, I got a plan
+Run away fast as you can
+
+[Outro]"
+},{
+  album_id: Album.find_by_title("My Beautiful Dark Twisted Fantasy").id,
+  title: "Hell Of A Life",
+  features: "",
+  producer: "Kanye West",
+  lyrics: "[Verse 1: Kanye West]
+I think I just fell in love with a porn star
+Turn the camera on, she a born star
+Turn the corners in a foreign car
+Call the coroners, do the CPR
+She gave that old nigga a ulcer
+Her bittersweet taste made his gold teeth ache
+Make her knees shake, make a priest faint
+Make a nun cum, make her cremate
+Move downtown, cop a sweet space
+Livin’ life like we won the sweepstakes, what
+We headed to hell for heaven’s sakes, huh
+Well I’mma levitate, make the devil wait, yeah!
+
+[Hook]
+Have you lost your mind?
+Tell me when you think we crossed the line
+No more drugs for me, pussy and religion is all I need
+Grab my hand and baby we’ll live a hell of a life
+
+[Verse 2: Kanye West]
+Never in your wildest dreams
+Never in your wildest dreams, in your wildest
+You could hear the loudest screams
+Comin’ from inside the screen, you a wild bitch
+Tell me what I gotta do to be that guy
+Said her price go down, she ever fuck a black guy
+Or do anal, or do a gangbang
+It’s kinda crazy that’s all considered the same thing
+Well I guess a lotta niggas do gang bang
+And if we run trains, we all in the same gang
+Runaway slaves all on a chain gang
+Bang, bang, bang, bang, bang
+
+[Hook]
+Have you lost your mind?
+Tell me when you think we crossed the line
+No more drugs for me, pussy and religion is all I need
+Grab my hand and baby we’ll live a hell of a life
+
+[Verse 3: Kanye West]
+One day I’m gon' marry a porn star
+We’ll have a big-ass crib and a long yard
+We’ll have a mansion and some fly maids
+Nothin’ to hide, we both screwed the bridesmaids
+She wanna role play, 'til I roll over
+I’mma need a whole day, at least rolled doja
+What party is we goin’ to on Oscar day
+'specially if she can’t get that dress from Oscar de
+La Renta, they wouldn’t rent her, they couldn’t take the shame
+Snatched the dress off her back and told her, “Get away”
+How could you say they live they life wrong?
+When you never fuck with the lights on
+
+[Hook]
+Have you lost your mind?
+Tell me when you think we crossed the line
+No more drugs for me, pussy and religion is all I need
+Grab my hand and baby we’ll live a hell of a life
+
+[Outro]
+I think I fell in love with a porn star
+And got married in a bathroom
+Honeymoon on the dance floor
+And got divorced by the end of the night
+That’s one hell of a life
+
+(Mmm, mmm, mmm)"
+}, {
+  album_id: Album.find_by_title("My Beautiful Dark Twisted Fantasy").id,
+  title: "Blame Game",
+  features: "John Legend",
+  producer: "DJ Frank E, Mike Dean & Kanye West",
+  lyrics: "[Kanye West]
+Whose fault?
+
+[Intro: John Legend]
+Let's play the blame game, I love you, more
+Let's play the blame game for sure
+Let's call out names, names, I hate you, more
+Let's call out names, names, for sure
+I'll call you bitch for short
+As a last resort, and my first resort
+You call me motherfucker for long
+At the end of it you know we both were wrong
+
+[Hook: John Legend]
+But I love to play the blame game, I love you more
+Let's play the blame game for sure
+Let's call her names, names, I hate you, more
+Let's call her names, names, for sure
+
+[Verse 1: Kanye West]
+On a bathroom wall I wrote
+\"I'd rather argue with you than be with someone else\"
+I took a piss and dismiss it like \"fuck it\"
+And I went and found somebody else
+Fuck arguing and harvesting the feelings
+Yo, I'd rather be by my fucking self
+Till about two a.m. and I call back
+And I hang up and I start to blame myself
+Somebody help...
+
+[Hook: John Legend]
+Let's play the blame game, I love you more
+Let's play the blame game for sure
+Let's call her names, names, I hate you, more
+Let's call her names, names, for sure
+
+[Verse 2: Kanye West]
+You weren't perfect but you made life worth it
+Stick around, some real feelings might surface
+Been a long time since I spoke to you in a bathroom
+Gripping you up, fucking and choking you
+What the hell was I supposed to do?
+I know you ain't getting this type of dick from that local dude
+And if you are I hope you have a good time
+Cause I definitely be having mine
+And you ain't finna see a mogul get emotional
+Every time I hear bout other niggas is strokin' you
+Lying, say I hit you, he sitting there consoling you
+Running my name through the mud, who's provoking you?
+You should be grateful a nigga like me ever noticed you
+Now you noticeable and can't nobody get control of you
+1AM and can't nobody get a hold of you
+I'm calling your brother's phone like what was I supposed to do?
+Even though I knew, he never told the truth
+He was just gon' say whatever that you told him to
+At a certain point I had to stop asking questions
+Y'all got dirt on each other like mud wrestlers
+I heard he bought some coke with my money
+That ain't right girl
+You getting blackmailed for that white girl
+You always said, \"Yeezy, I ain't your right girl\"
+You'll probably find one of them \"I like art\"-type girls
+All of the lights, she-was-caught-in-the-hype girl
+And I was satisfied being in love with the lie
+Now who to blame, you to blame, me to blame
+For the pain and it poured every time when it rained
+Let's play the blame game
+
+[Hook: John Legend]
+Let's play the blame game, I love you more
+Let's play the blame game for sure
+
+[Verse 3: Kanye West]
+\"Things used to be, now they not
+Anything but us is who we are
+Disguising ourselves as secret lovers
+We've become public enemies
+We walk away like strangers in the street
+Gone for eternity
+We erased one another
+So far from where we came
+With so much of everything, how do we leave with nothing?
+Lack of visual empathy equates the meaning of L-O-V-E
+Hatred and attitude tear us entirely\" - Chloe Mitchell
+
+[Hook: Kanye West]
+But I love to play the blame game, I love you more
+Let's play the blame game for sure
+Let's call out names, names, I hate you, more
+Let's call out names, names, for sure
+
+[Bridge: Kanye West]
+I can't love you this much, I can't love you this much
+I can't love you this much, I can't love you this much
+I can't love you this much, no, I can't love you this much
+I can't love you this much, I can't love you this much
+
+[Verse 4: Kanye West]
+And I know that you are somewhere doing your thing
+And when the phone called it just ring and ring
+You ain't pick up but your phone accidentally called me back
+And I heard the whole thing
+I heard the whole thing, the whole thing, the whole thing
+
+[\"The Best Birthday\": Chris Rock]
+Ohh my God
+Baby, you done took this shit to another mother fucking level!
+Now a neighborhood nigga like me ain't supposed to be getting no pussy like this
+God damn, God damn!
+Who taught you how to get sexy for a nigga?
+(Yeezy taught me)
+You never used to talk dirty, but now you God damn disgusting!
+My, my God, where'd you learn that?
+(Yeezy taught me)
+Look at you mother fucking butt ass naked...
+With them motherfucking Jimmy Choos on...
+Who taught you how to put some motherfucking Jimmy Choos on?
+(Yeezy taught me)
+Yo you took your pussy game up a whole 'nother level!
+This is some Cirque du Soleil pussy now! Shit!
+You done went all porno on a nigga, okay? And I, and I love it...
+And I thank you, I thank you, my dick thanks you!
+How did you learn, how... how did your pussy game come up?
+(Yeezy taught me)
+I was fucking parts of your pussy I'd never fucked before!
+I was in there like \"Oh, shit! I never been here before!
+I've never even seen this part of pussy town before!\"
+It's like you got this shit re-upholstered or some shit. What the fuck happened?
+Who, who the fuck got your pussy all re-upholstered?
+(Yeezy re-upholstered my pussy)
+You know what, I got to thank Yeezy. And when I see that nigga, I'mma thank him. I'mma buy the album, I'mma download that motherfucker, I'm-a shoot a bootlegger!
+That's how good I feel about this nigga
+Oww, I still can't believe you got me this watch!
+This motherfucker is the exact motherfucker I wanted!
+Even with the bezel! This is the motherfucker I wanted!
+I saw this shit, I saw it, Twista had this shit on in The Source!
+I remember, Twista had this motherfucker on in The Source!
+That's right, that's right! Yo yo babe, yo yo this is the best birthday ever!
+Where you learn to treat a nigga like this?
+(Yeezy taught me)
+Yeezy taught you well, Yeezy taught you well"
+}, {
+  album_id: Album.find_by_title("My Beautiful Dark Twisted Fantasy").id,
+  title: "Lost In The World",
+  features: "Bon Iver, Justin Vernon & Gill Scott Heron",
+  producer: "Jeff Bhasker & Kanye West",
+  lyrics: "[Intro: Justin Vernon]
+I'm up in the woods, I'm down on my mind
+I'm building a still to slow down the time
+I'm up in the woods, I'm down on my mind
+I'm building a still to slow down the time
+I'm up in the woods, I'm down on my mind
+I'm building a still, down the time
+
+[Hook: Kanye West and Justin Vernon]
+I'm lost in the world, been down my whole life
+(I'm up in the woods, I'm down on my mind)
+I'm new in the city, and I'm down for the night
+(I'm building a still, to slow down the time)
+Down for the night
+Said she’s down for the night
+Slow down the time
+I'm lost in the world, I'm down on my mind
+(I'm up in the woods)
+I'm new in the city, but I'm down for the night
+(I'm building a still)
+Down for the night
+Down for the night
+
+[Verse: Kanye West]
+You're my devil, you're my angel
+You're my heaven, you're my hell
+You're my now, you're my forever
+You're my freedom, you're my jail
+You're my lies, you're my truth
+You're my war, you're my truce
+You're my questions, you're my proof
+You're my stress and you're my masseuse
+Ma ma se, ma ma se, ma ma ku sa
+Lost in this plastic life
+Let's break out of this fake-ass party
+Turn this into a classic night
+If we die in each others arms, still get laid in the afterlife
+If we die in each others arms, still get laid, yeah, yeah, yeah
+
+[Hook: Kanye West and Justin Vernon]
+I'm up in the woods, I'm down on my mind
+(Run from the lights, run from the night)
+I'm new in the city, but I'm down for the night
+(Run for your life, down for the night)
+I'm lost in the world, been down my whole life
+I'm new in the city, and I'm down for the night
+Down for the night
+Down for the night
+
+[Bridge: Gil Scott Heron]
+Who will survive in America?
+Who will survive in America?
+Who will survive in America?
+Who will survive in America?
+
+[Hook: Kanye West and Justin Vernon]
+I'm lost in the world, been down my whole life
+(Run from the lights, run from the night)
+I'm new in the city, and I'm down for the night
+(Run for your life, down for the night)
+I'm lost in the world, been down my whole life
+I'm new in the city, but I'm down for the night
+Down for the night
+Oh, oh, get down
+
+[Outro]
+Hey woah
+Hey woah
+Hey woah
+Hey-hey
+Hey woah
+Hey woah
+Hey woah
+Hey-hey
+Hey woah
+Hey woah
+Hey woah
+Hey-hey
+Hey woah
+Hey woah
+Hey woah
+Hey-hey"
+}, {
+  album_id: Album.find_by_title("My Beautiful Dark Twisted Fantasy").id,
+  title: "Who Will Survive In America",
+  features: "Gil Scott-Heron",
+  producer: "Jeff Bhasker & Kanye West",
+  lyrics: "[Verse: Gil Scott-Heron]
+Us living as we do upside-down
+And the new word to have is revolution
+People don't even want to hear the preacher spill or spiel
+Because God's whole card has been thoroughly piqued
+And America is now blood and tears instead of milk and honey
+The youngsters who were programmed
+To continue fucking up woke up one night
+Digging Paul Revere and Nat Turner as the good guys
+America stripped for bed and we had not all yet closed our eyes
+The signs of truth were tattooed across our often entered vagina
+We learned to our amazement, the untold tale of scandal
+Two long centuries buried in the musty vault
+Hosed down daily with a gagging perfume
+America was a bastard
+The illegitimate daughter of the mother country
+Whose legs were then spread around the world
+And a rapist known as freedom, free-DOOM
+Democracy, liberty, and justice were revolutionary code names
+That preceded, the bubblin' bubblin' bubblin' bubblin' bubblin'
+In the mother country's crotch
+What does Webster say about soul?
+\"All I want is a good home and a wife
+And a children, and some food to feed them every night\"
+After all is said and done, build a new route to China if they'll have you
+WHO WILL SURVIVE IN AMERICA?
+WHO WILL SURVIVE IN AMERICA?
+WHO WILL SURVIVE IN AMERICA?
+WHO WILL SURVIVE IN AMERICA?
+
+[Claps and applause]"
+}, {
+  album_id: Album.find_by_title("My Beautiful Dark Twisted Fantasy").id,
+  title: "See Me Now",
+  features: "Big Sean, Charlie Wilson & Beyoncé",
+  producer: "Leg Luger, No I.D. & Kanye West",
+  lyrics: "[Hook: Charlie Wilson]
+I know you see me now right now
+I know you see me now right now
+Right now, right now, right now
+I know you see me now right now
+
+[Bridge 1: Beyoncé]
+I got my suit and tie and I don’t know if y’all know
+Well, maybe y’all do, or maybe y’all don’t
+But I don’t really care, it’s how we on it all the time
+So I’ma get my money, let’s go
+
+[Verse 1: Kanye West]
+Yeah, uh, now I’ma need you to kill the hypocrisy
+This is an aristocracy
+I’m Socrates, but my skin more chocolatey
+What’s up with who? That’s old news
+I’m in a speedboat in my boat shoes
+Hah? I swear my whole collection’s so cruise
+I might walk in Nobu wit' no shoes
+\"He just walked in Nobu like it was Whole Foods
+That nigga crazy, I told you\"
+Immature adult, insecure asshole
+And if you fall on the concrete, that’s your ass fault
+If you pass on a Kan' beat, that’s your last fault
+Get what you ask for, I swear that your ass low
+She got a big booty, but she couldn’t drop that ass low
+'Til you take your last ho and rope up all the cashflow
+When you gettin' money, they be all up on your ass, yo
+When you gettin' money, cops don’t let a nigga pass Go
+Straight to jail, yo, in a hellhole
+Right next to Lucifer, tell em I said, \"Hello\"
+Ask if I’ma be there soon and tell him I said, “Hell no”
+Yo, what you say when your people get out of jail, huh?
+
+[Bridge 2: Beyoncé and Kanye]
+My niggas is home
+I guess I got everything, everything I want
+(Let's go shopping, dog, let's celebrate)
+But I don’t, no matter how good it gets, it’ll never be like for...
+(Free Weezy though)
+No women in the crowd, screamin' and it’s loud
+Doin' things not allowed and I swear it’s going down right now
+(You know what it is)
+I know one thing, my mama would be proud
+And you see me lookin' up
+Cause I know she’s lookin' down right now
+
+[Hook: Charlie Wilson]
+I know you see me now right now
+I know you see me now right now
+Right now, right now, right now
+I know you see me now right now
+
+[Verse 2: Kanye West]
+Pour the champagne, let your watch show
+Shorty got a man watch; wrist look colossal
+I admit my first watch was a Fossil
+Now I’m in the Louvre lookin' for fossils
+'Tention to detail is so uncanny
+And the whip’s on the Sprewells, it’s so un-Camry
+Somebody need to put us on camera
+The world of Rollies and everyone families
+Stay Jordan fresh, suits and Ferraris
+Cute, your shorty watch Barney's, we head to Barney's
+End up at Marni, Giorgio, service from Sergio Tacchini
+Lamborghini, the chain throw off the vertigo
+I know the flow just hit a hellified vertical
+This the Christ year, last year was magic: 32
+Lyrically, can’t none of y’all murder Ye
+Cause y’all raps ain’t got no vertebrae
+I got style, ask June if she heard of me
+I killed the fur last Paris, raised the murder rate
+First of all, we all know the beats is
+Like a mix between Fergie and Jesus
+Imagine the direction of this immaculate conception
+Every one of His Majesty’s swim parties is pageantries
+Cannonball off the divin' board when I am bored
+All my homies GDs, but I am Lord
+Rap god, Greek mythology
+And this life too crazy to think logically
+Here’s somethin' that you could use as an analogy
+My life is like a child’s illusions become reality
+
+[Bridge 3: Beyoncé]
+Now go get my throne cause I don’t wanna stop
+I just go in my zone and I’ma make it hot 'til it’s time to go
+When it’s time to go, where you trying to go?
+You better act like you can see me now
+
+[Interlude] (x2)
+Exactly, Rosewood
+I know you see me, I know you see me
+I know you see me, it's like I'm 3D!
+
+[Verse 3: Big Sean]
+Man, today I am the freshest in the world, but that's the obvious
+Damn, I look so sexy, and you look like a pile of shit
+When I told my ex I loved her, she went and married another
+And changed her whole name up, you a Yugoslavi' chick
+\"Be successful,\" that's what Dad told me
+So everything I D-O now I OD
+They say G.O.O.D. Music like the new Miami Heat, shit
+Comparin' them to us, man they gotta add Kobe
+Whoadie, holy moley went, from G-Shockin' to Rollie
+From the D, coppin' in Beverly Hills, I'm Axel Foley
+Nah, nah, baby boy, you Jody, in the party, they all know me
+Yeah, I saw your ass in line, boy, you was lookin' like the old me
+Presidential suit, my girls Michelle and Chanel
+She gave me designer, uh, she keep it au natural
+I say it again, I'm chasin' cheese, dodgin' rat traps
+Chasin' pussy you might end up with a Kat Stacks
+Nasty trick, you's a nasty chick
+Uh, ooh, you know I like that nasty shit
+Got it made in every way, gettin' paid every day
+What Sean sound like? 'Ye protégé
+Nah, nah, he sound like he a pro to me
+\"I know Kanye a jerk,\" how could you say that?
+He rode me and my mama 'round in his Maybach
+What kind of jerk is that? What kind of jerks is y'all?
+Fuck it if he a jerk, I bet you jerk him off
+Bet you take it off or chase him through the mall
+We workin' twice as hard, so everything come in twos
+Double drinks, double girls
+We be gettin' paid like W-2
+Rep Westside, throwin' up Ws
+\"We love you Sean,\" I love you too
+Ooh-ooh, you know I do
+
+[Outro: Kanye West]
+Hey, feel like one of those old R. Kelly joints, right?
+I bet they put me back on the cover of Ebony now
+I know Jet magazine calling right now
+You looking good today too, I like that
+You got your new suit on and she got the extra cute on
+I know you thinking, “This that Yeezy we all love”
+I’m back, baby, we back, baby
+Uncle Charlie, by the way
+And I’ma let you finish, but I got Beyoncé on the track
+That’s what it is, black excellence, baby
+This is the elite, we the greatest in the world baby, we the greatest in the world!!!
+Hahahahaha
+Yeah, Lex Luger, No ID, Yeezy, uh"
   }])
 
 annotations = Annotation.create([{
