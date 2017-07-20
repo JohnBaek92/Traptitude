@@ -22,6 +22,6 @@ class Album < ActiveRecord::Base
     foreign_key: :album_id,
     class_name: :Track
 
-  has_attached_file :image, default_url: "/images/:style/missing.png"
+  has_attached_file :image, default_url: "/images/trey_day.jpg"
   validates_attachment_content_type :image, content_type: /\Aimage\/.*\z/
 end

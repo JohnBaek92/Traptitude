@@ -2959,7 +2959,1303 @@ Son get that nappy up
 Queens get that nappy up
 Yo get that nappy up
 *talkin to fade*"
-}])
+},{
+  album_id: Album.find_by_title("2014 Forest Hills Drive").id,
+  title: "Intro (2014 Forest Hills Drive)",
+  features: "",
+  producer: "J.Cole",
+  lyrics: "[Verse]
+Do you wanna, do you wanna be
+Do you wanna, do you wanna be
+Do you wanna, do you wanna be, free
+Do you wanna, do you wanna be, happy
+Do you wanna, do you wanna be, happy
+Do you wanna be, happy
+Do you wanna, do you wanna be, happy
+I said do you wanna, do you wanna be, happy
+I said do you wanna, do you wanna be, free
+I said do you wanna, do you wanna be happy
+I said do you wanna, do you wanna be, free
+Free from pain, free from scars
+Free to sing, free from bars
+Free my dawgs, you're free to go
+Block is hot, the streets is cold
+Free to love, to each his own
+Free from bills, free from pills
+You roll it loud, the speakers blow
+Life get hard, you ease your soul
+It cleanse ya mind, learn to fly
+Then reach the stars, you take the time
+To look behind and say, \"Look where I came
+Look how far I done came\"
+They say that dreams come true
+And when they do, that there's a beautiful thing
+Now do you wanna, do you wanna be happy?
+I said do you wanna, do you wanna be free
+I said do you wanna, do you wanna be"
+},{
+  album_id: Album.find_by_title("2014 Forest Hills Drive").id,
+  title: "January 28th",
+  features: "",
+  producer: "J.Cole & Team Titans",
+  lyrics: "[Intro]
+Rap tune
+Can I make a million dollars off a rap tune?
+Can I make a million dollars off a rap tune?
+I'm tryna make a million dollars off a rap tune
+Yeah
+
+[Verse 1]
+The real is back, the ville is back
+Flow bananas, here, peel this back
+And what you'll find is, your highness
+Can paint a picture that is vivid enough to cure blindness
+Carolina's finest, you knew that already
+In terms of the greatest, I proved that already
+And if you would like, I do it twice
+I just sharpen my blade for a minute became lost in my ways
+This for my niggas that was tossed in the graves
+Every so often I fade deep in my thoughts
+And then get lost in the days
+We used to play before your coffin was made
+Just got the call nigga got caught with a stray
+Hope he's okay
+Just got paid what Cochran got paid to free OJ
+Just to share my life on the stage in front of strangers
+Who know a nigga far too well, and that's the danger
+Know me better than I know myself
+I rip a page out my notebook in anger
+And let these thoughts linger, singing
+
+[Hook]
+Don't give 'em too much you
+Don't let 'em take control
+It's one thing you do
+Don't let 'em taint your soul
+If you believe in God
+One thing's for sure
+If you ain't aim too high
+Then you aim too low
+
+[Verse 2]
+What's the price for a black man life?
+I check the toe tag, not one zero in sight
+I turn the TV on, not one hero in sight
+Unless he dribble or he fiddle with mics
+Look out the window cause tonight the city lit up with lights
+Cameras and action
+May no man alive come through and damage my faction
+I brought you niggas with me cause I love you like my brothers
+And your mothers' like my mother
+Think we need a plan of action
+The bigger we get the more likely egos collide, it's just physics
+Please let's put our egos aside, you my niggas
+And should our worst tendencies turn us into enemies
+I hope that we remember these
+Nights fulla Hennessey
+When Hov around we switch up to that D'usse
+Gotta show respect, one day we tryna stay where you stay
+Cause we from where you from
+Not talkin' bout the slums
+I'm talkin' 'bout that mind state that keep a black nigga dumb
+Keep a black nigga dyin' by a black nigga gun
+And keep on listening to the frontin' ass rap niggas sun
+Yeah I said 'sun'
+This is New York's finest
+For 11 winters straight I took on New York's climate
+Like show me New York's ladder
+I climb it and set the bar so high that you gotta get Obama to force the air force to find it
+Never mind it, you'll never reach that
+Cole is the hypnotist, control the game whenever he snap
+That's every track, nigga
+
+[Hook]
+Don't give 'em too much you
+Don't let 'em take control
+It's one thing you do
+Don't let 'em taint your soul
+If you believe in God
+One thing's for sure
+If you ain't aim too high
+Then you aim too low
+
+[Verse 3]
+I ain't serve no pies, I ain't slang no dope
+I don't bring no lies, niggas sang my quotes
+I don't play no games, boy I ain't no joke
+Like the great Rakim, when I make my notes
+You niggas might be L or you might be Kane
+Or you might be Slick Rick with 19 chains
+Or you might be Drizzy Drake or Kendrick Lamar
+But check your birth date nigga, you ain't the God
+Nah you ain't the God
+Nigga, Cole the God (Cole the God, Cole the God)
+January 28th
+
+[Outro]
+Make a million dollars off a rap tune
+Can I make a million dollars off a rap tune
+(Sound of baby laughing)
+I'm tryna make a million dollars off a rap tune
+I wanna make a million dollars of a rap tune
+I'm gonna make a million dollars off a rap tune"
+},{
+  album_id: Album.find_by_title("2014 Forest Hills Drive").id,
+  title: "Wet Dreamz",
+  features: "",
+  producer: "J.Cole",
+  lyrics: "[Intro]
+Cole, Cole world, yeah
+Let me take y'all back, man
+As I do so well
+
+[Verse 1]
+Wasn't nothin' like that
+Man, it wasn't nothin' like that first time
+She was in my math class
+Long hair, brown skin with a fat ass
+Sat beside me, used to laugh, had mad jokes
+The teacher always got mad so we passed notes
+It started off so innocent
+She had a vibe and a nigga started diggin' it
+I was a youngin, straight crushin', tryna play the shit cool
+But a nigga couldn't wait to get to school
+‘Cause when I seen 'em thighs on her
+And them hips on her and them lips on her
+Got me daydreamin', man, what
+I'm thinkin' how she rides on it
+If she sits on it, if she licks on it
+Make it hard for me to stand up
+As time goes by, attractions gettin' deep and
+Wet dreamin', thinkin' that I'm smashin', but I'm sleepin'
+I want it bad, and I ain't never been obsessed before
+She wrote a note that said \"You ever had sex before?\"
+Damn…
+
+[Hook]
+And I ain't never did this before, no
+And I ain't never did this before, no
+And I ain't never did this before, no
+And I ain't never did this before, no
+And I ain't never did this before, nooo
+I ain't never did this before, no
+And I ain't never did this before, no
+And I ain't never did this before, no
+
+[Verse 2]
+I wrote back and said
+\"Of course I had sex before,\" knowin' I was frontin'
+I said, \"I'm like a pro, baby,\" knowin' I was stuntin'
+But if I told the truth, I knew that I'd get played out, son
+Hadn't been in pussy since the day I came out one
+But she don't know that
+So she done wrote back and told me
+\"Oh, you a pro, homie? Well, I want you to show me
+My mama gone for the weekend
+So Saturday, baby, we can get to freakin'\"
+That's when my heart start racin' and my body start sweatin'
+Baby, you done woke my lil' man up
+I'm thinkin' how that body look naked
+When you layin' on the bed
+Teacher, please don't make me stand up
+I wrote back like, \"Yeah, baby, sound like a plan\"
+Still tryna play it cool, sound like the man
+But I was scared to death, my nigga, my stomach turnin'
+Talkin' shit, knowin' damn well I was a virgin, fuck
+
+[Hook]
+And I ain't never did this before, no
+And I ain't never did this before, no
+And I ain't never did this before, no
+And I ain't never did this before, no
+And I ain't never did this before, nooo
+I ain't never did this before, no
+And I ain't never did this before, no
+And I ain't never did this before, no
+
+[Verse 3]
+You know that feelin' when you know
+You finna bone for the first time?
+I'm hopin' that she won't notice it's my first time
+I'm hopin' that my shit is big enough to fuck with
+And most of all I'm prayin', \"God, don't let me bust quick\"
+I'm watchin' pornos, tryna see just how to stroke right
+Practice puttin' condoms on, how it go, right?
+I'm in her crib, now a nigga palms sweatin'
+With a pocket full of rubbers and an erection
+That's when my hands start touchin'
+And her face start blushin', and a nigga roll over on top
+And then she get my pants unbuckled
+And her hands start rubbin' on me, ooh girl, don't stop
+It's time for action: pull out the condoms real smooth
+Yeah, just how I practiced
+But right before I put it in, she flinched and grabbed it
+And said, \"I wanna get something off my mental
+I can tell you're a pro, but baby, be gentle, ‘cause…\"
+
+[Hook]
+‘Cause I ain't never did this before, no
+And I ain't never did this before, no
+And I ain't never did this before, no
+And I ain't never did this before, no
+And I ain't never did this before, nooo
+I ain't never did this before, no
+And I ain't never did this before, no
+And I ain't never did this before, no"
+},{
+  album_id: Album.find_by_title("2014 Forest Hills Drive").id,
+  title: "03' Adolesence",
+  features: "",
+  producer: "Willie B",
+  lyrics: "[Verse 1]
+I grew up, a fucking screw up
+Tie my shoe up, wish they was newer
+Damn, need something newer
+In love with the baddest girl in the city, I wish I knew her
+I wish I won't so shy, I wish I was a bit more fly
+I wish that I, could tell her how I really feel inside
+That I'm the perfect nigga for her, but then maybe that's a lie
+She like a certain type of nigga, and it's clear I'm not that guy
+Ball player, star player, I'm just watchin' from the side
+On the bench, cause my lack of confidence won't let me fly
+I ain't grow up with my father, I ain't thinkin' 'bout that now
+Fast forward four years or so from now I'll probably cry
+When I realize what I missed, but as of now my eyes are dry
+Cause I'm trying to stay alive
+In the city where too many niggas die
+Dreamin' quiet trying to dodge a suit and tie
+Who am I? Aye who am I?(Yeah)
+
+[Hook]
+Things change, rearrange and so do I
+It ain't always for the better, dawg, I can't lie
+I get high cause the lows can be so cold
+I might bend a little bit but I don't fold
+One time for my mind and two for yours
+I got food for your thoughts to soothe your soul
+If you see my tears fall just let me be
+Move along, nothing to see
+
+[Verse 2]
+I always did shit the hard way
+My nigga Squirrel slangin' in the hallway
+Burnt CD's and trees like this was Broadway
+Times Square, kept the dimes there in the locker
+Some Reggie Miller
+With more brown hairs than Chewbacca
+Whispers that he got it for the low low, sell a
+Dime for a dub, them white boys ain't know no better
+Besides, what's twenty dollars to a nigga like that?
+He tell his pops he need some lunch
+And he gon' get it right back
+I peep game
+Got home snatched my mama keychain
+Took her whip, the appeal, too ill to refrain
+I hit the boulevard pull up to my nigga front do'
+His mama at home, she still let em' hit the blunt though
+I told her hello, and sat with my nigga and laughed
+And talked about how we gon' smash all the bitches in class
+I complimented how I see him out here getting his cash
+And just asked, \"What a nigga gotta do to get that?
+Put me on,\" he just laughed when he seen I was sure
+17 years breathing his demeanor said more
+He told me, \"Nigga, you know how you sound right now?
+If you wasn’t my mans
+I would think that you a clown right now
+Listen, you everything I wanna be that's why I fucks with you
+So how you looking up to me when I look up to you?
+You bout to go get a degree, I'ma be stuck with two choices:
+Either graduate to weight or selling number two
+For what? A hundred bucks or two a week?
+Do you think that you would know what to do if you was me?
+I got, four brothers, one mother that don't love us
+If they ain't want us why the fuck they never wore rubbers?\"
+I felt ashamed to have ever complained about my lack of gear
+And thought about how far we done came
+From trailer park to a front yard with trees in the sky
+Thank you mama, dry your eyes, there ain't no reason to cry
+You made a genius and I, ain't gon' take it for granted
+I ain't gon' settle for lesser, I ain't gon' take what they handed
+Nah, I'm gon' take what they owe me
+And show you that I can fly
+And show old girl what she missing, the illest nigga alive
+Aye who am I?
+
+[Hook]
+Things change, rearrange and so do I
+(Aye who am I?)
+It ain't always for the better, dawg, I can't lie
+(Who am I?)
+I get high cause the lows can be so cold
+I might bend a little bit but I don't fold
+One time for my mind and two for yours
+I got food for your thoughts to soothe your soul
+If you see my tears fall just let me be
+Move along, nothing to see
+
+[Outro]
+I never felt better"
+},{
+  album_id: Album.find_by_title("2014 Forest Hills Drive").id,
+  title: "A Tale Of 2 Citiez",
+  features: "",
+  producer: "Vinylz",
+  lyrics: "[Verse 1]
+Since a youngin' always dreamed of gettin' rich
+Look at me my nigga
+Fantasize about a white picket fence
+With some trees my nigga
+Used to want a Pathfinder with some tints
+That's all I need my nigga
+Throw some 20's on that bitch and get it rinsed
+But now I see my nigga
+That the world's a lot bigger ever since
+Picked up the paper
+And they say my nigga Eddie caught a body, I'm convinced
+Anybody is a killer, all you gotta do is push 'em to the limits
+Fuck being timid in the Civic
+Politicin' with the pushers and the pimps
+I'm tryna write a story, can I get a glimpse?
+Yeah, can I get a glimpse?
+
+[Hook 1]
+Last night I had a bad dream
+That I was trapped in this city
+Then I asked is that really such a bad thing?
+They robbin' niggas on the daily
+Can you blame a nigga that ain't never had things?
+Guess not! (What's the value of a thing?)
+Last night they pulled up on my nigga at the light like—
+Ugh, nice watch, run it
+Hands in the air now, hands in the air, run it
+Hands in the air now, hands in the air, run it
+Hands in the air now, hands in the air
+Hands in the air now, hands in the air
+
+[Bridge]
+Small town nigga Hollywood dreams
+I know that everything that glitters ain't gold
+I know the shit ain't always good as it seems
+But tell me till you get it how could you know?
+How could you know? How could you know?
+
+[Verse 2]
+Listen up I'm about to go and get rich
+Fuck with me my nigga
+We gon' circle round the Ville and hit a lick
+Cop some tree my nigga
+And some powder, bag it up and make it flip
+You gon' see my nigga
+One day we gon' graduate and cop a brick
+And that's the key my nigga
+Listen up I'm 'bout to go and get rich
+Stand back and watch if you want to nigga
+Me I want my pockets fat, a badder bitch
+Tired of seein' niggas flaunt, I wanna flaunt too nigga
+Watch some rollers in a fuckin' Crown Vic
+Tryna lock a nigga up, that's what they won't do nigga
+Wanna know a funny thing about this shit?
+Even if you let em' kill your dream
+It'll haunt you nigga, haunt you
+
+[Hook 2]
+Last night I had a bad dream
+That I was trapped in this city
+Then I asked is that really such a bad thing?
+I look around like—
+Do you wanna be another nigga, that ain't never had things?
+Guess not! (What's the value of a thing?)
+Last night we pulled up on a nigga at the light like
+(You know what the fuck it is nigga, run that shit!)
+Uh, nice watch, run it
+Hands in the air now, hands in the air, run it
+Hands in the air now, hands in the air, run it
+Hands in the air now, hands in the air
+Hands in the air now, hands in the air
+
+[Outro]
+Father forgive me for my childish ways
+I look outside and all the clouds are gray
+I need your hands to take me miles away
+Your wish is my command, my command, my command
+But before you go I've got to warn you now
+Whatever goes up surely must come down
+And you'll get your piece, but know peace won't be found
+So why just take me man, take me man, take me man
+Your wish is my command, my command, my command"
+},{
+  album_id: Album.find_by_title("2014 Forest Hills Drive").id,
+  title: "Fire Squad",
+  features: "",
+  producer: "Vinylz & J.Cole",
+  lyrics: "[Hook]
+Nigga why you actin' like a ho?
+Know that I'ma ride for ya, either way it go
+Tell me, girl why you be stressin' me for time?
+When you tell me you love me, can't you see I'm tryna climb?
+Damn my nigga why you actin' like a bitch?
+If you scared to take a chance, how the fuck we gon' get rich?
+Come here baby why you always insecure?
+Hold on tight to a nigga and be sure
+
+[Verse 1]
+Ain't a way around it no more, I am the greatest
+A lotta niggas sat on the throne, I am the latest
+I am the bravest, go toe to toe with the giants
+I ain't afraid of you niggas, I'll end up fading you niggas
+'Fore it's all said and done, this nigga need medicine
+My uzi, it weighed a ton, I need me a better gun
+In fact I just might need two, cause niggas say they the one
+And I got something to prove
+Forgive me lord here they come, BLAOOW
+
+[Hook]
+Nigga why you actin' like a ho?
+Know that I'ma ride for ya, either way it go
+Tell me, girl why you be stressin' me for time?
+When you tell me you love me, can't you see I'm tryna climb?
+Damn my nigga why you actin' like a bitch?
+If you scared to take a chance, how the fuck we gon' get rich?
+Come here baby why you always insecure?
+Hold on tight to a nigga and be sure
+
+[Verse 2]
+My inhibition's fighting my intuition
+Premature premonition, showing me the demolition
+Of these phony niggas, so ahead of my time
+Even when I rhyme about the future I be reminiscing
+You want the truth well come and listen
+I'm like that time you bagged a dime and checked ya phone and saw it was a number missing
+As fate passes you by, half of you try
+The other half of you fry, too high to actually fly
+One day y'all have to decide, who you gon' be
+A scary nigga or a nigga that's gon' rule like me
+Keep it true like me, Cole you might be
+Like the new Ice Cube, meets the new Ice-T
+Meets 2 Live Crew, meets the new Spike Lee
+Meets Bruce like Wayne, meets Bruce like Lee
+Meets '02 Lil Wayne, in a new white tee
+Meets KD, ain't no nigga that can shoot like me!
+BLAOOOW!
+
+[Hook]
+Nigga why you actin' like a ho?
+Know that I'ma ride for ya, either way it go
+Tell me, girl why you be stressin' me for time?
+When you tell me you love me, can't you see I'm tryna climb?
+Damn my nigga why you actin' like a bitch?
+If you scared to take a chance, how the fuck we gon' get rich?
+Come here baby why you always insecure?
+Hold on tight to a nigga and be sure
+
+[Bridge]
+(Who's the king?)
+Came from the bottom nigga, with stains on my shirt
+What you expected from me, I came from the dirt
+(Who's the king?)
+Money my motivator, the songs that I sing
+Picture a peasant passin' from pawn to a king
+You tell me ya still love me, if so then let me go
+Will I return or will I burn, never know
+Look in my eyes and see the future
+But don't sugar coat it
+
+[Verse 3]
+Listen...
+History repeats itself and that's just how it goes
+Same way that these rappers always bite each others flows
+Same thing that my nigga Elvis did with Rock n Roll
+Justin Timberlake, Eminem and then Macklemore
+While silly niggas argue over who gon' snatch the crown
+Look around, my nigga, white people have snatched the sound
+This year I’ll prolly go to the awards dappered down
+Watch Iggy win a Grammy as I try to crack a smile
+I'm just playin', but all good jokes contain true shit
+Same rope you climb up on, they'll hang you with
+But not Jermaine, my aim too sick
+I bang nigga, I came to bring the pain my brain too quick
+You see how I maneuver this game, I ain't stupid
+I recognize that life is a dream, and I dream lucid
+And break the chains and change minds
+One verse at a time, and claim 2-6
+And fuck it, if the shoe fits, who's the king?
+
+[Outro]
+We all kings
+(We all kings nigga)
+Kings of ourselves first and foremost
+(True)
+While the people debate who's the king of this rap game
+Here comes lil' ol' Jermaine
+With every ounce of strength in his veins
+To snatch the crown from whoever y'all think has it
+But rather than place it on his head as soon as he grabs it
+Poof, boom, paow, it's like magic
+With a flash and a BANG the crown disintegrates
+And falls to the Earth from which it came
+It's done
+Ain't gonna be no more kings
+Be wary of any man that claims
+Because deep down he clings onto the need for power
+The reality, he's a coward
+Ultimately he's scared to die
+And sometimes so am I
+But when I'm in tune with the most high
+I realize, the fear lies in my lack of awareness of the other side
+Today I know that we are the same, are the same, you and I
+Different kind of skin, different set of eyes
+Two different minds, but only one God
+(It's only one God nigga)
+It's for all the kings
+Cause I know deep down every poet just wanna be loved"
+},{
+  album_id: Album.find_by_title("2014 Forest Hills Drive").id,
+  title: "St. Tropez",
+  features: "",
+  producer: "J.Cole",
+  lyrics: "[Verse 1]
+Roll up and smoke my sins away
+I'd like to go to St. Tropez
+Maybe I'll go, maybe I'll stay
+Maybe I'll stay
+She asked me if I'm scared to fly
+To tell the truth, I'm terrified
+I never been that high before
+Very bad reason not to go
+Terrible reason not to go
+
+[Hook]
+He's on his way, he's 'bout to get paid
+He's on his way to Hollywood
+He's on his way, he's 'bout to get paid
+He's on his way to Hollywood
+Show him the way, he's 'bout to get paid
+He's on his way to Hollywood
+He's on his way, he's 'bout to get paid
+He's on his way to Hollywood
+
+[Verse 2]
+Ay from the door I showed you my scars
+And I told you girl, \"I won't lie\"
+If we at war, then this is a war that I can't afford, no I, I, I
+I wanted more but that was before
+Lord knows I'm torn, so I–I cry (No I, I, I)
+From the corner of my eye, baby
+It's been hard for me to smile
+Lately, it's been hard for me to smile
+Lately, it's been hard for me to smile
+Lately, it's been hard for me to smile
+
+[Singing Sample]
+If you won't take me in your home
+If you won't take me in your home
+If you won't take me in your home
+If you won't take me in your home
+
+[Hook]
+He's on his way, he's 'bout to get paid
+He's on his way to Hollywood
+He's on his way, he's 'bout to get paid
+He's on his way to Hollywood
+Show him the way, he's 'bout to get paid
+He's on his way to Hollywood
+He's on his way, he's 'bout to get paid
+He's on his way to Hollywood"
+},{
+  album_id: Album.find_by_title("2014 Forest Hills Drive").id,
+  title: "G.O.M.D.",
+  features: "",
+  producer: "J.Cole",
+  lyrics: "[Intro]
+Hollywood Cole, go
+Ay Hollywood, ay Hollywood Cole, go
+My nigga done went Hollywood
+
+[Verse 1]
+You wanna know just where I'm at, well let me tell you 'bout it
+I put my city on the map but let me tell you 'bout it
+They tryna say I can't come back, ay let me tell you 'bout it
+Man fuck them niggas I come back, ay let me tell you 'bout it
+I wanna tell you 'bout it: hands up, everybody run
+Cole outside and he say he got a gun
+Niggas like \"Man that's what everybody said\"
+Go and pop the trunk and everybody dead
+Everybody scared of the nigga, aware that the nigga is better
+All my bitches the pick of the litter, never bitter
+Niggas is faker than anime
+Me I never hate, get cake like Anna Mae, woah
+Eat the cake bitch, eat the damn cake
+Fuck good, nigga, we demand great
+Order Domino's and she take off all her clothes
+Nigga you know how it goes, make the pizza man wait
+The best kept secret
+Even Hov tried to keep it and I leaked the damn tape
+Rest in peace any nigga want beef
+Secret service couldn't keep the man safe
+
+[Pre-Hook]
+I said to the window, to the wall
+My nigga ride when I call
+Got bitches all in my mind
+Fuck nigga blocking my shine
+I know the reason you feel the way
+I know just who you wan' be
+So everyday I thank the man upstairs
+That I ain't you and you ain't me
+
+[Hook]
+Get off my dick, woah
+(Get the fuck off my dick)
+Get off my dick, woah
+(Get the fuck off my dick nigga)
+Get off my dick, bitch, woah
+(Get the fuck off my dick)
+Get off my dick woah
+
+[Verse 2]
+Man fuck them niggas I come home and I don't tell nobody
+They gettin' temporary dough and I don't tell nobody
+Lord will you tell me if I changed, I won't tell nobody
+I wanna go back to Jermaine, and I won't tell nobody
+(This is the part that the thugs skip)
+Young nigga never had love
+You know, foot massage, back rub shit
+Blowing bubbles in the bathtub shit
+That is until I met you
+Together we done watch years go by
+Seen a river of your tears go by
+Got me thinkin' bout some kids, still I
+Tell them hoes come through (The break up)
+Get to know somebody and you really learn a lot about 'em
+Won’t be long before you start to doubt 'em
+Tell yourself you better off without 'em
+Then in time you will find can't walk without 'em
+Can't talk without 'em, can't breathe without 'em
+Came here together, you can't leave without 'em
+So you walk back in, make a scene about 'em
+On your Amerie it's just 1 thing about 'em
+It's called love, niggas don't sing about it no more
+Don't nobody sing about it no more, no more
+It's called love, niggas don't sing about it no more
+Don't nobody sing about it no more
+(Nigga I don't sing about this shit no more)
+But every nigga in the club singing
+
+[Pre-Hook]
+To the window, to the wall
+My nigga ride when I call
+Got bitches all in my mind
+Fuck nigga blocking my shine
+I know the reason you feel the way
+I know just who you wan' be
+So everyday I thank the man upstairs
+That I ain't you and you ain't me
+
+[Bridge]
+Get off my dick
+But every nigga in the club singing
+Singing this song yeah
+Got all the bitches in the club singing
+Singing this song yeah
+And all they mamas let their kids sing it
+Sing this song yeah
+The baby mamas and the mistresses
+Sing this song yeah, song yeah
+Song yeah, song song yeah
+
+[Verse 3]
+(The make up) This shit is retarded, goddamn
+Why every rich black nigga gotta be famous
+Why every broke black nigga gotta be brainless
+Uh, that's a stereotype
+Driven by some people up in Ariel Heights
+Here's a scenario
+Young Cole pockets is fat like Lil Terrio
+Dreamville, give us a year we'll be on every show
+Yeah, fuck nigga I'm very sure, heh
+Fuck the rest, I'm the best nigga out
+When I'm back home I'm the best in the South
+When I'm in LA I'm the best in the West
+You contest? You can test, I'mma stretch niggas out
+Oooh I'mma stretch niggas out
+That go for all y'all if I left niggas out
+This shit for everbody on my testicles
+Please make sure you put the rest in your mouth, ho"
+},{
+  album_id: Album.find_by_title("2014 Forest Hills Drive").id,
+  title: "No Role Modelz",
+  features: "",
+  producer: "Phonix Beats & J.Cole",
+  lyrics: "[Intro]
+First things first: Rest In Peace Uncle Phil, for real
+You the only father that I ever knew
+I get my bitch pregnant, I'mma be a better you
+Prophecies that I made way back in the Ville, fulfilled
+Listen, even back when we was broke, my team ill
+Martin Luther King would have been on Dreamville
+Talk to a nigga...
+
+[Pre-Chorus]
+One time for my LA sisters
+One time for my LA hoes
+Lame niggas can't tell the difference
+One time for a nigga who know
+
+[Chorus]
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved
+
+[Verse 1]
+No role models and I'm here right now
+No role models to speak of
+Searchin' through my memory, my memory, I couldn't find one
+Last night I was gettin' my feet rubbed
+By the baddest bitch; not Trina, but I swear to God
+This bitch'll make you call your girl up and tell her
+\"Hey, what's good?\"
+\"Sorry I'm never comin' home, I'mma stay for good\"
+Then hang the phone up, and proceed to lay the wood
+I came fast like 9-1-1 in white neighborhoods
+Ain't got no shame 'bout it
+She think I'm spoiled and I'm rich 'cause I can have any bitch
+I got defensive and said, \"Nah, I was the same without it\"
+But then I thought back, back to a better me
+Before I was a B-list celebrity
+Before I started callin' bitches \"bitches\" so heavily
+Back when you could get a platinum plaque without no melody
+You wasn't sweatin' me
+
+[Pre-Chorus]
+One time for my LA sisters
+One time for my LA hoes
+Lame niggas can't tell the difference
+One time for a nigga who know
+
+[Chorus]
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved
+
+[Verse 2]
+I want a real love, dark skinned Aunt Viv love
+That Jada and that Will love
+That leave a toothbrush at your crib love
+And you ain't gotta wonder whether that's your kid love
+Nigga, I don't want no bitch from reality shows
+Out-of-touch-with-reality hoes
+Out in Hollywood, bringin' back five or six hoes
+Fuck em then we kick em to the do', nigga, you know how it go
+She deserved that, she a bird, it's a bird trap
+You think if I didn't rap, she would flirt back?
+Takin' off her skirt, let her wear my shirt
+'Fore she leave—I'mma need my shirt back
+Nigga, you know how it go
+
+[Pre-Chorus]
+One time for my LA sisters
+One time for my LA hoes
+Lame niggas can't tell the difference
+One time for a nigga who know
+
+[Chorus]
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved
+
+[Interlude: George W. Bush]
+There's an old saying in Tennessee—I know it's in Texas—probably in Tennessee—that says, fool me once—shame on—shame on you. Fool me—you can't get fooled again
+
+[Bridge]
+Fool me one time, shame on you
+Fool me twice, can't put the blame on you
+Fool me three times, fuck the peace sign
+Load the chopper, let it rain on you
+Fool me one time, shame on you
+Fool me twice, can't put the blame on you
+Fool me three times, fuck the peace sign
+Load the chopper, let it rain on you
+
+[Verse 3]
+My only regret was too young for Lisa Bonet
+My only regret was too young for Nia Long
+Now all I'm left with is hoes from reality shows
+Hand her a script the bitch probably couldn't read along
+My only regret was too young for Sade Adu
+My only regret, could never take Aaliyah home
+Now all I'm left with is hoes up in Greystone
+With the stale face 'cause they know it's they song
+She shallow, but the pussy deep (she shallow, she shallow)
+She shallow, but the pussy deep (she shallow, she shallow)
+She shallow, but the pussy deep (she shallow, she shallow)
+She shallow, but the pussy deep (she shallow, she shallow)
+
+[Chorus]
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved
+Don't save her
+She don't wanna be saved"
+},{
+  album_id: Album.find_by_title("2014 Forest Hills Drive").id,
+  title: "Hello",
+  features: "",
+  producer: "J.Cole",
+  lyrics: "[Hook]
+Hello, hello, hello
+Hello, hello, hello
+
+[Verse 1]
+And I thought about you today
+And I thought about the things you used to say
+And I thought about the things we did
+And I thought about your newest kid
+And damn that makes 2 now
+Oh what do I do now?
+Cause if we ever got together
+I'd have to be them niggas step-pops forever
+And well that ain't my thing cause I
+I ain't even got my own
+And I ain't really got no home
+No place to put these things I own
+And I thought about the things you used to say
+And I thought about the games you used to play
+And I thought about that little kid
+And I thought about the things we did
+I always thought that we would be together
+I always knew that we would be together
+But I don't wanna wait forever
+I don't wanna wait forever
+
+[Hook]
+Hello, hello, hello
+Hello, hello, hello
+
+[Bridge 1]
+Hello, hello?
+Shit seem so sad when you look back
+Shit seem so sad when you look back
+Shit seem so sad when you look back
+Shit seem so sad when you look back
+Shit seem so sad when you look back
+Shit seem so sad when you look back
+Shit seem so sad when you look back
+Shit seem so sad when you look back
+Shit seem so sad when you look back
+Everything's so sad when you look back
+
+[Verse 2]
+On the rebound like a book back
+On the rebound like a put back
+Don't just sit back, bitch get on it
+Time fly by way too quick don't it
+Reflection bring regrets don't it
+Rejection makes you defensive
+So you protect your pride with your reflexes
+But life is a game with no reset on the end
+
+[Bridge 2]
+It ain't no lookin' back, no, no, no, no
+It ain't no lookin' back, no, no, no, no
+It ain't no lookin' back, no, no, no, no
+It's all good
+It ain't no lookin' back, no, no, no, no
+It ain't no lookin' back, no, no, no, no
+It ain't no lookin' back, no, no, no, no
+It's all good
+
+[Hook]
+Hello, hello, hello
+Hello, hello, hello
+
+[Outro]
+And I thought about you today
+And I thought about the things you used to say
+And I thought about the things we did
+And I thought about your newest kid
+And damn that makes 2 now
+Oh what do I do now?"
+},{
+  album_id: Album.find_by_title("2014 Forest Hills Drive").id,
+  title: "Apparently",
+  features: "",
+  producer: "Omen & J.Cole",
+  lyrics: "[Instrumental Break]
+
+[Intro]
+Oh right, oh
+Oh why na-da-da-da
+
+[Hook]
+I keep my head high
+I got my wings to carry me
+I don't know freedom
+I want my dreams to rescue me
+I keep my faith strong
+I ask the Lord to follow me
+I've been unfaithful
+I don't know why you call on me
+
+[Verse 1]
+This is my canvas
+I'ma paint it how I want it baby, oh I
+This is my canvas
+I'ma paint it, paint it, paint it, how I want it nigga
+Fuck you cause there, there is no right or wrong, only a song
+I like to write alone, be in my zone
+Think back to Forest Hills, no perfect home
+But the only thing like home I've ever known
+Until they snatched it from my mama
+And foreclosed her on the loan
+I'm so sorry that I left you there to deal with that alone
+I was up in New York City chasing panties, getting dome
+Had no clue what you was going through
+How could you be so strong?
+And how could I be so selfish, I know I can be so selfish
+I could tell by how I treat you with my girl
+Damn she so selfless
+But she put up with my ways
+Because she loves me like you do
+And though it don't always show I love her just like I love you
+And I need to treat you better
+Wish you could live forever
+So we could spend more time together
+(I love you mama)
+
+[Hook]
+I keep my head high
+I got my wings to carry me
+I don't know freedom
+I want my dreams to rescue me
+I keep my faith strong
+I ask the Lord to follow me
+I've been unfaithful
+I don't know why you call on me
+
+[Post-Hook]
+E-e-eee, e-e, apparently
+You believe in me, you believe in me
+E-e-eee, e-e, apparently
+You believe in me, and I thank you for it, oh I
+
+[Verse 2]
+Another day, another rhyme, ho
+Another day, another time zone
+Today, I woke up feeling horny so it's only right
+I got two bitches playing on my trombone
+Keep up, never sure where the words would take me
+Niggas eat em up, and regurgitate me
+Shit trump tight never slurred it lazy
+Give a virgin the urge to rape me, nigga please
+Best friends really make great for enemies
+My watch came, niggas can't wait for one of these
+I see you nigga, this ain't no Rolex, it's a AP nigga
+I'm hot, dog, catch up to me nigga—uh, couldn't resist
+Aim for the stars and I shouldn't have missed
+But I was riding on fumes so I stopped by the moon
+Now I'm sitting on the hood of this bitch
+Like, \"Thanks for the view\", waiting on thanks from a few
+Cause without me you wouldn't exist
+You know that shit, gave you the blueprint, don't forget
+Cole is your phone on zero percent
+Going off, now niggas showing off
+Niggas swear they hard but they flowing soft
+I'm taking off like boing on a big ass Boeing
+Getting head like a coin toss, too easy
+
+[Hook]
+I keep my head high
+I got my wings to carry me
+I don't know freedom
+I want my dreams to rescue me
+I keep my faith strong
+I ask the Lord to follow me
+I've been unfaithful
+I don't know why you call on me
+
+[Post-Hook]
+E-e-eee, e-e, apparently
+You believe in me, you believe in me
+E-e-eee, e-e, apparently
+You believe in me, and I thank you for it, oh I"
+},{
+  album_id: Album.find_by_title("2014 Forest Hills Drive").id,
+  title: "Love Yourz",
+  features: "",
+  producer: "!llmind",
+  lyrics: "[Intro]
+Love yourz
+Love yourz
+No such thing
+
+[Hook]
+No such thing as a life that's better than yours
+No such thing as a life that's better than yours
+No such thing as a life that's better than yours
+No such thing, no such thing
+
+[Verse 1]
+Heart beatin' fast, let a nigga know that he alive
+Fake niggas, mad snakes
+Snakes in the grass let a nigga know that he arrived
+Don't be sleeping on your level cause it's beauty in the struggle nigga
+Goes for all y'all
+It's beauty in the struggle nigga
+(Let me explain)
+It's beauty in the struggle, ugliness in the success
+Hear my words or listen to my signal of distress
+I grew up in the city and though some times we had less
+Compared to some of my niggas down the block
+Man, we were blessed
+And life can't be no fairytale, no once upon a time
+But I be God damned if a nigga don't be tryin'
+So tell me mama please why you be drinking all the time?
+Does all the pain he brought you still linger in your mind?
+Cause pain still lingers on mine
+On the road to riches listen this is what you'll find
+The good news is nigga you came a long way
+The bad news is nigga you went the wrong way
+Think being broke was better
+
+[Hook]
+No such thing as a life that's better than yours
+No such thing as a life that's better than yours
+No such thing as a life that's better than yours
+No such thing, no such thing
+
+[Verse 2]
+For what's money without happiness?
+Or hard times without the people you love
+Though I'm not sure what's 'bout to happen next
+I asked for strength from the Lord up above
+Cause I've been strong so far
+But I can feel my grip loosening
+Quick, do something before you lose it for good
+Get it back and use it for good
+And touch the people how you did like before
+I'm tired of living with demons
+Cause they always inviting more
+Think being broke was better
+Now I don't mean that phrase with no disrespect
+To all my niggas out there living in debt
+Cashing minimal checks
+Turn on the TV see a nigga Rolex
+And fantasize about a life with no stress
+I mean this shit sincerely
+And that's a nigga who was once in your shoes
+Living with nothin' to lose
+I hope one day you hear me
+Always gon' be a bigger house somewhere, but nigga feel me
+Long as the people in that motherfucker love you dearly
+Always gon' be a whip that's better than the one you got
+Always gon' be some clothes
+That's fresher than the ones you rock
+Always gon' be a bitch that's badder out there on the tours
+But you ain't never gon' be happy till you love yours
+
+[Hook]
+No such thing as a life that's better than yours
+No such thing as a life that's better than yours
+No such thing as a life that's better than yours
+No such thing, no such thing
+
+[Outro]
+Heart beatin' fast, let a nigga know that he alive
+Fake niggas, mad snakes
+Snakes in the grass let a nigga know that he arrive"
+},{
+  album_id: Album.find_by_title("2014 Forest Hills Drive").id,
+  title: "Note To Self",
+  features: "",
+  producer: "J.Cole",
+  lyrics: "[Hook]
+And wherever we go
+And whatever we do
+And whatever we see
+And whoever we be
+It don't matter, it don't matter
+I don't mind cause you don't matter
+I don't mind cause I don't matter
+(And don't shit matter)
+You'll see in the end
+
+[Bridge]
+I've got a feeling that there's somethin' more
+Something that holds us together
+Something that holds us together
+The strangest feeling but I can't be sure
+Something that's old as forever
+Something that's old as forever
+Love, love, love, love
+
+[Hook]
+And wherever we go
+And whatever we do
+And whatever we see
+And whoever we be
+It don't matter, it don't matter
+I don't mind cause you don't matter
+I don't mind cause I don't matter
+(And don't shit matter)
+You'll see in the end
+
+[Speech: J. Cole]
+Yeah nigga, Forest Hills Drive. Yeah, yeah, yeah, yeah, yeah, that's it. We made it, baby! As we speak the last sample just cleared. Thank you to whoever in Japan, just cleared that shit. Turn my vocal up and turn the headphones down a little bit. I gotta do my thank you's man. I didn't have enough time to turn in my thank you's for the artwork, so fuck it. I'mma do it right now...
+
+This is the credits. This is role credits nigga, if you don't wanna sit through the credits get your ass up and walk out the movie theatre. First and foremost my entire Dreamville team, thank you man. Before that I'm buggin, thank you God! Oh my God. Everything happened too perfectly and in line—this whole thing.
+
+Thank you God. Thank my Dreamville family. Mez who fuckin' asleep right now, that nigga ain't even recording this thing right now. Nigga's been working hard man, Mez I'm proud as fuck of you man, for real you killed this shit. Ib what up. El Presidente what up! We killed this shit nigga, we killed this shit nigga! I don't give a fuck if we sell 3 copies nigga, we killed this shit nigga!
+
+My nigga Adam, I'm proud of y'all man, for real. Ron Gilmore, my nigga. Yes, Camille, yes that's my sister. KC, that's like a father figure right there, KC. My brother Ced, wow, we done came a long way from the Ville, my nigga Gray's Creek. My nigga Felton, you killed it, you killed that Friday Night Lights shit nigga and you killed this one too man. I shoulda been coming to you man. You only do the classics though, that's what it is, for real. My nigga Mike Shaw shiggity, you already know where he at right now posted up somewhere in D.R. My nigga RJ Trump Trump gettin' that motherfuckin' bread, you know what it is man. My nigga Diz, I see you, I see your vision, I believe in you. I love y'all niggas. Big D, thank you man for real. (Teddy what up) (Shotgun) We believe in y'all, (Proof!) you and the fiends, my nigga Bassy Badass, Bas, Bas, Bas, I can't believe it nigga! (Marquis Jones) You changed your life, man, keep goin'. Keep goin', the sky is the limit. Fuck that, man, Super Mookin Fiends. It's Super Mookin Fiends nigga!
+
+My nigga Depp, you know what I mean? Razzle Dazzle, Elite, Elite, Elite, Elite what up! What up man, my nigga Reagan put in them hours! My nigga Omen, man, Elephant Eyes, that shit is a confirmed classic, man. Dreamville, we only did confirmed classics so far, that's all we doin'. Yo Elijah! Aye if we go diamond, nigga you got the triple crown, man. First 50, then Usher, nigga you fuckin' out of here. But we might go wood though. Nervous Reck, man, congratulations to you, brother, I love you. (At least go silver) FilthE, I love you too, man. I know you feel a way about me right now but I love you. Yo shout to the young niggas, man. Forreal, we blessed to have y'all on board, man, we feel so grateful...
+
+Cozz, that Cozz and Effect is a mothafuckin' classic, nigga. I be ridin' my bike through Manhattan listenin' to that shit, man. I've been livin' with that shit for like the past 4 days, I finally got a chance to slow down. That shit is a classic, my nigga. Congratulations to you. We don't give a fuck what it sold, I don't even know what that shit sold to tell you the truth, man. And I'm proud of you, man. I'm proud of you and your homeboys. Y'all it's really gon' be great to watch y'all grow. I'm appreciatin' watchin' y'all grow more than we did! I get to relive it all again and actually appreciate it this time. Shout out to the whole committee, man. Tone, Meez, what up. My nigga Money Makin Matt, what up man? Treat them boys right, man.
+
+Everybody that was involved in makin' this album, my nigga Jack who's at the board right now, what's up man!? Yo you made the album, man! We gon' live forever, man! You gotta loop the beat up right now though cause it can't... okay Raph, Wreck-It-Raph, Perfect Sound Studios, LA we couldn't have did it without you. My nigga Dave Linaburg, Nate Jones, Yolanda, TS, Kaye Fox came through and killed it. My nigga Quick with the clean versions, Vinylz killed that beat! My nigga Phonix, oh that beat is hard! Dahi brought that beat, who does that? Pop & Oak, my nigga Pop, thank you man, and Willie B, I never met you, but you did the beat. !llmind you killed the beat, Social Experiment, my nigga Jeff on the guitar, you know what I mean? Nuno did the mothafuckin' strings, I appreciate that shit, man! We gon' pay you. Hey, the horn players that came through, I don't know y'all names but y'all killed that shit, man, we was lovin' that shit! Shout out to all the girls on the mothafuckin' strings. We appreciate it. Guess that shit a little wild, I ain't gon' lie. Uh, maybe that was my fault, I set y'all up with Wreck-It-Raph. But it's all good, we still killed it though. And all the mothafuckin' samples that cleared, thank you, y'all be tryin' to give a nigga a hard time on the samples, man! I'ma go to the fuckin' Supreme Court and try to make this shit easier for niggas like me to clear these samples, man. If you made the fuckin' music, and you made the art, and you put it into the world, I should be able to use it however the fuck I want. I'ma pay you, I'ma give you a percentage, but you shouldn't be able to tell me I can't use it. Ya, that's fuckin'... that's fucked up nigga. You was inspired by the world; allow the world to be inspired by your shit and to use your shit. So all them people like [*censored*] or whoever that don't let niggas use they shit, fuck that man. It's 2014, 2015 by the time you might hear this shit. Fuck that man we movin' on.
+
+Man, shout out Drizzy Drake, Kendrick Lamar, Wale, I'm so happy to be peers with y'all niggas and consider y'all niggas friends. And I'm sorry I had to come snatch the crown right quick. I had to do it to show niggas it ain't no more motherfuckin' crowns man. We gotta be the example, we gotta show these niggas man, it's love at the top. Can't you believe, it's crazy to believe we sitting right here in these mother fuckin' seats right now. 15 years ago we was lookin' at these niggas like \"man we gotta be these niggas!\". Now we those niggas, but it's our responsibility to show these niggas man it's love up here. Niggas want beef, niggas want drama, fuck that we comin' together.
+
+Shout out to everybody in Ferguson right now still ridin', still ridin'. Everybody else asleep, y'all still ridin'. And it's bigger than Ferguson, man that shit is fuckin' nationwide man. We gotta come together, look at each other, love each other. We share a common story nigga that's pain, struggle. And guess what man, we can come together, and that's one things that's gon' do it, that's love. I'm just telling y'all, that's a Public Service Announcement.
+
+Back to this shit, yo. ByStorm, I love y'all niggas man, no matter what. Wayne, Just, MK thank you man you came on board and killed it. Natalya, what's up! My nigga Julius Garcia, I already shouted you out but I shouted out your alias and I just put your whole government on record and this gon' live forever. Tisha, Tisha, you know I love you Tisha!
+
+Future the Prince, thank you for those conversations man I needed that. Roc Nation daamnn, we feel like a family now man, forreal. It was always family but it's so ill to see us come together on this album, thank y'all very much man. Thank y'all for believing, I know this is a scary idea, I don't know if it's gonna work or not, as I speak, I don't gave a fuck! Fuck man, I'm just happy we did this shit. Shout out to Nelly, Ted, Christina, Chaka I love you, Jeff what up, Jay Z, Hov, holla! Jay Brown what up! Rich Kleiman, Ty-Ty, my nigga Emory, you know what it is—
+
+Shout out to Interscope. Yeah, Joey I.E, 'preciate you, Janet, Gary, Steve Berman, yeah. Columbia, we love y'all man, damn. I'm runnin out of breath and shit. I'm sad this is my last album with Columbia, it's not my fault it's all contractual, but I love the fuck out of y'all, we made relationships there that ain't never going away (Lisa Wiggins!!). Ain't never know what the future holds man. We hope we can do business some day. April, thank you very much my baby, Ayelet, you are a legend, we fuckin' love you
+
+CJ same to you man, y'all been killin' this shit for years, thank you man, thank you. Rob Stringer, thank you sir, Joel Klaiman, yes sir. The whole sales team, production, marketing team. My man B Nolan who drove us around in a fuckin' van and a SUV and showed us all about the radio game, man. And we ain't had no hits, all we had was fuckin' \"Who Dat.\" Tryin' figure this shit out man and I figured it out. B Nolan I finally figured it out. I know you like \"damn this nigga talking to me\", I'm talking to you man. Cause you used to hear us stressin' over this shit, and I finally figured it out man. Don't none of that shit matter yo. I came all this way, all the way from Fayetteville, North Carolina. Went to New York City got this motherfuckin' record deal. Put out some classics, put out some singles. Had my ups, had my downs. Came all this way just to learn one thing man, and only one fuckin' thing matters and that's your happiness. And the only way you gon' get to that happiness is through love, real, geniuine, motherfuckin' love man. Not the fake shit, not the Hollywood shit, not the niggas giving you props so you think you the shit. Not motherfuckers knowing you so you think you famous. Not niggas seeing your whip and they want your whip so you feel good cause they want your whip. Or they want your bitch, so you feel better, fuck that, real love. Where your crib is at nigga where your heart is at, where your home is at, where your mom is at, where your girl is at—
+
+Mimi what up! I'm fuckin' up my words, I don't care. How am I not gon' shout out Mimi man, fuck that shit keep the tape rollin'. We still goin'. Wassup man! Forest Hills Drive we gon' do this shit, if you ain't listening to this shit, I don't give a fuck, nigga it's the fuckin' credits. Don't nobody stay for the movie credits anyway man...
+
+My Mama OOOOOOOOOOOH, I love you! I'm so grateful and blessed to have you still in my life. A lot of people ain't got their mothers in they life still and I recognise that I'm blessed. Mama I love you. Zach I love you. My pops I love you. James Cole I love you, Jackie I love ya. My whole family I love ya. I'm so grateful man, thank y'all. It all came full circle and I had to put this shit out in 2014. We barely made, yo Ib we barely made it nigga. We barely fuckin' made it but we fuckin' made it man. Fuck y'all, but I love y'all at the same time man...
+
+Man look, y'all really wanna know who did it? I'mma tell y'all who did this shit man. Man, Dale Earnhardt jr dawg. I'm never gon' forget, this is gonna sound crazy but I'm never gonna forget that shit you told me yo. Forreal Dale Earnhardt jr man, thank you dawg. From the bottom of my heart. That shit you said to me changed my life man. And I ain't never gon' forget, ever forreal. For real Dale, from me to you, you my nigga man, forreal. I love you boy. And Jonah ! Oh Jonah Hill! How could I forget Jonah Hill! Yo, that shit you told me when we was in the elevator, nigga that shit changed my... I'm just fuckin' playin', I don't know either one of those two dudes. I don't know either one of them niggas, I was in the moment. I just lied, I don't give a fuck—
+
+2014 Forest Hills Drive. Cole World man. Thank y'all for listening. If you made it this far then I really fuck with you. Until the next time, I don't know when that's gonna be but, One love baby!
+
+[Outro]
+Love, love, love, love"
+},{
+  album_id: Album.find_by_title("The Black Album").id,
+  title: "Interlude",
+  features: "",
+  producer: "Just Blaze",
+  lyrics: "The other night when I was researching what was going to be discussed today I came across a passage wrote down, I think it really exemplifies what the young brother next to me was just talking about and I learned that all things must come to an end, it is an inevitable part of the cycle of existance, all things must conclude
+Take the analogy of a tree that grows in Brooklyn among the steel and the concrete with all its glorious branches and leaves, one day it too will pass on its legacy through the seeds it dropped to the ground and as the wind carries these seeds throughout wherever they might move a new life will begin for each one of them as they stand as a monument to the one that came before
+
+That came before
+That came before
+That came before
+That came before..."
+},{
+  album_id: Album.find_by_title("The Black Album").id,
+  title: "December 4th",
+  features: "",
+  producer: "Just Blaze",
+  lyrics: "[Intro: Gloria Carter]
+Shawn Carter was born December 4th, weighing in at 10 pounds, 8 ounces. He was the last of my four children. The only one who didn't give me any pain when I gave birth to him. And that's how I knew that he was a special child
+
+[Verse 1: Jay Z]
+They say \"They never really miss you 'til you dead or you gone\"
+So on that note, I'm leaving after the song
+So you ain't gotta feel no way about Jay so long
+At least let me tell you why I'm this way, hold on
+I was conceived by Gloria Carter and Adnis Reeves
+Who made love under the sycamore tree
+Which makes me a more sicker MC
+And my momma would claim
+At 10 pounds, when I was born, I didn't give her no pain
+Although through the years I gave her her fair share
+I gave her her first real scare
+I made up for birth when I got here
+She knows my purpose wasn't purpose; I ain't perfect, I care
+But I feel worthless ‘cause my shirts wasn't matching my gear
+Now I'm just scratching the surface
+‘Cause what's buried under there
+Was a kid torn apart once his pop disappeared
+I went to school, got good grades, could behave when I wanted
+But I had demons deep inside
+That would raise when confronted
+
+[Interlude: Gloria Carter]
+Shawn was a very shy child growing up. He was into sports, and a funny story is at 4 he taught himself how to ride a bike. A two-wheeler at that, isn't that special? But I noticed a change in him when me and my husband broke up
+
+[Verse 2: Jay Z]
+Now, all the teachers couldn't reach me
+And my momma couldn't beat me
+Hard enough to match the pain of my pops not seeing me
+So, with that disdain in my membrane
+Got on my pimp game; fuck the world, my defense came
+Then DeHaven introduced me to the game
+Spanish Jose introduced me to 'caine; I'm a hustler now
+My gear is in and I'm in the in-crowd
+And all the wavy light-skinned girls is loving me now
+My self-esteem went through the roof, man, I got my swag
+Got a Volvo from this girl when her man got bagged
+Plus I hit my momma with cash from a show that I had
+Supposedly, knowing nobody paid Jaz wack ass
+I'm getting ahead of myself, by the way, I could rap
+But that came second to me movin' this crack
+\"Gimme a second, I swear,\" I would say about my rap career
+Till '96 came, niggas, I'm here; goodbye!
+
+[Interlude: Gloria Carter]
+Shawn used to be in the kitchen, beating on the table and rapping until the wee hours of the morning. And then I bought him a boom box, and his sisters and brothers said he would drive them nuts. But that was my way to keep him close to me and out of trouble
+
+[Verse 3: Jay Z]
+Goodbye to the game, all the spoils, the adrenaline rush
+Your blood boils you in the spot, knowing cops could rush
+And you in a drop, you're so easy to touch
+No two days are alike
+Except the first and fifteenth, pretty much
+And \"trust\" is a word you seldom hear from us
+Hustlers, we don't sleep, we rest one eye up
+And the drought will define a man when the well dries up
+You learn the worth of water without work
+You thirst 'til you die, yup!
+And niggas get tied up for product
+And little brothers' ring fingers get cut up
+To show mothers they really got 'em
+And this was the stress I lived with
+'Til I decided to try this rap shit for a livin', I pray I'm forgiven
+For every bad decision I made, every sister I played
+‘Cause I'm still paranoid to this day
+And it's nobody's fault, I made the decisions I made
+This is the life I chose, or rather, the life that chose me
+
+[Outro: Jay Z]
+If you can't respect that, your whole perspective is wack
+Maybe you'll love me when I fade to black"
+},{
+
+  }])
 
 annotations = Annotation.create([{
   user_id: User.find_by_username("guest").id,

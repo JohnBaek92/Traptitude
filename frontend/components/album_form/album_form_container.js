@@ -1,5 +1,6 @@
 import { connect } from 'react-redux';
 import AlbumForm from './album_form';
+import { createAlbum } from "../../actions/album_actions";
 
 const mapStateToProps = (state) => {
   return({}
@@ -8,7 +9,7 @@ const mapStateToProps = (state) => {
 
 const mapDispatchToProps = (dispatch) => {
   return({
-
+    createAlbum: (album) => dispatch(createAlbum(album))
   });
 };
 

@@ -92,6 +92,7 @@
 
 .track-title {
   float: left;
+  text-transform: none;
 }
 
 .album-tracklist {
@@ -115,6 +116,7 @@
   float: left;
   text-transform: capitalize;
   padding-left: .3rem;
+  text-transform: none;
 }
 
 .tracks-content {

@@ -24,7 +24,6 @@ class AnnotationShow extends React.Component {
     if(this.state.user_id !== null) {
       if(this.state.readOnly) {
         this.setState(Object.assign({}, this.state, {readOnly: false}));
-        // this.focusQuill();
       } else {
         this.setState(Object.assign({}, this.state, {readOnly: true}));
         this.props.updateAnnotation(this.state);

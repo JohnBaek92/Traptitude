@@ -1,30 +1,71 @@
 import React from 'react';
+import Dropzone from 'react-dropzone';
 
 class AlbumForm extends React.Component {
   constructor(props) {
     super(props);
     if(props.album) {
       this.state = {
-        title: props.album.title,
-        release_date: props.album.release_date,
-        musician: props.track.musician,
-        image_url: props.track.image_url
+          title: props.album.title,
+          release_date: props.album.release_date,
+          musician: props.track.musician,
+          image: props.track.image
       };
     } else {
       this.state = {
-        title: "",
-        release_date: "",
-        musician: "",
-        image_url: ""
+          title: "",
+          release_date: "",
+          musician: "",
+          image: "",
+          image_url: "",
       };
     }
+    this.handleSubmit = this.handleSubmit.bind(this);
+    this.updateDraggedFile = this.updateDraggedFile.bind(this);
   }
 
   update(field) {
     return e => this.setState({
-      [field]: e.currentTarget.value
+        [field]: e.currentTarget.value
     });
   }
+
+  updateFile (e) {
+    let file = e.currentTarget.files[0];
+    let fileReader = new FileReader();
+    fileReader.onload = function() {
+      this.setState({image: file, image_url: fileReader.result });
+    }.bind(this);
+
+    if (file) {
+      fileReader.readAsDataURL(file);
+    }
+  }
+
+  updateDraggedFile (e) {
+    let file = e[0];
+    let fileReader = new FileReader();
+    fileReader.onload = function() {
+      this.setState(Object.assign({}, this.state, {image: file, image_url: fileReader.result }));
+    }.bind(this);
+
+    if (file) {
+      fileReader.readAsDataURL(file);
+    }
+  }
+
+  handleSubmit(e) {
+    let formData = new FormData();
+    formData.append("album[title]", this.state.title);
+    formData.append("album[release_date]", this.state.release_date);
+    formData.append("album[musician]", this.state.musician);
+    formData.append("album[image]", this.state.image);
+    this.props.createAlbum(formData)
+    .then((album) => {
+      return(this.props.history.push(`/albums/${album.album.id}`));
+    });
+  }
+
 
   render() {
     return(
@@ -37,7 +78,7 @@ class AlbumForm extends React.Component {
           </div>
           <hr/>
         </section>
-        <section className="album-form">
+        <form className="album-form">
           <div className="album-form-title-input-container">
             <input type="text"
               value={this.state.title}
@@ -53,18 +94,14 @@ class AlbumForm extends React.Component {
               placeholder="Musician" />
           </div>
           <div className="album-form-release-date-input-container">
-            //PUT IN SELECTORS FOR DATE INPUT
+            <input type="date" name="release_date" onChange={this.update('release_date')}/>
           </div>
           <div className="album-image-url-input-container">
-            <input type="text"
-              value={this.state.image_url}
-              onChange={this.update('image_url')}
-              className="album-image-input-container"
-              placeholder="Image Url"
-              />
-
+            <Dropzone className="drag-and-drop" onDrop={this.updateDraggedFile}>Drag And Drop Album Image Here</Dropzone>
+            <img src={this.state.image_url}/>
           </div>
-        </section>
+          <button onClick={this.handleSubmit}>Submit</button>
+        </form>
       </section>
     );
   }
