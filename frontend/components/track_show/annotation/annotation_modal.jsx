@@ -5,6 +5,10 @@ class AnnotationModal extends React.Component {
     super(props);
   }
 
+  componentWillUnmount() {
+    this.props.closeAnnotation();
+  }
+
   render() {
     if (this.props.isOpenAnno) {
       return(

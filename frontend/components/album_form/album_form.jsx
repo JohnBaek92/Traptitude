@@ -90,7 +90,7 @@ class AlbumForm extends React.Component {
             <input type="text"
               value={this.state.musician}
               onChange={this.update('musician')}
-              className="album-musician-input-container"
+              className="album-musician-form-input"
               placeholder="Musician" />
           </div>
           <div className="album-form-release-date-input-container">
