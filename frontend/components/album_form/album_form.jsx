@@ -101,14 +101,14 @@ class AlbumForm extends React.Component {
           </div>
           <div className="album-form-release-date-input-container">
             <div className="album-release-date-words">Album Release Date *</div>
-            <input type="date" name="release_date" onChange={this.update('release_date')}/>
+            <input className="album-release-date-input" type="date" name="release_date" onChange={this.update('release_date')}/>
           </div>
           <div className="album-image-url-input-container">
             <div className="album-photo-words">Album Photo *</div>
             <Dropzone className="drag-and-drop" onDrop={this.updateDraggedFile}>Click Here Or Drag And Drop Album Image Here</Dropzone>
             <img src={this.state.image_url}/>
           </div>
-          <button onClick={this.handleSubmit}>Submit</button>
+          <button className="submit-button-for-album" onClick={this.handleSubmit}>Submit</button>
         </form>
       </section>
     );
