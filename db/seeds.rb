@@ -8,6 +8,7 @@
 User.destroy_all
 Album.destroy_all
 Track.destroy_all
+Annotation.destroy_all
 
 users = User.create([{
   username: 'guest',
