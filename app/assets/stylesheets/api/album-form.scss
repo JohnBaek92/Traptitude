@@ -11,12 +11,95 @@
 
 .album-form {
   color:white;
+  margin-left: 1.5em;
 }
 
 .album-title-form-input {
   background: white;
+  color: black;
+  text-transform: none;
+  margin-bottom: 1em;
+  width: 24em;
+  margin-left: 0.3em;
+  margin-top: 0.3em;
 }
 
-.album-musician-form-input{
+.album-musician-form-input {
   background: white;
+  color: black;
+  text-transform: none;
+  margin-bottom: 1em;
+  width: 24em;
+  margin-left: 0.3em;
+  margin-top: 0.3em;
+}
+
+.add-album-words {
+  font-size: 2.3em;
+  text-transform: none;
+  font-weight: bold;
+  margin-bottom: 0.2em;
+}
+
+.primary-info-and-required-words {
+  display: flex;
+  justify-content: space-between;
+}
+
+.primary-info-words {
+  font-size: 1em;
+  text-transform: none;
+}
+
+.required-word {
+  font-size: 0.8em;
+  text-transform: none;
+  position: relative;
+  top: 0.45em;
+  color: rgb(204, 204, 204);
+}
+
+.word-title {
+  color: rgb(204, 204, 204);
+  margin-bottom: 0.2em;
+  text-transform: none;
+}
+
+.word-by {
+  color: #cccccc;
+  margin-bottom: 0.2em;
+  text-transform: none;
+  margin-top: 1.5em;
+}
+
+.album-title-form-input-container {
+  background-color: white;
+  width: 25em;
+  height: 1.7em;
+}
+
+.album-musician-input-container {
+  background-color: white;
+  width: 25em;
+  height: 1.7em;
+  margin-bottom: 2em;
+}
+
+.album-release-date-words {
+  color: rgb(204, 204, 204);
+  text-transform: none;
+}
+
+.album-photo-words {
+  color: rgb(204, 204, 204);
+  text-transform: none;
+  margin-top: 0.8em;
+}
+
+.drag-and-drop {
+  margin-bottom: 1em;
+}
+
+.drag-and-drop:hover {
+  cursor: pointer;
 }

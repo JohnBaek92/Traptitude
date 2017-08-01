@@ -72,32 +72,40 @@ class AlbumForm extends React.Component {
       <section className="album-form-page">
         <section className="album-form-header">
           <h2 className="add-album-words">Add Album</h2>
-          <div className="primary-info-words">
-            <div>Primary Info</div>
-            <div>*Required</div>
+          <div className="primary-info-and-required-words">
+            <div className="primary-info-words">Primary Info</div>
+            <div className="required-word">* required</div>
           </div>
           <hr/>
         </section>
         <form className="album-form">
-          <div className="album-form-title-input-container">
-            <input type="text"
-              value={this.state.title}
-              placeholder="Album Title"
-              onChange={this.update('title')}
-              className="album-title-form-input" />
+          <div className="word-title">Title *</div>
+            <div className="album-form-title-input-container">
+              <div className="album-title-form-input-container">
+                <input type="text"
+                  value={this.state.title}
+                  placeholder="Album Title"
+                  onChange={this.update('title')}
+                  className="album-title-form-input" />
+              </div>
           </div>
+          <div className="word-by">By *</div>
           <div className="album-musician-input-container">
-            <input type="text"
-              value={this.state.musician}
-              onChange={this.update('musician')}
-              className="album-musician-form-input"
-              placeholder="Musician" />
+            <div className="album-musician-input-container">
+              <input type="text"
+                value={this.state.musician}
+                onChange={this.update('musician')}
+                className="album-musician-form-input"
+                placeholder="Musician" />
+            </div>
           </div>
           <div className="album-form-release-date-input-container">
+            <div className="album-release-date-words">Album Release Date *</div>
             <input type="date" name="release_date" onChange={this.update('release_date')}/>
           </div>
           <div className="album-image-url-input-container">
-            <Dropzone className="drag-and-drop" onDrop={this.updateDraggedFile}>Drag And Drop Album Image Here</Dropzone>
+            <div className="album-photo-words">Album Photo *</div>
+            <Dropzone className="drag-and-drop" onDrop={this.updateDraggedFile}>Click Here Or Drag And Drop Album Image Here</Dropzone>
             <img src={this.state.image_url}/>
           </div>
           <button onClick={this.handleSubmit}>Submit</button>
