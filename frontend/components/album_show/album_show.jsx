@@ -65,10 +65,15 @@ class AlbumShow extends React.Component {
             </div>
             </div>
           </section>
-          <section className="album-tracklist">
-            <div className="the-word-tracklist">{album.title} Tracklist</div>
-            {this.renderTracks()}
-        </section>
+          <section className="flex-tracklist-and-add-track-edit-track">
+            <section className="album-tracklist">
+              <div className="the-word-tracklist">{album.title} Tracklist</div>
+              {this.renderTracks()}
+            </section>
+            <section className="add-track">
+              <Link className="add-track" to={`/albums/${albumId}/add-track`}>Add Track</Link>
+            </section>
+          </section>
       </section>)
     } else {
       return(

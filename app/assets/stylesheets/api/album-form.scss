@@ -98,10 +98,15 @@
 
 .drag-and-drop {
   margin-bottom: 1em;
+  text-transform: none;
 }
 
 .drag-and-drop:hover {
   cursor: pointer;
+}
+
+.submit-button-for-album {
+  text-transform: none;
 }
 
 .submit-button-for-album:hover {

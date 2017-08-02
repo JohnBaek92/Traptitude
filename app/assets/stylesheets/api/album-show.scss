@@ -97,7 +97,8 @@
 }
 
 .album-tracklist {
-  padding-left: 11%;
+  padding-left: 1.5%;
+  width: 36em;
 }
 
 .the-word-tracklist {
@@ -108,7 +109,7 @@
 
 .album-tracklist a {
   display: flex;
-  width: 65%;
+  width: 97%;
   border-bottom: 1px solid #9a9a9a;
   padding: 1.5% 0;
 }
@@ -126,4 +127,24 @@
   font-size: 22px;
   padding-top: inherit;
   padding-bottom: inherit;
+}
+
+.flex-tracklist-and-add-track-edit-track {
+  display: flex;
+  width: 82%;
+  margin-left: 10%;
+  justify-content: space-between;
+}
+
+.add-track {
+  text-align: right;
+  color: #9a9a9a;
+  margin-top: 1%;
+  font-weight: bold;
+  margin-right: 0.2em;
+}
+
+.add-track {
+  text-transform: none;
+  margin-bottom: 10%;
 }
