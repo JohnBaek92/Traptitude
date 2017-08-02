@@ -5,7 +5,8 @@ import { createTrack } from '../../actions/track_actions';
 
 const mapStateToProps = (state) => {
   return {
-    currentUser: state.session.currentUser
+    currentUser: state.session.currentUser,
+    album: state.albums
   };
 };
 

@@ -19,7 +19,7 @@ const App = () => (
     <Route exact path="/albums/:id/:trackId" component={TrackShowContainer} />
     <Route exact path="/albums/:id/:trackId" component={AnnotationContainer} />
     <Route exact path="/add-album/" component={AlbumFormContainer} />
-    <Route exact path="/albums/:id/add-track/" component={TrackFormContainer} />
+    <Route exact path="/album/:id/add-track/" component={TrackFormContainer} />
   </div>
 );
 

@@ -27,8 +27,26 @@ class TrackForm extends React.Component {
   }
 
   render() {
-    return(
+    debugger
+    const albumId = Number(this.props.match.params.id);
+    if(this.props.album[albumId]){
+      const album = this.props.album[albumId];
+      return (
       <section className="track-form-page">
+        <section className="album-background">
+          <img className="album-background-photo" src={album.image_url}/>
+          <div className="black-layer">
+            <div className="album-total-info">
+              <img className="album-profile-photo" src={album.image_url}/>
+              <div className="album-info-minus-photo">
+                <div className="album-word">album</div>
+                <div className="album-title">{album.title}</div>
+                <div className="album-musician">{album.musician}</div>
+                <div className="album-release-date">Released {album.release_date}</div>
+            </div>
+          </div>
+          </div>
+        </section>
         <section className="track-form-header">
           <h2 className="add-track-words">Add Track</h2>
           <div className="primary-info-words">
@@ -72,7 +90,12 @@ class TrackForm extends React.Component {
           </div>
         </section>
       </section>
-    );
+    )
+  } else {
+      return(
+        <h1>Loading...</h1>
+      )
+    };
   }
 }
 
