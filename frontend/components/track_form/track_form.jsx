@@ -18,12 +18,17 @@ class TrackForm extends React.Component {
         producer: ""
       };
     }
+    this.handleSubmit = this.handleSubmit.bind(this);
   }
 
   update(field) {
     return e => this.setState({
       [field]: e.currentTarget.value
     });
+  }
+
+  handleSubmit() {
+    debugger
   }
 
   render() {
@@ -54,7 +59,7 @@ class TrackForm extends React.Component {
           </div>
           <hr/>
         </section>
-        <section className="track-form">
+        <form className="track-form">
           <div className="track-form-title-input-container">
             <input type="text"
               value={this.state.title}
@@ -87,7 +92,8 @@ class TrackForm extends React.Component {
                 className="track-form-producer-input"/>
             </div>
           </div>
-        </section>
+          <button className="submit-button-for-track" onClick={this.handleSubmit}>Submit Track</button>
+        </form>
       </section>
     )
   } else {

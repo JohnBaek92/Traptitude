@@ -110,7 +110,7 @@ class AlbumForm extends React.Component {
                 <img src={this.state.image_url}/>
               </div>
           </div>
-          <button className="submit-button-for-album" onClick={this.handleSubmit}>Submit</button>
+          <button className="submit-button-for-album" onClick={this.handleSubmit}>Submit Album</button>
         </form>
       </section>
     );
