@@ -71,7 +71,7 @@ class AlbumShow extends React.Component {
               {this.renderTracks()}
             </section>
             <section className="add-track">
-              <Link className="add-track" to={`/album/${albumId}/add-track`}>Add Track</Link>
+              <Link className="add-track" to={`/album/${albumId}/add-track`} album={album}>Add Track</Link>
             </section>
           </section>
       </section>)

@@ -105,8 +105,10 @@ class AlbumForm extends React.Component {
           </div>
           <div className="album-image-url-input-container">
             <div className="album-photo-words">Album Photo *</div>
-            <Dropzone className="drag-and-drop" onDrop={this.updateDraggedFile}>Click Here Or Drag And Drop Album Image Here</Dropzone>
-            <img src={this.state.image_url}/>
+              <div className="drag-and-drop-container">
+                <Dropzone className="drag-and-drop" onDrop={this.updateDraggedFile}>Click Here To Add Album Image</Dropzone>
+                <img src={this.state.image_url}/>
+              </div>
           </div>
           <button className="submit-button-for-album" onClick={this.handleSubmit}>Submit</button>
         </form>

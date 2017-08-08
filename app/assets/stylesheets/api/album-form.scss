@@ -94,11 +94,24 @@
   color: rgb(204, 204, 204);
   text-transform: none;
   margin-top: 0.8em;
+  margin-bottom: 0.2em;
 }
 
 .drag-and-drop {
   margin-bottom: 1em;
   text-transform: none;
+  width: 25em;
+  color: grey;
+  margin-left: 0.3em;
+  margin-top: 0.3em;
+}
+
+.drag-and-drop-container {
+  background-color: white;
+  border: 1px dashed rgb(204, 204, 204);
+  width: 25em;
+  height: 1.7em;
+  margin-bottom: 1em;
 }
 
 .drag-and-drop:hover {
