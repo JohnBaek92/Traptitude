@@ -8,14 +8,16 @@ class TrackForm extends React.Component {
         title: props.track.title,
         lyrics: props.track.lyrics,
         features: props.track.features,
-        producer: props.track.producer
+        producer: props.track.producer,
+        album_id: props.track.album_id
       };
     } else {
       this.state = {
         title: "",
         lyrics: "",
         features: "",
-        producer: ""
+        producer: "",
+        album_id: Number(this.props.match.params.id)
       };
     }
     this.handleSubmit = this.handleSubmit.bind(this);
@@ -28,7 +30,8 @@ class TrackForm extends React.Component {
   }
 
   handleSubmit() {
-    debugger
+    let track = this.state;
+    this.props.createTrack(track)
   }
 
   render() {

@@ -3,8 +3,8 @@ import AlbumForm from './album_form';
 import { createAlbum } from "../../actions/album_actions";
 
 const mapStateToProps = (state) => {
-  return({}
-  );
+  return({
+  });
 };
 
 const mapDispatchToProps = (dispatch) => {

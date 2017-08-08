@@ -4,7 +4,7 @@ export const RECEIVE_TRACK = 'RECEIVE_TRACK';
 
 export const receiveTrack = track => ({
   type: RECEIVE_TRACK,
-  track
+  track: track
 });
 
 export const displayTrack = (id) => dispatch => (
