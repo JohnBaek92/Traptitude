@@ -27,7 +27,6 @@ class TrackForm extends React.Component {
   }
 
   render() {
-    debugger
     const albumId = Number(this.props.match.params.id);
     if(this.props.album[albumId]){
       const album = this.props.album[albumId];
