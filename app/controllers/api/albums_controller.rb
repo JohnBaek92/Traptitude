@@ -15,6 +15,7 @@ class Api::AlbumsController < ApplicationController
   end
 
   def show
+    debugger
     @album = Album.find(params[:id])
 
     if @album

@@ -4,6 +4,7 @@ class Api::TracksController < ApplicationController
   end
 
   def show
+    debugger
     @track = Track.find(params[:id])
 
     if @track

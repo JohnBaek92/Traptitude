@@ -31,7 +31,12 @@ class TrackForm extends React.Component {
 
   handleSubmit() {
     let track = this.state;
+    debugger
     this.props.createTrack(track)
+    .then((track) => {
+      debugger
+      return(this.props.history.push(`/albums/${track.track.track.album_id}/${track.track.track.id}`))
+    });
   }
 
   render() {
