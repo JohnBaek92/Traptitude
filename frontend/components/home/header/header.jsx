@@ -28,7 +28,7 @@ class Header extends React.Component {
     if(this.props.currentUser) {
       return(
         <section className="top-header">
-          <div className="search-bar">Search Bar Goes Here</div>
+          <div className="search-bar"></div>
           <Link className="logo" to="/"><img className="logo-picture" src={window.images.logo}/></Link>
           <div className="user-input">
             <button className="username">   Stats</button>
