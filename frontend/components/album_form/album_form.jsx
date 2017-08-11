@@ -66,6 +66,19 @@ class AlbumForm extends React.Component {
     });
   }
 
+  handleImageUpload() {
+    if(this.state.image_url) {
+      return(
+        <div>
+          <img className="album-image-preview" src={this.state.image_url}/>
+        </div>
+      )
+    } else {
+      return(
+        <div></div>
+      )
+    }
+  }
 
   render() {
     return(
@@ -106,9 +119,11 @@ class AlbumForm extends React.Component {
           <div className="album-image-url-input-container">
             <div className="album-photo-words">Album Photo *</div>
               <div className="drag-and-drop-container">
-                <Dropzone className="drag-and-drop" onDrop={this.updateDraggedFile}>Click Here To Add Album Image</Dropzone>
-                <img src={this.state.image_url}/>
+                <Dropzone className="drag-and-drop"
+                  onDrop={this.updateDraggedFile}
+                  multiple={false}>Click Here To Add Album Image</Dropzone>
               </div>
+              {this.handleImageUpload()}
           </div>
           <button className="submit-button-for-album" onClick={this.handleSubmit}>Submit Album</button>
         </form>

@@ -111,7 +111,11 @@
   border: 1.5px dashed rgb(204, 204, 204);
   width: 25em;
   height: 1.7em;
-  margin-bottom: 1em;
+}
+
+.album-image-preview {
+  margin-top: 1em;
+  max-width: 62%;
 }
 
 .drag-and-drop:hover {
@@ -120,6 +124,7 @@
 
 .submit-button-for-album {
   text-transform: none;
+  margin-top: 1em;
 }
 
 .submit-button-for-album:hover {
