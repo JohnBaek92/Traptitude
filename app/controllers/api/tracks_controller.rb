@@ -1,6 +1,7 @@
 class Api::TracksController < ApplicationController
   def index
-    @tracks = Track.all
+    @tracks = Track.all.shuffle.limit(10)
+    render "/api/tracks/index"
   end
 
   def show
