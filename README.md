@@ -13,4 +13,4 @@ Users, once logged in, can create annotations by using their mouse to highlight 
 
 ### Albums
 
-Albums can be added through the album form page which can be accessed by clicking the 
+Albums can be added through the album form page which can be accessed by clicking the add album link in the header.
