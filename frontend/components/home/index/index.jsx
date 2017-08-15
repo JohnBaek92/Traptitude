@@ -1,7 +1,7 @@
 import React from 'react';
 import { values } from 'lodash';
 import Eye from 'react-icons/lib/ti/eye';
-import {Link} from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 class AlbumIndex extends React.Component {
   constructor(props) {
