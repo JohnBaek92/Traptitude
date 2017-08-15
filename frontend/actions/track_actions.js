@@ -10,7 +10,7 @@ export const receiveTrack = track => ({
 
 export const receiveTracks = tracks => ({
   type: RECEIVE_TRACKS,
-  tracks
+  tracks: tracks
 });
 
 export const displayTrack = (id) => dispatch => (
