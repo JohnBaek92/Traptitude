@@ -13,4 +13,8 @@ Users, once logged in, can create annotations by using their mouse to highlight 
 
 ### Albums
 
-Albums can be added through the album form page which can be accessed by clicking the add album link in the header.
+Albums can be added through the album form page which can be accessed by clicking the add album link in the header. Albums require a title, musician, release date, and an album photo in order to be created.
+
+### Tracks
+
+Tracks can be added to an album by going to the album's page and clicking the add track link. Tracks require only a title and lyrics to be created but also has inputs for features and producers.
