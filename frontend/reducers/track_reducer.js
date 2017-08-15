@@ -1,5 +1,5 @@
 import merge from 'lodash/merge';
-import { RECEIVE_TRACK } from '../actions/track_actions';
+import { RECEIVE_TRACK, RECEIVE_TRACKS } from '../actions/track_actions';
 
 const _nullTrack = Object.freeze({});
 
