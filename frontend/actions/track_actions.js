@@ -9,6 +9,7 @@ export const receiveTrack = track => ({
 });
 
 export const receiveTracks = tracks => {
+  debugger
   return({
     type: RECEIVE_TRACKS,
     tracks: tracks
@@ -21,7 +22,7 @@ export const displayTrack = (id) => dispatch => (
   ))
 );
 
-export const displayTopTracks = () => (
+export const displayTopTracks = () => dispatch => (
   APIUtil.fetchTracks().then(tracks => (
     dispatch(receiveTracks(tracks))
   ))
