@@ -18,7 +18,7 @@ class TopTracks extends React.Component {
       const formattedTracks = topTracks.map((track, idx) => {
         if(idx < 1) {
           return(
-            <Link to={'/albums/'+track.album_id+"/"+track.id}>
+            <Link to={'/albums/'+track.album_id+"/"+track.id} key={idx}>
               <div className="top-one-content">
                 <div className="top-three-count">{idx+1}</div>
                 <img className="top-three-photo" src={track.image_url}/>
@@ -31,7 +31,7 @@ class TopTracks extends React.Component {
           );
         } else if (idx < 3) {
           return(
-            <Link to={'/albums/'+track.album_id+"/"+track.id}>
+            <Link to={'/albums/'+track.album_id+"/"+track.id} key={idx}>
               <div className="top-three-content">
                 <div className="top-three-count">{idx+1}</div>
                 <img className="top-three-photo" src={track.image_url}/>
@@ -44,7 +44,7 @@ class TopTracks extends React.Component {
           );
         } else {
           return(
-            <Link to={'/albums/'+track.album_id+"/"+track.id}>
+            <Link to={'/albums/'+track.album_id+"/"+track.id} key={idx}>
               <div className="top-ten-content">
                 <div className="top-ten-count">{idx+1}</div>
                 <img className="top-ten-photo" src={track.image_url}/>
