@@ -2,9 +2,9 @@ import { connect } from 'react-redux';
 import { displayTopTracks } from '../../../../actions/track_actions';
 import TopTracks from './top_tracks';
 
-const mapStateToProps = (state) => {
+const mapStateToProps = ({tracks}) => {
   return(
-    {tracks: state.tracks}
+    {tracks: tracks}
   );
 };
 

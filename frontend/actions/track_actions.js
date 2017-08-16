@@ -8,10 +8,12 @@ export const receiveTrack = track => ({
   track: track
 });
 
-export const receiveTracks = tracks => ({
-  type: RECEIVE_TRACKS,
-  tracks: tracks
-});
+export const receiveTracks = tracks => {
+  return({
+    type: RECEIVE_TRACKS,
+    tracks: tracks
+  })
+};
 
 export const displayTrack = (id) => dispatch => (
   APIUtil.fetchTrack(id).then(track => (

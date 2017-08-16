@@ -6,14 +6,20 @@ class TopTracks extends React.Component {
     super(props);
   }
 
-  componentDidMount() {
+  componentWillMount() {
     this.props.displayTopTracks();
   }
 
   render() {
-    return(
-      <h1>hello!</h1>
-    )
+    if(this.props.tracks.length === 10) {
+      return(
+        <h1>hello??</h1>
+      )
+    } else {
+      return(
+        <h1>hello!</h1>
+      )
+    }
   }
 }
 

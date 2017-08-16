@@ -8,7 +8,7 @@ class AlbumIndex extends React.Component {
     super(props);
   }
 
-  componentDidMount() {
+  componentWillMount() {
     this.props.displayTopTen();
   }
 
