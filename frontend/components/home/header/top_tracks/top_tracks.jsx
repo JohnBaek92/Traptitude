@@ -5,17 +5,37 @@ import { values } from 'lodash';
 class TopTracks extends React.Component {
   constructor(props) {
     super(props);
-    this.state
+
+    // this.renderFeatures = this.renderFeatures.bind(this);
   }
 
   componentDidMount() {
     this.props.displayTopTracks();
   }
 
+  // renderFeatures() {
+    // if(track.features){
+    //   return(
+    //     <div className="features">(Ft. {track.features})</div>
+    //   )
+    // } else {
+    //   <div></div>
+    // }
+  // }
+
   render() {
     if(Object.keys(this.props.tracks).length === 10) {
       const topTracks = values(this.props.tracks);
       const formattedTracks = topTracks.map((track, idx) => {
+        const renderFeatures = () => {
+          if(track.features){
+            return(
+              <div className="features">(Ft. {track.features})</div>
+            )
+          } else {
+            <div></div>
+          }
+        }
         if(idx < 1) {
           return(
             <Link to={'/albums/'+track.album_id+"/"+track.id} key={idx}>
@@ -25,6 +45,7 @@ class TopTracks extends React.Component {
                 <div className="top-three-info">
                   <div className="top-three-title">{track.title}</div>
                   <div className="top-three-musician">{track.musician}</div>
+                  {renderFeatures()}
                 </div>
               </div>
             </Link>
@@ -38,6 +59,7 @@ class TopTracks extends React.Component {
                 <div className="top-three-info">
                   <div className="top-three-title">{track.title}</div>
                   <div className="top-three-musician">{track.musician}</div>
+                  {renderFeatures()}
                 </div>
               </div>
             </Link>
@@ -50,6 +72,7 @@ class TopTracks extends React.Component {
                 <img className="top-ten-photo" src={track.image_url}/>
                 <div className="top-ten-info">
                   <div className="top-ten-track-info">{track.title} by {track.musician}</div>
+                  {renderFeatures()}
                 </div>
               </div>
             </Link>
