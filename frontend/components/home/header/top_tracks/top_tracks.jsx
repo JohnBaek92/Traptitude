@@ -34,7 +34,7 @@ class TopTracks extends React.Component {
             )
           } else {
             return(
-              <div>{track.title} by {track.musician}</div>
+              <div className="features">{track.title} by {track.musician}</div>
             )
           }
         }
