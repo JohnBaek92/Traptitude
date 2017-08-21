@@ -33,18 +33,20 @@ class TopTracks extends React.Component {
               <div className="features">{track.title} by {track.musician} (Ft. {track.features})</div>
             )
           } else {
-            <div></div>
+            return(
+              <div>{track.title} by {track.musician}</div>
+            )
           }
         }
         if(idx < 1) {
+          debugger
           return(
             <Link to={'/albums/'+track.album_id+"/"+track.id} key={idx}>
               <div className="top-one-content">
                 <div className="top-three-count">{idx+1}</div>
                 <img className="top-three-photo" src={track.image_url}/>
                 <div className="top-three-info">
-                  <div className="top-three-title">{track.title}</div>
-                  <div className="top-three-musician">{track.musician} {renderFeatures()}</div>
+                  {renderFeatures()}
                 </div>
               </div>
             </Link>
@@ -56,8 +58,6 @@ class TopTracks extends React.Component {
                 <div className="top-three-count">{idx+1}</div>
                 <img className="top-three-photo" src={track.image_url}/>
                 <div className="top-three-info">
-                  <div className="top-three-title">{track.title}</div>
-                  <div className="top-three-musician">{track.musician}</div>
                   {renderFeatures()}
                 </div>
               </div>
@@ -70,7 +70,6 @@ class TopTracks extends React.Component {
                 <div className="top-ten-count">{idx+1}</div>
                 <img className="top-ten-photo" src={track.image_url}/>
                 <div className="top-ten-info">
-                  <div className="top-ten-track-info">{track.title} by {track.musician}</div>
                   {renderFeatures()}
                 </div>
               </div>
