@@ -30,7 +30,7 @@ class TopTracks extends React.Component {
         const renderFeatures = () => {
           if(track.features){
             return(
-              <div className="features">(Ft. {track.features})</div>
+              <div className="features">{track.title} by {track.musician} (Ft. {track.features})</div>
             )
           } else {
             <div></div>
@@ -44,8 +44,7 @@ class TopTracks extends React.Component {
                 <img className="top-three-photo" src={track.image_url}/>
                 <div className="top-three-info">
                   <div className="top-three-title">{track.title}</div>
-                  <div className="top-three-musician">{track.musician}</div>
-                  {renderFeatures()}
+                  <div className="top-three-musician">{track.musician} {renderFeatures()}</div>
                 </div>
               </div>
             </Link>
