@@ -26,6 +26,7 @@
 .top-three-musician {
   font-size: .9em;
   float: left;
+  text-transform: capitalize;
 }
 
 .top-three-content {
@@ -53,6 +54,7 @@
   font-size: 1.5em;
   padding-top: 1.5%;
   font-weight: bold;
+  text-transform: none;
 }
 
 .top-ten-content {
@@ -85,6 +87,7 @@
 .top-ten-track-info {
   display: inline-block;
   float: left;
+  text-transform: capitalize;
 }
 
 .top-one-content {
