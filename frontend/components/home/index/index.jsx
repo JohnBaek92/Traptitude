@@ -57,10 +57,13 @@ class AlbumIndex extends React.Component {
           }
         })
         return(
-          <div className="top-ten-container">
-            <div className="top-tracks-header">Top Albums</div>
-            {formattedAlbums}
-          </div>
+          <section>
+            <div id="featured-stories">Featured Stories</div>
+            <div className="top-ten-container">
+              <div className="top-tracks-header">Top Albums</div>
+              {formattedAlbums}
+            </div>
+          </section>
         );
       } else {
         return (<div></div>)
