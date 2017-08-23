@@ -13,16 +13,6 @@ class TopTracks extends React.Component {
     this.props.displayTopTracks();
   }
 
-  // renderFeatures() {
-    // if(track.features){
-    //   return(
-    //     <div className="features">(Ft. {track.features})</div>
-    //   )
-    // } else {
-    //   <div></div>
-    // }
-  // }
-
   render() {
     if(Object.keys(this.props.tracks).length === 10) {
       const topTracks = values(this.props.tracks);
@@ -39,7 +29,6 @@ class TopTracks extends React.Component {
           }
         }
         if(idx < 1) {
-          debugger
           return(
             <Link to={'/albums/'+track.album_id+"/"+track.id} key={idx}>
               <div className="top-one-content">

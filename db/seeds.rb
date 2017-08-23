@@ -1717,7 +1717,7 @@ Hypnotic thug life, get that ass paralyzed
 Nomsayin? Mobb Deep and all that"
 }, {
   album_id: Album.find_by_title("The Infamous").id,
-  title: "Eye for a Eye (Your Beef Is Mines)",
+  title: "Eye for an Eye (Your Beef Is Mines)",
   features: "Raekwon & Nas",
   producer: "Havoc",
   lyrics: "[Chorus]

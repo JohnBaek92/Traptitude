@@ -63,7 +63,7 @@ class Header extends React.Component {
   navbar() {
     return(
       <navbar className="nav-bar">
-        <a id="featured-stories" href="#featured-stories">Featured Stories</a>
+        <Link id="featured-stories" to="/#featured-stories">Featured Stories</Link>
         <Link id="top-tracks" to="/top-tracks">Top Tracks</Link>
         <span id="first-bar">|</span>
         <Link id="forums" to="/forums">Forums</Link>
