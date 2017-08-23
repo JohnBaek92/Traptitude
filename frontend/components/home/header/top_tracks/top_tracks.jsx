@@ -46,7 +46,8 @@ class TopTracks extends React.Component {
                 <div className="top-three-count">{idx+1}</div>
                 <img className="top-three-photo" src={track.image_url}/>
                 <div className="top-three-info">
-                  {renderFeatures()}
+                  <div className="top-three-title">{track.title}</div>
+                  <div className="top-three-musician">{track.musician}</div>
                 </div>
               </div>
             </Link>
@@ -58,7 +59,8 @@ class TopTracks extends React.Component {
                 <div className="top-three-count">{idx+1}</div>
                 <img className="top-three-photo" src={track.image_url}/>
                 <div className="top-three-info">
-                  {renderFeatures()}
+                  <div className="top-three-title">{track.title}</div>
+                  <div className="top-three-musician">{track.musician}</div>
                 </div>
               </div>
             </Link>
