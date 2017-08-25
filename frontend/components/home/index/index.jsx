@@ -59,19 +59,6 @@ class AlbumIndex extends React.Component {
         return(
           <section>
             <div id="featured-stories">Featured Stories</div>
-            <div>check</div>
-            <div>check</div>
-            <div>check</div>
-            <div>check</div>
-            <div>check</div>
-            <div>check</div>
-            <div>check</div>
-            <div>check</div>
-            <div>check</div>
-            <div>check</div>
-            <div>check</div>
-            <div>check</div>
-            <div>check</div>
             <div className="top-ten-container">
               <div className="top-tracks-header">Top Albums</div>
               {formattedAlbums}
