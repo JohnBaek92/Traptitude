@@ -5,8 +5,6 @@ import { values } from 'lodash';
 class TopTracks extends React.Component {
   constructor(props) {
     super(props);
-
-    // this.renderFeatures = this.renderFeatures.bind(this);
   }
 
   componentDidMount() {
