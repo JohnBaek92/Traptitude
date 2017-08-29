@@ -3,6 +3,8 @@ import { values } from 'lodash';
 import Eye from 'react-icons/lib/ti/eye';
 import { Link } from 'react-router-dom';
 
+//find a way to scroll to a certain part of page in react
+
 class AlbumIndex extends React.Component {
   constructor(props) {
     super(props);
