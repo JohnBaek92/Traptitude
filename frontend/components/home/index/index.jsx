@@ -3,8 +3,6 @@ import { values } from 'lodash';
 import Eye from 'react-icons/lib/ti/eye';
 import { Link } from 'react-router-dom';
 
-//find a way to scroll to a certain part of page in react
-
 class AlbumIndex extends React.Component {
   constructor(props) {
     super(props);
@@ -49,7 +47,7 @@ class AlbumIndex extends React.Component {
               <Link to={'/albums/'+album.id} key={idx}>
               <div className="top-ten-content">
                   <div className="top-ten-count">{idx+1}</div>
-                  <img className="top-ten-photo" src={album.image_url}></img>
+                  <img className="top-ten-photo" src={album.image_url} />
                   <div className="top-ten-info">
                     <div className="top-ten-track-info">{album.title} by {album.musician}</div>
                   </div>
@@ -60,7 +58,10 @@ class AlbumIndex extends React.Component {
         })
         return(
           <section>
-            <div id="featured-stories">Featured Stories</div>
+            <div className="featured-stories-container">
+              <h2 id="featured-stories">Featured Stories</h2>
+              <img src="https://media.giphy.com/media/3ov9k33PEeFoWcdKnu/giphy.gif" />
+            </div>
             <div className="top-ten-container">
               <div className="top-tracks-header">Top Albums</div>
               {formattedAlbums}
