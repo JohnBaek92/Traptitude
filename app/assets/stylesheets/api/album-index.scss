@@ -109,10 +109,15 @@
 
 #featured-stories {
   color: black;
-  border-top: 5%;
+  margin-bottom: 2%;
+}
+
+.featured-stories-container-background {
+  background-color: white;
+  margin: 0 auto;
 }
 
 .featured-stories-container {
-  background-color: white;
-  margin: 0 auto;
+  padding-top: 1.5%;
+  padding-left: 10rem;
 }

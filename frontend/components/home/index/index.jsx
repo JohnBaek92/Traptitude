@@ -58,13 +58,15 @@ class AlbumIndex extends React.Component {
         })
         return(
           <section>
-            <div className="featured-stories-container">
-              <h2 id="featured-stories">Featured Stories</h2>
-              <img src="https://media.giphy.com/media/3ov9k33PEeFoWcdKnu/giphy.gif" />
-            </div>
-            <div className="top-ten-container">
-              <div className="top-tracks-header">Top Albums</div>
-              {formattedAlbums}
+            <div className="featured-stories-container-background">
+              <div className="featured-stories-container">
+                <h2 id="featured-stories">Featured Stories</h2>
+                <img src="https://media.giphy.com/media/3ov9k33PEeFoWcdKnu/giphy.gif" />
+                </div>
+              </div>
+              <div className="top-ten-container">
+                <div className="top-tracks-header">Top Albums</div>
+                {formattedAlbums}
             </div>
           </section>
         );
