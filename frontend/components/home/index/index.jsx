@@ -61,8 +61,10 @@ class AlbumIndex extends React.Component {
             <div className="featured-stories-container-background">
               <div className="featured-stories-container">
                 <h2 id="featured-stories">Featured Stories</h2>
-                <img className="anno-demo-gif" src="https://media.giphy.com/media/3ov9k33PEeFoWcdKnu/giphy.gif" height="350" width="500" />
-                <img className="add-album-demo" src="https://media.giphy.com/media/l1J9CijKDJQqp8Jjy/giphy.gif" height="200" width="225" />
+                <div className="gifs-are-here">
+                  <img className="anno-demo-gif" src="https://media.giphy.com/media/3ov9k33PEeFoWcdKnu/giphy.gif" height="350" width="500" />
+                  <img className="add-album-demo" src="https://media.giphy.com/media/l1J9CijKDJQqp8Jjy/giphy.gif" height="350" width="225" />
+                </div>
                 </div>
               </div>
               <div className="top-ten-container">
