@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactQuill from 'react-quill';
 
 class TrackForm extends React.Component {
   constructor(props) {
@@ -57,49 +58,51 @@ class TrackForm extends React.Component {
           </div>
           </div>
         </section>
-        <section className="track-form-header">
-          <h2 className="add-track-words">Add Track</h2>
-          <div className="primary-info-words">
-            <div>Primary Info</div>
-            <div>*Required</div>
-          </div>
-          <hr/>
+        <section className="add-track-section">
+          <section className="track-form-header">
+            <h2 className="add-track-words">Add Track</h2>
+            <div className="primary-info-words">
+              <div className="primary-info-words">Primary Info</div>
+              <div className="required-word">* required</div>
+            </div>
+            <hr/>
+          </section>
+          <form className="track-form">
+            <div className="track-form-title-input-container">
+              <input type="text"
+                value={this.state.title}
+                placeholder="Track Title"
+                onChange={this.update('title')}
+                className="track-title-form-input" />
+              </div>
+              <div className="track-form-lyrics-input-container">
+                <ReactQuill theme='bubble'
+                  onChange={this.handleChange}
+                  placeholder="Track Lyrics">
+                  <div className="add-track-lyrics-area"></div>
+                </ReactQuill>
+              </div>
+              <div className="additional-metadata">
+                <div className="additional-metadata-header">Additional Metadata</div>
+                <hr />
+                <div className="track-form-features-input-container">
+                  <input type="text"
+                    value={this.state.features}
+                    placeholder="Track Features"
+                    onChange={this.update('features')}
+                    className="track-form-features-input"/>
+                </div>
+                <div className="track-form-producer-input-container">
+                  <input type="text"
+                    value={this.state.producer}
+                    placeholder="Track Producer"
+                    onChange={this.update('producer')}
+                    className="track-form-producer-input"/>
+                  </div>
+                </div>
+                <button className="submit-button-for-track" onClick={this.handleSubmit}>Submit Track</button>
+          </form>
         </section>
-        <form className="track-form">
-          <div className="track-form-title-input-container">
-            <input type="text"
-              value={this.state.title}
-              placeholder="Track Title"
-              onChange={this.update('title')}
-              className="track-title-form-input" />
-          </div>
-          <div className="track-form-lyrics-input-container">
-            <input type="text"
-              value={this.state.lyrics}
-              placeholder="Track Lyrics"
-              onChange={this.update('lyrics')}
-              className="track-form-lyrics-input"/>
-          </div>
-          <div className="additional-metadata">
-            <div className="additional-metadata-header">Additional Metadata</div>
-            <hr />
-            <div className="track-form-features-input-container">
-              <input type="text"
-                value={this.state.features}
-                placeholder="Track Features"
-                onChange={this.update('features')}
-                className="track-form-features-input"/>
-            </div>
-            <div className="track-form-producer-input-container">
-              <input type="text"
-                value={this.state.producer}
-                placeholder="Track Producer"
-                onChange={this.update('producer')}
-                className="track-form-producer-input"/>
-            </div>
-          </div>
-          <button className="submit-button-for-track" onClick={this.handleSubmit}>Submit Track</button>
-        </form>
       </section>
     )
   } else {
