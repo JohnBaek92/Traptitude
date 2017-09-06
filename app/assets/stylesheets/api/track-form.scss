@@ -26,19 +26,13 @@
   color: black;
   text-transform: none;
   margin-bottom: 1em;
-  width: 24em;
-  margin-left: 0.3em;
+  width: 23.8em;
+  margin-left: 1.1em;
   margin-top: 0.3em;
 }
 
-.track-form-lyrics-input {
-  background: white;
-  color: black;
-  text-transform: none;
-  margin-bottom: 1em;
-  width: 24em;
-  margin-left: 0.3em;
-  margin-top: 0.3em;
+.track-title-form-input::placeholder {
+  font-style: italic;
 }
 
 .track-form-features-input {
@@ -46,8 +40,8 @@
   color: black;
   text-transform: none;
   margin-bottom: 1em;
-  width: 24em;
-  margin-left: 0.3em;
+  width: 23.8em;
+  margin-left: 1.1em;
   margin-top: 0.3em;
 }
 
@@ -56,8 +50,8 @@
   color: black;
   text-transform: none;
   margin-bottom: 1em;
-  width: 24em;
-  margin-left: 0.3em;
+  width: 23.8em;
+  margin-left: 1.1em;
   margin-top: 0.3em;
 }
 
@@ -81,6 +75,7 @@
   width: 25em;
   height: 1.7em;
   margin-left: 2.5em;
+  margin-bottom: 13em;
 }
 
 .track-form-features-input-container {

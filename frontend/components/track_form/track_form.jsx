@@ -71,14 +71,14 @@ class TrackForm extends React.Component {
             <div className="track-form-title-input-container">
               <input type="text"
                 value={this.state.title}
-                placeholder="Track Title"
+                placeholder="Track Title *"
                 onChange={this.update('title')}
                 className="track-title-form-input" />
               </div>
               <div className="track-form-lyrics-input-container">
                 <ReactQuill theme='bubble'
                   onChange={this.handleChange}
-                  placeholder="Track Lyrics">
+                  placeholder="Track Lyrics *">
                   <div className="add-track-lyrics-area"></div>
                 </ReactQuill>
               </div>
