@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170907192938) do
+ActiveRecord::Schema.define(version: 20170907224745) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -46,6 +46,8 @@ ActiveRecord::Schema.define(version: 20170907192938) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  add_index "favorites", ["user_id", "track_id"], name: "index_favorites_on_user_id_and_track_id", unique: true, using: :btree
 
   create_table "tracks", force: :cascade do |t|
     t.integer "album_id", null: false

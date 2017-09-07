@@ -1,3 +1,1 @@
-json.set! :favorite do
-  json.id @favorite.id
-end
+json.id @favorite.id

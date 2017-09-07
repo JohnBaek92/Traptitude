@@ -6,9 +6,9 @@ export const createFavorite = (favorite) => {
   });
 };
 
-export const deleteFavorite = (favorite) => {
+export const deleteFavorite = (id) => {
   return $.ajax({
     method: 'DELETE',
-    url: `/api/favorites/${favorite.id}`
+    url: `/api/favorites/${id}`
   });
 };

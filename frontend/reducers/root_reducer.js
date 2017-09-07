@@ -14,6 +14,7 @@ const RootReducer = combineReducers({
   tracks: TrackReducer,
   annotations: AnnotationReducer,
   annotationModal: AnnotationModalReducer,
+  favorites: FavoriteReducer
 });
 
 export default RootReducer;

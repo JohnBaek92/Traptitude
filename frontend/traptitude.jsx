@@ -2,9 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import configureStore from './store/store';
 import Root from './components/root';
-import { displayAnnotation } from './actions/annotation_actions';
-
-window.displayAnnotation = displayAnnotation;
 
 document.addEventListener('DOMContentLoaded', () => {
   let store;

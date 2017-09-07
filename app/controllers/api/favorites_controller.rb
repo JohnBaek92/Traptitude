@@ -7,7 +7,7 @@ class Api::FavoritesController < ApplicationController
   def create
     @favorite = Favorite.new(favorite_params)
 
-    if @favorite
+    if @favorite.save
       render "/api/favorites/show"
     else
       render json: @favorite.errors.full_messages, status: 422
@@ -19,7 +19,7 @@ class Api::FavoritesController < ApplicationController
 
     if @favorite
       @favorite.destroy
-      render "/api/favorites/index"
+      render "/api/favorites/show"
     else
       render json: ["Favorite does not exist"], status: 404
     end

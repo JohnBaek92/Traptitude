@@ -1,4 +1,5 @@
 import * as APIUtil from '../util/session_api_util';
+import { fetchFavorites } from './favorite_actions';
 
 export const RECEIVE_CURRENT_USER = 'RECEIVE_CURRENT_USER';
 export const RECEIVE_ERRORS = 'RECEIVE_ERRORS';
@@ -29,7 +30,9 @@ export const signUp = user => dispatch => (
 export const signIn = user => dispatch => {
   return (APIUtil.signin(user).then(user => (
     dispatch(receiveCurrentUser(user))
-  ), err => (
+  ).then(user => (
+    dispatch(fetchFavorites(user.favorites))
+  )), err => (
     dispatch(receiveErrors(err.responseJSON))
   )));
 };
