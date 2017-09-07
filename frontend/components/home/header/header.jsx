@@ -31,7 +31,7 @@ class Header extends React.Component {
           <div className="search-bar"></div>
           <Link className="logo" to="/"><img className="logo-picture" src={window.images.logo}/></Link>
           <div className="user-input">
-            <button className="username">   Stats</button>
+            {/* <button className="username">   Stats</button> */}
             <button className="password" onClick={this.logOutClick}>Sign Out</button>
           </div>
         </section>
