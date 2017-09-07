@@ -1,4 +1,4 @@
-json.array! @favorites do |favorite_track|
+json.array! @favorite do |favorite_track|
   json.id favorite_track.id
   json.title favorite_track.title
   json.features favorite_track.features

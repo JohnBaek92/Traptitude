@@ -1,6 +1,6 @@
 class Api::FavoritesController < ApplicationController
   def index
-    @favorites = User.find_by(params[:user_id]).favorites
+    @favorites = User.find_by(params[:user_id]).favorite_tracks
     render "/api/favorites/index"
   end
 
