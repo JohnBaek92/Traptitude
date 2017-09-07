@@ -66,7 +66,7 @@ class Header extends React.Component {
         <Link id="featured-stories-link" to="/#featured-info">Featured Info</Link>
         <Link id="top-tracks" to="/top-tracks">Top Tracks</Link>
         <span id="first-bar">|</span>
-        <Link id="forums" to="/forums">Forums</Link>
+        {/* <Link id="forums" to="/forums">Forums</Link> */}
         <Link id="add-album" to="/add-album">Add Album</Link>
         <span id="second-bar">|</span>
         <a id="linkedin-icon" href="https://www.linkedin.com/in/john-baek-49b6114a/"
