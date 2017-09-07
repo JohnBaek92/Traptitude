@@ -5,6 +5,7 @@ import AlbumReducer from './album_reducer';
 import TrackReducer from './track_reducer';
 import AnnotationReducer from './annotation_reducer';
 import AnnotationModalReducer from './annotation_modal_reducer';
+import FavoriteReducer from './favorite_reducer';
 
 const RootReducer = combineReducers({
   session: SessionReducer,
