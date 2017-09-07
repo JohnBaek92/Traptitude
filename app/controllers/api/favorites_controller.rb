@@ -22,7 +22,7 @@ class Api::FavoritesController < ApplicationController
       render "/api/favorites/index"
     else
       render json: ["Favorite does not exist"], status: 404
-    end  
+    end
   end
 
   def favorite_params
