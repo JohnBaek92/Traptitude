@@ -21,6 +21,15 @@ class User < ActiveRecord::Base
     foreign_key: :user_id,
     class_name: :Annotation
 
+  has_many :favorites,
+    primary_key: :id,
+    foreign_key: :user_id,
+    class_name: :Favorite
+
+  has_many :favorite_tracks,
+    through: :favorites,
+    source: :track
+
   attr_reader :password
 
   after_initialize :ensure_session_token

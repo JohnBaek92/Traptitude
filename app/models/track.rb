@@ -22,4 +22,9 @@ class Track < ActiveRecord::Base
     primary_key: :id,
     foreign_key: :track_id,
     class_name: :Annotation
+
+  has_many :user_favorites,
+    primary_key: :id,
+    foreign_key: :track_id,
+    class_name: :Favorite
 end
