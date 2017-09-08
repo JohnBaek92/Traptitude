@@ -7,7 +7,7 @@ class AlbumShow extends React.Component {
     super(props);
   }
 
-  componentDidMount() {
+  componentWillMount() {
     const albumId = Number(this.props.match.params.id);
     this.props.displaySingleAlbum(albumId);
   }
