@@ -19,7 +19,6 @@ export const deleteFavorite = (favorite) => {
 };
 
 export const fetchFavorites = (favorites) => {
-  debugger
   return {
     type: RECEIVE_FAVORITES,
     favorites

@@ -20,6 +20,7 @@ class TrackShow extends React.Component {
     this.displayAnnotationsAndLyrics = this.displayAnnotationsAndLyrics.bind(this);
     this.getStartLocation = this.getStartLocation.bind(this);
     this.selectLyric = this.selectLyric.bind(this);
+    this.favoritesToggle = this.favoritesToggle.bind(this);
   }
 
   componentDidMount() {
@@ -95,6 +96,20 @@ class TrackShow extends React.Component {
     this.props.openAnnotation(<AnnotationShow anno={anno} location={location}/>)
   }
 
+  favoritesToggle(){
+    if(this.props.session.currentUser) {
+      if(this.props.session.currentUser.favorites) {
+
+      }
+    } else {
+      return(
+        <button onClick={ () => this.props.openModal(<SignInContainer />)}>
+        Sign In To Add To Favorites
+      </button>
+      )
+    }
+  }
+
   displayAnnotationsAndLyrics () {
     let lyrics = [];
     let startIdx = 0;
@@ -148,6 +163,7 @@ class TrackShow extends React.Component {
             </div>
           </section>
           <section className="track-lyrics">
+            { this.favoritesToggle() }
             <div id="lyrics-container">
               <div id="the-lyrics-are-here">
                 <p id="the-lyrics-are-here" onMouseDown={this.getStartLocation} onMouseUp={this.selectLyrics}>
