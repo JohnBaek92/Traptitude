@@ -6967,8 +6967,1219 @@ What's poppin', what's the deal?
 My heart so cold, I need a Icebox
 My heart so cold, I need a Icebox
 Icebox Jewelry
-I need you come and rescue me]"
-}])
+I need you come and rescue me"
+},{
+  album_id: Album.find_by_title("Beautiful Thugger Girls").id,
+  title: "Tomorrow 'Til Infinity",
+  features: "Gunna",
+  producer: "Ben Billions & Rex Kudo",
+  lyrics: "[Intro: Young Thug & Gunna]
+(Hope I see you, tomorrow
+I'm tryna see you, tomorrow)
+Yeah, I'm the black Christian Grey, you know what I'm sayin'?
+(I wanna be you, tomorrow)
+I got fifty shades of baes with me, fifty different bitches
+Yeah!
+I want to see you
+I want to see you
+I'ma see you, tomorrow
+Ooh I'ma see you
+Can't wait to see you
+I'ma see you, tomorrow
+
+[Verse 1: Young Thug]
+I know you ride ride ride
+I got three bitches gonna slide
+I put some Forgis on my ride
+Me and my dawgs headed to the sky
+Cloud nine calling me
+Couple bad bitches, too
+I got money on me
+Listening to Digits, ooh
+Feet up, baby girl, let's live
+PJ money, yeah, Bentley's gonna deliver, mm
+Two racks for my shoes, my Jimmy Choos
+My bitch in Chanel, pity the fool
+I got Chanel on my socks, ayy
+Silk and Versace her crotch, ayy
+Ben and Jerry, 'bouta eat her ice cream
+I came from pillar to post
+Ice in my bag, my back on froze
+Penthouse home, Chicago
+Yeah, that my second home
+I'm in Atlanta, though
+I just got back home
+I got my money now
+Tat my ribs, Hillstone, yeah
+
+[Pre-Chorus: Young Thug & Gunna]
+I just wanna see tomorrow
+I'm tryna see tomorrow
+Let's fly away, long time, ain't late
+I was speed racing
+
+[Chorus: Young Thug & Gunna]
+I know you ride, ride, ride
+But I'm tired of trying
+No matter what, you gotta stay by my side
+Right or wrong, you better ride or die
+'Til infinity, 'til infinity, 'til infinity, 'til infinity
+Ride, ride, ride, 'til infinity
+
+[Verse 2: Young Thug]
+I'm about to buy you your own ride
+I don't need you involved in homicides
+Got this weed from Texas you think you fried
+I'm 'bout to fuck this ho outside
+Horses make my three-wheeler slide
+Actavis gang 'til I (yeah) die
+Shawty was weak, oh-oh, gangbangers
+Shawty was weak, oh-oh
+Hold up, money is the reason I arrived
+Bitch, I keep a knife like Michael Myers
+I was 'bout to stab 'em thirty times like porcupines
+And I got rainbow diamonds on like Mike 'n' Ikes
+
+[Interlude: Young Thug & Gunna]
+Oh, yeah
+Oh, yeah
+Oh, yeah
+Oh, yeah
+
+[Chorus: Young Thug & Gunna]
+I know you ride, ride, ride
+But I'm tired of trying
+No matter what, you gotta stay by my side
+Right or wrong, you better ride or die
+'Til infinity, 'til infinity, 'til infinity, 'til infinity
+Ride, ride, ride, 'til infinity
+
+[Outro: Young Thug]
+I wanna see you, tomorrow
+I'm tryna see you, tomorrow
+I'm tryna see you, tomorrow
+Tomorrow"
+},{ album_id: Album.find_by_title("Beautiful Thugger Girls").id,
+  title: "She Wanna Party",
+  features: "Millie Go Lightly",
+  producer: "Charlie Handsome & Rex Kudo",
+  lyrics: "[Intro: Young Thug & Milie Go Lightly]
+Drinks in the air
+Rich nigga put that Ace of Spades in the air
+Mack a couple bitches, yeah we played everywhere
+Shake it up and pop it, now we sprayed everywhere
+
+[Pre-Chorus: Young Thug & Milie Go Lightly]
+And we be saucin'
+I love her so you know I got her flossin'
+I'm not a dentist but a nigga flossin'
+I'm fresh to death, they say I should be coffin
+
+[Chorus: Young Thug]
+I'm 'bout to turn it up
+She wanna party with a real nigga
+She wanna party with a real nigga
+Shawty wanna party with a real nigga
+She wanna party with a real nigga
+She wanna party, she wanna party
+She wanna party, she wanna party
+
+[Verse 1: Young Thug]
+Twist it like a Tootsie Roll, Roll, Roll
+Like a movie play your fuckin' role, role, role
+Can't believe my circle small like Cheerios
+Hate to say it but it saved another Bankroll
+She tryna pop it all for me
+Lil shawty tryna drop it all for me
+But I see right through her body
+That she just want her money, she not vibin'
+And if you look, that shit is what I'm poppin'
+I left you with a brick, better re-rock it
+Fucked her good, now her heart is in my pocket
+Her heart beatin', mind racin', but we gotta pace it
+Sit on my face, that pussy wet like she fresh out the lake and
+I milked this place, I beat the case, crank up my generator
+I got some X, I got some syrup, I'm smokin' turtle tank and
+
+[Pre-Chorus: Young Thug & Millie Go Lightly]
+And we be saucin'
+I love her so you know I got her flossin'
+I'm not a dentist but a nigga flossin'
+I'm fresh to death, they say I should be coffin
+
+[Chorus: Young Thug]
+I'm 'bout to turn it up
+She wanna party with a real nigga
+She wanna burn it up
+She wanna party with a real nigga
+Do it with a real nigga
+Shawty wanna party with a real nigga
+She wanna party with a real nigga
+Now she wanna party, she wanna party
+She wanna party (shawty wanna party), she wanna party
+
+[Verse 2: Young Thug]
+I wanna know if you gon' roll with me
+I'm tryna see if you gon' stroll with me
+Jeffery tryna roll, ayy
+You should try livin' with a gangster
+Stay down with me if I'm banged up
+I'ma do or die with you no matter what
+No matter what
+Everything about you please me
+Darlin' I'm hungry, I wan' eat that pussy
+From you, away could never push me, darlin'
+I want you for real
+And if you feel like I wasted your time, I reimburse
+Now I don't mind puttin' a little interest on it
+Okay about you, I'm ready to kill
+I'ma come back on it, appeal
+Look at my kick game, reimbursin'
+And I might put a lil interest on it
+
+[Bridge: Young Thug & Milie Go Lightly]
+Drinks in the air
+Rich nigga put that Ace of Spades in the air
+Mack a couple bitches, yeah we played everywhere
+Shake it up and pop it, now we sprayed everywhere
+
+[Pre-Chorus: Young Thug & Milie Go Lightly]
+And we be saucin'
+I love her so you know I got her flossin'
+I'm not a dentist but a nigga flossin'
+I'm fresh to death, they say I should be coffin
+
+[Chorus: Young Thug]
+I'm 'bout to turn it up
+She wanna party with a real nigga
+She wanna burn it up
+She wanna party with a real nigga
+Do it with a real nigga
+Shawty wanna party with a real nigga
+She wanna party with a real nigga
+Now she wanna party, she wanna party
+She wanna party (shawty wanna party), she wanna party"
+},{ album_id: Album.find_by_title("Beautiful Thugger Girls").id,
+    title: "Daddy's Birthday",
+    features: "",
+    producer: "Scott Storch & London On Da Track",
+    lyrics: "[Intro]
+Just a typical day in New York, you know what I'm sayin'
+I'm high as fuck, yeah
+Diamonds on me
+
+[Refrain]
+Dropped out of school and bought myself a chain
+I must've taught myself a million things
+I'm out the trap, I can sell anything
+I wish I would allow myself to hear this old dream
+I pray my daughter never ever experience no train
+I told her Colgate, baby you gotta keep your teeth straight
+
+[Verse 1]
+Bae I'm flexing, ex textin;
+Brand new Rari, Smith and Wesson
+Made myself a balla, want my credit, yuh
+Speaking of credit, bellhop owe me, I got credit, yuh
+Vrrrm, V12, y'all ain't ready at all
+Trapping B's, I'm like \"hurry up and buy\"
+Extra Draco for my pops, 'cause his birthday 4th of July
+I'm so busy it's making me feel like I'm in and out my kids' lives
+
+[Chorus]
+Ooh ooh ooh ooh
+Oooh
+(I’m the father of six babies, you know what I'm sayin?)
+New coupe, new shoes (new coupe, brand new shoes)
+Ooh ooh ooh ooh
+Red bottoms, I'm kicking shit, I'm flossing on you fools
+Cameltoe big, I see the print inside her suit
+Rose gold my jewelry up, and I'm in and out it too
+Fuck 'em by the two and let them travel with a few
+
+[Post-Chorus]
+All this fuckin' money got me switchin' out my boo
+I'm livin' right and I ain't ever read a book
+Chanel vintage, you can put it on the books
+The way I whip that pot, they charging me with cruelty, ayy
+Yeah, don't try to stop me, don't you try to knock me
+You see me got these crackers in the back
+You gotta forgive my heart, I don't mean to stunt like that
+(I don't mean to do that to you, you know what I'm sayin)
+
+[Verse 2]
+Red bottoms on, I'm at Met Gala (I'm bout to spaz)
+Ain't playin', yeah, I want every problem (I'm bout to spaz)
+Two thousand dollars for the newest snake collar
+Vintage swagger, head dollar
+Rock clean, Balmain (c'mon let's get it)
+Vintage swag (vintage hoe), New Celines (just want my glasses)
+Hands dirty, watch me turn them clean
+Lil shawty hot (magic), kerosene
+I'ma kill by any means, favorite sound ching ching
+I spray her face with my genes, I'ma turn up with my team
+New condo on 17th (new condo ho)
+I turn none to something (I turned nothin' to somethin')
+AP match my jeans, Converse is McQueen
+Patek for my queen, gambling for these coins
+Mattress in front of the swing, private jet living (pussy ass nigga)
+I'm on go like beam (I'm on go), new Backwoods no strings
+I put ice in my cup, indoor pool, no chlorine
+
+[Refrain]
+Dropped out of school and bought myself a chain
+I must've taught myself a million things
+I'm out the trap I can sell anything
+I wish I would allow myself to hear this old dream
+I pray my daughter never ever experience no train
+I told her Colgate baby you gotta keep your teeth straight
+
+[Chorus]
+Oooh, ooh
+New coupe, new shoes, ooh
+Red bottoms, I'm kicking shit, yeah I'm flossing on you fools
+Cameltoe big, I see the print inside the suit
+Rose gold my jewelry up, and I'm in and out it too
+Fuck 'em by the two and let them travel with a few"
+},{ album_id: Album.find_by_title("Beautiful Thugger Girls").id,
+  title: "Do U Love Me?",
+  features: "",
+  producer: "London On Da Track",
+  lyrics: "[Intro]
+Ayy
+We got London On Da Track
+Ayy
+
+[Pre-Chorus]
+Rose gold Rolex, who you are
+They don't know, who you are
+Vroom, adiós, I steer a foreign car, ho
+Shawty mine, finesse her right out her barcode
+She get clean like Windex when she want to
+She can read a nigga's texts when she want to
+No tats up on your shirt, she'll never want you
+Hop out the Benz coupe
+
+[Chorus]
+Fuck me, suck me
+L-O-V-E, do you love me?
+In the tubby, poppin' bubbly
+Smokin' musty, I love me
+Love, lo-lo-love, love, love, love me
+Fall deep in love, love, love with me
+Baby girl come suck me and fuck me
+Drankin' bubbly, we get thuggish and rugged
+
+[Refrain]
+Tell 'em who you are
+Don't you know who we are?
+These women know who we are
+Plenty Benjamins on me and my squad
+When you a prince, nigga, your doors ajar
+Actin' like you don't know who we are, but you do
+I know you know who she was
+Twerk it, babe, real slow, move your hips slow
+
+[Verse 1]
+Roll slow, roll slow-motion
+Lick your body while I give you a massage
+Ain't talkin' Nicki, I'm 'bout to have a Ménage à...
+Twat, on my face, all day
+Hold up, got a K, 'bout to spray
+Hold up, bust in her hair, Milky Way
+Hold up, kick shit, Johnny Cage, yeah
+Hold up, she the bomb like a damn grenade
+Hold up, light skate, intake
+Turnt, outta state, in state
+Burnt out bitch, stop, ayy
+You need, yeah, lessons, watch, bae (watch bae)
+You thinkin', yeah, I'm broke, you need to, awake (fool)
+A hundred, racks, three, a week (cash)
+Say no to freaks, I count it, like geeks (yeah)
+It's mounted, with T's
+I ain't gotta remind these hoes
+
+[Refrain]
+They know who we are
+Do you know who we are?
+These women know who we are
+Plenty Benjamins on me and my squad
+When you a prince, nigga, your doors ajar
+Actin' like you don't know who we are, but you do
+I know you know who she was
+Twerk it, babe, real slow-motion
+
+[Verse 2]
+Money green like camouflage
+STD, I'm takin' over your ward
+Homegirl fine, body smooth and all
+Planned on havin' more kids than God, damn
+I turned up her closet, now she look like a Barbie
+Now my drinks are clean, I fill 'em up with that oil
+Bumped my self esteem and now I think I'm adored
+Let me in the door or else I'll come through the walls (walls)
+I haven't lied in days, for you
+Treatin' myself like I got AIDS for you
+I ain't fuck none of these lil' girls like I got AIDS for you, ayy
+I got nine lives, I'll blaze for you
+I'll set it down in days for you
+Shawty pubics, shaved
+Her eyes hazel, too
+
+[Pre-Chorus]
+Rose gold Rolex, who you are
+They don't know, who you are
+Vroom, adiós, I steer a foreign car, ho
+Shawty mine, finesse her right out her barcode
+She get clean like Windex when she want to
+She can read a nigga's texts when she want to
+No tats up on your shirt, she'll never want you
+Hop out the Benz coupe
+
+[Chorus]
+Fuck me, suck me
+L-O-V-E, do you love me?
+In the tubby, poppin' bubbly
+Smokin' musty, I love me
+Love, lo-lo-love, love, love, love me
+Fall deep in love, love, love with me
+Baby girl come suck me and fuck me
+Drankin' bubbly, we get thuggish and rugged"
+},{ album_id: Album.find_by_title("Beautiful Thugger Girls").id,
+  title: "Relationship",
+  features: "Future",
+  producer: "BL$$D & Billboard Hitmakers",
+  lyrics: "[Chorus: Young Thug & Future]
+Shinin' hard 'cause we back up
+Rose gold from your neck up
+You know shit gon' get sloppy, tryna check us
+Pop an X pill like we Malcolm, yeah, hey
+I'm in a relationship with all my bitches, yeah
+I need to cut some of 'em off, I need help
+I got some bad tings, I want her to myself
+Had to take the time to cut 'em off, I need help
+I know how to make the girl go crazy
+When you treat her like your number one baby
+Put my bitches on yachts, we don't do jet-skis
+Put your ice on rocks, they need to help me
+
+[Verse 1: Future & Young Thug]
+No baby, your collection, won't stand for it
+You know you're in relationship with all us
+I get a few texts a day sayin', \"It's all yours\"
+I got a few states on speed dial like good drugs
+Get in your bag, uh, yeah, get in your bag, uh
+Hundred new purse for a brat, uh, comin' down the street, new Jag
+Turbo bitch 'bout to drag, nigga had M's 'fore ass
+Got a brand new bitch, who that?
+Rock the flooded AP, all black
+White toes, give me a tan, cocaine, kilo tan
+All a bitch wanna do is shine, Audemars, pick which kind
+I made you a starter, you went from a dime to a quarter
+I Chico DeBarge it, I'm leaving that loud in apartments, yeah
+Don't play with a sergeant, I'm ready to spoil it
+She suck on my dick, I'm hidin' in the closet
+I'm higher than the moon, three mil' in the room
+You get silver spoon, I bought you some goons
+
+[Chorus: Young Thug & Future]
+Shinin' hard 'cause we back up
+Rose gold from your neck up
+You know shit gon' get sloppy, tryna check us
+Pop an X pill like we Malcolm, yeah, hey
+I'm in a relationship with all my bitches, yeah
+I need to cut some of 'em off, I need help
+I got some bad tings, I want her to myself
+Had to take the time to cut 'em off, I need help
+I know how to make the girls go crazy
+When you treat her like your number one baby
+Put my bitches on yachts, we don't do jet-skis
+Put your ice on rocks, they need to help me
+
+[Verse 2: Future & Young Thug]
+I don't do jet-skis, give me the yacht please
+I made you queen status, check out my lean status
+I'm in a relationship with all my bitches, yeah
+I put my dick inside her mouth before she left
+Yeah, I built relationships with all my bitches, yes
+I put my dick right in her mouth before she act
+I got your bitch in a backpack
+I paid extra for the crib, it got a kid shack
+I paid extra for the crib, it got a game room
+Got a penthouse in the back, it ain't my main room
+Tamika, Jo and Porsche they kept it silent
+That's the only reason I let 'em fly private
+
+[Chorus: Young Thug & Future]
+Shinin' hard 'cause we back up
+Rose gold from your neck up
+You know shit gon' get sloppy, tryna check us
+Pop an X pill like we Malcolm, yeah, hey
+I'm in a relationship with all my bitches, yeah
+I need to cut some of 'em off, I need help
+I got some bad tings, I want her to myself
+Had to take the time to cut 'em off, I need help
+I know how to make the girls go crazy
+When you treat her like your number one baby
+Put my bitches on yachts, we don't do jet-skis
+Put your ice on rocks, they need to help me"
+},{ album_id: Album.find_by_title("Beautiful Thugger Girls").id,
+  title: "You Said",
+  features: "Millie Go Lightly",
+  producer: "Charlie Handsome & Rex Kudo",
+  lyrics: "[Intro: Young Thug]
+So what's up with all that goddamn tough talk you had earlier on the phone, you know what I'm saying? When you said you was gon' goddamn do this and that to me when you saw me?
+(freaky-deeky)
+Where all that at? Oh I thought so
+You got high a level of confidence, you know what I'm saying
+
+[Chorus: Young Thug]
+You said you gon' fuck me to death when you see me
+You said that, you said that
+You said you gon' do me the worst, I remember you right when you said that
+You said you gon' kiss from my neck to my chest to my naval and dick and nuts
+We talked about everything, then you know that we got us some making up
+I lick on that puss on a pill, and I make her stand up like some bunny ears
+I bite on her butt and I suck on her toes and her soul go outta here
+She look at him like he roadkill and I turned 'round her life like I'm Dr. Phil
+Let's get freaky deeky 'round here
+
+[Post-Chorus: Young Thug]
+Say now, ooh, ooh, ooh
+Say now, ooh, ooh, ooh (I want you to say now)
+Say now, ooh, ooh, ooh (I want you to say now)
+Say now (Jeffery!), ooh, ooh, ooh
+
+[Verse 1: Young Thug]
+I got the door unlocked
+And I know right now she'd rather have my dick than a watch (facts)
+And I'm not right about everything, but I got a strong feeling she'll take me a charge if we run into the narcs
+And I'm seeing all your emotions, came a long way from roaches
+Unwrap the birds, get to rolling
+I ain't never needed nothing brodie
+All full pocket, macaroni
+Rose-gold AP like a token
+Bought that bitch a mink, now she cozy
+Rather go to jail, I ain't told 'em
+I get excited when I see you
+I'd rather freeze up and get shy when I see you
+I'm they dream and I’m steady just strappin' our child in the rearview
+If you a cool one you a real one
+Let's go to Africa, to the Pilgrim
+
+[Chorus: Young Thug]
+You said you gon' fuck me to death when you see me
+You said that, you said that
+You said you gon' do me the worst, I remember you right when you said that
+You said you gon' kiss from my neck to my chest to my naval and dick and nuts
+We talked about everything, then you know that we got us some making up
+I lick on that puss on a pill, and I make her stand up like some bunny ears
+I bite on her butt and I suck on her toes and her soul go outta here
+She look at him like he roadkill and I turned 'round her life like I'm Dr. Phil
+Let's get freaky deeky 'round here
+
+[Post-Chorus: Young Thug & Quavo]
+Say now, ooh, ooh, ooh
+Say now, ooh, ooh, ooh (I want you to)
+Say now, ooh, ooh, ooh (I want you to)
+Say now (say now), ooh, ooh, ooh
+
+[Verse 2: Quavo]
+Last week she told me we ain't gon' make it past this day
+We in my house, she wanted me to leave, but where am I gonna stay?
+She hid the keys in the attic, she even tried to hide my Patek
+Please stop being petty, I don't want no more spaghetti
+My side bitch in the driveway, yeah
+Waiting on you to leave, bae, yeah
+You gotta know, yeah, the time changed
+I don't know what's on your mind frame
+But I gotta go and gangbang
+The streets mine so I switch lanes
+You said \"I won't change\" (won't change)
+You said \"I won't change\" (won't change)
+I regret I put you up on game (regret it)
+I regret I told your mama \"Life would change,\" (momma)
+Yeah, out of all the cash, I put on her
+Out of all the bags, I put on her
+And I said I don't brag, I don't boast
+Said you'll pop the tags, I don't want 'em
+And my niggas they been placed the vote
+But you needed to get off the boat
+I can't blame it on me I said \"No\"
+Got her head so big it explode
+
+[Chorus: Young Thug]
+You said you gon' fuck me to death when you see me
+You said that, you said that
+You said you gon' do me the worst, I remember you right when you said that
+You said you gon' kiss from my neck to my chest to my naval and dick and nuts
+We talked about everything, then you know that we got us some making up
+I lick on that puss on a pill, and I make her stand up like some bunny ears
+I bite on her butt and I suck on her toes and her soul go outta here
+She look at him like he roadkill and I turned 'round her life like I'm Dr. Phil
+Let's get freaky deeky 'round here
+
+[Post-Chorus: Young Thug]
+Say now, ooh, ooh, ooh
+Say now, ooh, ooh, ooh (I want you to)
+Say now, ooh, ooh, ooh (I want you to)
+Say now (say now), ooh, ooh, ooh
+
+[Verse 3: Young Thug]
+Let's make our last toast, she gets the last gulp
+I got some Actavis yeah, I want the last dose
+I got a good cash flow, but I don't want the fast dough
+Young Thugger got filthy rich, I came right out the rat-hole (facts)
+I smoked a whole leaf, I'm drinking codeine
+I want some head and knees, I don't want no teeth
+I should've called off, I'm bout to OD
+In her mouth like a golf ball, my two homies
+Lay it up on me, I make her squirt on the couch, eww
+Private party, only broads here
+We pass forty caps, no beers (got the forty capsule)
+Every diamond on me crystal clear
+Molly on me, baby, take it off of me (off of me)
+CAT scan, white stuff on my jeans (lap dance)
+Hit it from the back, loosen up her spleen
+Say you mine, I'ma take it off and raw dog
+
+[Chorus 2: Young Thug]
+You said you gon' fuck me to death when you see me
+You said that, you said that
+You said you gon' do me the worst, I remember you right when you said that
+You said you gon' kiss from my neck to my chest to my naval and dick and nuts
+We talked about everything, then you know that we got us some making up
+I lick on that puss on a pill, and I make her stand up like some bunny ears
+I bite on her butt and I suck on her toes and her soul go outta here
+She look at him like he roadkill and I turned 'round her life like I'm Dr. Phil
+Let's get freaky deaky around here
+
+[Post-Chorus: Young Thug]
+Say now, ooh, ooh, ooh
+Say now, ooh, ooh, ooh (I want you to)
+Say now, ooh, ooh, ooh (I want you to)
+Say now, ooh, ooh, ooh"
+},{ album_id: Album.find_by_title("Beautiful Thugger Girls").id,
+  title: "On Fire",
+  features: "",
+  producer: "Charlie Handsome & Wheezy",
+  lyrics: "[Intro]
+Don't make him mad, he'll put that side bitch on him
+Don't make him mad, he'll put that side bitch on 'em
+You made him mad, he put you right back on there
+You made him mad, he put you right back where you started
+Ain't got no more wristbands―
+(Woah, woah, woah, woah)
+Yeah 'bouta stack up my figures
+(Woah, woah, woah, woah)
+Fuck you thought? Pussy ass nigga
+Hop off a jet (hop off a jet)
+Hop off a jet (hop off a skrrt)
+Hop off a jet (hop on a jet)
+Hop off a jet (hold on!)
+
+[Verse 1]
+Shot that boy so many times he caught on fire
+Every single night I'm spittin' fire
+Tryna count my profit, baby watch 'em
+I'm tired of one, I need to threesome (yeah)
+I need a threesome (threesome, yeah)
+Girls give me the threesome (oh)
+Three, three, three, three, three, three, threesome
+Push your head up and be strong
+Every city I leave I lean on
+Ashes in the Bentley, I'm that raw
+Wooden room in my Japanese home
+Rockin' Guess in my Japanese drawers (rockin' Guess)
+My friends signed my Japanese wall
+Vintage clothes, they kinda cost
+I think you lost, baby girl I think you lost but
+
+[Chorus]
+Don't make him mad, he'll put that side bitch on him
+Don't make him mad, he'll put that side bitch on 'em
+You made him mad, he put you right back on there (Jeff)
+You made him mad, he put you right back where you started
+Ain't got no more wristbands but I got bands on me
+Ain't got no more wristbands but I got bands on me
+I'm in love with my clan, 'bouta tat they names on me
+You can't trick me like I got the answers tatted on me
+And ain't got no scratches on me
+
+[Verse 2]
+I got a ratchet ho and I got this ratchet on me
+My life like dominoes, I can't make mistakes lil' homie
+Ayy, I ain't got no scratches nowhere
+I got good skin like a Covergirl
+You can come and chill with me
+Let's drink a pint of codeine
+Plus when she on syrup she a lil easy
+Breezy Beautiful Thugger Girls with me
+Enjoy the wealth until you're gone
+Pillsbury Doughboy on strong
+Wearing the seat belt just 'cause my son
+I put a puddle on the neck of my son
+I got some Act, I got some red in my tummy
+I want some velvet on my Maybach in a month
+I got the Benz, still ain't traded in or nothin'
+I got like twenty cars, baby pick one
+
+[Chorus]
+Don't make him mad, he'll put that side bitch on him
+Don't make him mad, he'll put that side bitch on 'em
+You made him mad, he put you right back on there
+You made him mad, he put you right back where you started
+Ain't got no more wristbands but I got bands on me
+Ain't got no more wristbands but I got bands on me
+I'm in love with my clan, 'bouta tat they names on me
+You can't trick me like I got the answers tatted on me
+And ain't got no scratches on me
+
+[Verse 3]
+Got bloody, murder on my boots, mm
+You kick 'em, that bitch the swoop, mm
+How dare you, I kick ya ruler (hrrah, mm)
+My chains, I'm Rick the Ruler, mm
+That's foreign, ain't old school, mm
+We killin', ain't tryna sue you, mm
+Came a long way from ramen noodles, mm
+2017 Porshes zoom, mm
+I see you eatin' girl, you full, mhm
+Got Molly in my Red Bull, ah-huh
+I'm with the dogs, and yeah we cruel, uh-huh
+Everything you do be fire like you
+
+[Intro]
+Don't make him mad, he'll put that side bitch on him
+Don't make him mad, he'll put that side bitch on 'em
+You made him mad, he put you right back on there
+You made him mad, he put you right back where you started
+Ain't got no more wristbands―
+(Woah, woah, woah, woah)
+Yeah 'bouta suck on my figures
+(Woah, woah, woah, woah)
+Fuck you thought? Pussy ass nigga
+Hop off a jet (hop off a jet)
+Hop off a jet (hop off a skrrt)
+Hop off a jet (hop on a jet)
+Hop off a jet (hold on!)"
+},{ album_id: Album.find_by_title("Beautiful Thugger Girls").id,
+  title: "Get High",
+  features: "Lil Durk & Snoop Dogg",
+  producer: "Young Chop",
+  lyrics: "[Intro: Snoop Dogg]
+Ay yo nephew
+I think it's time to put some of that real sticky-icky-icky in the motherfuckin' air
+But in a Backwood, ya dig?
+
+[Chorus: Young Thug]
+I wanna get high, yeah
+'Bouta go call my go-to guy, yeah
+Got no Backwoods, fly yeah
+I'm 'bout to break one down with my supplies, yeah
+Roll up some gas, I'm not talkin' a car
+Shawty she bad, fuck 'round take her to the stars
+Brand new dash, I got brand new cash
+Brand new chick, got her brand new ass
+
+[Verse 1: Young Thug]
+Give the password, psych
+'Bout to drink a whole lot of syrup, aight
+But the Bentley coupe missing, the stash on the curb
+Watch the city go missing, the young nigga ran off with lil biddy birds
+Fuck you talkin', bitch you ran off on 'em
+How these lil handcuffs and you cops can't cuff me
+In the back of the cab, this ho sucking dick from the front seat
+This her aftermath, like I got 50 Cent on me (straight stacks)
+Trap spot's like a store
+Nigga got a couple choppers on the floor
+Watch that door (watch that door)
+Watch that door (you gotta watch that door)
+Watch that door
+I roll up two point fives
+Happy four twenty, roll up two point fives
+Way too stoned, don't remember these guys
+Hold up, so high I'ma risk my life, ain't even tryna go to these skies
+Hold up strollers
+I want the whole cut
+I make a slut slut
+I eat it cold cut
+Hair getting longer
+Weed getting stronger
+'Bout to strong arm her
+'Bout to go and bone girl
+She got a cameltoe, I call her Marlboro
+I take you from the stars, take you to my world
+But she didn't get a chance to get my number
+She missed out on llama, she missed out on me and my mama
+
+[Chorus: Young Thug]
+I wanna get high, yeah
+'Bouta go call my go-to guy, yeah
+Got no Backwoods, fly yeah
+I'm 'bout to break one down with my supplies, yeah
+Roll up some gas, I'm not talkin' a car
+Shawty she bad, fuck 'round take her to the stars
+Brand new dash, I got new cash
+Brand new chick, got her brand new ass
+
+[Verse 2: Snoop Dogg]
+With a lot of old money
+Everybody want somethin' from me
+Got to keep my hands on the steering wheel
+'Cause I foot the bill and I shoot to kill
+And I slide around in that Snoop DeVille
+And my gas tank is on full
+Stack goods, them Backwoods
+We cock back and we pull
+Bubblegum, cookies, OG, and KK
+We like Craig and Dae Dae, who gives a fuck what they say?
+I be out here gettin' it, gotta get it 'cause I got it on
+I'm the same nigga that you bitch niggas plotted on
+It ain't as easy as I make it look
+See what I'm sayin', I ain't playin', nigga take a look
+We on that G shit, nigga we lit, and I'm seasick for real
+Thugger Thug, what it does, let's get this motherfuckin' money cuz
+I mean that new money, that blue money with new faces
+Them new cases and new bases and new aces
+Florida-anapolis, ain't no stoppin' us
+Power preaches patience
+Balling in two places
+Exchanges, smoke faces
+
+[Verse 3: Lil Durk]
+Count this money on a PJ in my PJs
+Goin' fast, get in tussles on the E-way
+Smoking on that OG
+I flooded my AP, got me a Rollie
+I got a bad bitch and I call her dopey
+And her head dope
+And she suck me off the perky, keep her hands off
+I don't fuck with vapors but I'm high-igh-igh
+I got a bad bitch, I know she bi-i-i-i-i
+
+[Chorus: Young Thug]
+I wanna get high, yeah
+'Bouta go call my go-to guy, yeah
+Got no Backwoods, fly yeah
+I'm 'bout to break one down with my supplies, yeah
+Roll up some gas, I'm not talkin' a car
+Shawty she bad, fuck 'round take her to the stars
+Brand new dash, I got new cash
+Brand new chick, got her brand new ass
+
+[Outro: Snoop Dogg]
+See man, a lot of you niggas think you can smoke with us
+But umm
+This shit is a marathon man
+This ain't no motherfuckin' umm, hundred yard dash
+Man step back
+You ain't in our league
+Thugger Thug, Doggy Dogg
+Nephew we on
+We out"
+},{ album_id: Album.find_by_title("Beautiful Thugger Girls").id,
+  title: "Feel It",
+  features: "",
+  producer: "Wheezy",
+  lyrics: "[Intro]
+Wheezy
+
+[Verse 1]
+I want that pussy in a Wraith
+I'ma make sure lil' mama feel it
+Every eyeball that look at me, she wanna kill it (on Slime)
+We make love, it be hot just like a skillet (woo, woo)
+I don't wanna buy her love, I wanna build it
+Build that bitch up from the ground, never want tear that bitch down
+Yeah, you know that this dick ain't no clown
+You know this dick make you make sounds (swear, yeah)
+I fuck that bitch good, I don't tease her
+Nigga, that why she not leavin' (what?)
+And you know that I smoke on that kush, no Khalifa
+And I do it for my people (I swear)
+Yeah, I never ever met a girl like you (what?)
+I'm lovin' every single curve about you
+Ooh, you know I would smoke the whole world, 'bout you
+Put on my suit, go get my boots, I'll go to jail 'bout you (let's go)
+You know who you with
+Lil' baby stop playin', darlin', you know who you with
+You know who you with
+Man I'm so for real
+I copped you a coupe baby, I'ma chauffeur it (skrrt, skrrt)
+Man I'm so for real these niggas be talkin', we bust it so for real (for real)
+I'm so geeked up on your lovin' I don't need no mollies, so for real (for real)
+Behind closed doors it gets drastic
+Pussy wet, I done worked magic
+Yeah, I am the truth so don't answer
+Yeah, I shoot our vids and they plastic
+Yeah, I only call lil' mama baby when she say daddy (and what?)
+
+[Chorus]
+If that's your man, you better hold him down
+Murder she wrote
+She held my little pack, she was wit' it
+And she was popular way before me
+Now that I'm popular, I'ma still be the old me (yeah)
+I swear to God she wanna feel it (yeah)
+When I do wrong, bae, make me feel it (yeah)
+I wanna hit it when I feel it
+Yeah, yeah
+
+[Verse 2]
+Make me feel it, make me feel it
+Make me feel it, make me feel it
+Oh, I wan' feel it, I wan' feel it
+I wan' feel it, I wan' feel it
+Baby, I'll give you head, give me ceilings
+Come here bae, I'm appealin'
+I'm locked down, all metal
+Horseshoe, True Religion
+I'm dabbin', I'm dabbin'
+I'll hop in your car, and I'll smash it, I'll smash it
+I'm buyin' gold Rollies, yeah I'm Trinidad-in'
+They look like they don't wanna fuck, but they actin'
+I'm pourin' up purple, that purple, yeah, Actavis (lean, lean, lean)
+And I think I'm tough, you look tough, so let's clash it (let's clash, let's clash)
+War ready, I'm goin' steady
+I fuck with Keisha, not the one from Belly
+I wanna fuck and not talk and I said it
+I want that cat like a leopard
+Let's go to Germany, no Shepherd
+She don't need no hand, I'ma help her
+She barely keep it so I kept her
+Watch me tell her
+
+[Chorus]
+If that's your man, you better hold him down
+Murder she wrote
+She held my little pack, she was wit' it
+And she was popular way before me
+Now that I'm popular, I'ma still be the old me
+Yeah, I swear to God she wanna feel it
+Yeah, when I do wrong, bae, make me feel it
+Yeah, I wanna hit it when I feel it
+Yeah, yeah
+Yeah, I swear to God she wanna feel it
+Yeah, when I do wrong, bae, make me feel it
+Yeah, I wanna hit it when I feel it
+Yeah, yeah"
+},{ album_id: Album.find_by_title("Beautiful Thugger Girls").id,
+  title: "Me Or Us",
+  features: "",
+  producer: "Post Malone, Charlie Handsome & Rex Kudo",
+  lyrics: "[Intro]
+...text anymore... so what're you recording?
+It's a new song, I'ma let you hear a little bit
+Play it
+
+[Refrain]
+Well this is why-a-why-a-why
+Well this is why-a-why-a-why
+Well this is why-a-why-a-why
+
+[Chorus]
+Who you loyal to? Me or us?
+Who you trust the most? Me or us?
+Who you wanna fuck every night? Me or us?
+Who you wanna take on your flight? Me or us?
+Ow!
+
+[Verse]
+You the one that said you were doin' it
+And you said you were doin' it, you're doin' it, you're doin' it
+You say that what you're doin', you're doin', you're doin'
+You told me that what, what you're doin', you're doin', you're doin'
+What you do?
+If your brother left you, what would you do?
+If them niggas came for you, you better pursue (watch out)
+I just spent 10 racks on a dog from Germany, no Purdue
+Oops, I meant Dupree, Jewelry sitting on a/c
+Yeah, yeah, yeah
+I wanna know, tell me lil' baby, I wanna know
+I wanna know
+I got the show, fuck my show, be my show (what)
+I got them loafs, I'm with Metro, he got some more (yeah)
+I don't gotta talk, look at my jewelry, it can say more, hey
+You smoke that kushy, man I'm so goody, I want some cookies
+Fuck on your daughter, fuck on my brother, now she gon' diss you
+I got them racks, I was just buyin', you was just lookin'
+I bought her diamonds and she just smilin', she think she's tooken
+But, this for the love of my fans
+I'm smokin' pot while in Japan
+Blacker the berry, drink my cran
+Bae you dig it and I'm the sand (dig)
+
+Humming
+
+[Refrain]
+Well this is why-a-why-a-why
+Well this is why-a-why-a-why
+Well this is why-a-why-a-why"
+},{ album_id: Album.find_by_title("Beautiful Thugger Girls").id,
+  title: "Oh Yeah",
+  features: "",
+  producer: "Wheezy",
+  lyrics: "[Intro]
+I was riding on a bike
+On a very late night
+She give me chills, I'm for real, hey!
+I'm the one with soul, and I know your role
+A real one for sure (for sure)
+I won't fill your coke, I won't fill lipo
+I won't no, no, no
+
+[Chorus]
+Oh yeah yeah, no, no
+Oh yeah yeah, oh
+Oh yeah yeah, oh
+Look at that stare right there, that stare right there
+That stare right there yeah, yeah
+Oh yeah yeah yeah, oh yeah yeah yeah, oh yeah yeah yeah
+Oh yeah yeah yeah, oh yeah yeah yeah, oh yeah yeah yeah
+
+[Verse 1]
+If I stunt on them niggas you don't
+I'll walk that street (walk that street)
+Next to my bike (yeah)
+Child on the front
+Child on the bike like we livin' overseas
+I had a dream these niggas stood over me (and what?)
+I had a bad bitch and she ate it off a cake (bitch you geeked)
+Drunk off your love and I just stood by the sink (blehh)
+Look in these eyes, they disguise you to me (what?)
+I just popped like rubber bands on it
+Her booty fly like LA, I just land on it
+Yeah, top notch saran on it
+Yeah, baby tell me where we stand
+Her booty big as a sedan, I'm like
+
+[Chorus]
+Oh yeah yeah yeah, oh yeah yeah yeah, oh yeah yeah yeah
+Look at that stare right there, that stare right there
+That stand stare there yeah, yeah (look at it)
+Oh yeah yeah yeah, oh yeah yeah yeah, oh yeah yeah yeah
+Oh yeah yeah yeah, oh yeah yeah yeah, oh yeah yeah yeah
+
+[Verse 2]
+Now I be cruisin' to Lil Uzi
+Talking shit so pass the toothpaste
+Leave that to 'dem, ain't nothin' to do with it
+I want head like a dinner date, yeah
+I remember you popped your first bottle (I remember)
+I remember I had my first toddler (what?)
+Nothin' changed, I remember I had my third toddler (and what?)
+Yeah lil Wanda, she was my syrup partner (lean)
+Free lil Unfunk he got an 'erc doctor
+I ranned off on some of my cursed doctors
+Dropped the racks right on 'em like a girl got 'em
+I'm just in it, bae this your world, yeah yeah
+And if you like 'em, then I love 'em, they deserve partners
+You left a bag for me to see–e
+You left a bag and now you hurt me
+I only helped you pack your bag because you irk me
+Do it hurt when you gone? I'm like
+
+[Chorus]
+Oh yeah yeah yeah, oh yeah yeah yeah, oh yeah yeah yeah
+Look at that stare right there, that stare right there
+That stare right there yeah, yeah
+Oh yeah yeah yeah, oh yeah yeah yeah, oh yeah yeah yeah
+Oh yeah yeah yeah, oh yeah yeah yeah, oh yeah yeah yeah
+
+[Verse 3]
+Fuck 'em all and fuck what they thinkin'
+First it wet then it multiply yeah
+You still piped, you ain't take it down yeah
+Mekhi Phifer, it's goin' down, yeah yeah
+Bae you know that it's goin' down
+I'm they ticket, they hold me down
+And I'm so in love with the town
+Much respect when you come around
+I was riding on a bike
+On a very late night
+She give me chills, I'm for real"
+},{ album_id: Album.find_by_title("Beautiful Thugger Girls").id,
+  title: "For Y'all",
+  features: "Jacquees",
+  producer: "Billboard Hitmakers",
+  lyrics: "[Verse 1: Young Thug]
+Ahem, I said, you don't wanna walk a mile in my jeans
+Oh no, no
+I get that green asparagus, bust it down with the team
+And we go shopping all day
+Whatever, won't you cop it all day
+Need like forty more credentials for the ladies
+All that hatred got 'em sittin' outside for ages
+'90s baby, feel like I been gettin' it since the '80s
+
+[Chorus: Young Thug]
+Make sure everybody flossing, babe I'm saucy
+My Hublot blue when I'm making plays on Slauson
+Ayy, I'm makin' big ol' plays
+Stackin' that Frito-Lay, just for my baby
+
+[Verse 2: Young Thug]
+And I got racks on racks on racks, I'm goin' crazy
+Flippin' these packs, these packs, bust it down, buy a whip, Miss Daisy
+Bust it down good, then give the shake to a J, ayy
+Not T at all, we don't play it
+I didn't write this song, I just went right in
+I dropped the 'Vette off, it came back racin'
+She down with me, gotta go'n face it
+She sucked me to sleep, I can't replace it
+Creepin', man stop, never get over me
+Used me for steppin' stones, just know you owe me
+Everything Gwaluh, he ain't get no leak
+I fuck around smoke your partner, on your lil ho street
+
+[Pre-Chorus: Young Thug]
+Pussy never not wet, never got you upset
+Patty cake when that check hit
+For the fam it's Russian roulettes
+On the private jet countin' digits
+Red light, I'm drinkin' red
+Take care of everybody 'round me
+And I live my life the rest
+And I never forget to
+
+[Chorus: Young Thug]
+Make sure everybody flossing, babe I'm saucy
+My Hublot blue when I'm making plays on Slauson
+Ayy, I'm makin' big ol' plays
+Stackin' that Frito-Lay, just for my baby
+
+[Verse 3: Young Thug]
+I did everything for y'all to ball
+Tell y'all risked it all to see a smile on y'all
+I risked my future goals for all y'all
+I risked my life she told me take that condom off and go raw
+She perfect in my eyes, she know when I act modest
+Girl version of me, man this just works for me
+She, she genius, she my idol, believe
+Yah, and y'all need any sneakin' she gon' peep it
+I want pics from that bitch, she smokin' cigarettes
+I got wrong just for my daughter no puttin' back
+Screamin' rest in peace to my partner off of Old Nat
+(Rest in peace Troupe, on god)
+
+[Pre-Chorus: Young Thug]
+Pussy never not wet, never got you upset
+Patty cake when that check hit
+For the fam it's Russian roulettes
+On the private jet countin' benji's
+Red light, I'm drinkin' red
+Take care of everybody 'round me
+And I live my life at risk
+And I never forget to
+
+[Chorus: Young Thug]
+Make sure everybody flossing, babe I'm saucy
+My Hublot blue when I'm making plays on Slauson
+Ayy, I'm makin' big ol' plays
+Stackin' that Frito-Lay, just for my baby
+
+[Outro: Jacquees]
+My baby
+That's my baby
+Do anything for my baby
+Go crazy for my baby, yeah"
+},{ album_id: Album.find_by_title("Beautiful Thugger Girls").id,
+  title: "Take Care",
+  features: "",
+  producer: "Judge Beats",
+  lyrics: "[Intro]
+Better day, better day
+See better days, ayy
+Yeah!
+
+[Chorus]
+A hood girl with a missin' tail light
+You got me stopping at the green light, light yeah
+I'll set you good, I'm off a bean right
+And I know you want a savage to give you a ring right (so good!)
+Sexin' on drugs, oh yeah, yeah
+Leave a little money on the counter, woah woah
+You remind me of Erykah Badu, you're on go
+Thinkin' 'bout masturbating to your nudes, yeah, yeah
+Take care
+Take care, all right
+Yeah she fire right by
+Yeah I'm gon' sleep with you every night, wait
+Yeah yeah
+
+[Interlude]
+Supposed to win
+I'm gon' pose for you
+We supposed to lose
+Yeah 'posed to
+
+[Verse 1]
+Maison Margiellas, they ain't come with no strings and the jeans Rockafeller
+Wraith umbrella for the hoes in the club when I throw my cheddar
+She got Chanel mailbag, I'ma gon' letter, I'ma gon' letter
+Every day I say "Free Yak", lifetime rebel, do it for the fellas
+I don't want that bitch annoy me
+Get on that dick and she rode me
+I fuck her hard like she owin' me
+Put in this dick now she done with me
+My prices cheaper than Dollar Tree
+I mastered math like white collars, B
+Open your mouth like you yawning
+Double cup featurin' Barney
+I'm with the dogs and we barking
+I'ma take off like a Martian
+Fuck her and leave her my marking
+Bust on that ho, I'm just marking
+Look at these niggas, they markers
+Ready for war like a Spartan
+You can't block me like I'm Marshawn
+My bro got a sound like a marker
+
+[Chorus]
+A hood girl with a missin' tail light
+You got me stopping at the green light, light yeah
+I'll set you good, I'm off a bean right
+And I know you want a savage to give you a ring right
+Take care
+Sexin' on drugs, oh yeah, yeah
+Leave a little money on the counter, woah woah
+You remind me of Erykah Badu, you're on go
+Thinkin' 'bout masturbating to your nudes, yeah yeah
+Take care
+Take care, all right
+Yeah she fire right by
+Yeah I'm gon' sleep with you every night, wait
+
+[Verse 2]
+Bill Gates, I'm your stepson
+I'm so proud to share your genes on your backbone
+Thank you god, 2017 new G-Wagon
+I play ring around the rosey with my stepson (oh shit, get 'em)
+Purple, purple potion
+Nigga ain't braggin' or boastin'
+Ten rack tags and I'm ghostin'
+All white Porsche like lotion
+Everybody checkin' my motion
+AP's, Rollies, and Pateks
+Broke nigga stop that madness
+And you hoes need to stop that scrambling
+Living two minutes from bando
+Trip on these hoes, make 'em panic
+I did 'em wrong and I meant it
+New Derrick Rose and I'm winning
+About these fuckboys, I'm relentless
+I'm tryna put my nut in you really
+I'm tryna put my butt in some skinnies
+I'm charging my bitch a new Bentley, ayy
+
+[Chorus]
+A hood girl with a missin' tail light
+You got me stopping at the green light, light yeah
+I'll set you good, I'm off a bean right
+And I know you want a savage to give you a ring right
+Take Care"
+})
 
 annotations = Annotation.create([{
   user_id: User.find_by_username("guest").id,
