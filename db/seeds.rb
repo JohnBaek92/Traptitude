@@ -8118,7 +8118,7 @@ Yeah 'posed to
 Maison Margiellas, they ain't come with no strings and the jeans Rockafeller
 Wraith umbrella for the hoes in the club when I throw my cheddar
 She got Chanel mailbag, I'ma gon' letter, I'ma gon' letter
-Every day I say "Free Yak", lifetime rebel, do it for the fellas
+Every day I say \"Free Yak\", lifetime rebel, do it for the fellas
 I don't want that bitch annoy me
 Get on that dick and she rode me
 I fuck her hard like she owin' me
@@ -8179,7 +8179,7 @@ You got me stopping at the green light, light yeah
 I'll set you good, I'm off a bean right
 And I know you want a savage to give you a ring right
 Take Care"
-})
+}])
 
 annotations = Annotation.create([{
   user_id: User.find_by_username("guest").id,
