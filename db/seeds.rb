@@ -6968,7 +6968,7 @@ My heart so cold, I need a Icebox
 My heart so cold, I need a Icebox
 Icebox Jewelry
 I need you come and rescue me]"
-})
+}])
 
 annotations = Annotation.create([{
   user_id: User.find_by_username("guest").id,

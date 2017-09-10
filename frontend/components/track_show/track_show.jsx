@@ -163,7 +163,6 @@ class TrackShow extends React.Component {
             </div>
           </section>
           <section className="track-lyrics">
-            { this.favoritesToggle() }
             <div id="lyrics-container">
               <div id="the-lyrics-are-here">
                 <p id="the-lyrics-are-here" onMouseDown={this.getStartLocation} onMouseUp={this.selectLyrics}>
