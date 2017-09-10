@@ -15,7 +15,7 @@ const mapStateToProps = ({tracks, albums, annotations, session}, ownProps) => {
   });
   return({
     track: tracks,
-    album: albums[ownProps.match.params.id],
+    album: albums[ownProps.match.params.id - 1],
     annotations: trackAnno,
     session
   });

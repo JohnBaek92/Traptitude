@@ -8,12 +8,12 @@ class AlbumShow extends React.Component {
   }
 
   componentWillMount() {
-    const albumId = Number(this.props.match.params.id);
-    this.props.displaySingleAlbum(albumId);
-  }
+  const albumId = Number(this.props.match.params.id);
+  this.props.displaySingleAlbum(albumId);
+}
 
   renderTracks() {
-    const albumId = Number(this.props.match.params.id);
+    const albumId = Number(this.props.match.params.id - 1);
     const tracks = values(this.props.albums[albumId].tracks);
     const formattedTracks = tracks.map((track, idx) => {
       if(track.features) {
@@ -46,7 +46,7 @@ class AlbumShow extends React.Component {
   }
 
   render() {
-    const albumId = Number(this.props.match.params.id);
+    const albumId = Number(this.props.match.params.id - 1);
     if(this.props.albums[albumId]){
       const album = this.props.albums[albumId];
         return (
