@@ -9,11 +9,6 @@ class AlbumShow extends React.Component {
     this.props.displaySingleAlbum(albumId);
   }
 
-//   componentWillMount() {
-//   const albumId = Number(this.props.match.params.id);
-//   this.props.displaySingleAlbum(albumId);
-// }
-
   renderTracks() {
     const albumId = Number(this.props.match.params.id - 1);
     const tracks = values(this.props.albums[albumId].tracks);
