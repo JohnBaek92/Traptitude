@@ -8522,7 +8522,180 @@ And they gettin' practice on bitches who breaking codes
 Thirty-five hundred, just point and give 'em a name
 They back flipping niggas, that go for rappers the same
 You don't know me, nigga, fuck out my way"
-  })
+},{ album_id: Album.find_by_title("My Name Is My Name").id,
+  title: "40 Acres",
+  features: "The-Dream",
+  producer: "Rico Beats & The-Dream",
+  lyrics: "[Hook: The-Dream]
+Trouble world, trouble child
+Trouble times destroyed my smile
+No change of heart, no change of mind
+You can take what's yours but you gon' leave what's mine
+I'd rather die, than go home
+I'd rather die, than go home
+And I ain't leaving without my 40 acres
+
+[Verse 1: Pusha T]
+Unpolished, unapologetic
+This cocaine cowboy pushed it to the limit
+You thought Tony in that cell would've made us timid
+We found his old cell, bitch, we searchin' through the digits
+Anything Spanish, got me speaking Spanglish
+Money's universal, that's the only language
+The dream ain't die, only some real niggas
+We was born to mothers who couldn't deal with us
+Left by fathers who wouldn't build with us
+I had both mine home, let's keep it real, niggas
+My better half chose the better path, applaud him
+Younger brother me a spoiled child, I fought him
+I heard that the Devil's new playground is boredom
+The California top just falls back like autumn
+And they say I'm on the verge of winning
+I claim victory when Malice on the verge of sinning
+Old habits die hard, that rainy day bag buried in the backyard
+It's heaven for a hustler, no graveyards
+'Cause stand-up niggas don't lie on no floors
+Much rather burn us, ashes to ashes
+Mix us with the powder, sell us to the masses
+We gon' keep it tight, rip it off the plastic
+Now you celebrate, motherfuckers, raise your glasses
+Push...
+
+[Hook: The-Dream]
+Trouble world, trouble child
+Trouble times destroyed my smile
+No change of heart, no change of mind
+You can take what's yours but you gon' leave what's mine
+I'd rather die, than go home
+I'd rather die, than go home
+And I ain't leaving without my 40 acres
+
+[Verse 2: Pusha T]
+Unpolished, unapologetic
+Might have broke a heart or two but gave an honest effort
+My nonchalant attitude is always 'F it'
+Thirty-five years of marriage and my momma left it
+You shouldn't question if you ever stood a chance with him
+The better question is, did you enjoy the dance with him>
+(Yughh!) I'll probably never pull you chair out, bitch
+You know this money grew your hair out, switch
+All that shit I bought you wear out
+Rich, and I'm the only one I care about
+Place none above me, God don't like ugly
+Hate me or love me, only he can judge me
+Unpolished, unapologetic
+Big willie with the blow, niggas, I am legend
+School of hard knock, I attended
+Selling hard rock, fuck who I offended
+I was a goner, punished by karma
+Called him tar baby, now he’s transcending genres
+The 911 came with the ass shots
+A toothless crackhead was the mascot
+The owner of the key to that padlock
+I’m Jordan versus Cavs for the last shot
+I need all mine, reparations
+We growin' poppy seeds on my 40 acres
+Push!
+
+[Hook: The-Dream]
+Trouble world, trouble child
+Trouble times destroyed my smile
+No change of heart, no change of mind
+You can take what's yours but you gon' leave what's mine
+I'd rather die, than go home
+I'd rather die, than go home
+And I ain't leaving without my 40 acres"
+},{  album_id: Album.find_by_title("My Name Is My Name").id,
+  title: "No Regrets",
+  features: "Kevin Cossom & Jeezy",
+  producer: "Beewirks & Hudson Mohawke",
+  lyrics: "[Hook: Kevin Cossom]
+Yeah, I'm on the move, I can-can't look back (No way)
+Screaming, \"No regrets, no regrets at all\"
+Wasting time, I can't get that back
+Uh, so everyday I go hard
+Real nigga and all my niggas real niggas
+Came from making real figures (Too much money)
+Nothing less, no regrets (Let's get it)
+No-no, no regrets, ahhh...
+
+[Verse 1: Pusha T]
+Say hi to the bad guy, say ahhh to the champagne
+Got a call from my jail niggas, said I'm doing my damn thing
+(Woo!) They see I'm doing my damn thing
+Magazines, videos, they ain't missing a damn thing
+Nowadays I sell hope, what you rather I sell dope?
+What I sell is a lifestyle, naked bitches on sailboats
+Foreign cars on a freight train for every nigga they railroad
+Rent-a-cars we road run, money longer than train smoke
+I done been in that same boat, I ain't letting this chain go
+Representing my niggas down 'til they free 'em like Django
+It's the same old, just the same old
+How the game go, where the pain go, where the blame go?
+My mind wanders on a PJ, my momma brought up in the PJs
+In the club sippin' P&J on the same arm as my Piaget (Woo!)
+If I leave today, throw the keys away
+But I'mma live today, I wanna see tomorrow, I wanna lead the way
+
+[Hook: Kevin Cossom]
+Yeah, I'm on the move, I can-can't look back (No way)
+Screaming, \"No regrets, no regrets at all\"
+Wasting time, I can't get that back
+Uh, so everyday I go hard
+Real nigga and all my niggas real niggas
+Came from making real figures (Too much money)
+Nothing less, no regrets (Let's get it)
+No-no, no regrets, ahhh...
+
+[Verse 2: Jeezy]
+Momma had me in the ghetto, I was raised in the slums
+Every hero got theme music, guess I need me some drums
+Bought me a 5 for 50, I bust 'em down, it was jumps
+Trying to be fresh as forces, I swear they white as new ones
+Streets taught us, streets raised us, had it less determined
+Dodging jackers, dodging murders, federal to state pen
+Uncle got power, now I see him in another ten
+We was set up just to lose, Lord know we trying to win
+In the pursuit of this power, this masterpiece to the hour
+You know it's platinum and waterproof, wear this bitch in the shower
+Yeah, we want finer things, plus a plug in the scale
+Yeah, them plates shining like diamond rings at back, can't you tell?
+In the hood, I'm a king, King Arthur to the people
+Except he got his on a Chariot, I got mine in a Regal
+Sport cars, Italian leather, Princess Cut with baguettes
+Law of physics say them 9s weigh more when they wet
+No regrets
+
+[Hook: Kevin Cossom]
+Yeah, I'm on the move, I can-can't look back (No way)
+Screaming, \"No regrets, no regrets at all\"
+Wasting time, I can't get that back
+Uh, so everyday I go hard
+Real nigga and all my niggas real niggas
+Came from making real figures (Too much money)
+Nothing less, no regrets (Let's get it)
+No-no, no regrets, ahhh...
+
+[Verse 3: Pusha T]
+Presidential, I came back, April showers, I rains back
+Jumped ahead like June something, still I'm wheeling that Maybach
+Time forward, my braids back, Tom Ford and my shades black
+Dope boy with a cape on, super-sizing that beige back
+All white like Gotti said, Ye told me I'm outta here
+Mentioned Ye two years ago, yeah, I got that by the square (Woo!)
+And you could buy a pair, twenty or more and we'll fly 'em there
+How you acting like I'm ain't here? D-Boy and I pioneer
+
+[Hook: Kevin Cossom]
+Yeah, I'm on the move, I can-can't look back (No way)
+Screaming, \"No regrets, no regrets at all\"
+Wasting time, I can't get that back
+Uh, so everyday I go hard
+Real nigga and all my niggas real niggas
+Came from making real figures (Too much money)
+Nothing less, no regrets (Let's get it)
+No-no, no regrets, ahhh..."
+})
 
 annotations = Annotation.create([{
   user_id: User.find_by_username("guest").id,
