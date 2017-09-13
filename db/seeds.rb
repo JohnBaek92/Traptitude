@@ -8236,10 +8236,292 @@ Difference between me and Hova
 But I'm King Push, still King Push
 I rap nigga 'bout trap niggas, I don't sing hooks, ah!"
 },{ album_id: Album.find_by_title("My Name Is My Name").id,
-  title: "King Push",
+  title: "Numbers On The Boards",
   features: "",
-  producer: "Sebastian Sartor & Kanye West",
-  lyrics:
+  producer: "88-Keys, DJ Don Cannon & Kanye West",
+  lyrics: "[Verse 1]
+I'm so bossy, bitch, get off me
+It's a different jingle when you hear these car keys
+Your SL's missing an S, nigga
+Your plane's missing a chef
+The common theme, see they both got wings
+If you fly, do it to death
+It's only one God, and it's only one crown
+So it's only one king that can stand on this mound
+King Push, kingpin, overlord
+Coast Guard come a hundred going overboard
+I got money with the best of 'em
+Go blow for blow with any Mexican
+Don't let your side bitches settle in
+Might have to headbutt your Evelyn
+Ballers, I put numbers on the boards
+Hard to get a handle on this double-edged sword
+Whether rapping or I'm rapping to a whore
+Might reach back and relapse to wrapping up this raw
+Givenchy fitting like it's gym clothes
+We really gymstars, I'm like D. Rose
+No D-League, I'm like this close
+'88 Jordan, leaping from the free throw
+
+[Break]
+Ballers, I put numbers on the boards
+Ballers, I put numbers on the boards
+
+[Verse 2]
+(Mothafuckas can't rhyme no more, 'bout crime no more)
+Mix drug and show money, Biggs Burke on tour
+25 bricks, move work like chore
+Hit Delaware twice, needed 25 more
+I see flaw, cracks in your diamond
+CB4 when you rhyme, Simple Simon
+Come and meet the pieman, a must that I flaunt it
+The legend grows legs when it comes back to haunt us
+Ballers, I put numbers on the boards
+Can't a bitch living say I bought her Michael Kors
+Every car driven was decided by the horse
+Keep the sticker in the window 'case you wonder what it cost
+How could you relate when you ain't never been great?
+And rely on rap money to keep food up on your plates, nigga?
+I might sell a brick on my birthday
+36 years of doing dirt like it's Earth Day, God
+
+[Break]
+Ballers, I put numbers on the boards"
+},{ album_id: Album.find_by_title("My Name Is My Name").id,
+  title: "Sweet Serenade",
+  features: "Chris Brown",
+  producer: "Swizz Beatz & Kanye West",
+  lyrics: "[Hook: Chris Brown]
+Come on, let's toast the champagne, this one's for the life
+Did everything you could to be here for the night
+Man it feels good, everything is right
+Energy is strong enough to brighten city lights
+My whole team winning, no vision on quitting
+I'd rather say I did than let them busters say I didn't
+Let 'em talk about it mane, I'm already living
+I risk my life to try everyday to go and get it, get it, get it
+
+[Verse 1: Pusha T]
+Came from the bottom, no one said it would be fair
+Now I'm on this money, lounging like it's a beach chair
+Poppa don't preach, all we do is just reach here
+Raised 'round killers, we just happy to be here
+Spot 'em, got 'em, let your soul pay your dues
+While my hoes doing magic, voodoo Moulin Rouge
+That's a tactic that they use, fuck 'em high then suck 'em dry
+Before you know it, her Q7 is buzzing by
+The queen pin to the king pin redeems him
+The boat comes, the dope drums, my team wins
+Yuugh! This the life that we made
+Gun shots in the dark like a sweet serenade
+
+[Hook: Chris Brown]
+Come on, let's toast the champagne, this one's for the life
+Did everything you could to be here for the night
+Man it feels good, everything is right
+Energy is strong enough to brighten city lights
+My whole team winning, no vision on quitting
+I'd rather say I did than let them busters say I didn't
+Let 'em talk about it mane, I'm already living
+I risk my life to try everyday to go and get it, get it, get it
+
+[Verse 2: Pusha T]
+Supreme ballers, all my niggas got ESPYs
+Triple doubles, both wrist and neck freeze
+Triple doubles, two bricks and tech squeeze
+Triple doubles, two hoes and check please (Wooo!)
+They love me on my Ric Flair shit (Wooo!)
+In that Phantom like I'm Blair Witch (Wooo!)
+Who are you to be compared with? (Wooo!)
+Ain't no niggas that you bled with
+Court cases ran base and road aces
+Lick shots or left bodies with no traces
+Yuugh! This the life that we made
+Gun shots in the dark like a sweet serenade
+
+[Hook: Chris Brown]
+Come on, let's toast the champagne, this one's for the life
+Did everything you could to be here for the night
+Man it feels good, everything is right
+Energy is strong enough to brighten city lights
+My whole team winning, no vision on quitting
+I'd rather say I did than let them busters say I didn't
+Let 'em talk about it mane, I'm already living
+I risk my life to try everyday to go and get it, get it, get it
+
+[Verse 3: Pusha T]
+Look, my ouija board don't never lie to me
+The best rapper living, I know who's alive to me
+Yeah, the competition's all but died to me
+Raah, I make these mothafuckas hide from me
+The Sergio Tacchini life we uphold
+You just posing for them pics so you can upload
+Yuugh! This the life that we made
+Gun shots in the dark like a sweet serenade, nigga
+
+[Hook: Chris Brown]
+Come on, let's toast the champagne, this one's for the life
+Did everything you could to be here for the night
+Man it feels good, everything is right
+Energy is strong enough to brighten city lights
+My whole team winning, no vision on quitting
+I'd rather say I did than let them busters say I didn't
+Let 'em talk about it mane, I'm already living
+I risk my life to try everyday to go and get it, get it, get it"
+},{ album_id: Album.find_by_title("My Name Is My Name").id,
+  title: "Hold On",
+  features: "Rick Ross",
+  producer: "Hudson Mohawke & Kanye West",
+  lyrics: "[Intro]
+*Kanye West harmonizes for 25 seconds*
+
+[Verse 1: Pusha T]
+I sold more dope than I sold records
+You niggas sold records, never sold dope
+So I ain’t hearing none of that street shit
+'Cause in my mind, you motherfuckers sold soap
+Got rich selling hope to the hopeless
+But I’m a thinker, methodic in my motives
+I motivate to put my niggas into motors
+No woman, no child, no witness, no Jehovahs
+Like Scarface but it's God's face in that mirror
+We was made in his image, dialing and it's much clearer
+Scoring from the heights but I wanted mine purer
+Aryan, blonde hair, blue-eyed like the Führer
+The judge and the jury, the jewellery mad froze
+Water colors on my neck, fuck rhyming when you blinding niggas
+We ain't the same color clarity of diamond, nigga
+Nah, I ain't got nothing in common with yous
+Pain in my heart, it's as black as my skin
+They tipping the scale for these crackers to win
+No reading, no writing, made us savage of men
+They praying for jail but I mastered the pen
+Descended from kings, we at it again
+Just hand me the crown, I'm active again
+Everything that it seems, hear my passion again
+Was never my dream, the immaculate win
+
+[Verse 2: Rick Ross]
+I was pissing my shorts, having rich nigga thoughts
+Wish I had a pistol before all the friends I done fought
+Overnight I seen a nigga go get a Carrera
+Two weeks later I had to be that boy pallbearer
+Young king bury me inside a glass casket
+Windex wipe me down for the life after
+Crack dealer living like a hoop star
+Black marble, white walls in my new spot
+Four chains, big studs, a nigga too fly
+Top down, tank top, I think I'm 2Pac
+So I'm labeled the rebel, nigga get on my level
+We were born to be kings, only major league teams
+Chasing my paper, couldn't fathom my wealth
+Built a school in Ethiopia, should enroll in myself
+God body and mind, food for the soul
+When you feeding on hate, you empty, my nigga, it shows
+Follow the codes, ain’t no love for these hoes
+If you slip and you fall I got you, my nigga, hold on
+If you right or you wrong, if you riding, come on
+By the end of this song, can't be hiding for long
+I seen children get slaughtered, niggas' grandmothers assaulted
+Throw a gang sign, dare you do something about it
+Fuck copping them foams, when you copping the home
+Cop a kilo and have them people on top of your home
+
+[Outro: Rick Ross, Pusha T & Together]
+Follow the codes, ain't no love for these hoes
+If you slipping you fall, I got you, my nigga, hold on
+If you right or you wrong, if you riding, come on
+By the end of this song, I got you, my nigga, hold on
+I got you, my nigga, hold on
+I got you, my nigga, hold on
+If you right or you wrong, if you riding, come on
+By the end of this song, I got you, my nigga, hold on
+I got you, my nigga, hold on
+I got you, my nigga, hold on
+I got you, my nigga, hold on
+I got you, my nigga, hold on"
+},{ album_id: Album.find_by_title("My Name Is My Name").id,
+  title: "Suicide",
+  features: "Ab-Liva",
+  producer: "Pharrell Williams",
+  lyrics: "[Intro: Pharrell]
+Yeah... I just ordered one, my nigga
+Yeah...
+
+[Verse 1: Pusha T]
+I’m still a snow mover, blow harder than tuba
+Designated shooters, turn weed to woolers
+Condo in Atlanta, money counters like the NASDAQ
+In that glass back, the motor is the ass crack
+I’m still feeding divas like I feed the meter
+Holy father to 'em, I ain’t talking Jesus neither
+Balance on the scale, I ain’t a Libra either
+I’m just a name and a number with the means to reach ya
+Grim Reaper, him cheaper, hemp chiefer
+His army, MCM on gym sneakers
+You knowin' that hymn better, he been preaching
+You motherfuckers is bloodsuckers, you been leeching
+Been Baller, been Jacob, been dealer
+Been realer, pound sign, been trilla
+All killer, no filler, been iller
+Fraud niggas, you Zoolander, Ben Stiller
+
+[Hook]
+When it comes to shooters, my niggas is trained to go
+And they gettin' practice on bitches who breaking codes
+Thirty-five hundred, just point and give 'em a name
+They back flipping niggas, that go for rappers the same
+You don't know me, nigga, fuck out my way
+
+[Verse 2: Pusha T]
+Between a renter and a homeowner
+Hip Hop Weekly cover and a Rolling Stoner
+Lufthansa I heist, nigga, or that bitch Winona
+Stop comparing me to rappers 'cause they in their moment
+Might have crossed the name brand every blue
+But these brand names to a brand owner isn't new
+Don't make us equal 'cause we shared a bitch or two
+She ain't the angel that you think, she reincarnated too
+I build mine off fed time and dope lines
+You caught steam off headlines and co-signs
+Young niggas cliquing up with my rivals
+Like the Bible don't burn, like these bullets don't spiral
+Like I can't see the scenes that you mirror in your idol
+But a pawn’s only purpose is completely suicidal
+Ooh! Suicide, it's a suicide
+I'm just talking to the world like it's you and I
+
+[Hook]
+When it comes to shooters, my niggas is trained to go
+And they gettin' practice on bitches who breaking codes
+Thirty-five hundred, just point and give 'em a name
+They back flipping niggas, that go for rappers the same
+You don't know me, nigga, fuck out my way
+
+[Verse 3: Ab-Liva]
+Nothing but cash here, this sweater is cashmere
+The roof is a translucent, it's nothing but glass there
+The car is a concept, what's next is my last year
+My future is bright hot, you never can last here
+I'm top five, listen, who hot in the past year?
+Five heartbeats and I'm feeling like Flash here
+'Cause what I captured is the beast unleashed in the pasture
+Story of the sheep and the wolves I unmaster
+Fifty in the liquor, unwrapped 'em
+Unpacked, powder rise and it falls like Sebastian
+Telfair, tailor-made suits hand crafted
+Over Bottega Veneta, high tops unfastened
+S550 drop top is unimaginable
+To my hand drop and then he unattached it
+Practice it, niggam brick, break down, break dance
+Crab walk, back spin, tanner than my black skin
+
+[Hook]
+When it comes to shooters, my niggas is trained to go
+And they gettin' practice on bitches who breaking codes
+Thirty-five hundred, just point and give 'em a name
+They back flipping niggas, that go for rappers the same
+You don't know me, nigga, fuck out my way"
   })
 
 annotations = Annotation.create([{
