@@ -10,7 +10,9 @@
 }
 
 .modal-content {
-  position: relative;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
   z-index: 10000000000000;
   text-align: left;
   width: 45%;
