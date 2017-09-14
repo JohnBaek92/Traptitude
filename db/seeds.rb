@@ -8695,7 +8695,403 @@ Real nigga and all my niggas real niggas
 Came from making real figures (Too much money)
 Nothing less, no regrets (Let's get it)
 No-no, no regrets, ahhh..."
-})
+},{ album_id: Album.find_by_title("My Name Is My Name").id,
+  title: "Let Me Love You",
+  features: "Kelly Rowland",
+  producer: "The-Dream & Glass John",
+  lyrics: "[Hook: Kelly Rowland]
+Boy, you got that six in the morning
+You got that thing that'll make a girl feel high
+Oh, I say boy, you got me lonely
+Just say the words, I'll do anything you want
+Boy, let me love you
+
+[Verse 1: Pusha T]
+Uh, I know that you think I'm the one, but who doesn't?
+It comes with the territory when you buzzin'
+A ball player sold you a dream, ain't do nothing
+A couple rappers under your belt, but who's judging?
+I ain't trying to guide you, hand on Bible
+But Instagram pics show more than side views
+Thirty-dollar nude catsuits is not cute
+And fifty comments on ass is not fluke
+So, no cuffing, no buns in the oven
+If my girl call your phone, she's just bluffin'
+As long as you and I both know we just fuckin'
+If anybody else do ask, we just nothing
+
+[Hook: Kelly Rowland]
+Boy, you got that six in the morning
+You got that thing that'll make a girl feel high
+Oh, I say boy, you got me lonely
+Just say the words, I'll do anything you want
+Boy, let me love you
+
+[Verse 2: Pusha T]
+Hey mama, come fuck with the shotta
+With the Givenchy toppa, shoe Balenciaga
+If you act right, I can match you up proper
+If it's about a dollar thing, big like Poppa
+Introduce your exes to my choppa
+Don't listen to your best friend, she don't matter
+You know she wanna be you in that vehicle
+Riding in see-through V1, V2
+Chanel or Celine, however I see you
+Christians or Chloe, damn, them C's too
+You know I play fair, I'm Daddy Day Care
+I know it ain't cheap for you to lay here
+
+[Hook: Kelly Rowland]
+Boy, you got that six in the morning
+You got that thing that'll make a girl feel high
+Oh, I say boy, you got me lonely
+Just say the words, I'll do anything you want
+Boy, let me love you
+
+[Verse 3: Pusha T]
+Let's get past the nonsense and be honest
+All the ones I sponsored clear my conscience
+Can't commit the crime without accomplice
+We both to blame, let's push the shame behind us
+On the DL, pushin' my brother’s CL
+Meet you at the spot, you had tint on the TL
+It’s only right you shake them phony types
+And embrace the kid, like my bracelets did
+Uh, I’m from the era where the money come fast
+Blow it all 'cause the money don’t last
+All them broke niggas lookin' puppy-dog sad
+She in that new purse, sayin', \"Honey, don’t ask\"
+
+[Hook: Kelly Rowland]
+Boy, you got that six in the morning
+You got that thing that'll make a girl feel high
+Oh, I say boy, you got me lonely
+Just say the words, I'll do anything you want
+Boy, let me love you"
+},{ album_id: Album.find_by_title("My Name Is My Name").id,
+  title: "Who I Am",
+  features: "2 Chainz & Big Sean",
+  producer: "Mano & Kanye West",
+  lyrics: "[Hook: Pusha T]
+Woooh! They said be all you can be
+Woooh! They said be all you can be
+I just wanna buy another Rollie
+I just wanna pop another band
+I just wanna sell dope forever
+I just wanna be who I am
+Woooh! They said be all you can be
+Woooh! They said be all you can be
+I just wanna buy another Rollie
+I just wanna pop another band
+I just wanna sell dope forever
+I just wanna be who I am
+
+[Verse 1: Pusha T]
+They said be all you can be, nigga
+They said be all you can be
+Always knew I could rule the world
+Let's define what my world is
+Knee deep in this dope money
+Damn near where my world ends
+Same block, same rock
+I was thinking 'bout murdering
+I ain't getting my hands dirty
+Let you worry 'bout serving 'em
+
+[Hook: Pusha T]
+Woooh! They said be all you can be, nigga
+Woooh! They said be all you can be, nigga
+I just wanna buy another Rollie
+I just wanna pop another band
+I just wanna sell dope forever
+I just wanna be who I am
+
+[Bridge: Pusha T]
+They said be all you can be, nigga
+They said the truth set you free
+
+[Verse 2: 2 Chainz]
+Entrepreneur, strip club connoisseur
+Hot fudge sundae, pour it on you, hallelujah
+Pour it on you, hallelujah, pour it on you, hallelujah
+And I be on my own dick, ain't that much room for you, ah
+Red, white, blue, I pledge allegiance to the street life
+Even if it's leftovers, I still gotta eat, right?
+Got gas in my peace pipe, pink Sprite
+She P-popping her jeans tight, all day I dream about sex, three stripes
+We the type of crew to get fresh just to sit in the living room
+Look out the window, got a bad bitch in my swimming pool
+Got a bad bitch in my swimming pool
+Got a bad bitch in my swimming pool
+We the type of crew to get fresh just to sit in the living room
+Look out the window, got a bad bitch in my swimming pool
+
+[Bridge: Pusha T]
+They said be all you can be
+
+[Verse 3: Big Sean]
+Pretty girls is my reputation, one on my arm, that's decoration
+Getting to it, no hesitation
+To fuck with me you need a reservation
+To the top escalating, elevating
+Good music legislation, delegatin'
+And I mean that shit like exclamation, exclamation, exclamation
+And I'm going 'til I K.O., eyes closed, I'm OK
+All my bitches know they roll, even when we role-play
+My homie got that nine on him
+All night and all day and all night and all day
+And all night like that shit's his motherfuckin' soulmate
+'Cause no time for hand in hand
+When you got this paper hand in hand-hand
+Bitch, I'm feeling like a grown ass lil' boy, nigga, na-na, na-na, na
+Bitch, I'm feeling like a grown ass lil' boy
+'Cause I still love to get pampered
+But don't get it twisted, watch your step and fuckin' manners
+
+[Bridge: Pusha T]
+They said the truth set you free!
+
+[Hook: Pusha T]
+Woooh! They said be all you can be
+Woooh! They said be all you can be
+I just wanna buy another Rollie
+I just wanna pop another band
+I just wanna sell dope forever
+I just wanna be who I am
+
+[Outro: Pusha T]
+I just wanna be who I am Woooh!
+I just wanna be who I am Woooh!
+Always knew I could rule the world
+Let's define what my world is
+Knee deep in this dope money
+Damn near where my world ends"
+},{ album_id: Album.find_by_title("My Name Is My Name").id,
+  title: "Nosetalgia",
+  features: "Kendrick Lamar",
+  producer: "Nottz & Kanye West",
+  lyrics: "[Verse 1: Pusha T]
+Twenty-plus years of selling Johnson & Johnson
+I started out as a baby-faced monster
+No wonder there's diaper rash on my conscience
+My teething ring was numbed by the nonsense
+Gem Star razor and a dinner plate
+Arm & Hammer and a Mason jar, that's my dinner date
+Then crack the window in the kitchen, let it ventilate
+'Cause I let it sizzle on the stove like a minute steak
+Nigga, I was crack in the school zone
+Two beepers on me, Starter jacket that was two-toned
+Four lockers, four different bitches got their mule on
+Black Ferris Bueller, cutting school with his jewels on
+Couldn't do wrong with a chest full of chains and a arm full of watches
+What I sell for pain in the hood, I'm a doctor
+Zhivago tried to fight the urge like Ivan Drago, if he dies, he dies
+Like Doughboy to Tre, if he rides, he rides
+Throwing punches in his room, if he cries, he cries
+We don't drink away the pain, when a nigga die
+We add a link to the chain, inscribe a nigga name in your flesh
+We playin' on a higher game of chess
+Once you delegate his bills, who gon' fuck his bitch the best?
+A million megapixels of the Pyrex
+Started on the scale digital, my only Timex
+Nigga, this is timeless, simply 'cause it's honest
+Pure as the fumes that be fuckin' with my sinus
+Nigga, this is Simon Says, Simon red
+Blood on your diamonds 'til you dying – dead; yuugh!
+
+[Samples]
+\"You better change what comes out your speaker\"
+\"Dee-dee-dee, dah-dee, dah-dee, dee-dee, dah-dee, day-ah\" (What is it?)
+
+[Verse 2: Kendrick Lamar]
+You wanna see a dead body?
+Instrumentals from my momma's Christmas party
+Troubles on my mind
+I still smell crime, my little brother crying
+Smokers repeatedly buying my Sega Genesis, either that
+Or my auntie was stealing it, hit the pipe and start feeling it
+Ooh, wee, cut me some slack, weed never did that
+This was different, geez, Louise, please help me relax
+Quantum physics could never show you the world I was in
+When I was ten, back when nine ounces had got you ten
+And nine times out of ten, niggas don't pay attention
+And when there's tension in the air, nines come with extensions
+My daddy turned a quarter piece to a four and a half
+Took a L, started selling soap fiends bubble bath
+Broke his nails misusing his pinky to treat his nose
+Shirt buttoned open, taco meat laying on his gold
+I said, \"Daddy, one day, I'mma get you right with 36 zips
+1000 grams of cocaine, then your name will be rich
+Now you can rock it up or sell it soft as leather interior
+Drop some ice cubes in it, Deebo on perimeter\"
+He said, \"Son, how come you think you be my connect?\"
+I said, \"Pops, your ass is washed up, with all due respect\"
+He said, \"Well, nigga, then show me how it all makes sense\"
+Go figure, motherfucker, every verse is a brick, your son dope, nigga
+Now reap what you sowed, nigga (Please reap what you sowed, nigga)
+I was born in '87, my grand daddy a legend
+Now the same shit that y'all was smoking is my profession, let's get it
+
+[Samples]
+\"You better change what comes out your speaker\"
+\"They must be on the dick of who?\""
+},{ album_id: Album.find_by_title("My Name Is My Name").id,
+  title: "Pain",
+  features: "Future",
+  producer: "No I.D. & Kanye West",
+  lyrics: "[Intro: Future]
+I don't never feel pain, cause I done felt too much pain
+Money goin' in the rain, blood flowing through my veins
+I'm just doing my thing, get money, babygirl, gold chains
+I don't never feel pain, cause I done felt too much pain
+Standing in the rain, blood flowing through my veins
+I ain't never did a thing, getting money, rocking chains
+We'll never feel the same, we the thugs in the game
+I don't never feel pain
+
+[Verse 1: Pusha T]
+18 wheeler gorillas
+Black with gold chains, pitch bird like Steelers
+Hines Ward of the crime lords
+Running through this money screaming \"encore\"
+Spending nights with the prime whore
+But that's the bitch that you're blind for
+Celebrating on a whim, nigga
+Pain is Pac above the rim, nigga
+My bitch rock a bigger gem, niggas
+Cause she was there when it was dim, nigga
+She wasn't fucking none of them niggas
+So now we're even like a hem, nigga
+Put your freedom over failure
+Tryna find my Griselda (La Madrina!)
+Might as well, they gon' nail ya
+Momma screaming like Mahalia
+Pain is love and it's war
+Pain is running out of raw
+Pain is finding out you're poor
+As the feds knock at your door
+
+[Hook: Future]
+I dont never feel pain, cause I done felt too much pain
+Been around here, standing in the rain, blood flowing through my veins
+I'm just doing my thing, getting money, rocking tons of gold chains
+I dont never feel pain, cause I done felt too much pain
+I'm just standing in the rain, blood flowing through my veins
+I'm just doing my thing, getting money, rock a hundred gold chains
+Million dollars on one gold ring
+
+[Verse 2: Pusha T]
+Pain is joy when it cries
+It's my smile in disguise
+It's what makes the story chilling
+Spare the women and the children
+Hear the scribbles of the villain (Yugh!)
+This is drug dealer brilliance
+Pyrex on the platter like hot sex
+But my tribe don't quest like love
+Pain in this bitch, with a mask and a glove
+And a team of lawyers to run the train on the judge
+It's no risk without gain
+It's no trust without shame
+It's no us without 'Cain
+Push, my name is my name
+In the kitchen with a cape on, apron
+Tre-eight on, coulda been Trayvon
+But instead I chose Avon
+Powder face like a geisha
+Arm & Hammer for the breakup
+Turn one into two, watch the brick kiss and makeup (Woo!)
+It's a match made in heaven
+All that's missing is the reverend
+All that's missing is a blessing
+I hope God gets the message
+
+[Hook: Future]
+I dont never feel pain, cause I done felt too much pain
+Been around here, standing in the rain, blood flowing through my veins
+I'm just doing my thing, getting money, rocking tons of gold chains
+I dont never feel pain, cause I done felt too much pain
+I'm just standing in the rain, blood flowing through my veins
+I'm just doing my thing, getting money, rock a hundred gold chains
+Million dollars on one gold ring"
+},{ album_id: Album.find_by_title("My Name Is My Name").id,
+  title: "S.N.I.T.C.H.",
+  features: "Pharrell Williams",
+  producer: "The Neptunes",
+  lyrics: "[Hook: Pharrell Williams]
+Sorry nigga, I'm tryna come home
+Sorry nigga, I'm tryna come home
+Well, the walls are talking to me and I know you think I'm wrong
+But sorry nigga, I'm tryna come home, hey!
+
+[Verse 1: Pusha T]
+Now when the phone start to click in, your words start to echo
+Say you got to hang up but the man won't let go
+Oh, my nigga say it ain't so
+Now we speaking on some niggas that he say he ain't know
+We used to steal dirt bikes, dodge raindrops
+So close niggas thought we had the same pops
+Graduated, gettin' money on the same blocks
+But things changed and we ain't end up in the same box
+Hearing whispers, \"it ain't adding up\"
+Giving you the jailhouse talk but you ain't mad enough
+I never thought I'd be the last man standing up
+I never thought I'd had have to question \"Were you man enough?\"
+Long letters how the streets got the best of you
+Telling all your cellies how come I ain't sitting next to you
+Yeah, see I can read between the lines
+So it's awkward when you call and I gotta press 5
+
+[Bridge: Pharrell Williams]
+Sorry nigga, I'm tryna come home
+Sorry nigga, I'm tryna come home
+I think the Feds are looking through me, can't you hear it in my tone?
+So then sorry nigga, I'm tryna come home, hey!
+
+[Verse 2: Pusha T]
+Got me tiptoeing through the conversation on our calls
+Tryna act normal but the writing is on the wall
+It's like I hear you smiling when you heard they hit the wall
+But I just let it ride so I don't be the next to fall
+\"They sayin' Terrion been getting money while I'm gone
+And won't he tryna to holla at my bitch when I was home\"
+\"Nah, he selling cars, it'd be him and Lil Rome\"
+I'm just tryna offset what he was saying on my phone
+Nowadays niggas don't need shovels to bury you
+Pointing fingers like pallbearers how they carry you
+So much for death before dishonor
+Might as well have a robe and gavel like your honor
+I just sit and wonder, play it by the numbers
+When you ride like lightning then you crash like thunder
+Seen your baby mama, she ain't even know if she should speak
+What the fuck is there to say knowing her king's now weak saying...
+
+[Hook]
+Sorry nigga, I'm tryna come home
+Sorry nigga, I'm tryna come home
+Well, the walls are talking to me and I know you think I'm wrong
+But sorry nigga, I'm tryna come home, hey!
+
+[Verse 3: Pusha T]
+Let's talk real niggas, let's speak real, nigga
+How many niggas you knew snitching you ain't killed, nigga?
+Covered his own tracks, he didn't care that
+We had a legacy he killed, I got to wear that
+Every move we ever made is getting stared at
+I bet the man inside his mirror doesn't stare back
+Break your heart when the man you call your brother
+Be the same one that setting in motion all them undercovers
+Called my mom mother, was at my graduation
+When I signed my record deal you was my motivation
+Uh, from great friends now it's no affiliation
+Divided by the time he was facing, once he told me that...
+
+[Hook]
+Sorry nigga, I'm tryna come home
+Sorry nigga, I'm tryna come home
+Well, the walls are talking to me and I know you think I'm wrong
+But sorry nigga, I'm tryna come home, hey!"
+}])
 
 annotations = Annotation.create([{
   user_id: User.find_by_username("guest").id,
