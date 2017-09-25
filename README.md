@@ -4,6 +4,8 @@
 
 [Live]: http://traptitude.com
 
+<img src="app/assets/images/traptitude_home_page.png" style="border: 1px solid black" />
+
 Traptitude is a Genius.com inspired app where users can access and contribute crowd-sourced annotations.
 It utilizes a Ruby on Rails backend with a PostgreSQL database and a front-end built using React.js with a Redux architectural framework.
 
