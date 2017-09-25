@@ -1,4 +1,4 @@
-# traptitude
+# Traptitude
 
 [Traptitude Live][live]
 
