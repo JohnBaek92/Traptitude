@@ -1,1 +1,1 @@
-json.id @favorite.id
+json.id @favorite.track.id

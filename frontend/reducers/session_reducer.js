@@ -4,6 +4,8 @@ import {
   RECEIVE_ERRORS,
   CLEAR_ERRORS
 } from '../actions/session_actions';
+import { RECEIVE_FAVORITE, DELETE_FAVORITE, RECEIVE_FAVORITES } from '../actions/favorite_actions'
+
 
 const nullUser = {
   currentUser: null,
@@ -29,6 +31,9 @@ const SessionReducer = (state = nullUser, action) => {
       return Object.assign(({}, state, {
         errors
       }));
+    case RECEIVE_FAVORITE:
+    debugger
+      return Object.assign({}, state, state.currentUser.favorites.push(action.favorite))
     default:
       return state;
   }

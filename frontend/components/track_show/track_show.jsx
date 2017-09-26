@@ -23,6 +23,8 @@ class TrackShow extends React.Component {
     this.getStartLocation = this.getStartLocation.bind(this);
     this.selectLyric = this.selectLyric.bind(this);
     this.favoritesToggle = this.favoritesToggle.bind(this);
+    this.createFavorite = this.createFavorite.bind(this);
+    this.removeFavorite = this.removeFavorite.bind(this);
   }
 
   componentDidMount() {
@@ -106,16 +108,46 @@ class TrackShow extends React.Component {
 
   favoritesToggle(){
     if(this.props.session.currentUser) {
-      if(this.props.session.currentUser.favorites.includes((Number.))) {
-        return(
+      let trackId = this.props.track.id
+      let renderFavorite = false;
+      // this.props.session.currentUser.favorites.forEach((favorite) => {
+      //   if(favorite.id === trackId) {
+      //     renderFavorite = true;
+      //   } else {
+      //     renderFavorite = false;
+      //   }
+      // })
+      let favorites = this.props.session.currentUser.favorites
+      for(let i = 0; i < favorites.length;i++) {
+        if(favorites[i].id === trackId) {
+          renderFavorite = true;
+          break;
+        } else {
+          renderFavorite = false;
+        }
+      }
 
+      if(renderFavorite === true) {
+        debugger
+        return(
+          <Favorited size={35} onClick={this.removeFavorite} />
         )
       } else {
-        return(
-
+        return (
+          <NotFavorited size={35} onClick={this.createFavorite} />
         )
       }
     }
+  }
+
+  removeFavorite(){
+    this.props.removeFavorite({user_id: this.state.user_id,
+      track_id: this.props.track.id, title: this.props.track.title, features: this.props.track.features, producer: this.props.track.producer, lyrics: this.props.track.lyrics});
+  }
+
+  createFavorite(){
+    this.props.createFavorite({user_id: this.state.user_id,
+      track_id: this.props.track.id, title: this.props.track.title, features: this.props.track.features, producer: this.props.track.producer, lyrics: this.props.track.lyrics});
   }
 
   displayAnnotationsAndLyrics () {
@@ -160,7 +192,7 @@ class TrackShow extends React.Component {
               <div className="track-total-info">
                 <img className="track-profile-photo" src={photo_shown} />
                 <div className="track-info-minus-photo">
-                  <div className="track-show-title">{track.title}</div>
+                  <div className="track-show-title">{track.title} {this.favoritesToggle() }</div>
                   <div className="track-show-artist">{album.musician}</div>
                   <div className="words-produced-by">Produced by
                     <span className="producer">{track.producer}</span></div>

@@ -5,6 +5,7 @@ import { displaySingleAlbum } from '../../actions/album_actions';
 import { closeAnnotation, openAnnotation } from '../../actions/annotation_actions';
 import { values } from 'lodash';
 import { openModal } from '../../actions/modal_actions';
+import { createFavorite, removeFavorite } from '../../actions/favorite_actions';
 
 const mapStateToProps = ({tracks, albums, annotations, session}, ownProps) => {
   let trackAnno = [];
@@ -27,7 +28,9 @@ const mapDispatchToProps = (dispatch) => {
     displaySingleAlbum: (id) =>dispatch(displaySingleAlbum(id)),
     closeAnnotation: () => dispatch(closeAnnotation()),
     openAnnotation: (annoForm) => dispatch(openAnnotation(annoForm)),
-    openModal: (component) => dispatch(openModal(component))
+    openModal: (component) => dispatch(openModal(component)),
+    createFavorite: (favorite) => dispatch(createFavorite(favorite)),
+    removeFavorite: (favorite) => dispatch(removeFavorite(favorite))
   });
 };
 
