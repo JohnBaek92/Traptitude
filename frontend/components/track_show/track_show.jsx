@@ -4,6 +4,8 @@ import { Link } from 'react-router-dom';
 import AnnotationForm from './annotation/annotation_form_container';
 import AnnotationShow from './annotation/annotation_show_container';
 import SignInContainer from '../home/header/user_form/signin_form_container';
+import NotFavorited from 'react-icons/lib/fa/heart-o';
+import Favorited from 'react-icons/lib/fa/heart';
 
 class TrackShow extends React.Component {
   constructor(props) {
@@ -35,6 +37,12 @@ class TrackShow extends React.Component {
       this.setState(Object.assign({}, this.state, {user_id: nextProps.session.currentUser.id}));
     } else {
       this.setState(Object.assign({}, this.state, {user_id: null}));
+    }
+  }
+
+  annotatingLyrics(){
+    if(this.state.startLocation){
+      this.setState(Object.assign({}, this.state, {annotating: true}));
     }
   }
 
@@ -98,15 +106,15 @@ class TrackShow extends React.Component {
 
   favoritesToggle(){
     if(this.props.session.currentUser) {
-      if(this.props.session.currentUser.favorites) {
+      if(this.props.session.currentUser.favorites.includes((Number.))) {
+        return(
 
+        )
+      } else {
+        return(
+
+        )
       }
-    } else {
-      return(
-        <button onClick={ () => this.props.openModal(<SignInContainer />)}>
-        Sign In To Add To Favorites
-      </button>
-      )
     }
   }
 
