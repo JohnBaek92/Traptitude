@@ -1,4 +1,5 @@
 json.array! @favorites.each do |favorite_track|
+  json.favorite_id favorite_track.id
   json.track_id favorite_track.id
   json.title favorite_track.title
   json.features favorite_track.features

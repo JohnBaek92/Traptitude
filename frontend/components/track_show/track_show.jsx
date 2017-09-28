@@ -107,7 +107,6 @@ class TrackShow extends React.Component {
   }
 
   favoritesToggle(){
-    debugger
     if(this.props.session.currentUser) {
       let trackId = this.props.track.id
       let renderFavorite = false;
@@ -117,7 +116,7 @@ class TrackShow extends React.Component {
         debugger
         if(favorites[i].id === trackId) {
           renderFavorite = true;
-          favoriteId = favorites[i].id
+          favoriteId = favorites[i].favorite_id
           break;
         } else {
           renderFavorite = false;
