@@ -34,10 +34,6 @@ class TrackShow extends React.Component {
     this.props.displaySingleAlbum(albumId);
   }
 
-  componentWillReceiveProps(){
-
-  }
-
   annotatingLyrics(){
     if(this.state.startLocation){
       this.setState(Object.assign({}, this.state, {annotating: true}));
@@ -110,7 +106,7 @@ class TrackShow extends React.Component {
       let favoriteId;
       let favorites = this.props.session.currentUser.favorites
       for(let i = 0; i < favorites.length;i++) {
-        if(favorites[i].id === trackId) {
+        if(favorites[i].track_id === trackId) {
           renderFavorite = true;
           favoriteId = favorites[i].favorite_id
           break;
@@ -118,6 +114,7 @@ class TrackShow extends React.Component {
           renderFavorite = false;
         }
       }
+      debugger
       if(renderFavorite === true) {
         return(
           <Favorited size={35} onClick={() => this.removeFavorite(favoriteId)} />
