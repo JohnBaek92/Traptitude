@@ -107,30 +107,25 @@ class TrackShow extends React.Component {
   }
 
   favoritesToggle(){
+    debugger
     if(this.props.session.currentUser) {
       let trackId = this.props.track.id
       let renderFavorite = false;
-      // this.props.session.currentUser.favorites.forEach((favorite) => {
-      //   if(favorite.id === trackId) {
-      //     renderFavorite = true;
-      //   } else {
-      //     renderFavorite = false;
-      //   }
-      // })
+      let favoriteId;
       let favorites = this.props.session.currentUser.favorites
       for(let i = 0; i < favorites.length;i++) {
+        debugger
         if(favorites[i].id === trackId) {
           renderFavorite = true;
+          favoriteId = favorites[i].id
           break;
         } else {
           renderFavorite = false;
         }
       }
-
       if(renderFavorite === true) {
-        debugger
         return(
-          <Favorited size={35} onClick={this.removeFavorite} />
+          <Favorited size={35} onClick={() => this.removeFavorite(favoriteId)} />
         )
       } else {
         return (
@@ -140,9 +135,8 @@ class TrackShow extends React.Component {
     }
   }
 
-  removeFavorite(){
-    this.props.removeFavorite({user_id: this.state.user_id,
-      track_id: this.props.track.id, title: this.props.track.title, features: this.props.track.features, producer: this.props.track.producer, lyrics: this.props.track.lyrics});
+  removeFavorite(favoriteId){
+    this.props.removeFavorite(favoriteId);
   }
 
   createFavorite(){

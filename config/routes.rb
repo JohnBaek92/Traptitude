@@ -7,6 +7,6 @@ Rails.application.routes.draw do
     resources :albums, only: [:index, :show, :create]
     resources :tracks, only: [:show, :create, :index]
     resources :annotations, only: [:show, :create, :destroy, :update, :index]
-    resources :favorites, only: [:index, :create, :destroy]
+    resources :favorites, only: [:index, :create, :destroy, :show]
   end
 end

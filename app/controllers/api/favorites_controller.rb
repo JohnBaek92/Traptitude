@@ -15,8 +15,7 @@ class Api::FavoritesController < ApplicationController
   end
 
   def destroy
-    @favorite = Favorite.find(params[:id])
-
+    @favorite = Favorite.find_by(params[:track_id])
     if @favorite
       @favorite.destroy
       render "/api/favorites/show"

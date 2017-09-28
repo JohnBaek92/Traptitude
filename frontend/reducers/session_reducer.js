@@ -32,8 +32,22 @@ const SessionReducer = (state = nullUser, action) => {
         errors
       }));
     case RECEIVE_FAVORITE:
-    debugger
       return Object.assign({}, state, state.currentUser.favorites.push(action.favorite))
+    case DELETE_FAVORITE:
+      let newState = Object.assign({}, state);
+      let favorites = newState["currentUser"]["favorites"];
+      let favoriteFrontEndID;
+      debugger
+      for(let i = 0; i < favorites.length;i++) {
+        debugger
+        if(action.favorite.track_id === favorites[i].id) {
+          favoriteFrontEndID = i
+        }
+      }
+      debugger
+      delete newState["currentUser"]["favorites"][favoriteFrontEndID];
+      debugger
+      return newState;
     default:
       return state;
   }

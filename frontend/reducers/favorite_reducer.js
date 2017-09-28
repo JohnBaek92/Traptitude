@@ -6,13 +6,6 @@ const _nullFavorite = {};
 const FavoriteReducer = (state = _nullFavorite, action) => {
   Object.freeze(state);
   switch(action.type) {
-    // case RECEIVE_FAVORITE:
-    // debugger
-    //   return Object.assign({}, state, {[action.favorite.id]: action.favorite});
-    // case DELETE_FAVORITE:
-    //   let newState = Object.assign({}, state);
-    //   delete newState[action.favorite.id];
-    //   return newState;
     case RECEIVE_FAVORITES:
       return Object.assign({}, state, action.favorites)
     default:
