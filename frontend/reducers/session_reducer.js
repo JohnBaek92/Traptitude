@@ -37,15 +37,12 @@ const SessionReducer = (state = nullUser, action) => {
       let newState = Object.assign({}, state);
       let favorites = newState["currentUser"]["favorites"];
       let favoriteFrontEndID;
-      debugger
       for(let i = 0; i < favorites.length;i++) {
         if(action.favorite.favorite_id === favorites[i].favorite_id) {
           favoriteFrontEndID = i
         }
       }
-      debugger
       delete newState["currentUser"]["favorites"].splice(favoriteFrontEndID, 1);
-      debugger
       return newState;
     default:
       return state;

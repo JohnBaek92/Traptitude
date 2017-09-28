@@ -34,12 +34,8 @@ class TrackShow extends React.Component {
     this.props.displaySingleAlbum(albumId);
   }
 
-  componentWillReceiveProps(nextProps){
-    if(nextProps.session.currentUser !== null) {
-      this.setState(Object.assign({}, this.state, {user_id: nextProps.session.currentUser.id}));
-    } else {
-      this.setState(Object.assign({}, this.state, {user_id: null}));
-    }
+  componentWillReceiveProps(){
+
   }
 
   annotatingLyrics(){
@@ -49,7 +45,8 @@ class TrackShow extends React.Component {
   }
 
   selectLyrics(e) {
-    if(this.state.user_id !== null) {
+    debugger
+    if(this.props.session.currentUser !== null && this.props.session.currentUser !== undefined) {
       this.props.closeAnnotation();
       let selectedLyrics = document.getSelection().toString();
       let lyrics = document.getSelection();
@@ -113,7 +110,6 @@ class TrackShow extends React.Component {
       let favoriteId;
       let favorites = this.props.session.currentUser.favorites
       for(let i = 0; i < favorites.length;i++) {
-        debugger
         if(favorites[i].id === trackId) {
           renderFavorite = true;
           favoriteId = favorites[i].favorite_id

@@ -3,6 +3,7 @@ import { signOut } from '../../../actions/session_actions';
 import Header from './header';
 import { openModal } from '../../../actions/modal_actions';
 import { clearErrors } from '../../../actions/session_actions';
+import { closeAnnotation } from '../../../actions/annotation_actions';
 
 const mapStateToProps = ({ session }) => {
   return {
@@ -15,7 +16,8 @@ const mapDispatchToProps = (dispatch) => {
   return {
     signOut: () => dispatch(signOut()),
     clearErrors: () => dispatch(clearErrors()),
-    openModal: (component) => dispatch(openModal(component))
+    openModal: (component) => dispatch(openModal(component)),
+    closeAnnotation: () => dispatch(closeAnnotation())
   };
 };
 
