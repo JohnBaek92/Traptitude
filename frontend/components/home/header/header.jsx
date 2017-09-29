@@ -16,7 +16,6 @@ class Header extends React.Component {
 
   logOutClick(e){
     e.preventDefault();
-    debugger
     this.props.closeAnnotation();
     this.props.signOut();
   }
