@@ -7,7 +7,6 @@ export const createFavorite = (favorite) => {
 };
 
 export const deleteFavorite = (id) => {
-  debugger
   return $.ajax({
     method: 'DELETE',
     url: `/api/favorites/${id}`

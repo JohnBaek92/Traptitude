@@ -106,7 +106,6 @@ class TrackShow extends React.Component {
       let favorites = this.props.session.currentUser.favorites
       for(let i = 0; i < favorites.length;i++) {
         if(favorites[i].track_id === trackId) {
-          debugger
           renderFavorite = true;
           // favoriteId = favorites[i].favorite_id
           if (favorites[i].favorite_id) {
@@ -117,13 +116,10 @@ class TrackShow extends React.Component {
             break;
           }
         } else {
-          debugger
           renderFavorite = false;
         }
       }
-      debugger
       if(renderFavorite === true) {
-        debugger
         return(
           <Favorited size={35} onClick={() => this.removeFavorite(favoriteId)} />
         )

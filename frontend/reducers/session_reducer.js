@@ -43,9 +43,7 @@ const SessionReducer = (state = nullUser, action) => {
           favoriteFrontEndID = i
         }
       }
-      debugger
       delete newState["currentUser"]["favorites"].splice(favoriteFrontEndID, 1);
-      debugger
       return newState;
     default:
       return state;
