@@ -20,3 +20,7 @@ Albums can be added through the album form page which can be accessed by clickin
 ### Tracks
 
 Tracks can be added to an album by going to the album's page and clicking the add track link. Tracks require only a title and lyrics to be created but also has inputs for features and producers.
+
+### Favorites
+
+Users are given the ability to add a track to their favorites. Once logged in, an empty heart will appear next to the track's title. Clicking on the heart will cause it to appear full, thus adding the track to the user's favorites. Removing a track from the user's favorites works in a similar fashion.
