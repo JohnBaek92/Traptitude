@@ -23,4 +23,4 @@ Tracks can be added to an album by going to the album's page and clicking the ad
 
 ### Favorites
 
-Users are given the ability to add a track to their favorites. Once logged in, an empty heart will appear next to the track's title. Clicking on the heart will cause it to appear full, thus adding the track to the user's favorites. Removing a track from the user's favorites works in a similar fashion.
+ Users that are logged in are given the ability to add and remove tracks to their favorites. An empty heart will appear next to the track's title in the track show page once successfully logged in. Clicking on the heart will cause it to appear full, thus adding the track to the user's favorites. Removing a track from the user's favorites works in a similar fashion.
