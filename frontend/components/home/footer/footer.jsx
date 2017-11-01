@@ -10,8 +10,8 @@ class Footer extends React.Component {
   render(){
     return(
       <footer className="footer">
-        <section className="top-footer">Inspired by Genius</section>
-        <section className="bottom-footer">Cloned by John Baek</section>
+        <section className="top-footer">Inspired by <a href="https://www.genius.com" target="_blank">Genius</a></section>
+        <section className="bottom-footer">Cloned by <a href="http://www.johnbaek.life" target="_blank">John Baek</a></section>
       </footer>
     )
   }
