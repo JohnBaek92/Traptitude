@@ -64,15 +64,15 @@ class Header extends React.Component {
   navbar() {
     return(
       <navbar className="nav-bar">
-        <Link id="featured-stories-link" to="/#featured-info">Featured Info</Link>
-        <Link id="top-tracks" to="/top-tracks">Top Tracks</Link>
+        <Link id="featured-stories-link" className="hover-link" to="/#featured-info">Featured Info</Link>
+        <Link id="top-tracks" className="hover-link" to="/top-tracks">Top Tracks</Link>
         <span id="first-bar">|</span>
         {/* <Link id="forums" to="/forums">Forums</Link> */}
-        <Link id="add-album" to="/add-album">Add Album</Link>
+        <Link id="add-album" className="hover-link" to="/add-album">Add Album</Link>
         <span id="second-bar">|</span>
-        <a id="linkedin-icon" href="https://www.linkedin.com/in/john-baek-49b6114a/"
+        <a id="linkedin-icon" className="hover-link" href="https://www.linkedin.com/in/john-baek-49b6114a/"
           target="_blank"><LinkedIN size={25} /></a>
-        <a id="github-icon" href="https://github.com/johnbaek92"
+        <a id="github-icon" className="hover-link" href="https://github.com/johnbaek92"
           target="_blank"><Github size={28}  /></a>
       </navbar>
     )
