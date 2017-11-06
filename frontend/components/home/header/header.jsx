@@ -6,6 +6,7 @@ import SignInContainer from './user_form/signin_form_container';
 import SignUpContainer from './user_form/signup_form_container';
 import LinkedIN from 'react-icons/lib/ti/social-linkedin';
 import Github from 'react-icons/lib/ti/social-github';
+import { HashLink as HashLink } from 'react-router-hash-link';
 
 class Header extends React.Component {
   constructor(props){
@@ -64,7 +65,7 @@ class Header extends React.Component {
   navbar() {
     return(
       <navbar className="nav-bar">
-        <Link id="featured-stories-link" className="hover-link" to="/#featured-info">Featured Info</Link>
+        <HashLink id="featured-stories-link" className="hover-link" to="/#featured-info">Featured Info</HashLink>
         <Link id="top-tracks" className="hover-link" to="/top-tracks">Top Tracks</Link>
         <span id="first-bar">|</span>
         {/* <Link id="forums" to="/forums">Forums</Link> */}
