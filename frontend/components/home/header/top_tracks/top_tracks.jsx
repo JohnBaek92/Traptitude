@@ -61,6 +61,7 @@ class TopTracks extends React.Component {
                 <div className="top-ten-info">
                   {renderFeatures()}
                 </div>
+                <div className="space-div"></div>
               </div>
             </Link>
           );
