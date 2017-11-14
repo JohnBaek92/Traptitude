@@ -8,7 +8,7 @@ const SearchReducer = (state = _defaultState, action ) => {
 
   switch(action.type) {
     case RECEIVE_ALBUM_RESULTS:
-      results = Object.assign({}, state)
+      results = Object.assign({}, state);
       results.albums = action.albums;
       return results;
     default:

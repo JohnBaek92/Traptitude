@@ -7,8 +7,9 @@ class SearchBar extends React.Component {
   }
 
   componentWillReceiveProps(nextProps) {
+    debugger
     if (this.props.searchText !== nextProps.searchText) {
-      this.setState({serchText: nextProps.searchText}, this.fetchResults)
+      this.setState({searchText: nextProps.searchText}, this.fetchResults)
     }
   }
 

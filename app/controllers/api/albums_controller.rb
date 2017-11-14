@@ -1,6 +1,10 @@
 class Api::AlbumsController < ApplicationController
   def index
-    @albums = Album.all.limit(10)
+    if params[:searchAlbumData]
+      @albums = Album.where("lower(title) LIKE ?", "%#{params[:searchAlbumData].downcase}%").limit(3)
+    else
+      @albums = Album.all.limit(10)
+    end
     render "/api/albums/index"
   end
 
