@@ -42,7 +42,7 @@ class Header extends React.Component {
       return(
         <section className="top-header">
           <div className="search-bar">
-            <input onChange={this.handleChange()} value={this.state.searchText} className='search-bar' placeholder="Search Traptitude"></input>
+            <input onChange={this.handleChange()} value={this.state.searchText} className='search-bar-input' placeholder="Search Traptitude"></input>
             <SearchBar searchText={this.state.searchText}/>
           </div>
           <Link className="logo" to="/"><img className="logo-picture" src={window.images.logo}/></Link>
@@ -60,7 +60,7 @@ class Header extends React.Component {
       return(
         <header className="top-header">
           <div className="search-bar">
-            <input onChange={this.handleChange()} value={this.state.searchText} className='search-bar' placeholder="Search Traptitude"></input>
+            <input onChange={this.handleChange()} value={this.state.searchText} className='search-bar-input' placeholder="Search Traptitude"></input>
             <SearchBar searchText={this.state.searchText}/>
           </div>
           <Link className="logo" to="/"><img className="logo-picture" src={window.images.logo}/></Link>

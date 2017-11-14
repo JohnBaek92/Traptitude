@@ -16,10 +16,13 @@ class SearchBar extends React.Component {
     this.props.fetchAlbumResults(this.state.searchText);
   }
 
-  searchResults() {
+  searchAlbumResults() {
     const results = this.props.albumResults.map( (album, index) => {
       return(
-        <div key={index}>{album.title}</div>
+        <div key={index}>
+          <div><img src={album.image_url} className="search-album-image" /></div>
+          {album.title}
+        </div>
       )
     });
 
@@ -28,12 +31,14 @@ class SearchBar extends React.Component {
 
   render() {
     const searchDisplayBoolean = (this.props.albumResults.length > 0 && this.state.searchText);
-    const searchDisplayClass = (searchDisplayBoolean ? "search-index" : "search-index hidden");
+    const searchDisplayClass = (searchDisplayBoolean ? "search-results" : "search-results hidden");
 
     return(
       <div className={searchDisplayClass}>
+        <h4 className="search-results-header">Search Results</h4>
+        <hr className="horizontal-bar"/>
         <ul>
-          {this.searchResults()}
+          {this.searchAlbumResults()}
         </ul>
       </div>
     )
