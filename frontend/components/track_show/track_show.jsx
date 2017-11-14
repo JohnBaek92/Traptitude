@@ -73,8 +73,8 @@ class TrackShow extends React.Component {
             currentAnnotation: null, annotating: null})
           }
     } else {
-      this.props.openModal(<SignInContainer />)
-      window.getSelection().removeAllRanges();
+        this.props.openModal(<SignInContainer />)
+        window.getSelection().removeAllRanges();
     }
   }
 
@@ -92,10 +92,12 @@ class TrackShow extends React.Component {
   }
 
   selectLyric(e, anno){
-    e.preventDefault();
-    e.stopPropagation();
-    let location = e.pageY - 100;
-    this.props.openAnnotation(<AnnotationShow anno={anno} location={location}/>)
+    if(this.props.session.currentUser !== null && this.props.session.currentUser !== undefined) {
+      e.preventDefault();
+      e.stopPropagation();
+      let location = e.pageY - 100;
+      this.props.openAnnotation(<AnnotationShow anno={anno} location={location}/>)
+    }
   }
 
   favoritesToggle(){
