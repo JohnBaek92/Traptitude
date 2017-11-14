@@ -19,9 +19,12 @@ class SearchBar extends React.Component {
   searchAlbumResults() {
     const results = this.props.albumResults.map( (album, index) => {
       return(
-        <div key={index}>
-          <div><img src={album.image_url} className="search-album-image" /></div>
-          {album.title}
+        <div className="album-results" key={index}>
+          <img src={album.image_url} className="search-album-image" />
+          <div className="album-results-title-musician">
+            <div className="no-text-transform">{album.title}</div>
+            <div className="no-text-transform">{album.musician}</div>
+          </div>
         </div>
       )
     });
@@ -37,6 +40,7 @@ class SearchBar extends React.Component {
       <div className={searchDisplayClass}>
         <h4 className="search-results-header">Search Results</h4>
         <hr className="horizontal-bar"/>
+        <h5 className="album-results-header">Albums</h5>
         <ul>
           {this.searchAlbumResults()}
         </ul>

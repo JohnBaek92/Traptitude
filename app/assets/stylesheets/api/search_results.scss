@@ -3,17 +3,18 @@
 }
 
 .horizontal-bar {
-  border: 0.5px solid black;
+  border: 0.5px solid #9a9a9a;
 }
 
 .search-results-header {
   margin-top: 0.5em;
   margin-bottom: 0px;
+  padding-left: 1em;
 }
 
 .search-results {
   position: absolute;
-  background-color: white;
+  background-color: #e9e9e9;
   top: 3em;
   left: 2em;
   z-index: 99999;
@@ -21,7 +22,8 @@
 }
 
 .search-album-image {
-  max-width: 20px;
+  max-width: 70px;
+  max-height: 70px;
 }
 
 .search-bar-input {
@@ -34,4 +36,26 @@
 
 .search-bar {
   margin-left: 8px;
+}
+
+.album-results {
+  display: flex;
+  background-color: white;
+  margin-bottom: 0.2em;
+}
+
+.album-results-title-musician {
+  flex-direction: column;
+  margin-top: 0.7em;
+}
+
+.no-text-transform {
+  text-transform: none;
+}
+
+.album-results-header {
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+  padding-left: 1.3em;
+  color: #9a9a9a
 }
