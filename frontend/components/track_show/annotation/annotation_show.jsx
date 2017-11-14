@@ -82,7 +82,6 @@ class AnnotationShow extends React.Component {
     } else {
       buttonTitle = "Save";
     }
-
     return(
       <section style={style}>
         <div className="purple-anno-arrow">

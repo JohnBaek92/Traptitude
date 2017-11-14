@@ -6,6 +6,7 @@ import TrackReducer from './track_reducer';
 import AnnotationReducer from './annotation_reducer';
 import AnnotationModalReducer from './annotation_modal_reducer';
 import FavoriteReducer from './favorite_reducer';
+import SearchReducer from './search_reducer';
 
 const RootReducer = combineReducers({
   session: SessionReducer,
@@ -14,7 +15,8 @@ const RootReducer = combineReducers({
   tracks: TrackReducer,
   annotations: AnnotationReducer,
   annotationModal: AnnotationModalReducer,
-  favorites: FavoriteReducer
+  favorites: FavoriteReducer,
+  search: SearchReducer
 });
 
 export default RootReducer;

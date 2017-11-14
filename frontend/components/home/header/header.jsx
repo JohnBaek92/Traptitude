@@ -7,10 +7,15 @@ import SignUpContainer from './user_form/signup_form_container';
 import LinkedIN from 'react-icons/lib/ti/social-linkedin';
 import Github from 'react-icons/lib/ti/social-github';
 import { HashLink as HashLink } from 'react-router-hash-link';
+import SearchBar from './search/search_bar_container';
 
 class Header extends React.Component {
   constructor(props){
     super(props);
+    this.state = {
+      searchText: ""
+    }
+
     this.logOutClick = this.logOutClick.bind(this);
     this.clearErrorsAndOpenModal = this.clearErrorsAndOpenModal.bind(this);
   }
@@ -26,11 +31,20 @@ class Header extends React.Component {
     this.props.openModal(component);
   }
 
+  handleChange() {
+    return e => {
+      this.setState({searchText: e.currentTarget.value});
+    }
+  }
+
   signedInHeader() {
     if(this.props.currentUser) {
       return(
         <section className="top-header">
-          <div className="search-bar"></div>
+          <div className="search-bar">
+            <input onChange={this.handleChange()} value={this.state.searchText} className='search-bar' placeholder="Search Traptitude"></input>
+            <SearchBar searchText={this.state.searchText}/>
+          </div>
           <Link className="logo" to="/"><img className="logo-picture" src={window.images.logo}/></Link>
           <div className="user-input">
             {/* <button className="username">   Stats</button> */}
@@ -45,7 +59,10 @@ class Header extends React.Component {
     if(!this.props.currentUser){
       return(
         <header className="top-header">
-          <div className="search-bar"></div>
+          <div className="search-bar">
+            <input onChange={this.handleChange()} value={this.state.searchText} className='search-bar' placeholder="Search Traptitude"></input>
+            <SearchBar searchText={this.state.searchText}/>
+          </div>
           <Link className="logo" to="/"><img className="logo-picture" src={window.images.logo}/></Link>
           <div className="user-input">
             <button className="username" onClick={ () => this.clearErrorsAndOpenModal(
