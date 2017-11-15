@@ -1,9 +1,12 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 class SearchBar extends React.Component {
   constructor(props) {
     super(props);
     this.state = {searchText: ""};
+
+    this.handleClick = this.handleClick.bind(this);
   }
 
   componentWillReceiveProps(nextProps) {
@@ -16,16 +19,22 @@ class SearchBar extends React.Component {
     this.props.fetchAlbumResults(this.state.searchText);
   }
 
+  handleClick(e) {
+    this.setState({searchText: ""});
+  }
+
   searchAlbumResults() {
     const results = this.props.albumResults.map( (album, index) => {
       return(
-        <div className="album-results" key={index}>
-          <img src={album.image_url} className="search-album-image" />
-          <div className="album-results-title-musician">
-            <div className="no-text-transform">{album.title}</div>
-            <div className="no-text-transform">{album.musician}</div>
+        <Link to={'/albums/'+album.id} key={index}>
+          <div className="album-results"  onClick={this.handleClick}>
+            <img src={album.image_url} className="search-album-image" />
+            <div className="album-results-title-musician">
+              <div className="no-text-transform">{album.title}</div>
+              <div className="no-text-transform">{album.musician}</div>
+            </div>
           </div>
-        </div>
+        </Link>
       )
     });
 
