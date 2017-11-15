@@ -4,10 +4,18 @@ import { values } from 'lodash';
 
 class AlbumShow extends React.Component {
   constructor(props) {
-    debugger
     super(props);
+  }
+
+  componentWillMount(){
     const albumId = Number(this.props.match.params.id);
     this.props.displaySingleAlbum(albumId);
+  }
+
+  componentWillReceiveProps(nextProps) {
+    if(nextProps.match.params.id !== this.props.match.params.id) {
+      this.props.displaySingleAlbum(Number(nextProps.match.params.id))
+    }
   }
 
   renderTracks() {
@@ -44,6 +52,7 @@ class AlbumShow extends React.Component {
   }
 
   render() {
+    debugger
     const albumId = Number(this.props.match.params.id - 1);
     if(this.props.albums[albumId]){
       const album = this.props.albums[albumId];
