@@ -30,5 +30,4 @@ export const createAlbum = album => dispatch => {
     dispatch(receiveAlbum(album))
     ))
   );
-
 };

@@ -4,6 +4,7 @@ import { values } from 'lodash';
 
 class AlbumShow extends React.Component {
   constructor(props) {
+    debugger
     super(props);
     const albumId = Number(this.props.match.params.id);
     this.props.displaySingleAlbum(albumId);
