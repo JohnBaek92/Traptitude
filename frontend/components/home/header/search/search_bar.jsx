@@ -7,6 +7,7 @@ class SearchBar extends React.Component {
     this.state = {searchText: ""};
 
     this.handleClick = this.handleClick.bind(this);
+    this.clickOffResults = this.clickOffResults.bind(this);
   }
 
   componentWillReceiveProps(nextProps) {
@@ -42,10 +43,19 @@ class SearchBar extends React.Component {
     return results;
   }
 
+  clickOffResults() {
+    $('*').click(function(e) {
+      if(e.target.class != 'search-results') {
+        $('.search-results').addClass('hidden');
+        $(".search-bar-input").val("");
+      }
+    })
+  }
+
   render() {
     const searchDisplayBoolean = (this.props.albumResults.length > 0 && this.state.searchText);
     const searchDisplayClass = (searchDisplayBoolean ? "search-results" : "search-results hidden");
-
+    this.clickOffResults();
     return(
       <div className={searchDisplayClass}>
         <h4 className="search-results-header">Search Results</h4>
