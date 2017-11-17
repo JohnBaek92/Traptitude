@@ -52,7 +52,6 @@ class AlbumShow extends React.Component {
   }
 
   render() {
-    debugger
     const albumId = Number(this.props.match.params.id - 1);
     if(this.props.albums[albumId]){
       const album = this.props.albums[albumId];
