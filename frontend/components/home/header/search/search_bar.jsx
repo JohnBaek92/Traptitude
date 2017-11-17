@@ -46,7 +46,7 @@ class SearchBar extends React.Component {
   clickOffResults() {
     $('*').click(function(e) {
       if(e.target.class != 'search-results') {
-        $('.search-results').addClass('hidden');
+        $('.search-results').toggleClass('hidden');
         $(".search-bar-input").val("");
       }
     })
