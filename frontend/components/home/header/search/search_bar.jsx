@@ -25,24 +25,16 @@ class SearchBar extends React.Component {
 
   clickOffResults() {
     let currentSearch = this.state.searchText
-    let hidden = false;
-    $('*').click(function(e) {
+    $('*').click( function(e) {
       if(e.target.className !== 'search-results') {
         $(".search-bar-input").attr('value',"");
         $(".search-bar-input").val("");
         $('.search-results').addClass('hidden');
-        hidden = true;
       }
       if (e.target.className === "search-bar-input" && currentSearch !== "" && e.currentTarget.value !== "") {
         $('.search-results').removeClass('hidden');
       }
     })
-    if ($(".search-bar-input").val() === ""){
-      debugger
-      this.setState({searchText: "",
-                    resetState: true})
-      hidden = false;
-    }
   }
 
   handleClick(e) {
