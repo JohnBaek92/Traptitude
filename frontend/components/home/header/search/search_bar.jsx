@@ -4,7 +4,10 @@ import { Link } from 'react-router-dom';
 class SearchBar extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {searchText: ""};
+    this.state = {
+                    searchText: this.props.searchText,
+                    resetState: false
+                  };
 
     this.handleClick = this.handleClick.bind(this);
     this.clickOffResults = this.clickOffResults.bind(this);
@@ -18,6 +21,28 @@ class SearchBar extends React.Component {
 
   fetchResults() {
     this.props.fetchAlbumResults(this.state.searchText);
+  }
+
+  clickOffResults() {
+    let currentSearch = this.state.searchText
+    let hidden = false;
+    $('*').click(function(e) {
+      if(e.target.className !== 'search-results') {
+        $(".search-bar-input").attr('value',"");
+        $(".search-bar-input").val("");
+        $('.search-results').addClass('hidden');
+        hidden = true;
+      }
+      if (e.target.className === "search-bar-input" && currentSearch !== "" && e.currentTarget.value !== "") {
+        $('.search-results').removeClass('hidden');
+      }
+    })
+    if ($(".search-bar-input").val() === ""){
+      debugger
+      this.setState({searchText: "",
+                    resetState: true})
+      hidden = false;
+    }
   }
 
   handleClick(e) {
@@ -43,19 +68,10 @@ class SearchBar extends React.Component {
     return results;
   }
 
-  clickOffResults() {
-    $('*').click(function(e) {
-      if(e.target.class != 'search-results') {
-        $('.search-results').toggleClass('hidden');
-        $(".search-bar-input").val("");
-      }
-    })
-  }
-
   render() {
+    this.clickOffResults();
     const searchDisplayBoolean = (this.props.albumResults.length > 0 && this.state.searchText);
     const searchDisplayClass = (searchDisplayBoolean ? "search-results" : "search-results hidden");
-    this.clickOffResults();
     return(
       <div className={searchDisplayClass}>
         <h4 className="search-results-header">Search Results</h4>
