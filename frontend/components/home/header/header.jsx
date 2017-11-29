@@ -37,12 +37,18 @@ class Header extends React.Component {
     }
   }
 
+  clearSearchBarState(){
+    return e => {
+      this.setState({searchText: ""});
+    }
+  }
+
   signedInHeader() {
     if(this.props.currentUser) {
       return(
         <section className="top-header">
           <div className="search-bar">
-            <input onChange={this.handleChange()} value={this.state.searchText} className='search-bar-input' placeholder="Search Albums"></input>
+            <input onBlur={this.clearSearchBarState()} onChange={this.handleChange()} value={this.state.searchText} className='search-bar-input' placeholder="Search Albums"></input>
             <SearchBar searchText={this.state.searchText}/>
           </div>
           <Link className="logo" to="/"><img className="logo-picture" src={window.images.logo}/></Link>
@@ -60,7 +66,7 @@ class Header extends React.Component {
       return(
         <header className="top-header">
           <div className="search-bar">
-            <input onChange={this.handleChange()} value={this.state.searchText} className='search-bar-input' placeholder="Search Albums"></input>
+            <input onBlur={this.clearSearchBarState()} onChange={this.handleChange()} value={this.state.searchText} className='search-bar-input' placeholder="Search Albums"></input>
             <SearchBar searchText={this.state.searchText}/>
           </div>
           <Link className="logo" to="/"><img className="logo-picture" src={window.images.logo}/></Link>

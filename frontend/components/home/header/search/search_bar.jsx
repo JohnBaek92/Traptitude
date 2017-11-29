@@ -10,7 +10,7 @@ class SearchBar extends React.Component {
                   };
 
     this.handleClick = this.handleClick.bind(this);
-    this.clickOffResults = this.clickOffResults.bind(this);
+    // this.clickOffResults = this.clickOffResults.bind(this);
   }
 
   componentWillReceiveProps(nextProps) {
@@ -23,19 +23,19 @@ class SearchBar extends React.Component {
     this.props.fetchAlbumResults(this.state.searchText);
   }
 
-  clickOffResults() {
-    let currentSearch = this.state.searchText
-    $('*').click( function(e) {
-      if(e.target.className !== 'search-results') {
-        $(".search-bar-input").attr('value',"");
-        $(".search-bar-input").val("");
-        $('.search-results').addClass('hidden');
-      }
-      if (e.target.className === "search-bar-input" && currentSearch !== "" && e.currentTarget.value !== "") {
-        $('.search-results').removeClass('hidden');
-      }
-    })
-  }
+  // clickOffResults() {
+  //   let currentSearch = this.state.searchText
+  //   $('*').click( function(e) {
+  //     if(e.target.className !== 'search-results') {
+  //       $(".search-bar-input").attr('value',"");
+  //       $(".search-bar-input").val("");
+  //       $('.search-results').addClass('hidden');
+  //     }
+  //     if (e.target.className === "search-bar-input" && currentSearch !== "" && e.currentTarget.value !== "") {
+  //       $('.search-results').removeClass('hidden');
+  //     }
+  //   })
+  // }
 
   handleClick(e) {
     this.setState({searchText: ""});
@@ -61,7 +61,7 @@ class SearchBar extends React.Component {
   }
 
   render() {
-    this.clickOffResults();
+    // this.clickOffResults();
     const searchDisplayBoolean = (this.props.albumResults.length > 0 && this.state.searchText);
     const searchDisplayClass = (searchDisplayBoolean ? "search-results" : "search-results hidden");
     return(
