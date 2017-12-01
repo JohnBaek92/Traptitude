@@ -1,4 +1,4 @@
-import { RECEIVE_ALBUM_RESULTS } from '../actions/search_actions';
+import { RECEIVE_ALBUM_RESULTS, REMOVE_ALBUMS } from '../actions/search_actions';
 
 const _defaultState = {albums: [], tracks: []};
 
@@ -11,6 +11,8 @@ const SearchReducer = (state = _defaultState, action ) => {
       results = Object.assign({}, state);
       results.albums = action.albums;
       return results;
+    case REMOVE_ALBUMS:
+      return _defaultState;
     default:
       return state;
   }

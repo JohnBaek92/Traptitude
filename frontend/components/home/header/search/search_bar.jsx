@@ -41,6 +41,7 @@ class SearchBar extends React.Component {
   handleClick(e) {
     this.setState({searchText: ""});
     $(".search-bar-input").val("");
+    this.props.clearAlbums();
   }
 
   focus(boolean) {
