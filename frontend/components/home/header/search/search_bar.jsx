@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+const debounce = require('lodash/debounce');
 
 class SearchBar extends React.Component {
   constructor(props) {
@@ -12,6 +13,8 @@ class SearchBar extends React.Component {
     this.focus = this.focus.bind(this);
     this.handleClick = this.handleClick.bind(this);
     this.handleChange = this.handleChange.bind(this);
+    this.debouncing = debounce(this.fetchResults, 300);
+    this.handleSubmit = this.handleSubmit.bind(this);
   }
 
   componentWillReceiveProps(nextProps) {
@@ -24,9 +27,14 @@ class SearchBar extends React.Component {
     this.props.fetchAlbumResults(this.state.searchText);
   }
 
-  handleChange() {
-    return e => {
-      this.setState({searchText: e.currentTarget.value});
+  handleSubmit(e) {
+    e.preventDefault();
+  }
+
+  handleChange(e) {
+    this.setState({searchText: e.currentTarget.value});
+    if(e.currentTarget.value !== "") {
+      this.debouncing();
     }
   }
 
@@ -44,19 +52,18 @@ class SearchBar extends React.Component {
   searchAlbumResults() {
       const results = this.props.albumResults.map( (album, index) => {
         return(
-          <Link to={'/albums/'+album.id} key={index}>
-          <div className="album-results"  onClick={this.handleClick}>
-            <img src={album.image_url} className="search-album-image" />
-            <div className="album-results-title-musician">
-              <div className="no-text-transform">{album.title}</div>
-              <div className="no-text-transform">{album.musician}</div>
+          <Link to={'/albums/'+album.id} key={index} onMouseDown={this.handleSubmit}>
+            <div className="album-results"  onClick={this.handleClick}>
+              <img src={album.image_url} className="search-album-image" />
+              <div className="album-results-title-musician">
+                <div className="no-text-transform">{album.title}</div>
+                <div className="no-text-transform">{album.musician}</div>
+              </div>
             </div>
-          </div>
-        </Link>
+          </Link>
       )
     });
 
-    debugger
     if(!this.state.hideSearchResults) {
       if(this.state.searchText === "") {
         return;
@@ -80,7 +87,7 @@ class SearchBar extends React.Component {
     return(
       <div className="search-bar">
         <div className="search-bar">
-          <input onChange={this.handleChange()} onBlur={this.focus(true)} onFocus={this.focus(false)} value={this.state.searchText} className='search-bar-input' placeholder="Search Albums"></input>
+          <input onChange={this.handleChange} onBlur={this.focus(true)} onFocus={this.focus(false)} className='search-bar-input' placeholder="Search Albums"></input>
         </div>
         <div className="search-results">
           {this.searchAlbumResults()}
