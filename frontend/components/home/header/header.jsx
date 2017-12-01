@@ -12,9 +12,6 @@ import SearchBar from './search/search_bar_container';
 class Header extends React.Component {
   constructor(props){
     super(props);
-    this.state = {
-      searchText: ""
-    }
 
     this.logOutClick = this.logOutClick.bind(this);
     this.clearErrorsAndOpenModal = this.clearErrorsAndOpenModal.bind(this);
@@ -31,26 +28,11 @@ class Header extends React.Component {
     this.props.openModal(component);
   }
 
-  handleChange() {
-    return e => {
-      this.setState({searchText: e.currentTarget.value});
-    }
-  }
-
-  clearSearchBarState(){
-    return e => {
-      this.setState({searchText: ""});
-    }
-  }
-
   signedInHeader() {
     if(this.props.currentUser) {
       return(
         <section className="top-header">
-          <div className="search-bar">
-            <input onChange={this.handleChange()} value={this.state.searchText} className='search-bar-input' placeholder="Search Albums"></input>
-            <SearchBar searchText={this.state.searchText}/>
-          </div>
+          <SearchBar />
           <Link className="logo" to="/"><img className="logo-picture" src={window.images.logo}/></Link>
           <div className="user-input">
             {/* <button className="username">   Stats</button> */}
@@ -65,10 +47,7 @@ class Header extends React.Component {
     if(!this.props.currentUser){
       return(
         <header className="top-header">
-          <div className="search-bar">
-            <input onChange={this.handleChange()} value={this.state.searchText} className='search-bar-input' placeholder="Search Albums"></input>
-            <SearchBar searchText={this.state.searchText}/>
-          </div>
+          <SearchBar />
           <Link className="logo" to="/"><img className="logo-picture" src={window.images.logo}/></Link>
           <div className="user-input">
             <button className="username" onClick={ () => this.clearErrorsAndOpenModal(

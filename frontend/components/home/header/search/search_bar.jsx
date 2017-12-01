@@ -5,11 +5,13 @@ class SearchBar extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-                    searchText: this.props.searchText,
-                    hideSearchResults: false
+                    searchText: "",
+                    hideSearchResults: true
                   };
 
+    this.focus = this.focus.bind(this);
     this.handleClick = this.handleClick.bind(this);
+    this.handleChange = this.handleChange.bind(this);
   }
 
   componentWillReceiveProps(nextProps) {
@@ -22,15 +24,27 @@ class SearchBar extends React.Component {
     this.props.fetchAlbumResults(this.state.searchText);
   }
 
+  handleChange() {
+    return e => {
+      this.setState({searchText: e.currentTarget.value});
+    }
+  }
+
   handleClick(e) {
     this.setState({searchText: ""});
     $(".search-bar-input").val("");
   }
 
+  focus(boolean) {
+    return(() => {
+      this.setState({hideSearchResults: boolean});
+    });
+  }
+
   searchAlbumResults() {
-    const results = this.props.albumResults.map( (album, index) => {
-      return(
-        <Link to={'/albums/'+album.id} key={index}>
+      const results = this.props.albumResults.map( (album, index) => {
+        return(
+          <Link to={'/albums/'+album.id} key={index}>
           <div className="album-results"  onClick={this.handleClick}>
             <img src={album.image_url} className="search-album-image" />
             <div className="album-results-title-musician">
@@ -42,20 +56,35 @@ class SearchBar extends React.Component {
       )
     });
 
-    return results;
+    debugger
+    if(!this.state.hideSearchResults) {
+      if(this.state.searchText === "") {
+        return;
+      }
+      return(
+        <div>
+          <h4 className="search-results-header">Search Results</h4>
+          <hr className="horizontal-bar"/>
+          <h5 className="album-results-header">Albums</h5>
+          <ul>
+            {results}
+          </ul>
+        </div>
+      )
+    } else {
+      return;
+    }
   }
 
   render() {
-    const searchDisplayBoolean = (this.props.albumResults.length > 0 && this.state.searchText);
-    const searchDisplayClass = (searchDisplayBoolean ? "search-results" : "search-results hidden");
     return(
-      <div className={searchDisplayClass}>
-        <h4 className="search-results-header">Search Results</h4>
-        <hr className="horizontal-bar"/>
-        <h5 className="album-results-header">Albums</h5>
-        <ul>
+      <div className="search-bar">
+        <div className="search-bar">
+          <input onChange={this.handleChange()} onBlur={this.focus(true)} onFocus={this.focus(false)} value={this.state.searchText} className='search-bar-input' placeholder="Search Albums"></input>
+        </div>
+        <div className="search-results">
           {this.searchAlbumResults()}
-        </ul>
+        </div>
       </div>
     )
   }

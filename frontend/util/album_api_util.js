@@ -1,4 +1,5 @@
 export const fetchAlbums = () => {
+  debugger
   return $.ajax({
     method: 'GET',
     url: '/api/albums',
