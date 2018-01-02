@@ -68,7 +68,7 @@ class Header extends React.Component {
     return(
       <navbar className="nav-bar">
         <HashLink id="featured-stories-link" className="hover-link" to="/#featured-info">Featured Info</HashLink>
-        <Link id="top-tracks" className="hover-link" to="/top-tracks">Top Tracks</Link>
+        <HashLink id="top-albums-link" className="hover-link" to="/#top-albums">Top Albums</HashLink>
         <span id="first-bar">|</span>
         {/* <Link id="forums" to="/forums">Forums</Link> */}
         <Link id="add-album" className="hover-link" to="/add-album">Add Album</Link>

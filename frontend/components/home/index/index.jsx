@@ -68,7 +68,7 @@ class AlbumIndex extends React.Component {
                 </div>
               </div>
               <div className="top-ten-container">
-                <div className="top-tracks-header">Top Albums</div>
+                <h2 id="top-albums">Top Albums</h2>
                 {formattedAlbums}
             </div>
           </section>
