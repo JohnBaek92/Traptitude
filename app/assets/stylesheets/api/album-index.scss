@@ -1,10 +1,11 @@
 .top-ten-container {
   display: flex;
-  width: 55%;
+  max-width: 44em;
   left: 19%;
   margin: 0 auto;
   padding-top: 1rem;
   flex-direction: column;
+  padding-left: 2em;
 }
 
 .top-three-info {
@@ -80,7 +81,7 @@
   font-size: 1.3em;
   font-weight: bold;
   text-align: center;
-  width: 1.2em;
+  width: 1.15em;
   margin-top: 2%;
   margin-left: 4.5%;
   margin-right: 3.5%;
@@ -126,8 +127,14 @@
 
 .featured-stories-container {
   padding-top: 1.5%;
-  width: 94%;
+  max-width: 68em;
   margin: 0 auto;
+}
+
+.gifs-are-here {
+  display: flex;
+  justify-content: space-between;
+  max-width: 68em;
 }
 
 .anno-demo-gif {
