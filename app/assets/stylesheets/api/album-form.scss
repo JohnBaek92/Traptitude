@@ -1,8 +1,9 @@
 .album-form-page {
   background: black;
-  height: 100%;
+  height: 100vh;
   position: absolute;
   width: 100%;
+  z-index: -1;
 }
 
 .album-form-header {

@@ -24,3 +24,20 @@
 #github-icon.hover-link:hover, #add-album.hover-link:hover {
   color: #ffff64;
 }
+
+// below css is for a sticky footer
+.Site {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.Site-content {
+    flex: 1 0 auto;
+    width: 100%;
+}
+.Site-content:after {
+    display: block;
+    margin-top: var( — space);
+    height: 0;
+    visibility: hidden;
+}

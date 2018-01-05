@@ -13,16 +13,18 @@ import TopTracksContainer from './home/header/top_tracks/top_tracks_container';
 import FooterContainer from './home/footer/footer_container';
 
 const App = () => (
-  <div>
-    <HeaderContainer/>
-    <ModalContainer/>
-    <Route exact path="/" component={AlbumIndexContainer} />
-    <Route exact path="/top-tracks" component={TopTracksContainer} />
-    <Route exact path="/albums/:id" component={AlbumShowContainer} />
-    <Route exact path="/albums/:id/:trackId" component={TrackShowContainer} />
-    <Route exact path="/albums/:id/:trackId" component={AnnotationContainer} />
-    <Route exact path="/add-album/" component={AlbumFormContainer} />
-    <Route exact path="/album/:id/add-track/" component={TrackFormContainer} />
+  <div className="Site">
+    <div className="Site-content">
+      <HeaderContainer/>
+      <ModalContainer/>
+      <Route exact path="/" component={AlbumIndexContainer} />
+      <Route exact path="/top-tracks" component={TopTracksContainer} />
+      <Route exact path="/albums/:id" component={AlbumShowContainer} />
+      <Route exact path="/albums/:id/:trackId" component={TrackShowContainer} />
+      <Route exact path="/albums/:id/:trackId" component={AnnotationContainer} />
+      <Route exact path="/add-album/" component={AlbumFormContainer} />
+      <Route exact path="/album/:id/add-track/" component={TrackFormContainer} />
+    </div>
     <FooterContainer/>
   </div>
 );
