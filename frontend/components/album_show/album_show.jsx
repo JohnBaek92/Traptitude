@@ -24,9 +24,9 @@ class AlbumShow extends React.Component {
     const formattedTracks = tracks.map((track, idx) => {
       if(track.features) {
         return(
-          <Link to={'/albums/'+track.album_id+'/'+track.id} key={idx}>
-            <div className="track-count">{idx+1}</div>
+          <Link to={'/albums/'+track.album_id+'/'+track.id} key={idx} className="tracks-content-container">
             <div className="tracks-content">
+              <div className="track-count">{idx+1}</div>
               <div className="track-title">{track.title}</div>
               <div className="features">(Ft. {track.features})</div>
               <div className="the-word-lyrics">Lyrics</div>
@@ -35,7 +35,7 @@ class AlbumShow extends React.Component {
         )
       } else {
         return (
-          <Link to={'/albums/'+track.album_id+'/'+track.id} key={idx}>
+          <Link to={'/albums/'+track.album_id+'/'+track.id} key={idx} className="tracks-content-container">
             <div className="track-count">{idx+1}</div>
             <div className="tracks-content">
               <div className="track-title">{track.title}</div>

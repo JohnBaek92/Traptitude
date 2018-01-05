@@ -102,9 +102,12 @@
 }
 
 .the-word-tracklist {
-  color: #9a9a9a;
   font-weight: bold;
+  padding-bottom: 0.5em;
   padding-top: 2%;
+  border-bottom: 2px solid black;
+  width: 97%;
+  color: black;
 }
 
 .album-tracklist a {
