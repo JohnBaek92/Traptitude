@@ -112,7 +112,7 @@ class UserForm extends React.Component {
           <input className="submit-button" type="submit" value="Sign Up" />
           <div className="switch-sign-in"
             onClick={this.clearErrorsAndSwitchToSignInForm}>
-            already have an account? sign in here
+            ALREADY HAVE AN ACCOUNT? SIGN IN HERE
           </div>
         </div>
       )
@@ -123,7 +123,7 @@ class UserForm extends React.Component {
           <button className="guest-login" onClick={(e) => this.handleGuestLogin(e)}>Guest</button>
           <div className="switch-sign-up"
             onClick={this.clearErrorsAndSwitchToSignUpForm}>
-            create an account
+            CREATE AN ACCOUNT
           </div>
         </div>
       )
