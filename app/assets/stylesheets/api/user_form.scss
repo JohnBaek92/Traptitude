@@ -79,6 +79,10 @@
   cursor: pointer;
 }
 
+.guest-login:hover, .submit-button:hover {
+  background: #909090;
+}
+
 .switch-sign-up {
   border-bottom: 2px solid #ccc;
   width: 30%;
