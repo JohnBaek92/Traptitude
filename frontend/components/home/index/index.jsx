@@ -65,11 +65,11 @@ class AlbumIndex extends React.Component {
                   <img className="anno-demo-gif" src={window.images.anno_demo_gif} />
                 </div>
               </div>
+            </div>
               <div className="top-ten-container">
                 <h2 id="top-albums">Top Albums</h2>
                 {formattedAlbums}
             </div>
-          </div>
         </section>
         );
       } else {
