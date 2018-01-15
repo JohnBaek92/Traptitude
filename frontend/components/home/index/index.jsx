@@ -69,7 +69,8 @@ class AlbumIndex extends React.Component {
                 <h2 id="top-albums">Top Albums</h2>
                 {formattedAlbums}
             </div>
-          </section>
+          </div>
+        </section>
         );
       } else {
         return (<div></div>)
