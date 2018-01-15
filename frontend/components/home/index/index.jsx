@@ -63,8 +63,6 @@ class AlbumIndex extends React.Component {
                 <h2 id="featured-info">Featured Info</h2>
                 <div className="gifs-are-here">
                   <img className="anno-demo-gif" src={window.images.anno_demo_gif} />
-                  <img className="add-album-demo" src="https://media.giphy.com/media/l0HU8lPnLw7cUS4Zq/giphy.gif" />
-                </div>
                 </div>
               </div>
               <div className="top-ten-container">
