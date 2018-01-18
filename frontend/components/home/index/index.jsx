@@ -74,7 +74,7 @@ class AlbumIndex extends React.Component {
                 <h2 id="featured-videos">Featured Videos</h2>
                 <div className="videos">
                 <iframe width="23%" src="https://www.youtube.com/embed/tvTRZJ-4EyI" frameborder="0" allowfullscreen />
-                <iframe width="23%" src="https://www.youtube.com/embed/DawrlSwHUiM?list=PLp5kJBBCyEQe0rx65z9_3TwAFnKIs9Sli" frameborder="0" allowfullscreen />
+                <iframe width="23%" src="https://www.youtube.com/embed/DawrlSwHUiM" frameborder="0" allowfullscreen />
                 <iframe width="23%" src="https://www.youtube.com/embed/rTKpYJ80OVQ" frameborder="0" allowfullscreen />
                 <iframe width="23%" src="https://www.youtube.com/embed/Eb5qxty7AQg" frameborder="0" allowfullscreen />
                 </div>
