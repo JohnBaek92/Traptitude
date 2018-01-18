@@ -56,8 +56,7 @@ class AlbumIndex extends React.Component {
             );
           }
         })
-        return(
-          <section>
+        return <section>
             <div className="featured-stories-container-background">
               <div className="featured-stories-container">
                 <h2 id="featured-info">Featured Info</h2>
@@ -66,12 +65,22 @@ class AlbumIndex extends React.Component {
                 </div>
               </div>
             </div>
-              <div className="top-ten-container">
-                <h2 id="top-albums">Top Albums</h2>
-                {formattedAlbums}
+            <div className="top-ten-container">
+              <h2 id="top-albums">Top Albums</h2>
+              {formattedAlbums}
             </div>
-        </section>
-        );
+            <div className="featured-videos-container-background">
+              <div className="featured-videos-container">
+                <h2 id="featured-videos">Featured Videos</h2>
+                <div className="videos">
+                <iframe width="23%" src="https://www.youtube.com/embed/tvTRZJ-4EyI" frameborder="0" allowfullscreen />
+                <iframe width="23%" src="https://www.youtube.com/embed/DawrlSwHUiM?list=PLp5kJBBCyEQe0rx65z9_3TwAFnKIs9Sli" frameborder="0" allowfullscreen />
+                <iframe width="23%" src="https://www.youtube.com/embed/rTKpYJ80OVQ" frameborder="0" allowfullscreen />
+                <iframe width="23%" src="https://www.youtube.com/embed/Eb5qxty7AQg" frameborder="0" allowfullscreen />
+                </div>
+              </div>
+            </div>
+          </section>;
       } else {
         return (<div></div>)
       };

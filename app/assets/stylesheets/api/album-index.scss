@@ -6,6 +6,7 @@
   padding-top: 1rem;
   flex-direction: column;
   padding-left: 2em;
+  padding-bottom: 1em;
 }
 
 .top-three-info {
@@ -132,6 +133,23 @@
   padding-top: 1.5%;
   max-width: 68em;
   margin: 0 auto;
+}
+
+.featured-videos-container {
+    padding-top: 1.5%;
+    max-width: 68em;
+    margin: 0 auto;
+}
+
+.featured-videos-container-background {
+  background-color: white;
+}
+
+.videos {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 1em;
+  padding-bottom: 1em;
 }
 
 .gifs-are-here {
