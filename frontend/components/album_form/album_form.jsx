@@ -55,6 +55,7 @@ class AlbumForm extends React.Component {
   }
 
   handleSubmit(e) {
+    e.preventDefault();
     let formData = new FormData();
     formData.append("album[title]", this.state.title);
     formData.append("album[release_date]", this.state.release_date);
@@ -62,11 +63,8 @@ class AlbumForm extends React.Component {
     formData.append("album[image]", this.state.image);
     this.props.createAlbum(formData)
     .then( ({album})  => {
-      return(this.props.history.push(`/albums/${album.id}`))
-    });
-    // .then({ album } => {
-    //   return(this.props.history.push(`/albums/${album.id}`))
-    // });
+      this.props.history.push(`/albums/${album.id}`)
+    }, err => console.log(err));
   }
 
   handleImageUpload() {

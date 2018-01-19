@@ -26,8 +26,9 @@ export const displayTopTen = () => dispatch => (
 );
 
 export const createAlbum = album => dispatch => {
-  return(APIUtil.createAlbum(album).then(album => (
-    dispatch(receiveAlbum(album))
-    ))
-  );
+  return APIUtil.createAlbum(album).then(album => {
+    return(
+      dispatch(receiveAlbum(album))
+    );
+  });
 };
