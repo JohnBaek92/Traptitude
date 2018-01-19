@@ -62,7 +62,7 @@ class AlbumForm extends React.Component {
     formData.append("album[image]", this.state.image);
     this.props.createAlbum(formData)
     .then( album  => {
-      return(this.props.history.push(`/albums/${album.id}`))
+      return(this.props.history.push(`/albums/${album.album.id}`))
     });
     // .then({ album } => {
     //   return(this.props.history.push(`/albums/${album.id}`))
