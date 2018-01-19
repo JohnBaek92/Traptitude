@@ -73,7 +73,7 @@ class AlbumForm extends React.Component {
     if(this.state.image_url) {
       return(
         <div>
-          <img className="album-image-preview" src={this.state.image_url}/>
+          <img className="album-image-preview" style={{width: "17%"}}src={this.state.image_url}/>
         </div>
       )
     } else {
