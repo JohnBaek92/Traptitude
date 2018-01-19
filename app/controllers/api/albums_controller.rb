@@ -10,7 +10,6 @@ class Api::AlbumsController < ApplicationController
 
   def create
     @album = Album.new(album_params)
-
     if @album.save
       render "api/albums/show"
     else
