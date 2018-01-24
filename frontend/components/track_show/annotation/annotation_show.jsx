@@ -72,7 +72,7 @@ class AnnotationShow extends React.Component {
     let style = {
       zIndex: 3,
       position: 'absolute',
-      right: "7em",
+      right: "10%",
       top: this.state.location+"px",
       width: "21em"
     };
