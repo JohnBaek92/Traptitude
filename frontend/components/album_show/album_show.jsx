@@ -7,6 +7,10 @@ class AlbumShow extends React.Component {
     super(props);
   }
 
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
+
   componentWillMount(){
     const albumId = Number(this.props.match.params.id);
     this.props.displaySingleAlbum(albumId);
