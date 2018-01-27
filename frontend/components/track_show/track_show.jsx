@@ -36,7 +36,6 @@ class TrackShow extends React.Component {
     const albumId = Number(this.props.match.params.id);
     this.props.displayTrack(trackId);
     this.props.displaySingleAlbum(albumId);
-    window.scrollTo(0, 0);
   }
 
   annotatingLyrics() {
@@ -61,24 +60,24 @@ class TrackShow extends React.Component {
         ) {
           return;
         } else {
-          let startIdx = lyrics.anchorOffset;
-          let endIdx = lyrics.focusOffset;
-          if (startIdx > endIdx) {
-            const temp = startIdx;
-            startIdx = endIdx;
-            endIdx = temp;
+          let start_idx = lyrics.anchorOffset;
+          let end_idx = lyrics.focusOffset;
+          if (start_idx > end_idx) {
+            const temp = start_idx;
+            start_idx = end_idx;
+            end_idx = temp;
           }
           let offset = lyrics.anchorNode.parentElement;
           while (offset.previousSibling) {
-            startIdx += offset.previousSibling.innerText.length;
-            endIdx += offset.previousSibling.innerText.length;
+            start_idx += offset.previousSibling.innerText.length;
+            end_idx += offset.previousSibling.innerText.length;
             offset = offset.previousSibling;
           }
           const trackId = Number(this.props.match.params.trackId);
           this.props.openAnnotation(
             <AnnotationForm
-              startIdx={startIdx}
-              endIdx={endIdx}
+              startIdx={start_idx}
+              endIdx={end_idx}
               trackId={trackId}
               location={(this.state.startLocation + endLocation) / 2 - 99}
             />
@@ -86,13 +85,8 @@ class TrackShow extends React.Component {
         }
       } else {
         this.setState({
-<<<<<<< HEAD
           start_idx: null,
           end_idx: null,
-=======
-          startIdx: null,
-          endIdx: null,
->>>>>>> 242400616be4e36ef705d46d77e73fee183a313d
           location: null,
           currentAnnotation: null,
           annotating: null
@@ -110,7 +104,7 @@ class TrackShow extends React.Component {
   }
 
   sortAnno(a, b) {
-    if (a.startIdx < b.startIdx) {
+    if (a.start_idx < b.start_idx) {
       return -1;
     } else {
       return 1;
@@ -188,11 +182,7 @@ class TrackShow extends React.Component {
       annoArray.sort(this.sortAnno).map((anno, idx) => {
         lyrics.push(
           <span key={idx} className="regular-lyrics">
-<<<<<<< HEAD
             {this.props.track.lyrics.slice(startIdx, anno.start_idx)}
-=======
-            {this.props.track.lyrics.slice(startIdx, anno.startIdx)}
->>>>>>> 242400616be4e36ef705d46d77e73fee183a313d
           </span>
         );
         lyrics.push(
@@ -201,17 +191,10 @@ class TrackShow extends React.Component {
             className={"anno-lyrics"}
             onClick={e => this.selectLyric(e, anno)}
           >
-<<<<<<< HEAD
             {this.props.track.lyrics.slice(anno.start_idx, anno.end_idx)}
           </span>
         );
         startIdx = anno.end_idx;
-=======
-            {this.props.track.lyrics.slice(anno.startIdx, anno.endIdx)}
-          </span>
-        );
-        startIdx = anno.endIdx;
->>>>>>> 242400616be4e36ef705d46d77e73fee183a313d
       });
       lyrics.push(
         <span key={Math.random() + 4321} className="regular-lyrics">
@@ -231,22 +214,14 @@ class TrackShow extends React.Component {
     if (this.props.track && this.props.album) {
       const track = this.props.track;
       const album = this.props.album;
-<<<<<<< HEAD
-      const photo = track.image_url || album.image_url;
-=======
-      const photoShown = track.image_url || album.image_url;
->>>>>>> 242400616be4e36ef705d46d77e73fee183a313d
+      const photo_shown = track.image_url || album.image_url;
       return (
         <section className="track-show-page">
           <section className="track-background">
             <img className="album-background-photo" src={album.image_url} />
             <div className="black-layer">
               <div className="track-total-info">
-<<<<<<< HEAD
-                <img className="track-profile-photo" src={photo} />
-=======
-                <img className="track-profile-photo" src={photoShown} />
->>>>>>> 242400616be4e36ef705d46d77e73fee183a313d
+                <img className="track-profile-photo" src={photo_shown} />
                 <div className="track-info-minus-photo">
                   <div className="track-show-title">
                     {track.title} {this.favoritesToggle()}
