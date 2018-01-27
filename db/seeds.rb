@@ -9350,6 +9350,2219 @@ Ahh, we'll lose two lives: yours and mine
 Give me any amount of time, don't let Ms. Carter grieve
 At the funeral parlor, drippin' tears down my sleeve
 Give me any amount of time, don't let Ms. Carter grieve"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "A Milli",
+  features: "",
+  producer: "Bangladesh",
+  lyrics: "[Intro]
+Young Money! You dig?
+Mack, I'm going in
+
+[Verse 1]
+A millionaire, I'm a Young Money millionaire
+Tougher than Nigerian hair
+My criteria compared to your career just isn't fair
+I'm a venereal disease, like a menstrual, bleed
+Through the pencil, I leak on the sheet of the tablet in my mind
+‘Cause I don't write shit, ‘cause I ain't got time
+‘Cause my seconds, minutes, hours go to the almighty dollar
+And the almighty power of that ch-cha-cha-chopper
+Sister, brother, son, daughter, father; mother-fuck a copper
+Got the Maserati dancin' on the bridge, pussy poppin'
+Tell the coppers: \"Ha-ha-ha-ha
+You can't catch him, you can't stop him\"
+I go by them goon rules: if you can't beat 'em, then you pop 'em
+You can't man 'em, then you mop 'em
+You can't stand 'em, then you drop 'em
+You pop 'em ‘cause we pop 'em like Orville Redenbacher
+
+[Hook]
+Motherfucker, I'm ill
+
+[Verse 2]
+A million here, a million there
+Sicilian bitch with long hair, with coke in her derriere
+Like smoke in the thinnest air
+I open the Lamborghini, hopin' them crackers see me
+Like, \"Look at that bastard Weezy!\"
+He's a beast, he's a dog, he's a mothafuckin' problem
+Okay, you're a goon, but what's a goon to a goblin?
+Nothin', nothin', you ain't scarin' nothin'
+On some faggot bullshit: call 'em Dennis Rodman
+Call me what you want, bitch! Call me on my Sidekick!
+Never answer when it's private, damn, I hate a shy bitch
+Don't you hate a shy bitch? Yeah, I ate a shy bitch
+And she ain't shy no more: she changed her name to My Bitch
+Yeah, nigga, that's my bitch, so when she ask
+For the money when you through, don't be surprised, bitch!
+It ain't trickin' if you got it
+But you like a bitch with no ass: you ain't got shit
+Motherfucker, I'm ill, not sick
+And I'm okay, but my watch sick, yeah, my drop sick
+Yeah, my Glock sick, and my knot thick — I'm it
+
+[Hook]
+Motherfucker, I'm ill
+
+[Verse 3]
+They say I'm rappin' like B.I.G., Jay, and 2Pac
+André 3000, where is Erykah Badu at? Who that?
+Who that said they gon' beat Lil Wayne?
+My name ain't Bic, but I keep that flame, man
+Who that one that do that, boy?
+You knew that, true that, swallow
+And I be the shit, now you got loose bowels
+I don't owe you like two vowels
+But I would like for you to pay me by the hour
+And I'd rather be pushin' flowers
+Than to be in the pen sharin' showers
+Tony told us this world was ours
+And the Bible told us every girl was sour
+Don't play in her garden and don't smell her flower
+Call me Mr. Carter or Mr. Lawn Mower
+Boy, I got so many bitches, like I'm Mike Lowrey
+Even Gwen Stefani said she couldn't doubt me
+Motherfucker, I say: \"Life ain't shit without me.\"
+Chrome lips pokin' out the coupé, look like it's poutin'
+I do what I do, and you do what you can do about it
+Bitch, I can turn a crack rock into a mountain — dare me!
+Don't you compare me, ‘cause there ain't nobody near me
+They don't see me but they hear me
+They don't feel me but they fear me; I'm illy, C3, 3 Peat"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Got Money",
+  features: "T-Pain",
+  producer: "T-Pain & Play-N-Skillz",
+  lyrics: "[Intro: Lil Wayne & T-Pain]
+Yeah, yeah!
+I need a Winn-Dixie grocery bag full of money (whoo!)
+Right now to the VIP section (whoo!)
+You got Young Mula in the house tonight, baby (yeah!)
+Yeah, haha, yeah, Young (ay-hey)
+Young, Young, Young, Young Mula baby!
+
+[Hook: T-Pain]
+If you got money (yeah) and you know it (yeah)
+Then take it out your pocket and show it then throw it like
+(Fly!) This-a-way (fly!) that-a-way
+(Fly!) This-a-way (fly!) that-a-way
+If you getting mugged from everybody you see
+Then hang over the wall of the VIP like
+(Fly!) This-a-way (fly!) that-a-way
+(Fly!) This-a-way (fly!) that-a-way
+
+[Verse 1: Lil Wayne]
+Now I was bouncing through the club
+She love the way I diddy-bop
+I see her boyfriend hatin' like a city cop
+Now I ain't never been a chicken but my fifty cocked
+Say I ain't never been a chicken but my semi cocked
+Now where your bar at? I'm tryna rent it out
+And we so bout it bout it, now what are you about?
+DJ showin' love he say my name when the music stop
+\"Young Money, Lil Wayne\" then the music drop
+I make it snow, I make it flurry
+I make it all back tomorrow, don't worry
+Yeah, it's young Wayne on the hoes
+A.K.A Mr. Make-It-Rain-On-Them-Hoes
+Young Money
+
+[Hook: T-Pain]
+If you got money (yeah) and you know it (yeah)
+Then take it out your pocket and show it then throw it like
+(Fly!) This-a-way (fly!) that-a-way
+(Fly!) This-a-way (fly!) that-a-way
+If you getting mugged from everybody you see
+Then hang over the wall of the VIP like
+(Fly!) This-a-way (fly!) that-a-way
+(Fly!) This-a-way (fly!) that-a-way
+
+[Verse 2: Lil Wayne]
+(Streets!)
+It go one for the money, two for the show
+Now clap your hands if you got a bankroll (Chris)
+Like some clap on lights in this bitch
+I'mma be clappin' all night in this bitch
+Lights off, mask on
+Creep silent, she smiling
+He muggin', who cares
+Cause my goons, are right here
+Like it's nothing, to a big dog
+And I'm a Great Dane, I wear 8 chains
+I mean so much ice, they yell, \"Skate, Wayne!\"
+She wanna fuck Weezy but she wanna rape Wayne
+(And I'mma let her)
+
+[Hook: T-Pain]
+If you got money (yeah) and you know it (yeah)
+Then take it out your pocket and show it then throw it like
+(Fly!) This-a-way (fly!) that-a-way
+(Fly!) This-a-way (fly!) that-a-way
+If you getting mugged from everybody you see
+Then hang over the wall of the VIP like
+
+[Verse 3: Lil Wayne]
+Okay, it's young Wayne on these hoes
+A.K.A Mr. Make-it-Rain-On-Them-Hoes
+Like ayyy! And everybody say
+Mr. Rainman can we have a rainy day?
+Bring an umbrella, please bring an umbrella
+'Ella, 'ella, 'ella, ayyy!
+Bitch ain't shit but a ho and a trick
+But you know it ain't trickin' if you got it
+You know we ain't fuckin if you not thick
+And I'll cool your ass down if you think you're hot shit
+So Rolex watch this, I do it, four, five, six
+My click-clack goes the black four-fifth
+And just like it I'll blow that shit
+Cause bitch I'm the bomb like tick, tick
+BIATCH!
+
+[Hook: T-Pain]
+If you got money (yeah) and you know it (yeah)
+Then take it out your pocket and show it then throw it like
+(Fly!) This-a-way (fly!) that-a-way
+(Fly!) This-a-way (fly!) that-a-way
+If you getting mugged from everybody you see
+Then hang over the wall of the VIP like
+(Fly!) This-a-way (fly!) that-a-way
+(Fly!) This-a-way (fly!) that-a-way
+
+[Outro: Lil Wayne]
+Yeah, it's young Wayne on the hoes
+AKA Mr. Make-It-Rain-On-Them-Hoes
+Yeah, young Wayne on the hoes
+Make a stripper fall in love, T-Pain on them hoes
+Uh-huh... um, Young Mula baby"
+ }, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Comfortable",
+  features: "Babyface",
+  producer: "Kanye West",
+  lyrics: "[Hook: Babyface]
+I'm not saying this to shake you up (saying)
+I'm just saying this to wake you up (saying)
+It's all good when we're making love
+All I'm asking is don't take our love
+For granted, cause granted, my love for you is real
+And if you don't love me, somebody else will
+Baby girl don't you, ever, get too, comfortable
+(Comfortable, comfortable, comfortable)
+
+[Verse 1: Lil Wayne]
+Yeah, to the left, to the left
+If you wanna leave, be my guest, you can step
+Feeling irreplaceable, listening to Beyoncé
+Well, okay, I put you out on your B'day
+Hey, now you be rocking with Weezy
+Bedroom in the bank, baby we safe
+I got game like EA
+But I wanna let you play
+And don't I treat you like soufflé?
+Don't I look at you like I see a new day?
+And don't I do what I do say?
+I'm through talking so I'mma let you 'Face
+And let 'Ye do 'Ye
+
+[Hook: Babyface]
+I'm not saying this to shake you up (saying)
+I'm just saying this to wake you up (saying)
+It's all good when we're making love
+All I'm asking is don't take our love
+For granted, cause granted, my love for you is real
+And if you don't love me, somebody else will
+Baby girl don't you, ever, get too, comfortable
+(Comfortable, comfortable, comfortable)
+
+[Verse 2: Lil Wayne]
+Yeah, let me catch my breath
+Talking 'bout leaving and you ain't gone yet
+And if you leave, leave correct
+And I'mma send a jet to pick up the next
+And if you leave, you leaving the best
+So you will have to settle for less
+And I am no Elliott Ness
+I don't handcuff, I don't arrest
+I do confess to the murder scene
+Cause under them sheets, I am a mess
+Yes, baby you're blessed
+Now just don't jump your nest, come on
+
+[Hook: Babyface]
+I'm not saying this to shake you up (saying)
+I'm just saying this to wake you up (saying)
+It's all good when we're making love
+All I'm asking is don't take our love
+For granted, cause granted, my love for you is real
+And if you don't love me, somebody else will
+Baby girl don't you, ever, get too, comfortable
+(Comfortable, comfortable, comfortable)
+
+[Verse 3: Lil Wayne]
+Yeah, it's no sweat, no sweat
+I would never 1-2-3-4-get
+About you, your love, your sex
+You know I work you out like Bowflex
+Ha-ha, I jokes no stress
+Love, live life, proceed, progress
+Make sure the neighbors get no rest
+We can get together never disconnect
+Yeah, your back, your neck
+Funny how that song hasn't got old yet
+To us, so let's project
+You stay in, never incorrect
+'Face!
+
+[Hook: Babyface]
+I'm not saying this to shake you up (saying)
+I'm just saying this to wake you up (saying)
+It's all good when we're making love
+All I'm asking is don't take our love
+For granted, cause granted, my love for you is real
+And if you don't love me, somebody else will
+Baby girl don't you, ever, get too, comfortable
+(Comfortable, comfortable, comfortable)
+
+[Outro: Lil Wayne]
+Word to God, my momma gon' like this one, yeah
+Yo, I think everybody gonna like this one, yeah, I got one
+Thank you, Mr. West! Carter! Tre!
+I'm out"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Dr. Carter",
+  features: "",
+  producer: "Swizz Beatz",
+  lyrics:  "[Intro: Lil Wayne & Nurse]
+Wheres my coffee?
+Good morning Dr. Carter
+Hey sweetie
+Looks like it's gonna be a long day
+Ahh, another one huh? What we got
+Your first patient
+Yeah
+Is suffering from a lack of concepts
+Uh-huh
+Originality
+Ugghh
+His flow is weak
+Another one
+And he has no style
+Ugghhh
+What you got for him?
+Tssss okay
+
+[Verse 1]
+Let me put my gloves on
+And my scrubs on
+Dr. Carter to the rescue
+Excuse me if I'm late
+But like a thief it takes
+Time to be this great
+Uhh, so just wait
+Your style is a disgrace
+Your rhymes are fifth place
+And I'm just grace
+One, uno, ace
+And I'm trying make your heart beat like bass
+Hmm-mm, but you're sweet like cake
+And I come to fix whatever you shall break
+Where is your originality? You are so fake
+So picture me like a gallery, capture what I say
+All I need is one mic, all I need is one take
+Like, hey! Brighter than a sun ray
+Got a pistol on a playground, watch the gun-play
+Like, no kidding, no kids in the way
+But the kids do watch, gotta watch what we say
+Gotta work everyday
+Gotta not be cliché
+Gotta stand out like Andre 3K
+Gotta kick it, kick it like a sensei
+You gotta have faith, you gottta, gotta
+Wait, wait, I think I, I think I lost him
+(Flatline)
+
+[Interlude: Lil Wayne & Nurse]
+Good afternoon Dr. Carter
+Nurse
+I don't know about this one
+His confidence is down
+Vocab and metaphors needs work
+And he lacks respect for the game
+Uhhhh let me see
+You think you can save him?
+
+[Verse 2]
+Okay, respect is in the heart
+So that's where I'mma start
+And a lot of heart patients don't make it
+But, hey kid
+Plural, I graduated
+'Cause you can get through anything if Magic made it
+And that was called recycling
+Or re-reciting something
+'Cause you just like it
+So you say it just like it
+Some say it's biting
+But I say it's enlightening
+Besides, Dr. Kanye West is one of the brightest
+And Dr. Swizz can stitch your track up the tightest
+And Dr. Jeezy can fix you back up the nicest
+Arthritis in my hand from writing
+But I'm a doctor, they don't understand my writing
+So I stopped writing
+Now I'm like lightning
+And you ain't Vince Young so don't clash with the Titan
+Fast and exciting
+My passion is frightening
+Now let me put some more vocab in your IV
+Here, take this Vicodin
+Like it and love it
+And confidence has no budget
+So pay me no mind
+I don't walk it like I talk it 'cause I run it
+I don't do it 'cause I done it
+And I'm in the emergency un-it
+God dunnit I've lost another one
+(Flatline)
+
+[Interlude: Lil Wayne & Nurse]
+Good evening Dr. Carter, it's been a long day
+But this one looks much better than the others
+His respect is back up, concepts sound good
+His style is showing strong signs of improvement
+All he needs now is his swagger
+Okay, let me take my gloves off then
+
+[Verse 3]
+Swagger tighter than a yeast infection
+Fly, go hard, like geese erection
+Fashion patrol police detection
+Eyes stay tight like Chinese Connection
+I stay tight like pussy at night
+Baby don't get me wrong I could do that pussy right
+But I'm too wrong to right
+Too fresh to fight
+Too paid to freestyle, too paid to freestyle
+Had to say it twice
+Swagger so nice
+And don't ask me shit unless it concern a price
+And I don't rap fast, I rap slow
+'Cause I mean every letter in the words
+In the sentence of my quotes
+Swagger just flows sweeter than honey oats
+That swagger, I got it, I wear it like a coat
+Wait, as I put the light down his throat
+I can only see flow
+His blood starting to flow
+His lungs starting to grow
+This one's starting to show
+Strong signs of life
+Where's the stitches, here's the knife
+Smack his face, his eyes open, I reply \"What a night\"
+\"Welcome back, Hip Hop — I saved your life\"
+
+[Outro: Nurse]
+He looks good, his vitals are up
+He's looking good, he's looking good
+I think we got one, Dr. Carter, I think we got one
+Yep, yep, we got one, we saved him he's good
+He's good, we got one, he's good
+(Heartbeat)
+He's good, we got him
+We saved him, he's a go
+He's good"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Phone Home",
+  features: "",
+  producer: "Cool & Dre",
+  lyrics: "[Intro: Dre]
+This is, this is, this is, this is
+We are not the same, I am a Martian
+We are not the same, I am a Martian
+Greetings from Planet Weezy
+We will begin transmission in 5, 4, 3, 2, 1
+
+[Hook: Dre]
+Phone home! Weezy
+Phone home! Weezy
+Phone home! Weezy
+Phone home! Weezy
+And if you feel like you're the best
+Go 'head and do the Weezy-We, and
+Phone home! Weezy
+Phone home! Weezy
+
+[Verse 1: Lil Wayne]
+We are not the same, I am a Martian
+And I'm hotter than summer rain like Carl Thomas
+Lock, load, ready to aim at any target
+I could get your brains for a bargain like I bought it from Target
+Hip hop is my supermarket
+Shopping cart full of fake hip hop artists
+I'm starving, sorry, I gotta eat all it
+And I'll be back in the morning
+
+[Hook: Dre]
+Phone home! Weezy
+Phone home! Weezy
+Phone home! Weezy
+Phone home! Weezy
+And if you feel like you're the best
+Go 'head and do the Weezy-We, and
+Phone home! Weezy
+Phone home! Weezy
+
+[Verse 2: Lil Wayne]
+We are not the same, I am a alien
+Like Gonzales, young college
+Student, who done just flipped the game like Houston
+I'm used to promethazine in two cups, I'm screwed up
+And you ain't shit if you ain't never been screwed up
+Flow so sick make you wanna throw your food up
+Ice water chest, and my wrist like a cool cup
+Two twin clippers, I give your ass a crew cut
+I get bread like cold cuts, you know what?
+Your girl go down fast, come up slow but I never slow up
+Weezy!
+
+[Hook: Dre]
+Phone home! Weezy
+Phone home! Weezy
+Phone home! Weezy
+Phone home! Weezy
+And if you feel like you're the best
+Go 'head and do the Weezy-We, and
+Phone home! Weezy
+Phone home! Weezy
+
+[Verse 3: Lil Wayne]
+They don't make 'em like me no more
+Matter of fact, they never made it like me before
+I'm rare, like Mr. Clean with hair
+No brake lights on my car rear
+I never had life and I never had fear
+I rap like I done died and gone to heaven, I swear
+And yeah, I'm a bear, like black and white hair, so I'm polar
+And they can't get on my system 'cause my system is the solar
+I am so far from the othars, I meant others
+I just eat them for supper, get in my spaceship and hover, hover
+
+[Hook: Dre]
+Phone home! Weezy
+Phone home! Weezy
+Phone home! Weezy
+Phone home! Weezy
+And if you feel like you're the best
+Go 'head and do the Weezy-We, and
+Phone home! Weezy
+Phone home! Weezy"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Tie My Hands",
+  features: "Robin Thicke",
+  producer: "Robin Thicke",
+  lyrics: "[Intro: Robin Thicke]
+We are at war with the universe
+The sky is falling and the only thing that can save us now
+Is sensitivity and compassion
+Da da da, da-da-da, da da da
+Da da da, da-da-da, da da da, ooohh
+But I know one thing's for sure
+I'm gonna get my kicks before it all burns down
+
+[Verse 1: Lil Wayne]
+Yeah, some say tragedy's hard to get over
+But sometimes that tragedy means it's over
+Soldier, from the academy league of rollers
+I deny being down though they seem to hold us
+My shoulders are strong, I prove 'em wrong
+I ain't doing nothing but moving on, let the truth be known
+But they talked that freedom at us
+And didn't even leave a ladder, damn
+
+[Verse 2: Robin Thicke]
+I work at the corner store
+We all got problems, problems
+No one's gonna fly down low
+No one's gonna save us now
+How you feel you're not alone
+We're all just jealous, jealous
+We don't reach the sky no more
+We just can't overcome, no
+
+[Hook: Robin Thicke]
+You tie my hands, what am I gonna be?
+What have I done so bad? What is my destiny?
+You tie my hands, what am I suppose to see?
+What have I done so bad? What am I gonna be?
+
+[Verse 3: Lil Wayne]
+I, knock on the door, hope isn't home
+Fate's not around, the luck's all gone
+Don't ask me what's wrong, ask me what's right
+And I'mma tell you what's life, and did you know
+I lost everything, but I ain't the only the one
+First came the hurricane, then the morning sun
+Excuse me if I'm on one
+And don't trip if I light one, I walk a tight one
+They tryna tell me keep my eyes open
+My whole city underwater, some people still floating
+And they wonder why black people still voting
+Cause your president still choking
+Take away the football team, the basketball team
+And all we got is me to represent New Orleans, shit
+No governor, no help from the mayor
+Just a steady beating heart and a wish and a prayer
+Let's pray
+
+[Verse 4: Robin Thicke]
+These friends they come and go
+But I got family, family
+These kids so fast they grow
+They learn so quickly now
+That there's nowhere to go
+That there's no future, future
+Don't make this here so low
+And we can't overcome, no
+
+[Hook: Robin Thicke]
+You tie my hands, what am I gonna be?
+What have I done so bad? What is my destiny?
+You tie my hands, what am I suppose to see?
+What have I done so bad? What am I gonna be?
+
+[Verse 5: Lil Wayne]
+Yeah, and if you come from under that water then there's fresh air
+Just breathe, baby, God's got a blessing to spare
+Yes I know the process is so much stress
+But it's the progress that feels the best
+Cause I came from the projects straight to success
+And you're next, so try they can't steal your pride, it's inside
+Then find it and keep on grinding
+Cause in every dark cloud, there's a silver lining, I know
+
+[Interlude: Lil Wayne]
+Yeah, yeah, yeah
+See right now we just riding on love
+A shot in the dark
+We ain't tryin to do nothing but hit the heart
+We need love
+That's all y'all, that's all
+
+[Hook: Robin Thicke]
+You tie my hands, what am I gonna be?
+What have I done so bad? What is my destiny?
+You tie my hands, what am I suppose to see?
+What have I done so bad? What am I gonna be?
+You tie my hands, what am I gonna be?
+What have I done so bad? What is my destiny?
+You tie my hands, what am I suppose to see?
+What have I done so bad? What am I gonna be?
+
+[Outro: Lil Wayne]
+Yeah, born right here in the USA
+But due to tragedy looked on by the whole world as a refugee
+So accept my emotion
+Do not take it as an offensive gesture
+It's just the epitome of my soul and I must be me
+We got spirit y'all, we got spirit
+We got soul y'all, we got soul
+They don't want us to see, but we already know"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Mrs. Officer",
+  features: "Kidd Kidd & Bobby V",
+  producer: "Deezle",
+  lyrics: "[Intro: Bobby Valentino & (Lil Wayne)]
+Ayy
+Ayy (yeah)
+Hey (yeah)
+Ayy, ayy, ayy
+(Valentino) Woo woo woo! (yeah, yeah) yeah yeah yeah
+(Yeah, yeah) Woo woo woo! (yeah) yeah yeah yeah
+(Yeah) Woo woo woo! Yeah yeah yeah
+(Yeah, yeah) Woo woo woo! (Bobby Valentino)
+
+[Hook: Bobby Valentino & (Lil Wayne)]
+When I get up all in ya (yeah)
+We can hear the angels calling us (chyeah)
+We can see the sunrise before us (yeah)
+And when I'm in that thang, I'll make that body sang
+(She know what I mean!) I make it say
+Wee-ooh-wee-ooh-wee (ay) wee-ooh-wee-ooh-wee (ay)
+Wee-ooh-wee-ooh-wee (like a cop car)
+Wee-ooh-wee-ooh-wee, wee-ooh-wee-ooh-wee (ay)
+Wee-ooh-wee-ooh-wee (haha)
+I make ya say
+
+[Verse 1: Lil Wayne & (Bobby Valentino)]
+Yeah, doin' a buck in the latest drop
+I got stopped by a lady cop, haha
+She got me thinking I can date a cop, haha
+Cause her uniform fit her so tight
+She read me my rights
+She put me in her car, she cut off her lights
+She said I had the right, to remain silent
+Now I got her hollering, sounding like a siren
+Talking 'bout (wee-ooh-wee-ooh-wee) yeah
+(Wee-ooh-wee-ooh-wee) Yeah (wee-ooh-wee-ooh-wee) yeah
+And I know she the law, and she know I'm the boss
+And she know I get high, a-bove the law
+And she know I'm raw, she know I'm from the streets
+And all she want me to do is fuck the police
+Talking 'bout (wee-ooh-wee-ooh-wee, wee-ooh-wee-ooh-wee)
+Yeah (wee-ooh-wee-ooh-wee) yeah
+
+[Hook: Bobby Valentino & (Lil Wayne)]
+When I get up all in ya
+We can hear the angels calling us (yeah)
+We can see the sunrise before us (umm)
+And when I'm in that thang, I'll make that body sang
+I make it say: wee-ooh-wee-ooh-wee, wee-ooh-wee-ooh-wee
+Wee-ooh-wee-ooh-wee (like a cop car)
+Wee-ooh-wee-ooh-wee, wee-ooh-wee-ooh-wee (yeah)
+Wee-ooh-wee-ooh-wee (hey) I'll make ya say
+
+[Verse 2: Lil Wayne & (Bobby Valentino)]
+Haha, and after we got done
+I said \"Lady, what's your number?\" she said \"911\"
+Hah, emergency only
+Head doctor perform surgery on me
+Yeah, and now I'm healed
+I make her wear nothing but handcuffs and heels
+And I beat it like a cop
+Rodney King, baby, yeah I beat it like a cop
+Hahah! Beat it like a cop
+Rodney King baby said \"Beat it like a cop\"
+But I ain't tryna be violent
+I'll do the time, but her love is timeless
+Mrs. Officer
+I know you wish your name was Mrs. Carter, huh?
+(Wee-ooh-wee-ooh-wee, wee-ooh-wee-ooh-wee) Yeah
+(Wee-ooh-wee-ooh-wee) Like a cop car
+
+[Hook: Bobby Valentino]
+When I get up all in ya
+We can hear the angels calling us
+We can see the sunrise before us
+And when I'm in that thang, I'll make that body sang
+I make it say: wee-ooh-wee-ooh-wee, wee-ooh-wee-ooh-wee
+Wee-ooh-wee-ooh-wee
+Wee-ooh-wee-ooh-wee, wee-ooh-wee-ooh-wee
+Wee-ooh-wee-ooh-wee, I'll make ya say
+
+[Verse 3: Kidd Kidd & (Bobby Valentino)]
+Mrs. Officer, Mrs. Officer
+Tell your lieutenant get them cuffs off of ya
+I'm Kidd Kidd, my face on every wanted poster
+I'm wanted by every lady cop all over
+That ass so big, I catch a battery to hold ya
+Hands so big, you thought I told, \"Pull it over\"
+She pulled me over, pulled me out the Rover
+Then she pulled me closer, do me in the back of the car
+Put me in handcuffs, start ripping my pants off
+All you heard over the dispatcher is...
+(Wee-ooh-wee-ooh-wee, wee-ooh-wee-ooh-wee)
+(Wee-ooh-wee-ooh wee)
+
+[Hook: Bobby Valentino]
+When I get up all in ya
+We can hear the angels calling us
+We can see the sunrise before us
+And when I'm in that thang, I'll make that body sang
+I make it say
+
+[Bridge: Bobby Valentino]
+Maybe you can lock me up and throw away the key
+Call your sergeant and tell him you can't finish your shift
+Cause it's on tonight
+Breakfast in bed turns to breakfast and head
+And I can't wait to get it on
+I wanna do it all night long, Mrs. Officer
+
+[Hook: Bobby Valentino]
+When I get up all in ya
+We can hear the angels calling us
+We can see the sunrise before us
+And when I'm in that thang, I'll make that body sang
+I make it say: wee-ooh-wee-ooh-wee, wee-ooh-wee-ooh-wee
+Wee-ooh-wee-ooh-wee
+Wee-ooh-wee-ooh-wee, wee-ooh-wee-ooh-wee
+Wee-ooh-wee-ooh-wee, I'll make ya say"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Let The Beat Build",
+  features: "",
+  producer: "Deezle & Kanye West",
+  lyrics: "[Intro]
+Yeah, I see you big bro
+I'mma kill these niggas man, yeah
+
+[Verse 1]
+Straight off the block with it
+Eagle Street to be specific
+I'm peeping at you people different
+I pay my dues, you keep the difference
+I can see the end in the beginning
+So I'm not racing, I'm just sprinting
+'Cause I don't wanna finish
+They diminish
+I replenish
+Scientific
+I'm out this world ho
+I wear bright red, like a girl toe
+No homo
+Fingernails dirty
+I've been counting dirty money since 12:30
+A.M
+Weigh them
+If they short, take them
+Right back and spray him
+Amen
+Yeah, I just do my Wayne
+And every time I do it, I do my thang
+Yeah, believe that, like a true story
+Rims big, make the car look like it's two stories
+If I hop out, that'd be suicide
+No back seats, call that paralyze
+I don't have a spine
+I don't fantasize
+I mastermind
+Then go after mine
+You see I handle mine
+I dismantle mine
+I tote a tool box, bitch it's hammer time
+So excuse me as I nail 'em to something
+I'm just repel 'em
+I'mma kill 'em
+Someone tell 'em
+I'mma kill 'em
+I'm gon' fill 'em up
+His momma can't tell 'em
+And the doctors can't heal 'em
+I'mma kill 'em
+And yeah we sell 'em
+I know you smell 'em
+And if you want it, you could just yell it
+And it be in the morning, at your 'telly
+Whole ki go for twenty
+Half a ki go for eleven
+After me there will be nothing
+I Am Legend
+And I Will Smith
+Now that's how ya let the beat build bitch
+
+[Hook]
+That's how you let the beat build, bitch
+Now that's how you let the beat build, bitch
+Let the beat build, bitch
+And the beat goes
+Boom Bi-Boom Bi-Boom
+Boom Bi-Boom Bi-Boom, it goes
+Boom Bi-Boom Bi-Boom, now say
+
+[Verse 2]
+Heh, c’mon
+Just a snare and a 808
+Weezy Baby on the mic, D.O.A
+OK, I'd like to thank Kanye
+And my nigga Deezle
+From giving me this Diesel
+Like an F-350
+Tank never empty
+Damn everybody in the bank act friendly
+Used to think my shit didn't stink, boy was I wrong
+Approving million dollar deals from my iPhone
+I'mma take it one-two-way back
+Like a silk wife beater and a wave cap
+Or the wave pool
+At Blue Bayou
+And I waved, fool
+As I blew by you
+Hello, hi you
+I can buy you
+But I wouldn't try you
+Feed you to Piru
+I know what I'm doing
+I show and prove
+And show improvement
+And I know just to go into it
+Could never amount to going through it
+Whatever, how you wanna do it
+We can do it like we late
+Ay, wait
+Deezle, let me just get the 808
+As I hit the kill switch
+Now that's how you let the beat build, bitch!
+
+[Hook]
+That's how you let the beat build, bitch
+That's how you let the beat build, bitch
+That's how you let the beat build, bitch
+And the beat goes
+Boom Bi-Boom Bi-Boom, it goes
+Boom Bi-Boom Boom, the beat goes
+Boom Bi-Boom Boom, now everybody say, yeah
+
+[Bridge]
+That I am the best rapper alive
+I am the best rapper alive
+And I will eat you alive
+Think I'm lying?
+
+[Verse 3]
+Damn
+I'mma get in a nigga chest like a bunch of phlegm
+Like a fucking ram
+On the hunt for the lamb
+I'm a dump 'em man
+In a dumpster can
+You ain't a soldier, ask Uncle Sam
+Hair nappy like Pam
+Nigga fuck your plan
+Fuck your man
+You ain't a pimp unless you get the same bitch
+To fuck your man
+And fuck your clan
+And all my bitches know that's my plan
+Oh god damn
+There's my sam–ple
+Play it like that's my band
+Gotta get it cleared
+Suck my dick with red lipstick and don't let it smear
+And I got a lot of tattoos, and I meant every tear
+And I'm still on that street shit
+Back to the beat bitch
+
+[Hook]
+That's how you let the beat build, bitch
+Now what's how you let the beat build, bitch
+Let the beat build, they say
+And the beat goes
+Boom Bi-Boom Bi-Boom, it goes
+Boom Bi-Boom Boom, the beat goes
+Boom Bi-Boom Boom, now everybody say
+And the beat goes
+Boom Bi-Boom Bi-Boom, it goes
+Boom Bi-Boom Boom, the beat goes
+Boom Bi-Boom Bi-Boom, they say"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Shoot Me Down",
+  features: "D. Smith",
+  producer: "D. Smith",
+  lyrics: "[Intro: Lil Wayne]
+Open up your hearts people
+Page one, chapter one
+Verse motherfucking one
+Yeah, uh-huh
+I'm drinking hot tea bitch, feel me
+
+[Verse 1: Lil Wayne]
+Yeah, now if you let me, you won't regret me
+Shit, if you let me, you won't forget me
+Remember? And if you don't then ponder
+Hold up, pow-pow, there's a reminder
+I ain't kinda hot, I'm sauna
+I sweat money, and the bank is my shower
+Haha, and that pistol is my towel
+Haha, so stop sweating me coward
+And I would, die for ours
+Ride for hours, supply the flowers
+This is history in the making
+Now shut the fuck up and let me make it
+
+[Hook: D. Smith & (Lil Wayne)]
+Please don't shoot me down, cause I'm flying
+I'm flying, I'm higher
+Please don't shoot me down
+Cause I'm flying, I'm higher
+(I swear this tea is at a real good temperature right now
+So am I, yeah, yeah)
+
+[Verse 2: Lil Wayne]
+I spit Alcatraz bars, I know
+And D-boys is the only Alphabet Boys I know
+Got a .380 on my waist and Rambo back home
+No more bandana 'round my dome, bandana in my right pocket
+Bitch I'm grown, fuck what you on
+Now watch me stand on the world as I sit in a throne
+And if I jump, I'mma fly and look into the eagle's eye
+And see I am nothing like you, why?
+Bitch, see, it gets me how nothing gets me or get to me
+And if you shootin' for the stars then just shoot me
+But your bullets don't reach Mars
+Paws, claws, because, I'm a beast, I'm a dog
+I'll getcha, my picture should be in the dictionary
+Next to the definition of \"Definition\"
+Because repetition is the father of learnin'
+And son, I know your barrel burnin', but
+
+[Hook: D. Smith]
+Please don't shoot me down, cause I'm flying
+I'm flying, I'm higher
+Please don't shoot me down
+Cause I'm flying, I'm higher
+
+[Verse 3: Lil Wayne]
+Hey, talked to my daddy
+Pop, I did it to 'em, I'm a bastard
+And I'mma do it again like nigga backwards
+These niggas backwards, but they behind us
+Now watch me get high like time's up
+Nah D, bring the drums back
+And watch me hit 'em where they lungs at, like that
+I get respect cause if I don't I'mma take it
+I see your boys hatin' and I see your girls naked
+Drum, sound like a naked gun, switch clips with my thumb
+Then I pop another clip in, and aim at his vision
+Cause Wayne is his vision, cause Wayne is the mission
+I'm aiming at a mirror
+
+[Hook: D. Smith & Lil Wayne]
+Please don't shoot me down, cause I'm flying
+I'm flying, I'm higher
+And I've done it before
+Please don't make me do it no more
+Please don't shoot me down
+Cause I'm flying, I'm higher
+Watch me soar
+Where the fuck is my guitar? Now roar
+Ohhhhhhhhhh
+Please don't shoot me down, cause I'm flying
+I'm flying, I'm higher"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Lollipop",
+  features: "Static Major",
+  producer: "Jim Jonsin",
+  lyrics: "[Intro: Lil Wayne]
+Oww! Uh-huh
+No homo, Young Moolah baby
+I said he's so sweet, make her wanna lick the wrapper
+So I let her lick the rapper
+
+[Pre-Hook: Static Major]
+She, she, she licked me like a lollipop
+She, she licked me like a lollipop
+She, she, she licked me like a lollipop
+She, she licked me like a lollipop
+
+[Hook: Static Major]
+Shawty want a thug
+Bottles in the club
+Shawty wanna hump
+You know I love to touch ya lovely lady lumps
+Shawty wanna thug
+Bottles in the club
+Shawty wanna hump
+You know I love to touch ya lovely lady lumps
+
+[Verse 1: Lil Wayne]
+Okay, lil mama had a swag like mine
+She even wear her hair down her back like mine
+I make her feel right when it's wrong like lyin'
+Man, she ain't never had a love like mine
+But man, I ain't never seen an ass like hers
+That pussy in my mouth had me lost for words
+So I told her back it up like, \"burp, burp\"
+And made that ass jump like, \"jerp, jerp\"
+And that's when she
+
+[Pre-Hook: Static Major & Lil Wayne]
+She, she, she lick me like a lollipop (oh yeah I like that)
+She, she lick me like a lollipop (oh yeah I like that)
+She, she, she lick me like a lollipop (I like that)
+She, she lick me like a lollipop
+
+[Hook: Static Major]
+Shawty want a thug
+Bottles in the club
+Shawty wanna hump
+You know I love to touch ya lovely lady lumps
+Shawty wanna thug
+Bottles in the club
+Shawty wanna hump
+You know I love to touch ya lovely lady lumps
+
+[Post-Hook: Static Major]
+Now get up after you back it up, don't stop
+Drop it, shawty, drop it like it's hot
+Ooh, drop it like it's hot
+Do it, shawty, don't stop
+
+[Verse 2: Lil Wayne]
+Shawty say the nigga that she with ain't shit
+Shawty say the nigga that she with ain't this
+Shawty say the nigga that she with can't hit
+But, shawty, I'ma hit it, hit it like I can't miss
+And \"he can't do this,\" and \"he don't do that!\"
+Shawty need a refund, need to bring that nigga back
+Just like a refund, I make her bring that ass back
+And she bring that ass back, because I like that
+
+[Hook: Static Major]
+Shawty want a thug
+Bottles in the club
+Shawty wanna hump
+You know I love to touch ya lovely lady lumps
+
+[Pre-Hook: Lil Wayne & Static Major]
+Shawty wanna lick, lick, lick, lick, lick me like a lollipop
+Shawty wanna lick, lick, lick, lick, lick me like a lollipop
+Shawty wanna lick me like a lollipop
+So I let her lick the rapper like a lollipop
+
+[Hook: Lil Wayne]
+Shawty want a thug
+Bottles in the club
+Shawty wanna hump
+You know I love to touch ya lovely lady lumps
+Stat!
+
+[Bridge: Static Major]
+Call me, so I can make it juicy for ya
+Call me, so I can get it juicy for ya
+Call me, so I can make it juicy for ya
+Call me, so I can get it juicy for ya
+Call me, so I can make it juicy for ya
+Call me, so I can get it juicy for ya
+Call me, so I can make it juicy for ya
+Call me, so I can get it juicy for ya
+
+[Hook: Lil Wayne & Static Major]
+Shawty want a thug
+Bottles in the club
+Shawty wanna hump
+You know I love to touch ya lovely lady lumps
+Shawty want a thug
+Bottles in the club
+Shawty wanna hump
+You know I love to touch ya lovely lady lumps
+
+[Verse 3: Lil Wayne]
+I get her on top, she drop it like it's hot
+And when I'm at the bottom, she Hillary Rodham
+The middle of the bed, givin', gettin' head
+Givin', gettin' head, givin', gettin' head
+I said hmm, I like that
+Said hmm, yeah, I like that
+I said hmm, yeah, I like that, hmm
+Call me, so I can come and do it for ya
+Call me, so I can come and prove it for ya
+Call me, so I can make it juicy for ya
+Call me, so I can get it juicy for ya
+
+[Outro: Lil Wayne & Static Major]
+Shawty wanna lick, lick, lick, lick, lick me like a lollipop
+She, she licked me like a lollipop
+I said he's so sweet, make her wanna lick the wrapper
+(What you do?) So I let her lick the rapper"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "La La",
+  features: "Busta Rhymes & Brisco",
+  producer: "David Banner",
+  lyrics: "[Intro]
+David David David David David Banner
+
+[Verse 1: Lil Wayne]
+Sittin' in a Caddy, White like Betty
+Floatin' up the aisle like the bride and her Daddy
+Hip-hop addict, hip-hop addict
+Man I swear I'm on top like the attic
+Yeah, bitch, I be with my dog like Shaggy
+And we stay clean but we get dirty like Harry
+Flyer than blue birds, cardinals and canaries
+Fuck we, I'm all about me like Paris
+Hilton presidential suite already
+I'm richer than Nicole and I'm a lion like her daddy
+I am hotter than the Sunday after Saturday
+I swear I'm a savage like Lil Webbie and Randy
+Oscar De La Hoya, box ya like a casket
+Or Diego Coralles, nigga keep jabbin'
+See, my style it varies, like drugs in an alley
+My leather so soft, my paint prettier than Halle
+Wittier than comedy, nigga write a parody
+But I ain't tellin' jokes... apparently
+A parent, yeah my daughter be the twinkle of my eye
+You hurt her, you kill me and nigga I ain't 'bout to die
+See y'all are at ground, and my daughter is my sky
+I swear I look in her face and I just want to break out and fly
+Four tears in my face and you ain't never heard me cry
+I'm richer than all y'all, I got a bank full of pride
+Oww!
+
+[Hook: Lil Wayne]
+Started out hustlin' (ended up ballin')
+Nigga I'm the shit, get the fuck up out my toilet
+Started with my girlfriend, ended with her homies
+Started out hustlin' (ended up ballin')
+Started out hustlin' (ended up ballin')
+Started out hustlin' (ended up ballin')
+Nigga I'm the shit, get the fuck up out my toilet
+
+[Verse 2: Brisco]
+My paint Bubblicious, the motor so vicious
+The rims the same color as the wrapper of a Kisses
+Hersey's, I'm hyphy, somethin' like a piston
+And when I'm in Detroit, I be ballin' like a Piston
+Oh, and did I mention, I'm fly like a pigeon
+Higher than gas prices, you Las Vegas trickin'
+I'm nine under par in a Bentley golf cart
+The Polo be cream but the Prada's caviar
+Weezy I'm sick from all this tourin'
+You told me (sip this) then call me in the morning
+Yeah, and I vowed to never trust another woman
+In my life, and then I got horny
+
+[Hook: Lil Wayne]
+Started out hustlin' (ended up ballin')
+Nigga I'm the shit, get the fuck up out my toilet
+Started with my girlfriend, ended with her homies
+Started out hustlin' (ended up ballin')
+Started out hustlin' (ended up ballin')
+Started out hustlin' (ended up ballin')
+Nigga I'm the shit, get the fuck up out my toilet
+
+[Verse 3: Busta Rhymes]
+See I ain't goin' nowhere, bitch, you know a nigga been home, honey
+Money fuckin' retarded, call it Down Syndrome money
+My case sick, shit, they diagnose sickle cell bread
+The revenue stream got a disease like a jail bed
+Like a mattress from Sing-Sing or way down in Comstock
+These bitches call me Bling King, I shit when the bomb drop
+And sprinkle diamonds all over niggas, flawless and D-Class
+Then twinkle like a shine, just like a sparkle from clean glass
+They movin' on a nigga as I'm walkin' the valley, ready?
+And zoomin' with the cameras like I'm dickin' down Halle Berry
+My money help me do things that you niggas can't believe
+Like purchase persons, places all them things that you can't conceive
+Like interactin' with women the caliber of Janet
+I sit and master my vision and massacre the planet (WHOA!)
+I hope you niggas know just what it is
+While I'm countin' my paper, niggas know I'm handlin' my biz
+
+[Hook: Lil Wayne]
+Started out hustlin' (ended up ballin')
+Nigga I'm the shit, get the fuck up out my toilet
+Started with my girlfriend, ended with her homies
+Started out hustlin' (ended up ballin')
+Started out hustlin' (ended up ballin')
+Started out hustlin' (ended up ballin')
+Nigga I'm the shit, get the fuck up out my toilet"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Playing With Fire",
+  features: "Betty Wright",
+  producer: "StreetRunner",
+  lyrics: "[Intro]
+(StreetRunner)
+
+[Hook: Betty Wright]
+So you've got so many diamonds
+You wear all the finest clothes
+And your grill is shining
+As you're driving down the streets of gold
+But you can't, blame, me
+If I set this stage on fire!
+
+[Verse 1: Lil Wayne]
+Momma always told me I was crazy
+And my hoes say I'm amazing
+But I don't listen to a lady
+But the bitch say I'm hot, and I say \"No bitch, I'm blazing\"
+Like, what the fuck you expect? I'm a motherfucking Cajun
+I feel caged in my mind, it's like my flow doing time
+I goes crazy inside, but when it comes out it's fine
+Like wine; wait, watch
+See? I get better with time like a watch
+Osh B'Gosh, Posh Spice husband
+Couldn't kick it like I kick it
+Bitch, I Kix it
+No cereal, like a landing, I sticks it
+Wherever she asks me, after she licks it
+That's too explicit, well why you listening?
+I smell smoke, and something's sizzling
+That's her pussy, so hey pussy
+Play with pussy or play pussy
+
+[Hook: Betty Wright]
+But you can't blame me
+If I set this stage on fire
+
+[Verse 2: Lil Wayne]
+They say you're nobody 'til somebody kills you
+Well, where I'm from you're nobody 'til you kill somebody
+And you know what they say, when you great
+It's not murder, it's assassinate
+So assassinate me, bitch
+Cause I'm doing the same shit Martin Luther King did
+Checking in the same hotel, in the same suite, bitch
+Same balcony like \"Assassinate me, bitch!\"
+It's Lil Tunechi
+I don't rap, I film movies
+With my rap
+You can call me Mr. Director's Chair, yeah, and that's a wrap
+Cut! On to the next
+Not the next scene, bitch, the next check
+Some say the X makes the sex 'spect
+So play with the pussy or play pussy
+
+[Hook: Betty Wright & Lil Wayne]
+So you've got so many diamonds (Hey pussy)
+You wear all the finest clothes
+(Lay pussy, do what I, say pussy
+And I say, I say, lay pussy)
+And your grill is shining
+(Lay pussy, lay pussy, haha, hey pussy)
+As you're driving down the streets of gold
+But you can't blame me
+If I set this stage on fire!
+(Hey pussy, don't play pussy
+Get 'em!)
+
+[Verse 3: Lil Wayne]
+Straight off the corner of Apple and Eagle
+Braveheart, bitch, like the times are medieval
+Married to the game, divorced the cathedral
+Standing on the corner selling porcelain to people
+Forced into evil
+It's all in your head, it's all so cerebral
+Call me Knievel
+You follow and I lead you
+Straight to the needles
+The bottles, the battles, the beetles'll eat you
+Momma named Cita, I love you Cita
+'Member when your pussy second husband tried to beat ya?
+Remember when I went into the kitchen, got the cleaver?
+He ain't give a fuck, I ain't give a fuck neither
+He could see the devil, see the devil in my features
+He could smell the ether, you can see Cita
+You can see the Cita, see the Cita in my features
+And she don't play neither
+
+[Hook: Betty Wright]
+But you can't blame me
+If I set this stage on fire!
+
+[Outro: Lil Wayne]
+C3, 3 peat"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "You Ain't Got Nuthin'",
+  features: "Juelz Santana & Fabolous",
+  producer: "The Alchemist",
+  lyrics: "[Intro: Fabolous]
+Yes, what it look like Alc'?
+I'm tryin' to show the niggas man
+It's that Street Fam man, we rep that, Loso
+Street fi-di-di-di-damn
+
+[Verse 1: Fabolous]
+I'm with 101 niggas, we dalmatian doggy deep (yes)
+And I fly with the tongue, so if you feeling froggy, leap (come on)
+Kermit, you better think before you ribbit
+Don't get murdered over your song, before you ad-lib it
+I pop up like Xzibit, but given I'm at your crib it's
+Not to put no fucking fish tanks in your Civic
+Fuck getting your ride pimped, you'll get hog-tied wimp
+Have you in the trunk curled up like fried shrimp
+It's been a good year, maybe I should ride blimp
+Cause your boy just stay above the game
+They trying to tag him, spray a brother frame
+But your shots can't reach me, I'm way above your aim
+Go 'head nigga, say another name
+Take this family for a joke, play them Wayan brother games
+And I'ma Git You Sucka, I be schemin' with this Keenan
+Aimin with this Damon, I'm putting that Major Payne in
+My Little Man is on ya, Marlon and Shawn ya
+Lay the beef on his noodle, make some Luger lasagna
+Forty Cal fettuccine, trey pound pasta
+You reach for this medallion, you must like Italian nigga
+You only see me pushing if the driver's tired
+I work the S6 ever since the 5 retired
+The drop top, they say it's Ocean Drive inspired
+So you can call a cab once your bitch fall for Fab
+
+[Hook: Lil' Wayne]
+Uhh, I get money like a muh'fucker
+Shades darker than a bitch but I can see
+I got everything, you got nothing
+But you ain't got nothing on me
+Ohh, I'm gettin' money like a muhfucka
+Yeah, money you ain't never see
+Yeah, I got everything, you got nothing
+But you ain't got nothing on me
+
+[Verse 2: Juelz Santana]
+I'm on the grind 'til the police come
+With that pistol on my side boy, don't be dumb
+Or, I let that semi twirl you
+Now you can follow the drip cause one shot outta the clip'll jheri curl ya
+Leave you sloppy like seconds, obey me like peasants
+Or get opened up like presents, please
+My young boys wildin' for respect
+Slit your throat, have you smiling with your neck, say cheese
+My dough's a bit longer, my flow is just slaughter
+My wrist look like frozen Poland Spring water
+So tell me boys, tell me boys, who you think you messin' with
+I get money out the ass, that's some expensive shit
+Haven't you all heard? Y'all all herbs
+I stick toothpicks in y'all hors d'oeuvres
+Listen, I'm a shark, y'all just koi fish
+(What else?) Octopus, (What else?)oysters
+Chump, I got my eye on your wifey now
+I have her lick me up and then wipe me down
+She told me you's a nag, you's a bug (damn)
+She told me I'm a blast, I'm a stud (damn)
+She told me you be beastin', you be checkin' for the burns
+So I gave her knee pads for the rug
+It's Skull Gang from the chain to the lifestyle
+You surfboard dudes get wiped out, totally
+
+[Hook: Lil' Wayne]
+Uhh, I get money like a muh'fucker
+Shades darker than a bitch but I can see
+I got everything, you got nothing
+But you ain't got nothing on me
+Ohh, I'm gettin' money like a muhfucka
+Yeah, money you ain't never see
+Yeah, I got everything, you got nothing
+But you ain't got nothing on me
+
+[Verse 3: Lil' Wayne]
+Get you 3, 4-get you
+Like the number after 1, I'mma get me 2
+It's Weezy F U, now you gotta have a baby
+My money don't folds nor bends, Mercedes
+Maybach, grey-black
+And I got a 44. and a 'K, like 8 stacks
+Fuck your city and your town, I state facts
+Take that, no better yet like Diddy, take that
+Wait rats, I hate rats, I clean 'em out like Ajax
+Got paper like a fax machine, asaneen
+Damn I mean asinine, I'm dapper don
+And after mine there will be nine, damn I mean there will be none
+I will be one, of the greatest things you've ever felt, you've ever seen
+Or heard, Car-ter, hov-er, y'all scared, not me
+Not I, call me Young Popeye
+Tell Bluto I'm a nuno, I bring RAL to your funeral
+Damn I mean fun-er-ill, fun-er-ol, you say tomato, I say tomahto
+You say get 'em, I say got 'em, yeah I got 'em
+Man you better keep payin' me cause you don't want my problems
+I be wildin' like Capital One, what is in your wallet?
+You fly, but what is it to pilot?
+Weezy I'm at the top, foot up in your bottom
+Huh, damn I mean, foot up in your ass
+I kick that shit now gon' put it in the trash
+
+[Hook: Lil' Wayne]
+Uhh, I get money like a muh'fucker
+Shades darker than a bitch but I can see
+I got everything, you got nothing
+But you ain't got nothing on me
+Ohh, I'm gettin' money like a muhfucka
+Yeah, money you ain't never see
+Yeah, I got everything, you got nothing
+But you ain't got nothing on me"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Dontgetit",
+  features: "",
+  producer: "Mousa & Rodnae",
+  lyrics: "[Hook]
+Baby, you understand me now
+If sometimes you see that I'm mad
+Don't you know no one alive can always be an angel?
+When everything goes wrong you see some bad
+But I'm just a soul whose intentions are good
+Oh Lord, please don't let me be misunderstood
+
+[Verse 1]
+What’s understood ain’t gotta be explained
+But you don't understand me
+So let me explain
+Stood in the heat, the flame
+The snow
+Please slow down hurricane
+The wind blow
+My dreads swang
+He had hair like wool
+Like Wayne
+Dropping ashes in the Bible
+I shake 'em out
+And they fall on the rifle
+Scary
+Hail Mary
+No tale-fairy
+All real, very
+Extraordinary
+Perry Mason facin' the barrel if he tattle
+My God is my judge; no gown, no gavel
+A hound, a rebel
+Down to battle
+Now or never
+Or whenever
+And the F for
+\"Fucking fantastic\"
+Fuck if you agree
+I'm bright
+But I don't give a fuck if you see me
+
+[Hook]
+But I'm just a soul whose intentions are good
+Oh Lord, please don't let me be misunderstood
+
+[Verse 2]
+What's understood ain't gotta be explained
+So for those who understand, meet Dwayne
+For eight and a half months I gave Miss Cita pain
+Now it's Young Money baby, keep the change
+My momma say \"Fuck em!\", and we the same
+So hello motherfucker, you got some sheets to change
+And ain't it funny how people change like Easter Sunday
+You know, church fit, then outfit
+Bright pink and green chest look house-lit
+Bright pinky rings, but that ain't about this
+What you 'bout, bitch?
+Excuse my French emotion and my passion
+But I wear my heart on my sleeve like it's the new fashion
+What are you askin'?
+If I don't have the answer
+It's probably on the web, like I'm a damn tarantula
+But I know you don't understand
+Cause you thought Little Wayne was Weezy
+But Weezy is Wayne
+
+[Hook]
+But I'm just a soul whose intentions are good
+Oh Lord, please don't let me be misunderstood
+
+[Outro]
+I was watchin' TV the other day, right?
+Got this white guy on there talking 'bout black guys
+Talking about how young black guys are targeted
+Targeted by who? America
+You see, one in every one hundred Americans are locked up
+One in every nine Black Americans are locked up
+And see what the White guy was trying to stress was that
+The money that we spend on sending a motherfucker to jail
+A young motherfucker to jail
+Would be less to send his or her young ass to college
+See, and another thing the white guy was stressing was that
+Our jails are populated with drug dealers
+You know, crack cocaine? Yeah, stuff like that
+Meaning, due to the laws we have on crack cocaine
+And regular cocaine
+The police are... only
+I don't want to say only right, but shit
+Only logic, by riding around in the hood all day
+And not in the suburbs
+Because crack cocaine is mostly found in the hood
+And um, you know, the other thing is mostly found –
+You know where I'm going
+But why bring a motherfucka to jail
+If it's not gonna stand up in court
+Because this drug ain't that drug
+You know; level three, level four drug, shit like that
+Mhmm... I guess it's all a misunderstanding
+And um, I sit back and think, well shit, us young motherfuckers
+You know, that one in every nine
+We probably only selling the crack cocaine
+Just because we in the hood
+And it's not like your suburbs
+We don't have the things that you have
+Why? I really don't want to know the answer
+But, I guess we just misunderstood huh? Yeah
+You know we don't have room in the jail now
+For the real motherfuckers, the real criminals, you know
+Sex offenders, rapists, serial killers, shit like that
+Oh, don't get scared, don't get scared
+I know you saw one of them sex offender papers
+Don't trip, he live right on the end of your block, mmmhmm
+Yeah, that nigga live right down the street from you
+Sex offender, on the level 3 drug
+Convicted, ex-con, yeah, check him out
+And what you got, you got daughters, son, what you got
+Yeah, well you know what? (coughing)
+Don't stop the track, that's the good weed
+You know what, I have a fucking daughter
+You understand me?
+And, why the fuck would you bring my neighbor to jail
+Just because the reason why he live next door to me
+Ain't the reason why I live next door to him
+Meanin', he didn't rap his way to my fuckin' neighborhood
+He sold crack cocaine to get to my neighborhood
+You move him out, bring him to jail for life
+And then you move in a sex offender, hahahah
+They giving me a paper, hahah
+Is that a misunderstanding, cause I don't understand it
+Another thing, let me take my glasses off
+Cause I want to see the reaction on the faces when I say this
+Uhh, Mr. Al Sharpton; here's why I don't respect you
+And nobody like you, hmm-hmm, see
+You're the type that gets off, on gettin' on other people, hahah
+That's not good, no homo
+And rather unhuman I should say
+I mean, given the fact that humanity
+Well, good humanity, rather
+To me, is helping one another, no matter your color or race
+But this guy, and people like him
+They'd rather speculate before they informate
+If that's a word, heh heh
+You know, 'spect before check, anyway
+Meanin', I much rather you talk to me first and see if you
+Can learn an opinion before you make one
+Just my thought of good humanity, Mr. Sharpton (heh heh)
+Hold on, I ain't finished wit' you man
+Gotta pluck the ashes, mhmm, hold on, um
+Mr. Sharpton, and anyone like you, you don't know me
+So, if you're not gonna try to
+Then what you say or think about me, or whatever I do
+Is totally Casper the Friendly Ghost to me
+And, it doesn't make you a good person
+To criticize before you improvise
+Doesn't necessarily make you a bad person neither
+But the characteristics fall heavily into bad sway (Hahah)
+But, since I am human, I am good and bad as well
+But I try my hardest to stay good
+And some of the things I do and say may be bad
+Or just, not too good
+But I do try
+So with that said, I don't fault you
+I mean, you're only human
+Good or bad, but I also don't respect you
+And I don't care if that's good or bad, heh heh
+You see, you are no MLK, you are no Jesse Jackson
+You're a nobody, to me
+You're just another Don King with a perm
+Just a little more political
+And that just means you're a little unhuman than us humans
+And now, let me be human by saying fuck Al Sharpton
+And anyone like him
+Fuck if you understand me
+I love being misunderstood
+Heheh, why?
+Cause I live in the suburbs, but I come from the hood
+Bring the hook in
+
+[Hook]
+But I'm just a soul whose intentions are good
+Oh Lord, please don't let me be misunderstood"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Action",
+  features: "",
+  producer: "Deezle",
+  lyrics: "Go!
+I'm in love with a beauty
+She is a cutie
+Somebody say they saw us kissin' in the movies
+We had a drink or two
+We saw Rush Hour 2
+Then we went home and we made our own movie
+
+[Hook:]
+Lights Camera Action ya dig?
+Lights Camera Action ya dig?
+It's showtime, it's showtime, show me yours show you mine
+
+[Verse 1]
+Like OoOoOo it's goin' down in dis bitch
+Like a boxer in the first round in dis bitch
+1-800 I would dick ya down in dis bitch
+Uptown in dis bitch don't make a sound in dis shhhhh
+Now let me whisper in ya ear
+Every single word your little ear wanna hear
+Flip ya body over have no fear
+Can I put my tongue here until you tear?
+Cry baby, cry baby, suck ya momma titty
+You know I like dem old I might have yo momma with me
+I like your girlfriend and your girlfriendses
+Honor my pole like a flag on the end bitch
+
+[Hook x2]
+
+[Verse 2]
+I say ohh girl I love you so
+Oh ohh girl I love you so (psych)
+But I don give a fuck about a dog ass ho
+But I dont give a fuck about a dog ass ho
+Pop these pills take take this glass
+Pop pop that pussy shake shake that ass
+And if ur pussy stank girl u kno u better dush it
+Ur nast girl now wash dat stanky funky funky pussy bitch
+Stop talkin that shit and suck a nigga dick for an outfit ha
+And \"I wear my pants below my waist and
+I never dance when im this place cuz you and your man
+Be planning to hate im so hooddd\"
+And she likes it and when we fuck im keepin on my nikes
+Ill tear dat pussy up ill tear dat pussy up
+Ima good looking rapper I ain't tryna front
+Ohhh she pussy poppin on a handstand [x3]
+And im the camera man
+
+[Hook]
+
+[Verse 3]
+Cut, check the gates
+Wait, why wait?
+When I can, just bend you over and do what I told ya
+Do what I wanna, do what I wanna
+Ya heard me, I gotta lie like ??
+And now every once in a while her knees jerk
+She forgets how to walk I better teach her
+I got her walkin funny just tell em that your feet hurt
+You'll probably see her on one of my t-shirts
+I super soak a ho skeet skeet skeet squirt
+But dont worry, cause if yall are like swingers
+Hey im high over features
+Haha new single, oh so now you single
+You crazy, say da baby"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Lollipop (Remix)",
+  features: "Kanye West",
+  producer: "Jim Jonsin & Deezle",
+  lyrics: "[Intro: Lil Wayne]
+No homo
+I say he's so sweet, make her wanna lick the wrapper
+
+[Verse 1: Kanye West]
+Lollipop, lollipop, breasts is just like Dolly Parton
+She ride my spaceship 'til she hit the top
+That hit the spot
+'Til she ask, \"How many li-i-li-i-licks do it take 'til she get to shop?\"
+Don't worry why my wrists got so freeze?
+Tell her, \"Girl, like Doritos, that's nacho cheese.\"
+Tell her friends, \"Like Fritos, I'm tryin' to lay.\"
+I can't only have one and I ain't tryin' to wait
+This a song with Wayne, so you know it's gonna melt
+But you ain't finna murder me like everybody else
+I'ma rap like I got some type of respect for myself
+I don't do it for my health, man, I do it for the belt
+Man, I do it to the death, 'til the roof get melt
+Hundred degrees, drop the roof, so the coupe don't melt
+Man, the flow so cold chicken soup won't help
+We need fo' mo' hoes, we need oh-oh-oh-oh!
+You know what it is when we're outta town
+We ball in two-seats, and you out of bounds
+So come here, baby girl
+You're now fuckin' with the best in the world
+Lollipop, the best in the world
+
+[Hook: Static Major]
+She lick me like a lollipop
+Shawty want a thug
+Bottles in the club
+Shawty wanna hump
+You know I like to touch
+Your lovely lady lumps
+
+[Verse 2: Lil Wayne]
+Shawty say she wanna lick the wrapper
+And she gonna lick the rapper
+And I just wanna act like a porno-flickin' actor
+I Anita Bake her, now she caught up in that Rapture
+I got so much chips I swear they call me Hewlett Packard
+I got so much chips you can have a bag if you're a snacker
+Greedy motha-fudge cake, now tell me how that fudge tastes
+I do it for Bloods' sake, soo-woo
+Think it's voodoo how that roof do di-di-dissipate
+Your girl wants to participate
+She so so sophisticate, 'cause her brain is off the chain
+And then my diamonds are in the choir
+Because they sang from off my chain
+And my Nina just joined the gang, because all she do is bang
+Like Ricky Martin, Wayne and Kanye: pick your poison
+If that woman wanna cut, then tell her I am Mr. Ointment
+Tell her to make an appointment
+With Mr. I-Can't-Make-An-Appointment
+Take my lollipop and enjoy it
+
+[Hook: Static Major]
+Shawty want a thug
+Bottles in the club
+Shawty wanna hump
+You know I like to touch
+Your lovely lady lumps
+
+[Verse 3: Lil Wayne]
+Why would she? She probably be the odd cookie
+In the plastic bag 'bout to get crushed by a building
+I flushed out the feelin' of me bein' the shit
+'Cause I was leavin' skid marks on everywhere I sit
+I am everywhere, I'm it, like Hide-n-Go
+And I can go anywhere: innie, minnie, miney, mo
+I'm in your neighborhood, area, CD thing, tape deck
+IPod, your girlfriend, and she say I got great sex
+Safe sex is great sex, better wear a latex
+'Cause you don't want that late text, that \"I think I'm late\" text
+So wrap it up!
+But he's so sweet she wanna lick the wrapper
+
+[Hook: Static Major]
+Shawty want a thug
+Bottles in the club
+Shawty wanna hump
+You know I like to touch
+Your lovely lady lumps"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Prostitute 2",
+  features: "",
+  producer: "Deezle & Maestro",
+  lyrics: "That's right
+Um, I wouldn't care if you was a prostitute
+And that you hit every man that you ever knew
+See it, wouldn't make a difference if that was way before me and you, girl
+And you won't never have to worry about me, as long as you keep it real
+Whatever's on your mind, speak on how you feel and
+Stay truthful to me and never lie to me
+And don't you ever keep no secrets, no matter...
+Know what I mean... yeah
+Well if you don't then I'll explain
+
+[Verse 1]
+Listen
+I wouldn't care if you was a prostitute
+And that you hit every man that you ever knew
+See it, wouldn't make a difference if that was way before me and you girl
+And you won't never have to worry about me, long as you keep it real
+Whatever's on your mind, speak on how you feel
+Stay truthful to me and never lie to me
+And don't you ever keep no secrets, no matter whatever
+You know what I mean yeah
+Well if you don't then I'll explain
+You could be Mrs. Wayne
+And we could do the damn thang
+Had to tell my brother Maine I met a girl like you
+And I ain't never met another girl like you
+But I know what to do with a girl like you, I do
+
+I wouldn't care if you was a prostitute
+And hit every man that you ever knew
+See it, wouldn't make a difference if that was way before me and you girl
+And you won't never have to worry about me, long as you keep it real
+Whatever's on your mind, speak on how you feel
+And stay true for me and never lie to me
+And don't you ever keep no secrets, no matter whatever
+You know what I mean yeah
+Well if you don't then I'll explain
+See I'd give up the game
+At the top of the arena there's a jersey with my name, baby
+What's happening baby? What's happening baby?
+I know you need to roll with a champion baby
+And every time I see you I get asthma baby
+Like *exhales* that's my baby
+
+I wouldn't care if you was a prostitute
+And that you hit every man that you ever knew
+See it, wouldn't make a difference if that was way before me and you girl
+And you won't never have to worry about me, long as you keep it real
+Whatever's on your mind, speak on how you feel
+And stay true for me and never lie to me
+And don't you ever keep no secrets, no matter whatever
+You know what I mean yeah
+Uhh, yeah, uhh, yeah-uhh, see cause
+I ain't the kind that kiss and tell
+But my man say that he really know you well
+But I don't care, I wanna know you for my damn self
+Yeah, and even though Stunna say you scandalous
+And you're known to go from one man to the next
+I don't care what he say, no I don't care what he say
+Because, they can say what they want girl
+But they will never change my views
+Cause they would never know you the way that I know you
+And I'm trying to share to rest of my whole life with you
+And if it gotta be a down, so be it baby
+And if your friends can't understand
+You don't need 'em baby
+You don't need 'em baby
+You don't need 'em baby
+Don't need 'em
+Guitar...
+
+Now lemme hear you say \"I love you baby\"
+Say \"I love you baby\" [repeat until fade]"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Whip It",
+  features: "",
+  producer: "Deezle",
+  lyrics: "[Verse 1: Lil Wayne]
+Ok, you ain't new shit
+It's Weezy F Baby like a newborn bitch
+You ain't know shit
+I put your girl to work now heres a uniform bitch
+Pimpin over here
+And I ain't Santa Claus
+But I can make it reindeer
+Money out the ass
+Yeah money out the rear
+Weezy at the plate
+I could bunt it out of here
+Safe as a mother fucker
+Ain't no safety button on this mother fucker
+Where's the safe mother fucker
+That's the case
+Stop the judge of
+Weezy F the F for fury
+Hang 12 witnesses
+That's what I call a hung jury
+Brung Jerry Bling Bling
+I made that and I don't even say that
+As much as judges say that
+That's way back
+Boy you should catch up
+It must of been mine, theys
+Long hair pretty eyes light skin fine legs
+Phat ass, skinny stomach, pretty feet, pretty woman
+Walking down the street cause I put her out my jeep
+I don't save 'em
+I slave 'em
+They want weezy f
+I bad grade 'em, I don't degrade 'em
+I serenade 'em
+100 on the jaw
+100 on the arm
+Rings so thick I can't even make a fist
+Nigga fuck how you do it cause I do it like this
+
+Yeah, and I just do my wayne
+And every time I do it I do my thang
+[X2]
+
+I do it [do it]
+How I do it [do it]
+I do it [do it, do it, do it]
+I do it [ do it, do it, do it]
+
+I do it how I do it and I do it everyday
+I do it how I do it and I do it everyday
+I do it how I do it when I do it everyday
+I whip it like a slave like a motherfuckin' slave
+Yes I whip it like a slave, yes I whip it like a slave
+I whip it like a slave like a motherfuckin' slave
+Yep I whip it like a slave like a motherfuckn' slave
+Then I beat it, I beat it, I beat it, I beat it
+I beat that block x4
+I beat that block like it mis-behaved
+Then I whip it, I whip it, I whip it like a slave
+I whip it...
+
+[Verse 2: Lil Wayne]
+Kunta Kinte on my shit nigga
+Like I ate a plate of roots for dinner
+But I ate a plate of loot for dinner
+I'm in the garden selling fruit to sinners
+Like apple's to Shaq
+Hey big spender
+And do remember
+Just like Brenda
+2 grand still get you four and a baby
+I'm a kill 'em when I drop like I'm holding a baby
+Weezy F, the F is for don't Forget the Baby
+And bitch I've been hot but you don't know me from satan
+And if you're Manning up you better show me you're Peyton
+But you pussies ain't ballin' no Sanaa Lathan
+Bricks get shipped
+Bricks get cut
+Dr Carter
+Nip and Tuck
+Yeah but you could call me Wayne
+Now watch me and my chain gang
+
+[Then I whip it, I whip it, I whip it
+I whip it, I beat that block x4]
+
+[Verse 3: Lil Wayne]
+Yes it's me bitches
+Duece Bigalow on these He-bitches
+(cough cough) Flu flow
+Flyer then bird coupe like a two door
+What do you know
+I know the streets bitch
+And this is my toilet
+And you can eat shit
+Got them girls in my bathroom with their asses out
+Cause I'm fly, like flyers they passin' out
+We mashin out
+We Young Mula
+I got that 12 guage
+Don't make me 1, 2 ya
+345 train bitch soo woo
+If you ain't on my train bitch choo choo
+Like you got my dick in your mizouth
+And I'm a do me bitch with you or without
+Shit I'm always right sometimes
+And from the top everybody look 1'9
+And I'm 2'much
+The numbers don't lie
+And if they stop making cadillacs
+I swear I'm gon' die
+And if the weed man ain't got no more onions I'm a cry
+And if if was a fifth, then I'd rather drink wine
+
+[Verse 4]
+Shit... I'm a take my time
+Now am I crazy or just lazy
+Cause I'm tired of ballin darlin
+And I roll with my riders like it's a harley bar
+And we roll with them choppers like it's a harley party
+P.S dressed in all red like it was a scarlet party
+I was ballin in New Orleans way before the charolette hornets
+I'm an X-Man bitch and I ain't talkin marvel comics
+I'm a...
+Put the dirty dishes in the sink
+No pork but I get paid like a piggy bank
+I spit like backwash, Sasquatch
+No back talk, I act lost
+But I bet that money find me
+Your jewelry telling jokes man
+You got them funny diamonds
+I got them sunny diamonds
+I got them money problems
+Like Christopher Wallace
+Fuck bitches
+Get money
+Young money"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "I'm Me",
+  features: "",
+  producer: "L.V.M. & DJ Nasty",
+  lyrics: "[Intro]
+The hottest under the sun (who dat?)
+Ain't nobody fuckin' with me, man
+And you already know that, pimpin'
+Cash Money Records, where dreams come true
+Fuck up my dream, somebody gon' die tonight
+And you already know that, pimpin'
+Aye, it's Cash Money Records, man, a lawless gang
+
+[Verse 1]
+Un-fucking-believable! Lil Wayne's the president
+Fuck 'em, fuck 'em, fuck 'em, even if they celibate
+I know the game is crazy, it's more crazy than it's ever been
+I'm married to that crazy bitch; call me Kevin Federline
+It's obvious that he'll be Cash Money 'til the death of him
+The ground shall break when they bury him—bury him?
+I know one day they got to bury him
+Better lock my casket tight, baby, so I don't let the Devil in
+People, it's just me and my guitar
+Yeah, bitch, I'm heavy metallin'
+You can get the fuckin' Led Zeppelin
+Niggas is bitches, bitches, I think they full of estrogen
+And we hold court and take your life for a settlement
+Yes, I am the best—and no, I ain't positive, I'm definite
+I know the game like I'm reffin' it
+This is Tha Carter, Tha Carter 3, the New Testament
+And I'm the God, and this is what I bless 'em with
+
+[Hook]
+Bitch, I'm me, I'm me, I'm me, I'm me
+Baby, I'm me, so who you?
+You're not me, you're not me
+And I know that ain't fair, but I don't care
+I'm a motherfuckin' Cash Money Millionaire
+I know that ain't fair, but I don't care
+I'm a motherfuckin' Cash Money Millionaire
+Yeah, Junior
+
+[Verse 2]
+It's Cash Money over everythang
+It's in my blood, I feel it runnin' in every vein
+I'm from the mud, I am a missile like a Scud
+What's really good, I'm 'bout that ruckus like Fudd
+And I stayed on my flo' at Cash Money, like a rug
+Tied to the fuckin' Birdman like a lug
+And dear Mr. Ronald Williams
+To you I shall forever give thanks like a pilgrim
+Cash Money million-heir to the throne
+Goin' at their heads, like hair in a comb
+Sittin' by the window, I just stare at the storm
+Know I'll make it through it like hair in a comb
+Young Money over bitches, my niggas trust my senses
+And I will take a dasher as the Lord is my witness
+And you all have witnessed, but I am not finished
+So keep your mouth closed and let your eyes listen
+
+[Hook]
+Bitch, I'm me, I'm me, I'm me, I'm me
+Baby, I'm me, so who you?
+You're not me, you're not me
+And I know that ain't fair, but I don't care
+I'm a motherfuckin' Cash Money Millionaire
+I know that ain't fair, but I don't care
+I'm a motherfuckin' Cash Money Millionaire
+
+[Verse 3]
+Last year they had the Grammy's and left me in Miami
+Sleepin' on a nigga like I'm rappin' in my jammies
+I'm rappin' when you sleep
+I was rappin' when you were in jammies
+Mel Gibson flow, Lethal Weapon, book 'em, Danny
+I'm a monster, I tell you, Monster Wayne
+I have just swallowed the key to the House of Pain
+Now I'm stuck here to deal with the house's pain
+Fuck with me, I will peel like the house's paint—let's go!
+Niggas don't wanna see me ‘cause I'm better in bold
+The only time I will depend is when I'm 70 years old
+That's when I can't hold my shit within, so I shit on myself
+‘Cause I'm so sick and tired of shittin' on everybody else
+I try to tell you like I'm sayin' somethin'
+I'm from the Dirty like the bottom of my pants cuff
+And now nothin' gonna stop me, so just envy it
+Hey, I'll accept a friendly quit, ha ha
+
+[Hook]
+Bitch, I'm me, I'm me, I'm me, I'm me
+Baby, I'm me, so who you?
+You're not me, you're not me
+And I know that ain't fair, but I don't care
+I'm a motherfuckin' Cash Money Millionaire
+I know that ain't fair, but I don't care
+I'm a motherfuckin' Cash Money Millionaire, bitch!
+
+[Outro]
+The hottest under the sun (who dat?)
+Ain't nobody fuckin' with me, man
+And you already know that, pimpin'
+Cash Money Records, where dreams come true
+(Who dat?) Somebody gon die tonight
+And you already know that, pimpin'
+Aye, it's Cash Money Records, man, a lawless gang"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Gossip",
+  features: "",
+  producer: "StreetRunner",
+  lyrics: "[Intro]
+I hate gossip
+And I don't walk around looking for it, you know?
+But, yesterday it seemed to just
+Wander around 'til it found me
+You know like, the gossip found me
+Then why don't try provin' it?
+How? You don't know how to prove it?
+Well, what you just do is, stop
+(Streetrunner)
+
+[Verse 1]
+Stop
+Hatin' on a nigga
+That is a weak emotion
+The lady of a nigga
+And you can get tipped
+Like you're waitin' on a nigga
+Put a body bag
+And an apron on a nigga
+I give my all behind the mic
+But you can never see
+If you sit behind the light
+And you don't have to pick me
+To win the title fight
+But I'mma wear that championship belt so tight
+And if I'm wrong, there is no right
+And if I'm wrong, there is Snow White
+I'm tryna be polite
+But you bitches in my hair
+Like the fuckin' po-lice
+And my flow is rare
+These other rappers nice
+These other rappers bark
+Some of 'em even bite
+But I'm much more bright
+I give the game sight
+So before you dim the light
+You just might, might wanna
+
+[Refrain]
+Think it over
+Ooooh, think it over
+Think it over, baby baby
+(Get 'em)
+
+[Verse 2]
+Stop
+Analyzing
+Criticizing
+You should realize
+What I am, and start epitomizing
+Legitimate
+I got the heart of the biggest lion
+I'm confident
+Like fuck 'em all, pull out my dick and ride it
+My flow sick
+So sick, it's like my shit is dying
+It rains a lot in my city
+Because my city's crying
+Because my city's dying
+Still I emerge from all of that
+I am a living pion-
+-eer, near Zion
+Fear God
+Not them
+Steer my robin coupe
+Through the streets of the boot
+And soowoo
+And then I leak blood in the booth
+I leave a bloodbath
+Sorry there's a tub in the booth
+Now where the drugs at?
+I'm twisted like the strings on a shoe
+No, nigga, fuck that
+I'm twisted like the strings on a boot
+Now where New Orleans at?
+I feel hip hop stole me like a bus pass
+So in your possession, I-I-I must ask
+
+[Refrain]
+Hey, haven't I been good to you?
+(Think it over)
+Tell me, haven't I been sweet to you?
+
+[Verse 3]
+Drag my name through the mud
+I come out clean
+Cast away stones
+I won't even blink
+A gun is not a math problem
+I won't even think
+Just leave you dead
+Like the mink
+Under my sink
+Don't believe in me
+Don't believe me
+I've graduated from hungry
+And made it to greedy
+My flow is like pasta
+Take it and eat it
+But I'm gon' need cheese
+If I'm baking a ziti
+You niggas want beef
+I want a steak
+And, uh, we be
+Lost in Amsterdam or Jamaica
+Where weed be
+Hard body nigga
+Just takin' it easy
+All about my paper
+Bout my paper like E-Z
+Wider wrappers
+Why do rappers
+Lie to fans, lie to rappers
+Lot of rappers lie like actors
+Cut the motherfuckin' cameras
+Cut the check, nigga, fuck your props
+And make it out to Mr. Hip-Hop
+I'm not dead, I'm alive"
 }
 ])
 
