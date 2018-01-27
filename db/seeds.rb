@@ -11563,5 +11563,964 @@ Cut the motherfuckin' cameras
 Cut the check, nigga, fuck your props
 And make it out to Mr. Hip-Hop
 I'm not dead, I'm alive"
+}, {
+  album_id: Album.find_by_title("Illmatic").id,
+  title: "The Genesis",
+  features: "AZ & Jungle",
+  producer: "Faith N & Nas",
+  lyrics: "[Nas]
+Street's disciple, my raps are trifle
+I shoot slugs from my brain just like a rifle
+Stampede the stage, I leave the microphone split
+Play Mr. Tuffy while I'm on some Pretty Tone shit
+Verbal assassin, my architect pleases
+When I was 12, I went to…
+
+[Hector]
+And you're sitting at home doing this shit
+I should be earning a medal for this
+Stop fuckin' around and be a man
+There ain't nothin' out here for you
+
+[Zoro]
+Oh yes, there is… This
+
+[Jungle]
+Yo, Nas, yo, what the fuck is this bullshit on the radio, son?
+
+[Nas]
+Chill, chill! That's the shit, God, chill
+
+[AZ]
+Ayo, yo, pull down the shade, man
+Let's count this money, nigga
+Ayo, Nas, put the Jacksons and the Grants over there!
+You know what I'm sayin'?
+‘Cause we spendin' the Jacksons
+You know how we get down, baby
+
+[Nas]
+True, true
+
+[Jungle]
+Nas, yo, Nas, man
+Shit is mad real right now in the projects
+For a nigga, yo, word to mother
+All them crab-ass rappers be comin' up to me
+Man, word to mother, man
+I think we need to let them niggas know it's real, man
+
+[Nas]
+True indeed, knamsayin'?
+But when it's real you doin' this
+Even without a record contract, knamsayin'?
+
+[AZ]
+No question
+
+[Nas]
+Been doing this since back then
+
+[AZ]
+I'm sayin' regardless how it go down we gon' keep it real
+We tryin' to see many mansions and Coupes, kid
+
+[Nas]
+No doubt, we gon' keep it real, true, true
+
+[Jungle]
+Ayo, where's Grand Wizard and Mayo at, man?
+Takin' niggas a long time, man
+
+[Nas]
+Who got the Phillies? Take this Hennessy
+
+[AZ]
+Ayo, dunn
+C'mon, c'mon, man, stop wavin' that, man!
+Stop pointin' that at me, dunn, take the clip out!
+
+[Nas]
+Nigga, alright, but take this Hennessy, man!
+
+[AZ]
+I'm sayin' take the clip, man, c'mon, take it out!
+
+[Nas]
+Light them Phillies up, man!
+Niggas stop fuckin' burnin' Phillies, man
+Light some Phillies up then!
+
+[Jungle]
+Pass that henrock, pass that henrock!
+Nigga, act like you know!
+
+[AZ]
+Yo, we drinkin' this straight up with no chaser
+I ain't fuckin' with you, nigga
+
+[Nas]
+I'm saying though, man
+
+[AZ]
+What is it, what is it, baby?
+
+[Jungle]
+What is it, son, what is it?
+
+[AZ]
+You know what time it is
+
+[Nas]
+I'm saying, man, you know what I'm saying?
+Niggas don't listen, man
+Representin', it's Illmatic"
+}, {
+  album_id: Album.find_by_title("Illmatic").id,
+  title: "N.Y. State Of Mind",
+  features: "",
+  producer: "DJ Premier",
+  lyrics: "[Intro]
+Yeah, yeah
+Ayo, Black, it's time, word (Word, it's time, man)
+It's time, man (Aight, man, begin)
+Straight out the fuckin' dungeons of rap
+Where fake niggas don't make it back
+I don't know how to start this shit, yo... now
+
+[Verse 1]
+Rappers, I monkey flip 'em, with the funky rhythm I be kickin'
+Musician, inflictin' composition of pain
+I'm like Scarface sniffin' cocaine
+Holdin' an M16, see with the pen I'm extreme
+Now, bullet holes left in my peepholes
+I'm suited up in street clothes
+Hand me a 9 and I'll defeat foes
+Y'all know my steelo with or without the airplay
+I keep some E&J, sittin' bent up in the stairway
+Or either on the corner bettin' Grants with the cee-lo champs
+Laughin' at baseheads tryna sell some broken amps
+G-packs get off quick, forever niggas talk shit
+Reminiscin' about the last time the task force flipped
+Niggas be runnin' through the block shootin'
+Time to start the revolution, catch a body, head for Houston
+Once they caught us off-guard, the MAC-10 was in the grass and
+I ran like a cheetah, with thoughts of an assassin
+Picked the MAC up, told brothers, \"Back up!\" — the MAC spit
+Lead was hittin' niggas, one ran, I made him backflip
+Heard a few chicks scream, my arm shook, couldn't look
+Gave another squeeze, heard it click, \"Yo, my shit is stuck!\"
+Try to cock it, it wouldn't shoot, now I'm in danger
+Finally pulled it back and saw
+Three bullets caught up in the chamber
+So now I'm jettin' to the building lobby
+And it was full of children prob'ly, couldn't see as high as I be
+(So what you sayin'?) It's like the game ain't the same
+Got younger niggas pullin' the triggers, bringin' fame to their name
+And claim some corners, crews without guns are goners
+In broad daylight, stick-up kids, they run up on us
+45's and gauges, MAC's in fact
+Same niggas will catch you back-to-back
+Snatchin' your cracks in black
+There was a snitch on the block gettin' niggas knocked
+So hold your stash 'til the coke price drop
+I know this crackhead who said she got to smoke nice rock
+And if it's good, she'll bring you customers in measuring pots
+But yo, you gotta slide on a vacation
+Inside information keeps large niggas erasin' and their wives basin'
+It drops deep as it does in my breath
+I never sleep, ‘cause sleep is the cousin of death
+Beyond the walls of intelligence, life is defined
+I think of crime when I'm in a New York state of mind
+
+[Hook]
+\"New York state of mind\"
+
+[Verse 2]
+Be havin' dreams that I'm a gangsta
+Drinkin' Moëts, holdin' TEC's
+Makin' sure the cash came correct, then I stepped
+Investments in stocks, sewin' up the blocks to sell rocks
+Winnin' gunfights with mega-cops
+But just a nigga walkin' with his finger on the trigger
+Make enough figures until my pockets get bigger
+I ain't the type of brother made for you to start testin'
+Give me a Smith & Wesson, I have niggas undressin'
+Thinkin' of cash flow, buddha and shelter
+Whenever frustrated, I'm a hijack Delta
+In the PJ's, my blend tape plays, bullets are strays
+Young bitches is grazed, each block is like a maze
+Full of black rats trapped plus the Island is packed
+From what I hear in all the stories when my peoples come back
+Black, I'm livin' where the nights is jet-black
+The fiends fight to get crack
+I just max, I dream I can sit back
+And lamp like Capone, with drug scripts sewn
+Or the legal luxury life, rings flooded with stones, holmes
+I got so many rhymes, I don't think I'm too sane
+Life is parallel to Hell, but I must maintain
+And be prosperous, though we live dangerous
+Cops could just arrest me, blamin' us: we're held like hostages
+It's only right that I was born to use mics
+And the stuff that I write is even tougher than dykes
+I've taken rappers to a new plateau
+Through rap slow, my rhymin' is a vitamin held without a capsule
+The smooth criminal on beat breaks
+Never put me in your box if your shit eats tapes
+The city never sleeps, full of villains and creeps
+That's where I learned to do my hustle, had to scuffle with freaks
+I'm an addict for sneakers
+20's of buddha and bitches with beepers
+In the streets I can greet ya, about blunts I teach ya
+Inhale deep like the words of my breath
+I never sleep, ‘cause sleep is the cousin of death
+I lay puzzle as I backtrack to earlier times
+Nothing's equivalent to the New York state of mind
+
+[Hook]
+\"New York state of mind\"
+
+[Outro]
+\"Nasty Nas\""
+}, {
+  album_id: Album.find_by_title("Illmatic").id,
+  title: "Life's A Bitch",
+  features: "AZ",
+  producer: "L.E.S.",
+  lyrics: "[Intro: AZ + Nas)]
+Ayo, what's up, what's up?
+Let's keep it real, son, count this money
+You know what I'm sayin'? Yeah yeah
+Ayo, put the Grants over there in the safe
+You know what I'm sayin'?
+‘Cause we spendin' these Jacksons
+The Washingtons go to wifey, you know how that go
+I'm sayin' that's what this is all about right
+Clothes, bankrolls, and hoes
+You know what I'm sayin'?
+Yo, then what man, what?!
+
+[Verse 1: AZ]
+Visualizin' the realism of life in actuality
+Fuck who's the baddest, a person's status depends on salary
+And my mentality is money-orientated
+I'm destined to live the dream for all my peeps who never made it
+‘Cause yeah, we were beginners in the hood as Five Percenters
+But somethin' must've got in us, ‘cause all of us turned to sinners
+Now some restin' in peace and some are sittin' in San Quentin
+Others, such as myself, are tryin' to carry on tradition
+Keepin' this Schweppervescent street ghetto essence inside us
+'Cause it provides us with the proper insight to guide us
+Even though we know, somehow we all gotta go
+But as long as we leavin' thievin'
+We'll be leavin' with some kind of dough
+So, until that day we expire and turn to vapors
+Me and my capers will be somewhere stackin' plenty papers
+Keepin' it real, packin' steel, gettin' high
+‘Cause life's a bitch and then you die
+
+[Hook: AZ] (x2)
+Life's a bitch and then you die
+That's why we get high
+‘Cause you never know when you're gonna go
+Life's a bitch and then you die
+That's why we puff lye
+‘Cause you never know when you're gonna go
+
+[Verse 2: Nas]
+I woke up early on my born day; I'm 20, it's a blessin'
+The essence of adolescence leaves my body, now I'm fresh and
+My physical frame is celebrated ‘cause I made it
+One quarter through life, some godly-like thing created
+Got rhymes 365 days annual, plus some
+Load up the mic and bust one, cuss while I pus from
+My skull, ‘cause it's pain in my brain vein, money maintain
+Don't go against the grain, simple and plain
+When I was young at this I used to do my thing hard
+Robbin' foreigners, take they wallets, they jewels and rip they green cards
+Dipped to the projects, flashin' my quick cash
+And got my first piece of ass, smokin' blunts with hash
+Now it's all about cash in abundance
+Niggas I used to run with is rich or doin' years in the hundreds
+I switched my motto; instead of sayin', \"Fuck tomorrow!\"
+That buck that bought a bottle could've struck the lotto
+Once I stood on the block, loose cracks produce stacks
+I cooked up and cut small pieces to get my loot back
+Time is illmatic, keep static like wool fabric
+Pack a 4-matic to crack your whole cabbage
+
+[Hook: AZ]
+Life's a bitch and then you die
+That's why we get high
+‘Cause you never know when you're gonna go
+Life's a bitch and then you die
+That's why we puff lye
+‘Cause you never know when you're gonna go
+Life's a bitch and then you die
+
+[Trumpet Outro: Olu Dara]"
+}, {
+  album_id: Album.find_by_title("Illmatic").id,
+  title: "The World Is Yours",
+  features: "",
+  producer: "Pete Rock",
+  lyrics: "[Hook: Pete Rock + Nas]
+{It's yours} Whose world is this?
+The world is yours, the world is yours
+It's mine, it's mine, it's mine—whose world is this?
+It's mine, it's mine, it's mine—whose world is this?
+The world is yours, the world is yours
+It's mine, it's mine, it's mine—whose world is this?
+
+[Verse 1: Nas]
+I sip the Dom P, watchin' Gandhi 'til I'm charged, then
+Writin' in my book of rhymes, all the words past the margin
+Behold the mic I'm throbbin', mechanical movement
+Understandable smooth shit that murderers move with
+The thief's theme, play me at night, they won't act right
+The fiend of hip-hop has got me stuck like a crack pipe
+The mind activation, react like I'm facin'
+Time like Pappy Mason, with pens I'm embracin'
+Wipe the sweat off my dome, spit the phlegm on the streets
+Suede Timbs on my feet makes my cipher complete
+Whether cruisin' in a Six cab or Montero Jeep
+I can't call it, the beats make me fallin' asleep
+I keep fallin', but never fallin' six feet deep
+I'm out for presidents to represent me (Say what?)
+I'm out for presidents to represent me (Say what?)
+I'm out for dead presidents to represent me
+
+[Hook: Pete Rock + Nas]
+{It's yours} Whose world is this?
+The world is yours, the world is yours
+It's mine, it's mine, it's mine—whose world is this?
+It's mine, it's mine, it's mine—whose world is this?
+The world is yours, the world is yours
+It's mine, it's mine, it's mine—whose world is this?
+
+[Bridge: Nas]
+To my man Ill Will
+God bless your life
+To my peoples throughout Queens
+God bless your life
+
+[Verse 2: Nas]
+I trip, we box up crazy bitches
+Aimin' guns in all my baby pictures
+Beef with housing police, release scriptures that's maybe Hitler's
+Yet I'm the mild, money-gettin' style, rollin' foul
+The versatile, honey-stickin', wild, golden child
+Dwellin' in the Rotten Apple, you get tackled
+Or caught by the devil's lasso, shit is a hassle
+There's no days for broke days
+We sell it, smoke pays, while all the old folks pray
+To Jesús, soakin' their sins in trays of holy water
+Odds against Nas are slaughter
+Thinkin' a word best describin' my life to name my daughter
+My strength, my son, the star will be my resurrection
+Born in correction, all the wrong shit I did
+He'll lead a right direction
+How you livin'? Large, a broker charge, cards are mediocre
+You flippin' coke or playin' spit, spades, and strip poker?
+
+[Hook: Pete Rock + Nas]
+{It's yours} Whose world is this?
+The world is yours, the world is yours
+It's mine, it's mine, it's mine—whose world is this?
+It's mine, it's mine, it's mine—whose world is this?
+The world is yours, the world is yours
+It's mine, it's mine, it's mine—whose world is this?
+
+[Verse 3: Nas]
+I'm the young city bandit, hold myself down single-handed
+For murder raps, I kick my thoughts alone, get remanded
+Born alone, die alone, no crew to keep my crown or throne
+I'm deep by sound alone, caved inside, 1,000 miles from home
+I need a new nigga for this black cloud to follow
+‘Cause while it's over me it's too dark to see tomorrow
+Tryin' to maintain, I flip, fill the clip to the tip
+Picturin' my peeps not eatin' can make my heartbeat skip
+And I'm amped up, they locked the champ up
+Even my brain's in handcuffs
+Headed for Indiana, stabbin' women like the Phantom
+The crew is lampin', Big Willie style
+Check the chip-toothed smile, plus I profile wild
+Stash loot in fly clothes, burnin' dollars to light my stoge
+Walk the blocks with a bop, checkin' dames
+Plus the games people play bust the problems of the world today
+
+[Hook: Pete Rock + Nas]
+{It's yours} Whose world is this?
+The world is yours, the world is yours
+It's mine, it's mine, it's mine—whose world is this?
+It's mine, it's mine, it's mine—whose world is this?
+The world is yours, the world is yours
+It's mine, it's mine, it's mine—whose world is this?
+
+[Outro: Nas]
+Yeah, a'ight?
+To everybody in Queens, the foundation (It's yours!)
+The world is yours
+To everybody uptown, yo, the world is yours (It's yours!)
+The world is yours
+To everybody in Brooklyn
+Y'all know the world is yours (It's yours!)
+The world is yours
+Everybody in Mount Vernon, the world is yours (It's yours!)
+Long Island, the world is yours (It's yours!)
+Staten Island, yeah, the world is yours (It's yours!)
+South Bronx, the world is yours (It's yours!)
+Aight"
+}, {
+  album_id: Album.find_by_title("Illmatic").id,
+  title: "Halftime",
+  features: "",
+  producer: "Large Professor",
+  lyrics: "[Intro]
+Check me out, y'all
+Nasty Nas in your area
+About to cause mass hysteria
+
+[Verse 1]
+Before a blunt, I take out my fronts
+Then I start to front; matter of fact, I be on a manhunt
+You couldn't catch me in the streets without a ton of reefer
+That's like Malcolm X catching the Jungle Fever
+King poetic; too much flavor, I'm major
+Atlanta ain't Brave-r, I'll pull a number, like a pager
+‘Cause I'm an ace when I face the bass
+40-side is the place that is giving me grace
+Now wait, another dose and you might be dead
+And I'm a Nike-head, I wear chains that excite the Feds
+And ain't a damn thing gonna change
+I'm a performer, strange
+So the mic warmer was born to gain
+Nas, why did you do it? You know
+You got the mad-phat fluid when you rhyme; it's halftime
+
+[Hook]
+It's halftime
+This is how it feel
+Check it out, how it feel
+
+[Verse 2]
+It's like that, you know it's like that
+I got it hemmed, now you never get the mic back
+When I attack, there ain't an army that could strike back
+So I react never calmly on a hype track
+I set it off with my own rhyme
+‘Cause I'm as ill as a convict who kills for phone time
+I'm max like cassettes, I flex like sex
+In your stereo sets, Nas'll catch wreck
+I used to hustle; now all I do is relax and strive
+When I was young I was a fan of the Jackson 5
+I drop jewels, wear jewels, hope to never run it
+With more kicks than a baby in a mother's stomach
+Nasty Nas has to rise, ‘cause I'm wise
+This is exercise 'til the microphone dies
+Back in '83 I was an MC sparkin'
+But I was too scared to grab the mics in the parks, and
+Kick my little raps ‘cause I thought niggas wouldn't understand
+And now in every jam I'm the fuckin' man
+I rap in front of more niggas than in the slave ships
+I used to watch \"CHiPs\", now I load Glock clips
+I got to have it, I miss Mr. Magic
+Versatile, my style switches, like a faggot
+But not bisexual; I'm an intellectual
+Of rap I'm a professional, and that's no question, yo
+These are the lyrics of the man
+You can't near it, understand?
+‘Cause in the streets I'm well-known, like the number man
+Am I in place with the bass and format?
+Explore rap and tell me, \"Nas ain't all that.\"
+And next time I rhyme, I be foul
+Whenever I freestyle I see trial, niggas say I'm wild
+I hate a rhyme-biter's rhyme
+Stay tuned, I assume; the real rap comes at halftime
+
+[Hook]
+It's halftime
+This is how it feel
+Check it out, how it feel
+
+[Verse 3]
+I got it going on, even flip a morning song
+Every afternoon, I kick half the tune
+And in the darkness, I'm heartless, like when the NARC's hit
+Word to Marcus Garvey; I hardly sparked it
+‘Cause when I blast the herb, that's my word
+I be slayin' them fast, doing this that and the third
+But chill, pass the Andre, and let's slay
+I bag bitches up at John Jay, and hit a matinee
+Putting hits on 5-0
+‘Cause when it's my time to go, I wait for God with the .44
+And biters can't come near
+And yo, go to hell to the foul cop who shot Garcia
+I won't plant seeds
+Don't need an extra mouth I can't feed
+That's extra Phillie change, more cash for damp weed
+This goes out to Manhattan, the island of Staten
+Brooklyn and Queens is living fat, and
+The Boogie Down, enough props, enough clout
+Ill Will, rest in peace! Yo, I'm out"
+}, {
+  album_id: Album.find_by_title("Illmatic").id,
+  title: "Memory Lane (Sittin' In Da Park)",
+  features: "",
+  producer: "DJ Premier",
+  lyrics: "[Intro]
+Aight, fuck that shit! Word, word
+Fuck that other shit, y'know what I'm sayin'?
+We gonna do a lil somethin' like this
+Y'know what I'm sayin'?
+(Y'all doing that other shit)
+Keep it on and on and on and on and
+Know'm sayin'? Big Nas, Grand Wizard, what is it?
+(It's like…) Haha, you know what I'm sayin'?
+Yo, go ahead and rip that shit, dun!
+
+[Verse 1]
+I rap for listeners, bluntheads, fly ladies, and prisoners
+Henessey-holders and old-school niggas, then I be dissin' a
+Unofficial that smoke Woolie Thai
+I dropped out of Cooley High, gassed up by a cokehead cutie pie
+Jungle survivor, fuck who's the live-er
+My man put the battery in my back, a difference from Energizer
+Sentence begins indented with formality
+My duration's infinite, moneywise or physiology
+Poetry, that's a part of me, retardedly bop
+I drop the ancient manifested hip-hop straight off the block
+I reminisce on park jams, my man was shot for his sheep coat
+Choco blessin' make me see him drop in my weed smoke
+It's real, grew up in trife life, did times or white lines
+The high pipes, murderous nighttimes
+And knife fights and blight crimes
+Chill on the block with Cognac, hold strap
+With my peeps that's into drug money market interact
+No sign of the beast in the blue Chrysler
+I guess that means peace
+For niggas, no sheisty vice to just snipe ya
+Start off the dice-rollin' mats for craps to cee-lo
+With side-bets, I roll a deuce, nothin' below
+(Peace God!) Peace God – now the shit is explained
+I'm takin' niggas on a trip straight through memory lane
+It's like that, y'all…
+
+[Hook]
+\"Now let me take a trip down memory lane\"
+\"Comin' outta Queensbridge\"
+
+[Verse 2]
+One for the money, two for pussy and foreign cars
+Three for Alizé, niggas deceased or behind bars
+I rap divine, God, check the prognosis: is it real or showbiz?
+My window faces shootouts, drug overdoses
+Live amongst no roses, only the drama
+For real, a nickel-plate is my fate, my medicine is the ganja
+Here's my basis, my razor embraces, many faces
+You're telephone blown, black, stitches or fat shoelaces
+Peoples are petro, dramatic automatic .44 I let blow
+And back down po-po when I'm vexed so
+My pen taps the paper, then my brain's blank
+I see dark streets, hustlin' brothers who keep the same rank
+Pumpin' for somethin', some'll prosper, some fail
+Judges hangin' niggas, uncorrect bails for direct sales
+My intellect prevails from a hangin' cross with nails
+I reinforce the frail, with lyrics that's real
+Word to Christ, a disciple of streets, trifle on beats
+I decipher prophecies through a mic and say \"peace\"
+I hung around the older crews
+While they sling smack to dingbats
+They spoke of Fat Cat; that nigga's name made bell rings, black
+Some fiends scream about Supreme Team, a Jamaica Queens thing
+Uptown was Alpo, son, heard he was kingpin
+Yo, fuck, rap is real! Watch the herbs stand still
+Never talkin' to snakes, ‘cause the words of man kill
+True in the game, as long as blood is blue in my veins
+I pour my Heineken brew to my deceased crew on memory lane
+
+[Hook]
+\"Now let me take a trip down memory lane\"
+\"Comin' outta Queensbridge\"
+\"Now let me take a trip down memory lane\"
+\"Comin' outta Queensbridge\"
+
+[Outro: DJ Premier scracthing]
+\"Comin' out of Queensbridge\" (X4)
+\"The most dangerous MC is…\"
+\"Comin' out of Queensbridge\"
+\"The most dangerous MC is…\"
+\"Comin' out of Queensbridge\"
+\"The most dangerous MC is…\"
+\"Comin' out of Queensbridge\"
+\"The most dangerous MC is…\"
+\"Me number one, and you know where me from\""
+}, {
+  album_id: Album.find_by_title("Illmatic").id,
+  title: "One Love",
+  features: "",
+  producer: "Q-Tip",
+  lyrics: "[Verse 1]
+What up, kid? I know shit is rough doin' your bid
+When the cops came you shoulda slid to my crib
+Fuck it, black, no time for lookin' back, it's done
+Plus, congratulations, you know you got a son
+I heard he looks like ya, why don't your lady write ya?
+Told her she should visit, that's when she got hyper
+Flippin', talkin' about he acts too rough
+He didn't listen, he be riffin' while I'm tellin' him stuff
+I was like, \"Yeah,\" shorty don't care, she a snake too
+Fuckin' with them niggas from that fake crew that hate you
+But yo, guess who got shot in the dome-piece?
+Jerome's niece, on her way home from Jones Beach
+It's bugged, plus little Rob is sellin' drugs on the dime
+Hangin' out with young thugs that all carry 9's
+And night time is more trife than ever
+What up with Cormega? Did you see him? Are y'all together?
+If so, then hold the fort down, represent to the fullest
+Say what's up to Herb, Ice and Bullet
+I left a half a hundred in your commissary
+You was my nigga when push came to shove
+(One what?) One love!
+
+[Hook: Q-Tip]
+One love, one love, one love, one love
+One love, one love, one love, one love
+One love, one love, one love, one love
+One love, one love, one love, one love
+
+[Verse 2]
+Dear Born, you'll be out soon, stay strong
+Out in New York the same shit is goin' on
+The crackheads stalkin', loudmouths is talkin'
+Hold, check out the story yesterday when I was walkin'
+That nigga you shot last year tried to appear
+Like he hurtin' somethin'
+Word to mother, I heard him frontin'
+And he be pumpin' on your block
+Your man gave him your Glock
+And now they run together — what up, son? Whatever
+Since I'm on the streets I'ma put it to a cease
+But I heard you blew a nigga with a ox for the phone piece
+Wildin' on the Island, but now in Elmira
+Better chill, ‘cause them niggas will put that ass on fire
+Last time you wrote you said they tried you in the showers
+But maintain, when you come home the corner's ours
+On the reals, all these crab niggas know the deal
+When we start the revolution all they probably do is squeal
+But chill, see you on the next V-I
+I gave your mom dukes loot for kicks, plus sent you flicks
+Your brother's buckwildin' in 4-Main, he wrote me
+He might beat his case, 'til he come home he'll play it lowkey
+So stay civilized, time flies
+Though incarcerated your mind dies
+I hate it when your moms cries
+It kinda makes me want to murder, for reala
+I even got a mask and gloves to bust slugs, but one love
+
+[Hook: Q-Tip]
+One love, one love, one love, one love
+One love, one love, one love, one love
+One love, one love, one love, one love
+One love, one love, one love, one love
+
+[Verse 3]
+Sometimes I sit back with a Buddha sack
+Mind's in another world, thinkin'
+\"How can we exist through the facts?\"
+Written in school text books, bibles, et cetera
+Fuck a school lecture, the lies get me vexed-er
+So I be ghost from my projects
+I take my pen and pad for the weekend
+Hittin' L's while I'm sleepin'
+A two-day stay, you may say I need the time alone
+To relax my dome, no phone, left the 9 at home
+You see the streets had me stressed somethin' terrible
+Fuckin' with the corners have a nigga up in Bellevue
+Or HDM, hit with numbers from 8 to 10
+A future in a maximum state pen is grim
+So I comes back home, nobody's out but Shorty Doo-Wop
+Rollin' two phillies together: in the Bridge we call 'em oo-wops
+He said: \"Nas, niggas caught me bustin' off the roof
+So I wear a bulletproof and pack a black tre-deuce.\"
+He inhaled so deep, shut his eyes like he was sleep
+Started coughin', one eye peeked to watch me speak
+I sat back like The Mack, my army suit was black
+We was chillin' on these benches
+Where he pumped his loose cracks
+I took the L when he passed it, this little bastard
+Keeps me blasted and starts talkin' mad shit
+I had to school him, told him don't let niggas fool him
+‘Cause when the pistol blows
+The one that's murdered be the cool one
+Tough luck when niggas are struck, families fucked up
+Coulda caught your man, but didn't look when you bucked up
+Mistakes happen, so take heed, never bust up
+At the crowd, catch him solo, make the right man bleed
+Shorty's laugh was cold-blooded as he spoke so foul
+Only twelve, tryin' to tell me that he liked my style
+Then I rose, wipin' the blunt's ash from my clothes
+Then froze, only to blow the herb smoke through my nose
+And told my little man I'ma ghost, I broze
+Left some jewels in his skull that he can sell if he chose
+Words of wisdom from Nas: try to rise up above
+Keep an eye out for Jake, Shorty Wop, one love
+
+[Hook: Q-Tip]
+One love, one love, one love, one love
+One love, one love, one love, one love
+One love, one love, one love, one love
+One love, one love, one love, one love
+
+[Outro]
+To all my niggas locked up
+From Queensbridge and all over
+To my man [Goon?], one love
+To my man [Her?], one love
+To my man [Lake Gucciano?], one love
+Can't forget my motherfuckin' heart, Big [Bo?], one love
+To [Oogie?], yeah, one love"
+}, {
+  album_id: Album.find_by_title("Illmatic").id,
+  title: "One Time 4 Your Mind",
+  features: "",
+  producer: "Large Professor",
+  lyrics: "[Hook: Grand Wizard + Nas]
+One time for your mind, one time
+Yeah, whatever
+One time for your mind, one time
+Yo, whatever
+One time for your mind, one time
+Hey yo, Nas? Kick that fuckin' rhyme!
+
+[Verse 1]
+Check it out, when I'm chilling, I grab the buddha
+Get my crew to buy beers
+And watch a flick, illin' and root for the villain, huh
+Plus every morning, I go out and love it sort of chilly
+Then I send a shorty from my block to the store for Phillies
+After being blessed by the herb's essence
+I'm back to my rest, ten minutes, some odd seconds
+That's where I got the honey at, spends the night for sexin'
+Keep lubrication, Lifestyle protection
+Hitting up my stereo's remote control quickly
+Ron G's in the cassette deck, rocking the shit, G
+I try to stay mellow, rock, well a cappella rhymes'll
+Make me richer than a slipper made Cinderella, fella
+Go get your crew, Hobbes, I'm prepared to bomb troops
+Y'all niggas was born, I shot my way out my mom dukes
+When I was ten I was a hip-hoppin' shorty wop
+Known for rocking microphones and twisting off a 40 top
+
+[Hook: Grand Wizard + Nas]
+One time for your mind, one time
+Yeah, whatever
+One time for your mind, one time
+It sounds clever
+Hey yo, Nas? Fuck that, man, that shit is phat
+But kick that for them gangstas; fuck all that!
+Right, right
+
+[Verse 2]
+What up, niggas, how y'all? It's Nasty, the villain
+I'm still writing rhymes, but besides that I'm chillin'
+I'm tryin' to get this money, God
+You know the hard times, kid
+Shit, cold, be starving make you wanna do crimes kid
+But I'ma lamp, ‘cause a crime couldn't beat a rhyme
+Niggas catching 3 to 9's, Muslims yelling \"Free the mind\"
+And I'm from Queensbridge, been to many places
+As a kid when I would say that out of town, niggas chased us
+But now I know the time, got a older mind
+Plus control a 9, fine, see now I represent mine
+I'm new on the rap scene, brothers never heard of me
+Yet I'm a menace, yo, police wanna murder me
+Heini Dark drinker, represent the thinker
+My pen rides the paper, it even has blinkers
+Think I'll dim the lights, then inhale, it stimulates
+Floating like I'm on the North 95 Interstate
+Never plan to stop, when I write my hand is hot
+And expand a lot from the Wiz to Camelot
+The parlayer, I'll make your heads bop, pa
+I shine a light on perpetrators, like a cop's car
+From day to night, I play the mic and you'll thank God
+I wreck shit so much, the microphone'll need a paint job
+My brain is incarcerated
+Live at any jam, I couldn't count all the parks I've raided
+I hold a MAC-11, and attack a reverend
+I contact eleven L's and max in heaven
+
+[Hook: Grand Wizard + Nas]
+One time for your mind, one time
+It sounds clever
+One time for your mind, one time
+Yeah, whatever
+One time for your mind, one time
+Yo, from '92 to '99
+
+[Outro]
+Yeah, that shit was crazy fat, pa
+Know what I’m sayin'?
+But check it, you got another verse for me
+I want you to kick it, you know what I'm sayin'?
+Kick that shit for the projects"
+}, {
+  album_id: Album.find_by_title("Illmatic").id,
+  title: "Represent",
+  features: "",
+  producer: "DJ Premier",
+  lyrics: "[Hook]
+Represent, represent
+Represent, represent
+Represent, represent
+Represent, represent
+
+[Verse 1]
+Straight up, shit is real
+And any day could be your last in the jungle
+Get murdered on a humble, guns'll blast, niggas tumble
+The corners is the hot spot, full of mad criminals
+Who don't care, guzzling beers, we all stare
+At the out-of-towners, they better break North
+Before we get the four pounders and take their face off
+The streets is filled with undercovers
+Homicide chasing brothers
+The D's on the roof tryin' to watch us and knock us
+And killer coppers even come through in helicopters
+I drink a little vodka, spark a L and hold a Glock
+For the fronters, wannabe ill niggas and spot runners
+Thinking it can't happen 'til I trap 'em and clap 'em
+And leave 'em done, won't even run about gods
+I don't believe in none of that shit, your facts are backwards
+Nas is a rebel of the street corner
+Pulling a TEC out the dresser; police got me under pressure
+
+[Hook]
+Represent, represent
+Represent, represent
+Represent, represent
+Represent, represent
+
+[Verse 2]
+Yo, they call me Nas, I'm not your legal type of fella
+Moet drinking, marijuana smoking street dweller
+Who's always on the corner, rolling up blessed
+When I dress, it's never nothing less than Guess
+Cold be walking with a bop and my hat turned back
+Love committing sins and my friends sell crack
+This nigga raps with a razor, keep it under my tongue
+The school drop-out, never liked the shit from day one
+‘Cause life ain't shit but stress, fake niggas, and crab stunts
+So I guzzle my Hennessy while pulling on mad blunts
+The brutalizer, Brutus-izer, accelerator
+The type of nigga who be pissing in your elevator
+Somehow the rap game reminds me of the crack game
+Used to sport Bally's and Cazals with black frames
+Now I'm into fat chains, sex and TEC's
+Fly new chicks and new kicks, Heine's and Beck's
+
+[Hook]
+Represent, represent
+Represent, represent
+Represent, represent
+
+[Verse 3]
+No doubt, see my stacks are fat, this is what it's about
+Before the BDP conflict with MC Shan
+Around the time when Shante dissed the Real Roxxane
+I used to wake up every morning, see my crew on the block
+Every day's a different plan that had us running from cops
+If it wasn't hanging out in front of cocaine spots
+We was at the candy factory, breaking the locks
+Nowadays, I need the green in a flash just like the next man
+Fuck a yard, God, let me see a hundred grand
+Could use a gun, son, but fuck being the wanted man
+But if I hit rock bottom then I'ma be the Son of Sam
+Then call the crew to get live too, with Swoop
+Bokeem, my brother Jungle, Big Bo cooks up the blow
+Mike'll chop it; Mayo, you count the profit
+My shit is on the streets, this way the Jakes'll never stop it
+It's your brain on drugs, to all fly bitches and thugs
+'Nuff respect to the projects, I'm ghost, one love
+
+[Hook]
+Represent y'all, represent
+Represent y'all, represent
+Represent y'all, represent
+Represent y'all, represent
+
+[Outro: Nas]
+One time for your mothafuckin' mind
+This goes out to everybody in New York
+That's living the real fucking life and every projects, all over
+To my man Big Will, he's still here
+The 40 side of Vernon, my man Big L.E.S
+Big Cee-Lo from the Don, Shawn Penn, the 40 busters
+My crew the shorty busters, the 41st side of Vernon posse
+The Goodfellas, my man Cormega, Lakey the Kid
+Can't forget Draws, the Hillbillies
+My man Slate, Wallethead, Black Jay, Big Oogi
+Crazy barrio spot, (Big Dove), we rock shit a lot, Ph. D
+And my man Primo, from Gang Starr
+'94 real shit y'all (word up Harry O)
+Fuck y'all crab-ass niggas though!
+
+[Nas' posse]
+Bitch ass niggas! Bitch ass niggas!
+Young bitch ass motherfuckers!
+Come to Queensbridge, motherfucker!
+Yeah, yeah, let's bring it back
+That's just a warm up
+‘Cause I can– on anybody, anybody"
+}, {
+  album_id: Album.find_by_title("Illmatic").id,
+  title: "It Ain't Hard To Tell",
+  features: "",
+  producer: "Large Professor",
+  lyrics: "[Verse 1]
+It ain't hard to tell, I excel, then prevail
+The mic is contacted, I attract clientele
+My mic check is life or death, breathin' a sniper's breath
+I exhale the yellow smoke of buddha through righteous steps
+Deep like The Shining, sparkle like a diamond
+Sneak a Uzi on the island in my army jacket linin'
+Hit the Earth like a comet—invasion!
+Nas is like the Afrocentric Asian: half-man, half-amazin'
+‘Cause in my physical I can express through song
+Delete stress like Motrin, then extend strong
+I drink Moët with Medusa, give her shotguns in Hell
+From the spliff that I lift and inhale; it ain't hard to tell
+
+[Verse 2]
+The buddha monk's in your trunk, turn the bass up
+Not stories by Aesop
+Place your loot up, parties I shoot up
+Nas, I analyze, drop a jew-el, inhale from the L
+School a fool well, you feel it like Braille
+It ain't hard to tell, I kick a skill, like Shaquille holds a pill
+Vocabulary spills, I'm Ill plus Matic
+I freak beats, slam it, like Iron Sheik
+Jam like a TEC with correct techniques
+So analyze me, surprise me, but can't magmatize me
+Scannin' while you're plannin' ways to sabotage me
+I leave 'em froze, like heroin in your nose
+Nas will rock well; it ain't hard to tell
+
+[Verse 3]
+This rhythmatic explosion
+Is what your frame of mind has chosen
+I'll leave your brain stimulated, niggas is frozen
+Speak with criminal slang, begin like a violin
+End like Leviathan, it's deep; well, let me try again
+Wisdom be leakin' out my grapefruit, troop
+I dominate break loops, givin' mics men-e-strual cycles
+Street's disciple, I rock beats that's mega trifle
+And groove even smoother than moves by Villanova
+You're still a soldier, I'm like Sly Stone in Cobra
+Packin' like a Rasta in the weed spot
+Vocals will squeeze Glocks
+MCs eavesdrop, though they need not to sneak
+My poetry's deep, I never fell
+Nas' raps should be locked in a cell; it ain't hard to tell"
 }
 ])

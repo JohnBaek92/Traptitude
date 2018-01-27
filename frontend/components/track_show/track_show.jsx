@@ -36,6 +36,7 @@ class TrackShow extends React.Component {
     const albumId = Number(this.props.match.params.id);
     this.props.displayTrack(trackId);
     this.props.displaySingleAlbum(albumId);
+    window.scrollTo(0, 0);
   }
 
   annotatingLyrics() {
