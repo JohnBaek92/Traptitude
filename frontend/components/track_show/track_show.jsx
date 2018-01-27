@@ -214,14 +214,14 @@ class TrackShow extends React.Component {
     if (this.props.track && this.props.album) {
       const track = this.props.track;
       const album = this.props.album;
-      const photo_shown = track.image_url || album.image_url;
+      const photo = track.image_url || album.image_url;
       return (
         <section className="track-show-page">
           <section className="track-background">
             <img className="album-background-photo" src={album.image_url} />
             <div className="black-layer">
               <div className="track-total-info">
-                <img className="track-profile-photo" src={photo_shown} />
+                <img className="track-profile-photo" src={photo} />
                 <div className="track-info-minus-photo">
                   <div className="track-show-title">
                     {track.title} {this.favoritesToggle()}

@@ -1,13 +1,15 @@
-import React from 'react';
-import ReactQuill from 'react-quill';
-import SignInContainer from '../../home/header/user_form/signin_form_container';
+import React from "react";
+import ReactQuill from "react-quill";
+import SignInContainer from "../../home/header/user_form/signin_form_container";
 
 class AnnotationShow extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
       id: this.props.anno.id,
-      user_id: this.props.session.currentUser ? this.props.session.currentUser.id : null,
+      user_id: this.props.session.currentUser
+        ? this.props.session.currentUser.id
+        : null,
       body: this.props.anno.body,
       location: this.props.location,
       readOnly: true
@@ -21,11 +23,11 @@ class AnnotationShow extends React.Component {
   }
 
   handleEditOrSave() {
-    if(this.state.user_id !== null) {
-      if(this.state.readOnly) {
-        this.setState(Object.assign({}, this.state, {readOnly: false}));
+    if (this.state.user_id !== null) {
+      if (this.state.readOnly) {
+        this.setState(Object.assign({}, this.state, { readOnly: false }));
       } else {
-        this.setState(Object.assign({}, this.state, {readOnly: true}));
+        this.setState(Object.assign({}, this.state, { readOnly: true }));
         this.props.updateAnnotation(this.state);
       }
     } else {
@@ -39,9 +41,11 @@ class AnnotationShow extends React.Component {
   }
 
   deleteButtonRender() {
-    if(this.state.readOnly !== true) {
-      return(
-        <button className="delete-anno" onClick={this.handleDelete}>Delete</button>
+    if (this.state.readOnly !== true) {
+      return (
+        <button className="delete-anno" onClick={this.handleDelete}>
+          Delete
+        </button>
       );
     }
   }
@@ -50,39 +54,43 @@ class AnnotationShow extends React.Component {
     this.reactQuillRef.focus();
   }
 
-  componentWillReceiveProps(nextProps){
-    if(nextProps.session.currentUser !== null) {
-      this.setState(Object.assign({}, this.state, {user_id: nextProps.session.currentUser.id}));
+  componentWillReceiveProps(nextProps) {
+    if (nextProps.session.currentUser !== null) {
+      this.setState(
+        Object.assign({}, this.state, {
+          user_id: nextProps.session.currentUser.id
+        })
+      );
     } else {
-      this.setState(Object.assign({}, this.state, {user_id: null}));
+      this.setState(Object.assign({}, this.state, { user_id: null }));
     }
   }
 
-  componentDidUpdate(prevProps, prevState){
-    if(prevState.readOnly === true) {
+  componentDidUpdate(prevProps, prevState) {
+    if (prevState.readOnly === true) {
       this.focusQuill();
     }
   }
 
   handleChange(value) {
-    this.setState({ body: value});
+    this.setState({ body: value });
   }
 
   render() {
     let style = {
       zIndex: 3,
-      position: 'absolute',
+      position: "absolute",
       right: "10%",
-      top: this.state.location+"px",
+      top: this.state.location + "px",
       width: "21em"
     };
     let buttonTitle = null;
-    if(this.state.readOnly) {
+    if (this.state.readOnly) {
       buttonTitle = "Edit";
     } else {
       buttonTitle = "Save";
     }
-    return(
+    return (
       <section style={style}>
         <div className="purple-anno-arrow">
           <div className="line-one-anno">|</div>
@@ -94,18 +102,22 @@ class AnnotationShow extends React.Component {
           <div className="line-six-anno">|</div>
         </div>
         <div id="quill-container">
-          <ReactQuill ref={(el) => { this.reactQuillRef = el }}
-            theme='bubble'
+          <ReactQuill
+            ref={el => {
+              this.reactQuillRef = el;
+            }}
+            theme="bubble"
             onChange={this.handleChange}
             readOnly={this.state.readOnly}
-            value={this.state.body}>
-          </ReactQuill>
+            value={this.state.body}
+          />
         </div>
-        <button className="edit-or-save-button"
-          onClick={this.handleEditOrSave}>{buttonTitle}</button>
+        <button className="edit-or-save-button" onClick={this.handleEditOrSave}>
+          {buttonTitle}
+        </button>
         {this.deleteButtonRender()}
-    </section>
-    )
+      </section>
+    );
   }
 }
 
