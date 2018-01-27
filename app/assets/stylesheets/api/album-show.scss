@@ -76,6 +76,7 @@
 .the-word-lyrics {
   text-transform: capitalize;
   color: #9a9a9a;
+  padding-top: inherit;
   padding-left: .3rem;
 
 }
@@ -94,6 +95,7 @@
 .track-title {
   float: left;
   text-transform: none;
+  padding-top: inherit;
 }
 
 .album-tracklist {
@@ -122,8 +124,7 @@
   text-transform: capitalize;
   padding-left: .3rem;
   text-transform: none;
-  padding-top: 0.08rem;
-  font-size: 0.9em;
+  padding-top: inherit;
 }
 
 .tracks-content {

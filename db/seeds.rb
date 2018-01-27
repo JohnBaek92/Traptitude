@@ -9091,7 +9091,267 @@ Sorry nigga, I'm tryna come home
 Sorry nigga, I'm tryna come home
 Well, the walls are talking to me and I know you think I'm wrong
 But sorry nigga, I'm tryna come home, hey!"
-}])
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "3 Peat",
+  features: "",
+  producer: "Maestro",
+  lyrics: "[Intro]
+Yessir!
+They can't stop me
+Even if they stopped me
+Hahahah, yeah
+I'm on it
+Ooh, I'm on it
+I'm so on it
+And however you want it
+You can get it tonight ho
+And all night ho
+I get the beat from (Maestro)
+
+[Verse]
+Fuckin' right ho
+I might go
+Crazy on these niggas, I don't give a motherfuck
+Run up in a nigga house and shoot his grandmother up
+What! What! I don't give a motherfuck
+Get ya baby kidnapped and ya baby-mother fucked
+It's tha Carter 3, bitch, better put your supper up
+Hollygrove, I throw it up
+Like I'm trying to lose my gut
+Fuck is up?
+Beat him up
+Like a million uppercuts
+Got a million duffled up
+For the fuck
+Of it
+Shit
+Get on my level
+You can't get on my level
+You gon' need a space shuttle
+Or a ladder that's forever
+However
+I'm better
+If not now, then never
+Don't you ever fix your lips
+Unless you 'bout to suck my dick
+Bitch
+Swallow my words
+Taste my thoughts
+And if it's too nasty
+Spit it back at me
+Two more inches, I'd have been in that casket
+According to the doctor, I could've died in traffic
+Bounce right back on them bitches, like Magic
+Abracadabra
+I'm up, like Viagra
+I just do this shit for my clique, like Adam Sandler
+I control hip-hop and I'mma keep it on my channel
+Watch me
+Bitch, watch me
+Bitch, watch me
+But they cannot-see me
+Like Hitler
+It's the New Orleans nightmare
+Money so old
+It's growing white hair
+Young Money, baby
+Yeah we right here
+I'mma make sure we ball
+'Til we fall
+Like tears
+And mama, don't cry
+Your son can handle his
+I got her out the hood
+And put her in the hills
+Yeah, when I was 14
+I told my mom we will see better days
+And sure enough
+I got Miss Cita in a better place
+When I was 14
+I told my mom we will see better days
+And sure enough
+We did exactly what I say
+I told my girl
+\"When you fuck me
+Better fuck me good
+Cause if another girl could
+She gonna fuck me good\"
+No sitting at the table
+If you bringing nothing to it
+And I get straight to it
+Like it's nothing to it
+Yeah, I got game like Stuart
+Scott
+Fresh out the ESPN shop
+And when SportsCenter poppin'
+Everything stoppin'
+But you can't fool me
+I know what you watchin'
+Me!
+You watch me
+You watch me
+Cause I be
+Weezy
+Must see
+T.V
+C3
+Nigga that's me
+And I'm me
+I'm me
+Times three
+So retreat
+Or suffer defeat
+I'm back, 3-peat
+C3"
+}, {
+  album_id: Album.find_by_title("Tha Carter III").id,
+  title: "Mr. Carter",
+  features: "JAY Z",
+  producer: "Drew Correa & Infamous",
+  lyrics: "[Intro: Lil Wayne]
+Yo, yo Drew and Inf
+This-this, this right here is crazy
+Yo I, I feel big, you know what I mean?
+Like, not, not big in the sense of, weight
+You know what I mean? Like gainin' weight or nothin' like that
+Like colossal
+Like, know what I mean, like (sighs)
+I heard you were lookin' for me
+
+[Hook: Sha-Ron Prescott & Lil Wayne]
+Hey, Mr. Carter (hello)
+Tell me, where have you been? (Haha, you know, hehe)
+Cause they've been asking, they've been searching
+They've been wondering why (I know, haha)
+Hey, Mr. Carter (hey, hello)
+Tell me, where have you been? (Shit, you know)
+Cause they've been asking, they've been searching
+They've been wondering why (hahahah)
+
+[Verse 1: Lil Wayne]
+Yeah, to you forever, from me to you
+I heard somebody say \"Church\", I'ma need a suit
+I'ma need a coupe, I won't need a roof
+Flyer than Beetlejuice, Beetlejuice, Beetlejuice
+I got the flow, I'm tryin' to see the roof
+Didn't wear a bulletproof so I got shot and you can see the proof
+Blind eyes could look at me and see the truth
+Wonder if Stevie do?
+But I'ma leave it to
+God, not Beaver, neither you
+Cause I'ma murder Y, kill O, and even U
+Man, I got Summer hatin' on me cause I'm hotter than the Sun
+Got Spring hatin' on me 'cause I ain't never sprung
+Winter hatin' on me 'cause I'm colder than y'all
+And I will never, I will never, I will never Fall
+I'm being hated by the seasons
+So fuck y'all who hatin' for no reason
+
+[Hook: Sha-Ron Prescott & Lil Wayne]
+Hey, Mr. Carter (I am him!)
+Tell me, where have you been?
+Around the world and I'm back again!
+Cause they've been asking, they've been searching
+Who's been askin' about me?
+They've been wondering why (in case you wonderin', hah!)
+Hey, Mr. Carter (I am him!)
+Tell me, where have you been?
+Around the world now I'm back again!
+Cause they've been asking, they've been searching
+Who's been askin' about me?
+They've been wondering why (in case you wonderin', hah!)
+
+[Verse 2: Lil Wayne]
+Yeah, I been in and out the bank, bitch
+While y'all asshole niggas been on the same shit
+I flush and watch 'em go down the drain quick
+Two words you never hear: \"Wayne quit!\"
+Cause Wayne win, and they lose
+I call them April babies, cause they fools
+And when they snooze, we up!
+Feet up, like a parapleguc
+Or paraplegic? I parallel park
+In that red-and-yellow thing; old school Atlanta Hawk
+Like I'm from College Park, but I'm from Hollygrove
+Now all my Bloods scream \"Soo-woo\" and \"Da-da-do\"
+I know my role and I play it well
+And I weigh it well, on my Libra scale
+I suck a pussy, fuck a pussy, leave it there
+Long hair, don't even care
+
+[Hook: Sha-ron Prescott & Jay-Z]
+Hey, Mr. Carter (Young! I am him)
+Tell me, where have you been?
+Around the world now I'm back again
+Cause they've been asking, they've been searching
+Who's been askin' about me?
+They've been wondering why (in case you wonderin')
+Hey, Mr. Carter (I am him)
+Tell me, where have you been?
+Around the world now I'm back again
+Cause they've been asking, they've been searching
+Who's been askin' about me?
+They've been wondering why (in case you wonderin', chyeah)
+
+[Verse 3: Jay-Z]
+I'm right here in my chair with my crown and my dear
+Queen B, as I share, mic time with my heir
+Young Carter, go farther, go further, go harder
+Is that not why we came? And if not, then why bother?
+Show no mercy in Murcielagos
+I'm far from bein' the bastard that Marcy had fathered
+Now my name's been mentioned with the martyrs
+The Biggies and the Pacs and the Marleys and the Marcuses
+Garvey; got me a molotov-cocktail flow
+Even if you box well, can't stop the blows
+Kaboom! The Roc Boy in the room
+The dope boy I just came off the spoon
+Also, I'm so fly I'm on auto-
+Pilot, while guys just stare at my wardrobe
+I see Euros, that's right: plural
+I took so much change from this rap game, it's your go
+(Hey Mr. Carter) Young!
+
+[Verse 4: Lil Wayne]
+It's my go, yeah…
+And I'ma go so opposite of soft
+Off the richter, Hector, Camacho Man, Randy Savage
+Far from average, above status–quo
+Flow so pro
+I know, I ride slow, and when I pass
+They say, \"What up, killa?\" Man, stop bringin' up my past
+And next time you mention Pac, Biggie, or Jay-Z
+Don't forget Weezy, baby!
+
+[Hook: Sha-Ron Prescott, Lil Wayne & Choir]
+Hey, Mr. Carter (amen)
+Tell me, where have you been? (Yeah)
+Cause they've been asking, they've been searching
+They've been wondering why (haha)
+Hey, Mr. Carter (amen)
+Tell me, where have you been? (Hova!)
+Cause they've been asking, they've been searching (Weezy)
+They've been wondering why (baby!)
+Hey, Mr. Carter (hahaha)
+Tell me, where have you been? (I been hustlin')
+Cause they've been asking, they've been searching (hustlin' hard)
+They've been wondering why (chyeah!)
+Hey, Mr. Carter
+Tell me, where have you been?
+Cause they've been asking, they've been searching
+They've been wondering why
+
+[Outro: Lil Wayne]
+And I swear to everything, when I leave this Earth
+It's gonna be on both feet, never knees in the dirt
+And you can try me, fucker, but when I squeeze, it hurt
+Ahh, we'll lose two lives: yours and mine
+Give me any amount of time, don't let Ms. Carter grieve
+At the funeral parlor, drippin' tears down my sleeve
+Give me any amount of time, don't let Ms. Carter grieve"
+}
+])
 
 annotations = Annotation.create([{
   user_id: User.find_by_username("guest").id,
