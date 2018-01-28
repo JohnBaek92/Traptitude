@@ -12522,5 +12522,1307 @@ Vocals will squeeze Glocks
 MCs eavesdrop, though they need not to sneak
 My poetry's deep, I never fell
 Nas' raps should be locked in a cell; it ain't hard to tell"
+}, {
+  album_id: Album.find_by_title("Trey Day").id,
+  title: "Intro: Trey Day",
+  features: "Bun B",
+  producer: "Bei Maejor",
+  lyrics: "[Intro]
+Trey Day, Trey Day, Trey Day, Trey Day
+Trey Day, Trey Day, Trey Day Trey Day, Trey Day
+
+[Verse: Bun B]
+Yeah, Bun B baby, UGK, baby, hold up
+See you done had your moment, you done had your turn
+Now move around clown for the sound that got the streets on burn
+The realest player out the V.A. since the authors and Lord willin'
+Givin' R&B music a newly restored feelin'
+While haters is bored chillin', he's focused and mashin'
+He bringin' big faces and then them checks he be cashin'
+He got some places to go and some people to see
+But he gon' rep up for Virginia, baby keepin' it G
+In the streets and TV, don't matter, he gon' keep it 100
+'Cause can't nobody do like young Trey done done it
+So don't tell me that it's dos or clam that it's uno
+Why hate 'em, why not congratulate him? 'Cause nigga, you know
+
+[Outro]
+This is Trey Day, this is Trey Day, this is Trey Day
+This is Trey Day, this is Trey Day, this is Trey Day
+This is Trey Day, this is Trey Day, this is Trey Day
+This is Trey Day, this is Trey Day, this is Trey Day"
+}, {
+  album_id: Album.find_by_title("Trey Day").id,
+  title: "Long Gone Missin'",
+  features: "",
+  producer: "Bei Maejor & Troy Taylor",
+  lyrics: "[Intro]
+The Prince is back
+May Day, Trey Day
+Mister Thanksgiving
+Street anthems
+DJ Drama
+Talk to 'em Trey
+
+[Verse 1]
+So here we go with this again, running at them lips again
+Yelling in my ear and shit, all I hear is whispering
+No matter what it is, she always start to bitching and
+Tripping and I almost start to call that girl a bitch again
+So I blaze out the house, in a rage out the house
+Shawty got a sharp tongue, she spit blades out her mouth
+I throw my stunnas on, I chop blades out the house
+She get to growling and I'm out, it's like a cage in the house
+Phone on silent and I'm wilding 'cause I'm 'bout
+Five shots of Henny in, man, I'm making plenty friends
+Black, White, Dominican, back right, I break it in
+This is the act right, I need to take it in, let's go
+I been drinking tryna take my mind up off all the yelling and all the screaming
+But all that it's doing is taking me far from your loving
+Got this girl in my ear, telling me what I don't need to hear
+Sipping what I'm sipping and she 'bout to catch me slipping
+
+[Chorus]
+I'm long gone missing, long gone missing
+And I'm up in this club with all of these women
+This one she said she wanna get me alone
+You bad as hell, but girl, I gotta go home
+I'm long gone missing, long gone missing
+And I'm up in this club with all of these women
+This one she said she wanna get me alone
+You bad as hell, but girl, I gotta go home
+
+[Verse 2]
+Now she's grinding and the way she popping that thang
+Dropping that thang, reminds me, it ain't a girl in this world like mines
+Wish she come find me, it's gettin heated up, if she keep it up, we gon' be leaving here
+Sipping what I'm sipping and she 'bout to catch me slipping
+
+[Chorus]
+I'm long gone missing, long gone missing
+And I'm up in this club with all of these women
+This one she said she wanna get me alone
+You bad as hell, but girl, I gotta go home
+I'm long gone missing, long gone missing
+And I'm up in this club with all of these women
+This one she said she wanna get me alone
+You bad as hell, but girl, I gotta go home
+
+[Bridge]
+Now I look around and all I see is cuties, booties bouncing all around
+I'm tryna keep myself from going down
+With all the love I give you, all you ever do is frown
+Sipping what I'm sipping and she 'bout to catch me slipping
+
+[Chorus]
+I'm long gone missing, long gone missing
+And I'm up in this club with all of these women
+This one she said she wanna get me alone
+You bad as hell, but girl, I gotta go home
+I'm long gone missing, long gone missing
+And I'm up in this club with all of these women
+This one she said she wanna get me alone
+You bad as hell, but girl, I gotta go home
+I'm long gone missing, long gone missing
+And I'm up in this club with all of these women
+This one she said she wanna get me alone
+You bad as hell, but girl, I gotta go home
+I'm long gone missing, long gone missing
+And I'm up in this club with all of these women
+This one she said she wanna get me alone
+You bad as hell, but girl, I gotta go home"
+},  {
+  album_id: Album.find_by_title("Trey Day").id,
+  title: "Wonder Woman",
+  features: "",
+  producer: "Danja",
+  lyrics: "[Intro]
+I gave you prophecy on my first joint
+Y'all lamed out
+They ain't really appreciate it
+The seconds ones out, Danja
+Songz
+
+[Verse 1]
+Your face is amazin', blazin' hot like cajun
+All I need is a minute, please no gimmicks
+She tellin' me to chill on the real or take a trip to Satan
+Send me to hell with it then I yell what it do, to hell with your crew
+Say you got a man well to hell with him too
+The seats is sea shell the whip is sea blue and you can swim through
+Ain't a lot of women that I can't swim through
+And you can't say that I don't temp you
+'Cause if you you said that, you's a liar
+Grip them legs back call me pliers, 24 chrome up under the tires
+And you so grown and my desire's to make you cum
+So finish that rum, ay who said Trey Songz ain't fire?
+
+[Chorus]
+The way you talking girl you seem so invincible
+It's more than sexy girl, the way that you take control
+I wonder woman are you my kind of woman?
+With a back like that you fly like jets, are you my wonder woman?
+Are you, are you my wonder woman?
+Are you, are you my wonder woman?
+Are you, are you my wonder woman?
+Are you, are you my wonder woman?
+
+[Verse 2]
+It's a shame the way you do ya thang
+You can't blame me starin' at your frame
+What's your name? Baby they call me Trey
+From the TV to the stage, the Prince of VA
+
+[Pre-Chorus]
+I got propers like doctors, I could change your life
+You should stop watching and jockin' as if you ain't gon' ride
+I wonder something baby we gon' do somethin' tonight
+Tonight, oh
+
+[Chorus]
+The way you talking girl you seem so invincible
+It's more than sexy girl, the way that you take control
+I wonder woman are you my kind of woman?
+With a back like that you fly like jets, are you my wonder woman?
+Are you, are you my wonder woman?
+Are you, are you my wonder woman?
+Are you, are you my wonder woman?
+Are you, are you my wonder woman?
+
+[Verse 3]
+What's this game? Baby I wanna play
+What you say? Can't let you get away
+'Cause I don't want to leave
+Girl I only wanna be with you with you, with you
+
+[Pre-Chorus]
+I got propers like doctors, I could change your life
+You should stop watching and jockin' as if you ain't gon' ride
+I wonder something baby we gon' do somethin' tonight
+Tonight, oh
+
+[Chorus]
+The way you talking girl you seem so invincible
+It's more than sexy girl, the way that you take control
+I wonder woman are you my kind of woman?
+With a back like that you fly like jets, are you my wonder woman?
+
+[Bridge]
+I wonder 'cause I need a special kind of woman be side me
+Are you my wonder woman? Come find me
+We can do whatever woman, long as we together woman
+This ain't a game, no
+I need a super kind of woman beside me
+Girl, I need a miracle
+Anything is possible, make your body be my home
+Let me cum inside and we gon' see if you invincible
+
+[Chorus]
+The way you talking girl you seem so invincible
+It's more than sexy girl, the way that you take control
+I wonder woman are you my kind of woman?
+With a back like that you fly like jets, are you my wonder woman?
+Are you, are you my wonder woman?
+Are you, are you my wonder woman?
+Are you, are you my wonder woman?
+With a back like that you fly like jets, [are you my wonder woman?
+The way you talking girl you seem so invincible
+The way that you take control
+I wonder woman are you my kind of woman?
+With a back like that you fly like jets, are you my wonder woman?
+
+[Outro]
+If we could be super friends in your world
+It be so incredible
+I can't help but wonder 'cause
+With a back like that you fly like jets, are you my wonder woman?"
+},  {
+  album_id: Album.find_by_title("Trey Day").id,
+  title: "No Clothes On",
+  features: "",
+  producer: "The Runners",
+  lyrics: "[Intro]
+No clothes on
+We back, hey
+Songz and the Runners
+No clothes on
+This Songbook baby
+
+[Chorus]
+I can picture you with no clothes on
+Girl I gotta have it, I'm attracted
+The way you dancing, looking back at it
+No clothes on
+Everybody leaning, I wouldn't mind seeing
+You snapping out them jeans like you got
+No clothes on
+
+[Verse 1]
+And I'm so gone, up in my zone
+Baby with the business, you so grown
+Baby, oh my goodness, is this my imagination?
+And I hallucinating?
+Girl, you so tone
+And I just wanna beep it
+Let me see your Secret
+Wanna whisper in your ear, come here
+
+[Pre-Chorus]
+Let me work that thang, let me twerk that thang
+Let me work that thang, let me twerk that thang, girl I might hurt that thang
+Shawty what your name is? Ooh girl, I gotta know
+And shawty who you came with? Don't take this personal but
+
+[Chorus]
+I can picture you with no clothes on
+Girl I gotta have it, I'm attracted
+The way you dancing, looking back at it
+No clothes on
+Everybody leaning, I wouldn't mind seeing
+You snapping out them jeans like you got
+No clothes on
+
+[Verse 2]
+Ain't no more 'trone, if this your song
+Won't you gone over there and do that thang
+Don't be 'shamed by that booty, body, do it shawty, you been naughty
+Pimping, attending the after party
+What's so wrong?
+I just wanna make this clear, can I whisper in your ear?
+
+[Pre-Chorus]
+Let me work that thang, let me twerk that thang
+Let me work that thang, let me twerk that thang, girl I might hurt that thang
+Shawty what your name is? Ooh girl, I gotta know
+And shawty who you came with? Don't take this personal
+
+[Chorus]
+But I can picture you with no clothes on
+Girl I gotta have it, I'm attracted
+The way you dancing, looking back at it
+No clothes on
+Everybody leaning, I wouldn't mind seeing
+You snapping out them jeans like you got
+No clothes on
+I can picture you with no clothes on
+Girl I gotta have it, I'm attracted
+The way you dancing, looking back at it
+No clothes on
+Everybody leaning, I wouldn't mind seeing
+You snapping out them jeans like you got
+No clothes, no clothes, no clothes, no clothes, no clothes
+
+[Bridge]
+He like the way I rock my hips, see that?
+Pop, lock, and drop it, I see that, pop, lock and drop it
+Whoa I love how you be leaning, yeah I'm leaning
+Aw, shawty am I dreaming? You ain't dreaming
+All I'm tryna say is, girl I'm seeing you
+Seeing you, seeing you
+With no clothes on
+No clothes on
+No clothes, baby
+
+[Chorus]
+But I can picture you with no clothes on
+Girl I gotta have it, I'm attracted
+The way you dancing, looking back at it
+No clothes on
+Everybody leaning, I wouldn't mind seeing
+You snapping out them jeans like you got
+No clothes on
+I can picture you with no clothes on
+Girl I gotta have it, I'm attracted
+The way you dancing, looking back at it
+No clothes on
+Everybody leaning, I wouldn't mind seeing
+You snapping out them jeans like you got
+No clothes on, take it off"
+},  {
+  album_id: Album.find_by_title("Trey Day").id,
+  title: "Sex For Yo Stereo",
+  features: "",
+  producer: "Mike Snoddy & Troy Taylor",
+  lyrics: "[Verse 1]
+When you see me in the videos babe
+Do I make your body go crazy?
+Or when you catch me in a magazine baby
+Do you rip me out and save my page?
+If my voice comes through your speakers
+And you legs suddenly get weaker
+This is for you, yeah
+I'm hoping it's gon' get you through
+So I can get to you
+Tell me what you see when you think of me
+I want this to be just like your fantasy
+Oh, girl, girl I'm coming over
+Got some things to show ya, turn your stereo up
+
+[Chorus]
+Got some sex for your stereo
+Girl, you wanna bump it
+Turn it up, don't turn me down
+Promise that you'll love it
+Now put your hands on the radio
+Don't be scared to touch it
+Imagine I was there
+Baby, pulling on your hair
+Got some sex for your stereo
+Show me how you take it
+My words move like hands
+And I'm singing to you naked
+Got some sex for your stereo
+Girl, you wanna bump it
+Turn it up don't turn me down
+Promise that you'll love it
+
+[Verse 2]
+Now can my ladies in the back make some noise? I see you
+It don't matter where you are in the crib, at your job, or in the car
+It's for you, this is for you
+Wherever you can stick me in, just let the record spin
+Baby it's on you, what you gonna do?
+Choice is all yours, you can put me in fast-forward or
+We can start the record over
+Can you feel my words creeping up your legs taking off your clothes?
+
+[Chorus]
+Got some sex for your stereo
+Girl, you wanna bump it
+Turn it up, don't turn me down
+Promise that you'll love it
+Now put your hands on the radio
+Don't be scared to touch it
+Imagine I was there
+Baby, pulling on your hair
+Got some sex for your stereo
+Show me how you take it
+My words move like hands
+And I'm singing to you naked
+Got some sex for your stereo
+Girl, you wanna bump it
+Turn it up don't turn me down
+Promise that you'll love it
+
+[Bridge]
+Now you need a little bass
+So let me give you a taste
+I want you to feel my sub-woofer
+Baby when I give it to ya
+Now you need some highs
+So I'ma make you touch the sky
+Ooh girl, now slide your body near
+Girl take them headphones
+Come a little closer
+So I can hear you when you moan
+Now let me just adjust your knob
+Turn it 'til I get you hot
+Get you hot, get you hot
+I won't stop, oh
+
+[Chorus]
+Got some sex for your stereo
+Girl, you wanna bump it
+Turn it up, don't turn me down
+Promise that you'll love it
+Now put your hands on the radio
+Don't be scared to touch it
+Imagine I was there
+Baby, pulling on your hair
+Got some sex for your stereo
+Show me how you take it
+My words move like hands
+And I'm singing to you naked
+Got some sex for your stereo
+Girl, you wanna bump it
+Turn it up don't turn me down
+Promise that you'll love it"
+}, {
+  album_id: Album.find_by_title("Trey Day").id,
+  title: "Last Time",
+  features: "",
+  producer: "Bryan-Michael Cox",
+  lyrics: "[Intro]
+Songbook baby
+I'd like to than Mr. Bryan-Michael Cox for helping me illustrate my feelings
+This is getting too hot baby, this is getting too hot baby
+This the last time, it's the last chapter
+But for real, this is gotta be the last time
+It's gon' be the best though, promise
+Just one last time
+
+[Verse 1]
+'Cause if she catch me with you, she gon' kill us
+These hotel rooms is looking too familiar
+Your love is so, so serious
+Girl, you keep me coming back that is
+I be with her thinking of you
+I be with you thinking of her, my boo
+She just don't deserve this
+Ain't nobody perfect but I just can't take no more 'cause
+
+[Chorus]
+I'm living two different lives
+One girl in the day, you at night
+And even though this ain't right
+I just can't get enough of the way you put it down
+You really got me tripping
+Hold up, baby girl, don't talk, just listen
+Girl for the last time
+Yep I said the last time
+Girl, this is the last time
+All caught up and it's time to put it down
+You really got me tripping
+Hold up, baby girl, don't talk, just listen
+This the last time
+
+[Verse 2]
+See the problem is I'm too deep involved
+To be playing with your emotions, you really got me open
+I gotta figure it out, can't let no pussy come before my baby
+Not my baby, no
+'Cause she's the only one that ease my mind
+But girl, you just so fine, give it to me one last time
+Baby, let your hair down, take it to the bed now
+Spread them lovely legs now, one last round
+
+[Chorus]
+I'm living two different lives
+One girl in the day, you at night
+And even though this ain't right
+I just can't get enough of the way you put it down
+You really got me tripping
+Hold up, baby girl, don't talk, just listen
+Girl for the last time
+Yep I said the last time
+Girl, this is the last time
+All caught up and it's time to put it down
+You really got me tripping
+Hold up, baby girl, don't talk, just listen
+This the last time
+
+[Bridge]
+Let me see you take off your clothes for the last time
+Let's keep this thing on the low for the last time
+Tell me how you wanna get it, I know your favorite is the kitchen
+From the way I used to kiss it, girl, I know you're gonna miss it
+But there's only one condition, baby, please don't fuss
+Don't be tripping, keep it pimping
+Baby girl, let's just make love
+I'm living two different lives
+
+[Chorus]
+I'm living two different lives
+One girl in the day, you at night
+And even though this ain't right
+I just can't get enough of the way you put it down
+You really got me tripping
+Hold up, baby girl, don't talk, just listen
+Girl for the last time
+Yep I said the last time
+Girl, this is the last time
+All caught up and it's time to put it down
+You really got me tripping
+Hold up, baby girl, don't talk, just listen
+This the last time
+I'm living two different lives
+One girl in the day, you at night
+And even though this ain't right
+I just can't get enough of the way you put it down
+You really got me tripping
+Hold up, baby girl, don't talk, just listen
+Girl for the last time
+Yep I said the last time
+Girl, this is the last time
+All caught up and it's time to put it down
+You really got me tripping
+Hold up, baby girl, don't talk, just listen
+This the last time"
+}, {
+  album_id: Album.find_by_title("Trey Day").id,
+  title: "Can't Help But Wait",
+  features: "",
+  producer: "StarGate",
+  lyrics: "[Intro]
+I can’t help but wait
+Oh, I can’t help but wait
+Check it out, uh
+
+[Verse 1]
+I see you, you're with him, he ain’t right but you don’t trip
+You stand by while he lies then turn right round and forgive
+I can’t take to see your face with those tears running down your cheeks
+But what can I do? I gotta stay true 'cause deep down I’m still a G
+
+[Pre-Chorus]
+And I don’t wanna come between you and your man
+Even though I know I treat you better than he can
+
+[Chorus]
+Girl, I can’t help but wait 'til you get that with him, it don’t change
+Can’t help but wait 'til you see that with me it ain’t the same
+Can’t help but wait 'til you see you for what you really are
+Baby girl, you are a star and I can’t help but wait
+
+[Verse 2]
+It ain't fresh to just let him call the shots
+You’re a queen, you should be getting all that someone’s got
+You should be rocking the latest in purses, bracelets and watches
+You’re worth much more than an occasional
+'I love you, I’m thinking of you'
+
+[Pre-Chorus]
+And I don’t wanna come between you and your man, no
+Even though I know I treat you better than he can
+
+[Chorus]
+Girl, I can’t help but wait 'til you get that with him, it don’t change
+Can’t help but wait 'til you see that with me it ain’t the same
+Can’t help but wait 'til you see you for what you really are
+Baby girl, you are a star and I can’t help but wait
+
+[Bridge]
+Get it together, you can do better
+Seeing is believing and I see what you need so
+I’m gon' to play my position, let you catch what you’ve been missing
+I'm calling out, girl 'cause
+
+[Chorus]
+I can’t help but wait 'til you get that with him, it don’t change
+Can’t help but wait 'til you see that with me it ain’t the same
+Can’t help but wait 'til you see you for what you really are
+Baby girl, you are a star and I can’t help but wait
+'Til you get that with him, it don’t change
+Can’t help but wait 'til you see that with me it ain’t the same
+Can’t help but wait 'til you see you for what you really are
+Baby girl, you are a star and I can’t help but wait
+
+[Outro]
+Can’t help but wait, no no no no no no
+I can’t help but wait, oh
+Can’t help but wait, no no no"
+}, {
+  album_id: Album.find_by_title("Trey Day").id,
+  title: "Grub On",
+  features: "",
+  producer: "R. Kelly",
+  lyrics: "[Intro]
+Damn, I'm so hungry
+Plus I'm laying
+What time is it?
+I'll tell you what
+
+[Verse 1]
+It's 5 o'clock in the morning and the club is over
+Shawty let's go get our grub on
+I had way too much to drink and I need to get sober
+So, let's go get our grub on
+Baby, let's get out of here, I know a place not far from here
+That I can get that grub on
+Said my stomach's growling so crazy, would you please feed me baby?
+Girl, let me get my grub on
+No cheese steak or grits, I don't have a taste for that
+I don't want pancakes or bacon, I don't have a taste for that
+Girl, I want something fulfilling, that's gon' fill my appetite
+Girl, you're the only one that can make it alright
+
+[Chorus]
+Will you be my IHOP baby? Can I place my order?
+The food in here is crazy, twenty-four hours
+'Round the clock you open, baby, here's a tip
+You hop on top of me, I hop on top of you
+
+[Verse 2]
+I'm thinking 'bout going for seconds, maybe some dessert, Yeah
+I'm still tryna get my grub on
+And when I taste ya coffee with sugar and cream
+This spot is where I belong oh
+Cake and whip cream so divine, I could eat here all the time
+Is there a doggy bag I could take home?
+Telling you if you ain't tasted, think you better call your waitress
+'Cause IHOP's open 'til the early morn
+No fruitcakes, no salads, I don't have a taste for that
+Looking for a meal with a balance, something that can satisfy me
+Girl, I want something fulfilling, that's gon' take care of my cravings
+So girl tell me can you feed me
+
+[Chorus]
+Will you be my IHOP baby? Can I place my order?
+The food in here is crazy, twenty-four hours
+'Round the clock you open, baby, here's a tip
+You hop on top of me, I hop on top of you
+
+[Bridge]
+I like that blueberry syrup, I like that strawberry syrup
+Now baby lay your body down and let me lick it all up
+Now baby let's get you seated, don't need a plate to whoo
+Get a good meal, let me show you girl, it's real
+But it's gon' be just me and you
+We gon' grub 'til we full, so tell me it's cool
+
+[Chorus]
+Will you be my IHOP baby? Can I place my order?
+The food in here is crazy, twenty-four hours
+'Round the clock you open, baby, here's a tip
+You hop on top of me, I hop on top of you
+Will you be my IHOP baby? Can I place my order?
+The food in here is crazy, that's twenty-four hours
+'Round the clock you open, I'll give you a big tip
+You hop on top of me, I hop on top of you
+
+[Outro]
+Now gimme that rootie-tootie
+That fresh and fruity
+That, that, that big ol' booty
+Now come and do me
+Grub on, grub on
+Grub on, grub on"
+},  {
+  album_id: Album.find_by_title("Trey Day").id,
+  title: "Fly Together",
+  features: "Jim Jones",
+  producer: "Eric Hudson",
+  lyrics: "[Intro: Trey Songz]
+Songz, Jones
+Songbook, baby
+And my boy E Hud
+You already know
+I'm so, you so, we so fly
+I'm so, you so, we so fly
+I'm so, you so, we so fly
+I'm so, you so, we so fly
+I'm so, you so, we so fly
+I'm so, you so, we so fly
+I'm so, you so, we so fly
+I'm so, you so, we so fly
+
+[Verse 1: Trey Songz]
+Maybe it's the dude, maybe it's the cool
+Maybe it's my shoes, call 'em 22's
+Baby it's ya phase, baby it;'s ya face
+Baby it;s ya smile, make me wonder how you taste
+Maybe 'cause the thugs say that I'm cool
+Maybe 'cause the girls wanna be like you
+Maybe it's the ice that made ya look twice
+Maybe it's ya back that made me look back
+
+[Pre-Chorus: Trey Songz]
+Baby, I'd look good with you
+You should know that you'd look good with me too
+Let me ride through the hood with you
+Show you to my boys 'cause ooh ooh you
+
+[Chorus: Trey Songz]
+You so fly, I'm so fly
+What's more fly than you and I together?
+Get high, let's fly together
+I'm so fly, you so fly
+What's more fly than you and I together?
+Get high, let's fly together
+
+[Verse 2: Trey Songz]
+Maybe take a cruise, sail across seas
+We can never lose, baby not we
+We can be the two, true life of the party
+Baby, what it do? You know that you want me
+Maybe it's the feel that I like you
+Got a nigga feel he can wife you
+Maybe it's the fit that made me look slick
+Baby, you the pick, I make you my chick
+
+[Pre-Chorus: Trey Songz]
+Baby, I'd look good with you
+You should know that you'd look good with me too
+Let me ride through the hood with you
+And show you to my boys 'cause ooh ooh you
+
+[Chorus: Trey Songz]
+You so fly, I'm so fly
+What's more fly than you and I together?
+Get high, let's fly together
+I'm so fly, you so fly
+What's more fly than you and I together?
+Get high, let's fly together
+
+[Bridge: Trey Songz]
+Baby don't, don't you take too long, I want you in my arms
+And if you feel what I feel, bring it here to me c'mon
+See we young but girl, we grown
+And baby I want to grow old with you 'cause you know that you so
+
+[Verse 3: Jim Jones]
+Maybe it's ya attitude that makes me a lil mad at you
+The same time the gratitude makes me wanna spend cash on you
+Take you on trips, you caught the longitude and latitude
+Let you hold the whip, last time we almost crashed the coupe
+So I laughed at you, 'cause we was drunk pissy
+It was two summers ago and you still rollin' with me
+But maybe it;s the loyalty, the way that you callin' me
+When we makin' love, when you scream, put it all on me
+Or maybe my physique and my upcomin' from the streets
+I keeps you runnin' back, I got you cumin' in the sheets
+From the first time I met you, you become a little freak
+I might go downtown and get somethin' to eat
+And baby, you took care of me, baby, I took care of you
+You cry I cry, baby, I shed tears for two
+Baby if the 7 karats didn't cost 300 grand
+I would had the table and put some ice on ya hand
+
+[Chorus: Trey Songz]
+You so fly, I'm so fly
+What's more fly than you and I together?
+Get high, let's fly together
+I'm so fly, you so fly
+What's more fly than you and I together?
+Get high, let's fly together
+
+[Outro: Trey Songz]
+I'm so, you so, we so fly
+I'm so, you so, we so fly
+Get high, let's fly together"
+},  {
+  album_id: Album.find_by_title("Trey Day").id,
+  title: "Store Run",
+  features: "",
+  producer: "Andre Harris & Vidal Davis",
+  lyrics: "[Intro]
+Songz
+It's Songbook, baby
+Oh, oh, oh, whoo
+Ride, ride, come and ride with the Prince
+Come ride, ride, ride, ride with the Prince
+Come ride, come ride, come ride
+Uh, let's go
+
+[Verse 1]
+Friday night, and I'm home just chilling on the sofa
+Relaxing, I'm so glad the week is over
+I got my remote, good sack of that green, I'ma lean and smoke
+Going through my cell for the number of a chick that I met last week and her body ain't no joke
+She picked up on the first ring \"What took you so long to call me?
+Recognized your name and number from the caller ID\"
+She said her roommate is gone and she all alone
+Let me get your street address, let me get dressed, and hung up the phone and it's on
+
+[Pre-Chorus]
+She want it and I want it too but I'm unprepared
+And we came so close to going raw dog that we both got scared
+And she said, \"I ain't ready to have no babies,\" jumped up put my clothes back on
+I was just about to get some, had to make a store run
+
+[Chorus]
+Store run, pack of three up at the counter
+Store run, be back in less than half an hour
+Store run, I need protection and I'm out
+Wait for me, keep it warm, I had to make a store run
+
+[Verse 2]
+Speeding, switching lanes, and I'm flying
+And I'm trying to get back to her before she changes her mind
+'Cause if I take too long
+She might put her clothes back on
+Henny in my system, she tipsy on that Grey Goose
+It's obvious what she's tryna get into
+Top hugging them curves, got a nigga like me at a loss for words
+I know she can tell that I'm with it, wanna get it, while it's H-O-T, she can tell when I'm close to her
+She keep licking her lips, she touching and she grabbing
+Oh, I'ma throw her the bone, I'ma give it to her all night long
+I want it bad, oh so bad
+But I know that it's wrong, here we go
+
+[Pre-Chorus]
+She want it and I want it too but I'm unprepared
+And we came so close to going raw dog that we both got scared
+And she said, \"I ain't ready to have no babies,\" jumped up put my clothes back on
+I was just about to get some, had to make a store run
+
+[Chorus]
+Store run, pack of three up at the counter
+Store run, be back in less than half an hour
+Store run, I need protection and I'm out
+Wait for me, keep it warm, I had to make a store run
+Store run, pack of three up at the counter
+Store run, be back in less than half an hour
+Store run, I need protection and I'm out
+Wait for me, keep it warm, I had to make a store run
+
+[Bridge]
+All I could do is think of being inside you
+I'm driving like I'm up out of my mind
+Baby, here I come
+And you can take your clothes back off
+
+[Chorus]
+Store run, pack of three up at the counter
+Store run, be back in less than half an hour
+Store run, I need protection and I'm out
+Wait for me, keep it warm, I had to make a store run
+Store run, pack of three up at the counter
+Store run, be back in less than half an hour
+Store run, I need protection and I'm out
+Wait for me, keep it warm, I had to make a store run
+Store run, pack of three up at the counter
+Store run, be back in less than half an hour
+Store run, I need protection and I'm out
+Wait for me, keep it warm, I had to make a store run
+
+[Outro]
+I know, I know, shoulda thought of this before
+But who would've thought that we'd end up right on the kitchen floor?
+I ain't ready to have no babies, no ifs, ands, buts, or maybes
+I'm tryna keep it safe, girl, ain't you heard of AIDS?"
+},  {
+  album_id: Album.find_by_title("Trey Day").id,
+  title: "Missin' You",
+  features: "",
+  producer: "StarGate",
+  lyrics: "[Chorus]
+I can't stop missing you
+Wish I was there with you
+I can't stop missing you
+No, no, no, no
+I can't stop missing you
+Wish I was there with you
+I can't stop missing you
+No, no, no, no
+
+[Verse 1]
+I miss the way you kiss
+Miss the way you wear them heels and make it switch
+Miss the way your hair blows in the wind
+And I miss you staying here 'til the morning
+Miss the way you put on your makeup
+Miss the way you love me too much
+It's everything about you baby
+Wanna know where you been lately
+Do you go out?
+Do you still live at your old house?
+Do you got somebody new in your life?
+'Cause I can't get you out of my mind
+
+[Pre-Chorus]
+And I wanna erase
+But I can't stop seeing your face
+And every girl I try to replace you with
+Why can't I get over it? Simply 'cause I can't
+
+[Chorus]
+I can't stop missing you
+Wish I was there with you
+I can't stop missing you
+No, no, no, no
+I can't stop missing you
+Wish I was there with you
+I can't stop missing you
+No, no, no, no
+
+[Verse 2]
+I can't stop missing everything you say
+Missing all the crazy love we made
+Why'd you throw it all away?
+I want you to know
+It's been hell tryna do this without you here
+Baby, '07's supposed to be our year
+You confront my worst fears
+And I had my doubts
+Every time you was going out
+'Cause I knew you were telling me lies
+And I can't get that outta my mind
+
+[Pre-Chorus]
+And I wanna erase
+But I can't stop seeing your face
+And every girl I try to replace you with
+Why can't I get over it? Simply 'cause I can't
+
+[Chorus]
+I can't stop missing you
+Wish I was there with you
+I can't stop missing you
+No, no, no, no
+I can't stop missing you
+Wish I was there with you
+I can't stop missing you
+No, no, no, no
+
+[Bridge]
+Wish I could wake up and forget about you
+Not try to call you when I know I want to
+Oh wish I, I gotta fight this feeling, wish I, can't let it take over me
+Wish I, You just don't understand how much you were a part of me
+
+[Chorus]
+I can't stop missing you
+Wish I was there with you
+I can't stop missing you
+No, no, no, no
+I can't stop missing you
+Wish I was there with you
+I can't stop missing you
+No, no, no, no
+I can't stop missing you
+Wish I was there with you
+I can't stop missing you
+No, no, no, no
+I can't stop missing you
+Wish I was there with you
+I can't stop missing you
+No, no, no, no
+I can't stop missing you
+Wish I was there with you
+I can't stop missing you
+No, no, no, no
+
+[Outro]
+I can't stop missing you
+I can't stop missing you
+I don't wanna stop
+I can't stop missing you, baby
+I can't stop missing you
+No, no, no, no
+I can't stop missing you"
+},  {
+  album_id: Album.find_by_title("Trey Day").id,
+  title: "Role Play",
+  features: "",
+  producer: "Troy Taylor",
+  lyrics: "[Intro]
+Ay, I just got a idea
+You know
+Thinking of some things we could do, spice things up
+For sure
+
+[Verse 1]
+If I snuck up in your bedroom, touch you while you sleep
+Would you act surprised as if you didn't know it's me?
+I came to steal your heart, girl, don't call the police
+I only want a part, girl, really just a piece
+If you show me the money, then I'm gon' show you the beast
+If you give me your honey, girl, I promise I'll be sweet
+Then, I'm gon' sneak out the back, so nobody will notice me
+Then we can run it back girl, it's your turn to go on me, we can
+
+[Chorus]
+We can try some role play, you can do what I say
+I can do what you say, you can have it your way
+We can try some role play, I can do what you say
+You can do what I say, I can have it my way
+We can try some role play, you can do what I say
+I can do what you say, you can have it your way
+We can try some role play, I can do what you say
+You can do what I say, I can have it my way
+
+[Verse 2]
+The room is spinning ridiculous, my body freezing cold
+I can't even remember what I did the night before
+I don't know where I am, girl, but I gotta go
+I can't feel my legs, somebody help
+If you come in and rescue me, I don't know what to do
+I say I need a remedy, you say the cure is you
+Then you tell me relax and get ready for surgery
+Baby, fix me fast, you know it's an emergency
+
+[Chorus]
+We can try some role play, you can do what I say
+I can do what you say, you can have it your way
+We can try some role play, I can do what you say
+You can do what I say, I can have it my way
+We can try some role play, you can do what I say
+I can do what you say, you can have it your way
+We can try some role play, I can do what you say
+You can do what I say, I can have it my way
+
+[Bridge]
+You got your picture in your mind, let me see
+Now that we're together, girl
+Don't be shy, now, it's alright, you'll start to see
+Show me your direction, girl
+You got your picture in your mind, let me see
+Now that we're together, girl
+Don't be shy, now, it's alright, you'll start to see
+Show me your direction, girl
+
+[Chorus]
+We can try some role play, you can do what I say
+I can do what you say, you can have it your way
+We can try some role play, I can do what you say
+You can do what I say, I can have it my way
+We can try some role play, you can do what I say
+I can do what you say, you can have it your way
+We can try some role play, I can do what you say
+You can do what I say, I can have it my way
+
+[Outro]
+Role play, role play, you can have it your way
+Role play, role play, I can have it my way
+Role play, role play, I can have it my way
+Role play, role play, you can have it your way
+Role play, babe
+Role play, babe"
+},  {
+  album_id: Album.find_by_title("Trey Day").id,
+  title: "We Should Be",
+  features: "",
+  producer: "Jimmy Jam & Terry Lewis",
+  lyrics: "[Intro]
+Baby, you're looking so lovely
+I'm thinking 'bout you loving me, kissing me, touching me
+Looking so lovely
+I'm thinking 'bout you loving me, kissing me
+
+[Verse 1]
+I promised you, I'd take you out
+Enjoy your night out on the town
+Light dinner and some champagne
+You deserve the best of the finer thangs
+Girl, tonight you couldn't look any better
+Amazingly irresistable
+I can see it in my mind, baby, you and I
+Later on tonight, making love
+
+[Chorus]
+DJ's playing the last song
+We've been dancing all night long
+Wanna hold you in my arms
+Girl it's time that we get gone
+Can't control it any longer
+'Cause the feeling's just too strong
+Baby you know
+It's such a beautiful thing
+Way that we be doing our thang
+When we be doing it
+We should be making love
+Oh, oh, oh, oh, oh, oh, love
+Oh, oh, oh, oh, oh, oh
+
+[Verse 2]
+Most gorgeous lady in the room
+I know you can feel all eyes are on you
+I think they all are a little envious
+Of this chemistry that we share between us
+So, I don't wanna come off disrespectful
+But I can't keep my hands off of you
+Girl, I'm all over your love and if I can lay it down
+Then right here on the ground, I'd start making love to you
+
+[Chorus]
+DJ's playing the last song
+We've been dancing all night long
+Wanna hold you in my arms
+Girl it's time that we get gone
+Can't control it any longer
+'Cause the feeling's just too strong
+Baby you know
+It's such a beautiful thing
+Way that we be doing our thang
+When we be doing it
+We should be making love
+
+[Bridge]
+Maybe in the car, babe
+Or maybe we could stop some place
+'Cause I don't wanna wait, hey
+Until we get all the way home, no, no
+You got me hard, gripping in the third lane
+And girl it's only for the sake of your love, your love
+And all I see is us
+Making love 'til the sun comes up
+I can't wait
+I can't wait
+I can't wait
+It's such a beautiful thang
+Way we be doing our thang
+When we be doing it
+Doing it, doing it
+
+[Chorus]
+DJ's playing the last song
+We've been dancing all night long
+Wanna hold you in my arms
+Girl it's time that we get gone
+Trey can't control it any longer
+'Cause the feeling's way too strong
+Baby you know
+It's such a beautiful thing
+Way that we be doin' our thang
+When we be doin it
+We should be making love
+Oh, oh, oh, oh, oh, oh, love
+Oh, oh, oh, oh, oh, oh
+I just wanna make love to you
+Hey, hey, hey, hey, hey, hey
+I just wanna make love
+Oh baby, you're looking so beautiful
+It's such a beautiful thang
+Way we be doing our thang
+When we be doing it, we should be making love
+It's such a beautiful thang
+Way we be doing our thang
+When we be doing it
+Beautiful thang in this world
+It's such a beautiful thang
+Way we be doing our thang
+When we be doing it
+Our love
+It's such a beautiful thang
+Way we be doing our thang
+When we be doing it
+We should be making love
+It's such a beautiful thang
+Way we be doing our thang
+When we be doing it
+It's such a beautiful thang
+Way we be doing our thang
+When we be doing it
+It's such a beautiful thang
+Way we be doing our thang
+When we be doing it"
+}, {
+  album_id: Album.find_by_title("Trey Day").id,
+  title: "Fades Away",
+  features: "",
+  producer: "Troy Taylor",
+  lyrics: "[Verse 1]
+My heart is beating fast, my hands won't stop shaking
+I thought that we would last, I thought that we would make it
+I guess I was wrong all along
+We were inseparable but apart we've grown
+
+[Chorus]
+So, can you tell me what to do when all the feelings is gone?
+When you look around, you're all alone 'cause all the right went wrong
+Tell me how you look into my face and say, \"Baby, I can't stay\"
+What do you do when the love just fades away?
+
+[Verse 2]
+The situation's ugly, I miss the way you touch me
+Do you even want me anymore? Let me know
+'Cause I'm tryna to figure us out, I don't wanna break up
+What's the use when there ain't nothing left?
+
+[Chorus]
+So, can you tell me what to do when all the feelings is gone?
+When you look around, you're all alone 'cause all the right went wrong
+Tell me how you look into my face and say, \"Baby, I can't stay\"
+What do you do when the love just fades away?
+
+[Bridge]
+Was this ever true? Did I ever love you?
+Baby, we were caught up in the feeling, girl
+Did you ever care for me 'cause if so then where'd it go?
+Are we giving up? I need to know or are we holding on?
+
+[Chorus]
+Can you tell me what to do when all the feelings is gone?
+When you look around, you're all alone 'cause all the right went wrong
+Tell me how you look into my face and say, \"Baby, I can't stay\"
+What do you do when the love just fades away?
+Can you tell me what to do when all the feelings is gone?
+When you look around, you're all alone 'cause all the right went wrong
+Tell me how you look into my face and say, \"Baby, I can't stay\"
+What do you do when the love just fades away?
+Can you tell me what to do when all the feelings is gone?
+When you look around, you're all alone 'cause all the right went wrong
+Tell me how you look into my face and say, \"Baby, I can't stay\"
+What do you do when the love just fades away?"
+},  {
+  album_id: Album.find_by_title("Trey Day").id,
+  title: "Are U A Performa",
+  features: "Yung Joc",
+  producer: "Bei Maejor",
+  lyrics: "[Intro: Trey Songz]
+Songz, Songbook baby
+Bei Maejor, the Prince is back
+
+[Verse 1: Trey Songz]
+Oh baby, you looking so fantaboulus, oh
+You making me wanna chase you for the best though
+I'm just a hustler, I make the money double, triple
+Let's move some furniture and cause a little trouble
+Oh, you know you doing your thing
+Look at your body, it bangs
+The show you giving me in insane
+And I just wanna know one thing, baby
+
+[Chorus: Trey Songz]
+Are you a performer?
+I bet you dance in the mirror
+To see your body more clearer
+Throw your clothes in the corner
+All I wanna know is
+Are you a performer?
+I bet you dance in the mirror
+To see your body more clearer
+Throw your clothes in the corner
+
+[Verse 2: Trey Songz]
+Look like a scene from a new video role
+Stuffed up in them jeans, is the thing that is so swole
+And I can dance on you, like popping on a local
+Trick you like a tazer 'cause your body godown so slow
+Damn, you know you doing your thing
+Queen, can I be your King?
+The show you giving is insane
+And I just wanna know one thing, baby
+
+[Chorus: Trey Songz]
+Are you a performer?
+I bet you dance in the mirror
+To see your body more clearer
+Throw your clothes in the corner
+All I wanna know is
+Are you a performer?
+I bet you dance in the mirror
+To see your body more clearer
+Throw your clothes in the corner
+Are you a performer?
+
+[Bridge: Trey Songz]
+You know you make me wonder
+This what I wanna do shawty
+Make it rain, for ya baby
+Make it rain, for ya baby
+Make it rain, for ya baby
+Make it rain, for ya baby
+
+[Verse 3: Yung Joc]
+Now 50 had 21 questions, but I only got one
+Are you a performer? Are you that one?
+Do your dance in the mirror all by yourself
+You could do it, do it 'til you run out of breath
+Yeah, she got a arch in her back
+Yeah, she know how to throw it back
+Yeah, I think I like it like that
+Yeah, I'ma spin a couple stacks
+Any time she walk by, it seem like we caught eye
+Love her sweat, love her style, them shawty talk fly
+Then stand on the beach, she make grands on her feet
+I gotta see ya once a week, I think shortie on to me
+Or could it be she diggin' me? A couple shots of Hennessy
+In between the sheets in the suite is where we finna be
+Lights off, dress gone, nibble on my neck bone
+Sayin' that she love me while she scratchin' with her press ons
+
+[Chorus: Trey Songz]
+Are you a performer?
+I bet you dance in the mirror
+To see your body more clearer
+Throw your clothes in the corner
+All I wanna know is
+Are you a performer?
+I bet you dance in the mirror
+Throw your clothes in the corner
+All I wanna know is
+Are you a performer?
+Are you a performer?
+Are you a performer?
+Are you a performer?
+I bet you dance in the mirror
+To see your body more clearer
+Throw your clothes in the corner
+All I wanna know is
+Are you a performer?
+I bet you dance in the mirror
+Throw your clothes in the corner"
 }
 ])
