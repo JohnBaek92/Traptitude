@@ -10,6 +10,9 @@ class AlbumIndex extends React.Component {
 
   componentWillMount() {
     this.props.displayTopTen();
+  }
+
+  componentDidMount(){
     window.scrollTo(0, 0);
   }
 
