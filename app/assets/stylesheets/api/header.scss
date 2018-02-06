@@ -78,6 +78,7 @@
   display: flex;
   justify-content: space-between;
   z-index: 5;
+  line-height: 2.5em;
 }
 
 .user-input {
@@ -108,9 +109,9 @@
 .logo {
   height: 2.5em;
   overflow: hidden;
+  position: absolute;
   top: 0em;
-  width: 20em;
-  left: 24em;
+  left: 45%;
   display: flex;
   justify-content: center;
 }
