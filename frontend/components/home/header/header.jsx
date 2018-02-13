@@ -28,7 +28,7 @@ class Header extends React.Component {
     this.props.openModal(component);
   }
 
-  signedInHeader() {
+  header() {
     if (this.props.currentUser) {
       return (
         <section className="top-header">
@@ -44,33 +44,21 @@ class Header extends React.Component {
           </div>
         </section>
       );
-    }
-  }
-
-  signedOutHeader() {
-    if (!this.props.currentUser) {
-      return (
-        <header className="top-header">
+    } else {
+      return <header className="top-header">
           <SearchBar />
           <Link className="logo" to="/">
             <img className="logo-picture" src={window.images.logo} />
           </Link>
           <div className="user-input">
-            <button
-              className="username"
-              onClick={() => this.clearErrorsAndOpenModal(<SignInContainer />)}
-            >
+            <button className="username" onClick={() => this.clearErrorsAndOpenModal(<SignInContainer />)}>
               Sign In
             </button>
-            <button
-              className="password"
-              onClick={() => this.clearErrorsAndOpenModal(<SignUpContainer />)}
-            >
+            <button className="password" onClick={() => this.clearErrorsAndOpenModal(<SignUpContainer />)}>
               Sign Up
             </button>
           </div>
-        </header>
-      );
+        </header>;
     }
   }
 
@@ -89,7 +77,6 @@ class Header extends React.Component {
           Top Albums
         </HashLink>
         <span id="first-bar">|</span>
-        {/* <Link id="forums" to="/forums">Forums</Link> */}
         <Link id="add-album" className="hover-link" to="/add-album">
           Add Album
         </Link>
@@ -117,8 +104,7 @@ class Header extends React.Component {
   render() {
     return (
       <section>
-        {this.signedOutHeader()}
-        {this.signedInHeader()}
+        {this.header()}
         {this.navbar()}
       </section>
     );
