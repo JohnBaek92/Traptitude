@@ -10,7 +10,7 @@ import AnnotationContainer from './track_show/annotation/annotation_modal_contai
 import TrackFormContainer from './track_form/track_form_container';
 import AlbumFormContainer from './album_form/album_form_container';
 import TopTracksContainer from './home/header/top_tracks/top_tracks_container';
-import FooterContainer from './home/footer/footer_container';
+import Footer from './home/footer/footer';
 
 const App = () => (
   <div className="Site">
@@ -25,7 +25,7 @@ const App = () => (
       <Route exact path="/add-album/" component={AlbumFormContainer} />
       <Route exact path="/album/:id/add-track/" component={TrackFormContainer} />
     </div>
-    <FooterContainer/>
+    <Footer/>
   </div>
 );
 
